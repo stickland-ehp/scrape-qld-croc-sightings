@@ -1035,28 +1035,6 @@
   },
   {
     "attributes": {
-      "objectid": 464331,
-      "globalid": "{BD27764F-5402-4C67-839B-7D0AE269B45C}",
-      "what_was_observed": "Crocodile",
-      "sighting": "I did",
-      "sighttime": 1705915680000,
-      "species": "Estuarine",
-      "sightingid": "220124ROC1",
-      "publicstatus": "No Further Action",
-      "publicinfo": "",
-      "managementunit": "Capricornia Operations",
-      "lga": "Rockhampton Regional",
-      "created_date": 1705916439000,
-      "last_edited_date": 1706051141000,
-      "closeddate": 1706051132000
-    },
-    "geometry": {
-      "x": 16754566.315499999,
-      "y": -2676609.7738999985
-    }
-  },
-  {
-    "attributes": {
       "objectid": 464731,
       "globalid": "{597D6E93-661B-4B63-BF2A-0FD7C31E0EE8}",
       "what_was_observed": "Crocodile",
@@ -1409,28 +1387,6 @@
   },
   {
     "attributes": {
-      "objectid": 471931,
-      "globalid": "{2D1D83A0-4620-4519-ABBA-C997BC5316A9}",
-      "what_was_observed": "Crocodile",
-      "sighting": "I did",
-      "sighttime": 1706477520000,
-      "species": "Estuarine",
-      "sightingid": "300124TSV1",
-      "publicstatus": "Under Investigation",
-      "publicinfo": "",
-      "managementunit": "Townsville Operations",
-      "lga": "Townsville City",
-      "created_date": 1706573326000,
-      "last_edited_date": 1708468244000,
-      "closeddate": null
-    },
-    "geometry": {
-      "x": 16348494.119099997,
-      "y": -2189222.4351000004
-    }
-  },
-  {
-    "attributes": {
       "objectid": 496331,
       "globalid": "{D7C9F43E-8BDB-407F-B0EF-8C6E3AB0ABA5}",
       "what_was_observed": "Crocodile",
@@ -1691,28 +1647,6 @@
     "geometry": {
       "x": 16330550.375100002,
       "y": -2177658.8026
-    }
-  },
-  {
-    "attributes": {
-      "objectid": 457931,
-      "globalid": "{A22BC0C7-4578-4143-94BA-B17C12594736}",
-      "what_was_observed": "Crocodile",
-      "sighting": "I did",
-      "sighttime": 1705447800000,
-      "species": "Estuarine",
-      "sightingid": "170124HCN1",
-      "publicstatus": "Under Investigation",
-      "publicinfo": "",
-      "managementunit": "Townsville Operations",
-      "lga": "Hinchinbrook Shire",
-      "created_date": 1705457088000,
-      "last_edited_date": 1707257119000,
-      "closeddate": null
-    },
-    "geometry": {
-      "x": 16280843.996,
-      "y": -2106844.9904999994
     }
   },
   {
@@ -2245,28 +2179,6 @@
   },
   {
     "attributes": {
-      "objectid": 494331,
-      "globalid": "{28E2C6DA-35A1-4360-88FB-782414C21775}",
-      "what_was_observed": "Crocodile",
-      "sighting": "I did",
-      "sighttime": 1708324500000,
-      "species": "Estuarine",
-      "sightingid": "200224DUG1",
-      "publicstatus": "Under Investigation",
-      "publicinfo": "",
-      "managementunit": "Cairns Operations",
-      "lga": "Douglas Shire",
-      "created_date": 1708390533000,
-      "last_edited_date": 1708391274000,
-      "closeddate": null
-    },
-    "geometry": {
-      "x": 16193275.631800003,
-      "y": -1865606.2179999985
-    }
-  },
-  {
-    "attributes": {
       "objectid": 482731,
       "globalid": "{9166989D-BD51-4135-BB40-1E7AAF6FBA10}",
       "what_was_observed": "Crocodile,Tracks",
@@ -2373,28 +2285,6 @@
     "geometry": {
       "x": 16223638.875100002,
       "y": -1943935.1418999992
-    }
-  },
-  {
-    "attributes": {
-      "objectid": 478331,
-      "globalid": "{407B16BC-D6EA-4FE4-9935-E9AFEA884DA7}",
-      "what_was_observed": "Crocodile",
-      "sighting": "I did",
-      "sighttime": 1707120000000,
-      "species": "Estuarine",
-      "sightingid": "050224ROC1",
-      "publicstatus": "Under Investigation",
-      "publicinfo": "",
-      "managementunit": "Capricornia Operations",
-      "lga": "Rockhampton Regional",
-      "created_date": 1707126972000,
-      "last_edited_date": 1708394184000,
-      "closeddate": null
-    },
-    "geometry": {
-      "x": 16752619.3376,
-      "y": -2674819.9814999998
     }
   },
   {
@@ -3253,6 +3143,160 @@
     "geometry": {
       "x": 16620783.219400004,
       "y": -2470858.5571999997
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 471931,
+      "globalid": "{2D1D83A0-4620-4519-ABBA-C997BC5316A9}",
+      "what_was_observed": "Crocodile",
+      "sighting": "I did",
+      "sighttime": 1706477520000,
+      "species": "Estuarine",
+      "sightingid": "300124TSV1",
+      "publicstatus": "No Further Action",
+      "publicinfo": "",
+      "managementunit": "Townsville Operations",
+      "lga": "Townsville City",
+      "created_date": 1706573326000,
+      "last_edited_date": 1708644272000,
+      "closeddate": 1708644264000
+    },
+    "geometry": {
+      "x": 16348494.119099997,
+      "y": -2189222.4351000004
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 494331,
+      "globalid": "{28E2C6DA-35A1-4360-88FB-782414C21775}",
+      "what_was_observed": "Crocodile",
+      "sighting": "I did",
+      "sighttime": 1708324500000,
+      "species": "Estuarine",
+      "sightingid": "200224DUG1",
+      "publicstatus": "Under Investigation",
+      "publicinfo": "",
+      "managementunit": "Cairns Operations",
+      "lga": "Douglas Shire",
+      "created_date": 1708390533000,
+      "last_edited_date": 1708657594000,
+      "closeddate": null
+    },
+    "geometry": {
+      "x": 16193275.631800003,
+      "y": -1865606.2179999985
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 497131,
+      "globalid": "{B2116AFD-49F1-4444-87C7-2007BF8B6A6C}",
+      "what_was_observed": "Crocodile",
+      "sighting": "I did",
+      "sighttime": 1708644600000,
+      "species": "Estuarine",
+      "sightingid": "230224CNS1",
+      "publicstatus": "Under Investigation",
+      "publicinfo": "",
+      "managementunit": "Cairns Operations",
+      "lga": "Cairns Regional",
+      "created_date": 1708649484000,
+      "last_edited_date": 1708657480000,
+      "closeddate": null
+    },
+    "geometry": {
+      "x": 16233549.9001,
+      "y": -1927650.1206
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 497531,
+      "globalid": "{7DFDB0D8-832F-476C-A081-3CC52C868ED8}",
+      "what_was_observed": "Tracks",
+      "sighting": "I did",
+      "sighttime": 1708505940000,
+      "species": "",
+      "sightingid": "230224DUG1",
+      "publicstatus": "Under Investigation",
+      "publicinfo": "",
+      "managementunit": "Cairns Operations",
+      "lga": "Douglas Shire",
+      "created_date": 1708652205000,
+      "last_edited_date": 1708656582000,
+      "closeddate": null
+    },
+    "geometry": {
+      "x": 16187779.571800001,
+      "y": -1842927.6614000015
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 457931,
+      "globalid": "{A22BC0C7-4578-4143-94BA-B17C12594736}",
+      "what_was_observed": "Crocodile",
+      "sighting": "I did",
+      "sighttime": 1705447800000,
+      "species": "Estuarine",
+      "sightingid": "170124HCN1",
+      "publicstatus": "Under Investigation",
+      "publicinfo": "",
+      "managementunit": "Townsville Operations",
+      "lga": "Hinchinbrook Shire",
+      "created_date": 1705457088000,
+      "last_edited_date": 1708656649000,
+      "closeddate": null
+    },
+    "geometry": {
+      "x": 16280843.996,
+      "y": -2106844.9904999994
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 497532,
+      "globalid": "{207E820A-4F20-4E62-B0B6-096834279EC7}",
+      "what_was_observed": "Crocodile",
+      "sighting": "I did",
+      "sighttime": 1708587000000,
+      "species": "Estuarine",
+      "sightingid": "230224ROC1",
+      "publicstatus": "Under Investigation",
+      "publicinfo": "",
+      "managementunit": "Capricornia Operations",
+      "lga": "Rockhampton Regional",
+      "created_date": 1708661922000,
+      "last_edited_date": 1708663951000,
+      "closeddate": null
+    },
+    "geometry": {
+      "x": 16753973.427500002,
+      "y": -2676226.856800001
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 478331,
+      "globalid": "{407B16BC-D6EA-4FE4-9935-E9AFEA884DA7}",
+      "what_was_observed": "Crocodile",
+      "sighting": "I did",
+      "sighttime": 1707120000000,
+      "species": "Estuarine",
+      "sightingid": "050224ROC1",
+      "publicstatus": "No Further Action",
+      "publicinfo": "",
+      "managementunit": "Capricornia Operations",
+      "lga": "Rockhampton Regional",
+      "created_date": 1707126972000,
+      "last_edited_date": 1708659062000,
+      "closeddate": 1708659054000
+    },
+    "geometry": {
+      "x": 16752619.3376,
+      "y": -2674819.9814999998
     }
   }
 ]
