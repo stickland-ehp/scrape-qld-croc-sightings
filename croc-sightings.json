@@ -1541,28 +1541,6 @@
   },
   {
     "attributes": {
-      "objectid": 449932,
-      "globalid": "{3060B56E-3FDA-4455-A70A-72C152B6222D}",
-      "what_was_observed": "Crocodile",
-      "sighting": "Somebody else",
-      "sighttime": 1704784920000,
-      "species": "Estuarine",
-      "sightingid": "110124CNS2",
-      "publicstatus": "Under Investigation",
-      "publicinfo": "",
-      "managementunit": "Cairns Operations",
-      "lga": "Cairns Regional",
-      "created_date": 1704954764000,
-      "last_edited_date": 1707453485000,
-      "closeddate": null
-    },
-    "geometry": {
-      "x": 16221839.0999,
-      "y": -1941364.078499999
-    }
-  },
-  {
-    "attributes": {
       "objectid": 470331,
       "globalid": "{EA3E764C-681E-4B0F-9458-CAF8E8EEE166}",
       "what_was_observed": "Crocodile",
@@ -2553,28 +2531,6 @@
   },
   {
     "attributes": {
-      "objectid": 494331,
-      "globalid": "{28E2C6DA-35A1-4360-88FB-782414C21775}",
-      "what_was_observed": "Crocodile",
-      "sighting": "I did",
-      "sighttime": 1708324500000,
-      "species": "Estuarine",
-      "sightingid": "200224DUG1",
-      "publicstatus": "Under Investigation",
-      "publicinfo": "",
-      "managementunit": "Cairns Operations",
-      "lga": "Douglas Shire",
-      "created_date": 1708390533000,
-      "last_edited_date": 1708657594000,
-      "closeddate": null
-    },
-    "geometry": {
-      "x": 16193275.631800003,
-      "y": -1865606.2179999985
-    }
-  },
-  {
-    "attributes": {
       "objectid": 497131,
       "globalid": "{B2116AFD-49F1-4444-87C7-2007BF8B6A6C}",
       "what_was_observed": "Crocodile",
@@ -3081,28 +3037,6 @@
   },
   {
     "attributes": {
-      "objectid": 500731,
-      "globalid": "{7A2E1BE9-6585-4EB8-BDB2-5AC6DDACDBD4}",
-      "what_was_observed": "Crocodile",
-      "sighting": "I did",
-      "sighttime": 1708832400000,
-      "species": "Estuarine",
-      "sightingid": "260224TRS1",
-      "publicstatus": "Under Investigation",
-      "publicinfo": "",
-      "managementunit": "Remote Operations",
-      "lga": "Torres Shire",
-      "created_date": 1708935069000,
-      "last_edited_date": 1708985171000,
-      "closeddate": null
-    },
-    "geometry": {
-      "x": 15831578.6774,
-      "y": -1184581.9109999985
-    }
-  },
-  {
-    "attributes": {
       "objectid": 492331,
       "globalid": "{2024A246-4BD9-46F8-B1D4-EBD3B64E4836}",
       "what_was_observed": "Crocodile",
@@ -3147,50 +3081,6 @@
   },
   {
     "attributes": {
-      "objectid": 501131,
-      "globalid": "{1F233279-585F-40E7-9114-D05AE84CC3A2}",
-      "what_was_observed": "Crocodile",
-      "sighting": "Somebody else",
-      "sighttime": 1708767360000,
-      "species": "Estuarine",
-      "sightingid": "260224LVG1",
-      "publicstatus": "Under Investigation",
-      "publicinfo": "",
-      "managementunit": "Capricornia Operations",
-      "lga": "Livingstone Shire",
-      "created_date": 1708943421000,
-      "last_edited_date": 1708996688000,
-      "closeddate": null
-    },
-    "geometry": {
-      "x": 16742597.045100003,
-      "y": -2655407.1130000018
-    }
-  },
-  {
-    "attributes": {
-      "objectid": 501931,
-      "globalid": "{BCD3C89A-C353-4E77-9838-D54F9D18AC3B}",
-      "what_was_observed": "Crocodile",
-      "sighting": "I did",
-      "sighttime": 1708995480000,
-      "species": "Estuarine",
-      "sightingid": "270224ARK1",
-      "publicstatus": "Under Investigation",
-      "publicinfo": "",
-      "managementunit": "Remote Operations",
-      "lga": "Aurukun Shire",
-      "created_date": 1708996096000,
-      "last_edited_date": 1708997765000,
-      "closeddate": null
-    },
-    "geometry": {
-      "x": 15776533.2148,
-      "y": -1501658.195700001
-    }
-  },
-  {
-    "attributes": {
       "objectid": 501531,
       "globalid": "{B2CC133A-C212-4235-9D9B-47052E24240F}",
       "what_was_observed": "Crocodile",
@@ -3209,50 +3099,6 @@
     "geometry": {
       "x": 16169074.242399998,
       "y": -1742563.7813999988
-    }
-  },
-  {
-    "attributes": {
-      "objectid": 501932,
-      "globalid": "{DBDF4A61-A3BE-4B28-B3AA-D76420009085}",
-      "what_was_observed": "Crocodile",
-      "sighting": "I did",
-      "sighttime": 1708828260000,
-      "species": "Estuarine",
-      "sightingid": "270224CPT1",
-      "publicstatus": "Under Investigation",
-      "publicinfo": "",
-      "managementunit": "Remote Operations",
-      "lga": "Carpentaria Shire",
-      "created_date": 1709001445000,
-      "last_edited_date": 1709006577000,
-      "closeddate": null
-    },
-    "geometry": {
-      "x": 15677937.602700002,
-      "y": -1975806.4013999999
-    }
-  },
-  {
-    "attributes": {
-      "objectid": 483931,
-      "globalid": "{6D79E5CB-822F-4151-9272-B2BA308DCD82}",
-      "what_was_observed": "Crocodile",
-      "sighting": "Somebody else",
-      "sighttime": 1707177600000,
-      "species": "Estuarine",
-      "sightingid": "090224TRS1",
-      "publicstatus": "Under Investigation",
-      "publicinfo": "",
-      "managementunit": "Remote Operations",
-      "lga": "Torres Shire",
-      "created_date": 1707460713000,
-      "last_edited_date": 1709014262000,
-      "closeddate": null
-    },
-    "geometry": {
-      "x": 15833336.303499997,
-      "y": -1184429.4708999991
     }
   },
   {
@@ -3301,24 +3147,46 @@
   },
   {
     "attributes": {
-      "objectid": 501935,
-      "globalid": "{67D63051-749B-4B31-8A37-248762EE2917}",
+      "objectid": 449932,
+      "globalid": "{3060B56E-3FDA-4455-A70A-72C152B6222D}",
       "what_was_observed": "Crocodile",
-      "sighting": "I did",
-      "sighttime": 1709006700000,
+      "sighting": "Somebody else",
+      "sighttime": 1704784920000,
       "species": "Estuarine",
-      "sightingid": "270224CNS1",
+      "sightingid": "110124CNS2",
       "publicstatus": "Under Investigation",
       "publicinfo": "",
       "managementunit": "Cairns Operations",
       "lga": "Cairns Regional",
-      "created_date": 1709014437000,
-      "last_edited_date": 1709014616000,
+      "created_date": 1704954764000,
+      "last_edited_date": 1709083931000,
       "closeddate": null
     },
     "geometry": {
-      "x": 16216713.394000001,
-      "y": -1889778.4195000008
+      "x": 16221839.0999,
+      "y": -1941364.078499999
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 483931,
+      "globalid": "{6D79E5CB-822F-4151-9272-B2BA308DCD82}",
+      "what_was_observed": "Crocodile",
+      "sighting": "Somebody else",
+      "sighttime": 1707177600000,
+      "species": "Estuarine",
+      "sightingid": "090224TRS1",
+      "publicstatus": "Under Investigation",
+      "publicinfo": "",
+      "managementunit": "Remote Operations",
+      "lga": "Torres Shire",
+      "created_date": 1707460713000,
+      "last_edited_date": 1709071558000,
+      "closeddate": null
+    },
+    "geometry": {
+      "x": 15833336.303499997,
+      "y": -1184429.4708999991
     }
   },
   {
@@ -3335,12 +3203,210 @@
       "managementunit": "Cairns Operations",
       "lga": "Douglas Shire",
       "created_date": 1708652205000,
-      "last_edited_date": 1709016571000,
+      "last_edited_date": 1709094358000,
       "closeddate": null
     },
     "geometry": {
       "x": 16187779.571800001,
       "y": -1842927.6614000015
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 501932,
+      "globalid": "{DBDF4A61-A3BE-4B28-B3AA-D76420009085}",
+      "what_was_observed": "Crocodile",
+      "sighting": "I did",
+      "sighttime": 1708828260000,
+      "species": "Estuarine",
+      "sightingid": "270224CPT1",
+      "publicstatus": "Under Investigation",
+      "publicinfo": "",
+      "managementunit": "Remote Operations",
+      "lga": "Carpentaria Shire",
+      "created_date": 1709001445000,
+      "last_edited_date": 1709098377000,
+      "closeddate": null
+    },
+    "geometry": {
+      "x": 15677937.602700002,
+      "y": -1975806.4013999999
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 500731,
+      "globalid": "{7A2E1BE9-6585-4EB8-BDB2-5AC6DDACDBD4}",
+      "what_was_observed": "Crocodile",
+      "sighting": "I did",
+      "sighttime": 1708832400000,
+      "species": "Estuarine",
+      "sightingid": "260224TRS1",
+      "publicstatus": "Under Investigation",
+      "publicinfo": "",
+      "managementunit": "Remote Operations",
+      "lga": "Torres Shire",
+      "created_date": 1708935069000,
+      "last_edited_date": 1709092289000,
+      "closeddate": null
+    },
+    "geometry": {
+      "x": 15835308.167499997,
+      "y": -1185051.6801000014
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 501131,
+      "globalid": "{1F233279-585F-40E7-9114-D05AE84CC3A2}",
+      "what_was_observed": "Crocodile",
+      "sighting": "Somebody else",
+      "sighttime": 1708767360000,
+      "species": "Estuarine",
+      "sightingid": "260224LVG1",
+      "publicstatus": "No Further Action",
+      "publicinfo": "",
+      "managementunit": "Capricornia Operations",
+      "lga": "Livingstone Shire",
+      "created_date": 1708943421000,
+      "last_edited_date": 1709094070000,
+      "closeddate": 1709094059000
+    },
+    "geometry": {
+      "x": 16742597.045100003,
+      "y": -2655407.1130000018
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 494331,
+      "globalid": "{28E2C6DA-35A1-4360-88FB-782414C21775}",
+      "what_was_observed": "Crocodile",
+      "sighting": "I did",
+      "sighttime": 1708324500000,
+      "species": "Estuarine",
+      "sightingid": "200224DUG1",
+      "publicstatus": "Under Investigation",
+      "publicinfo": "",
+      "managementunit": "Cairns Operations",
+      "lga": "Douglas Shire",
+      "created_date": 1708390533000,
+      "last_edited_date": 1709157966000,
+      "closeddate": null
+    },
+    "geometry": {
+      "x": 16193275.631800003,
+      "y": -1865606.2179999985
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 502731,
+      "globalid": "{24999E5E-62B2-44A7-A27D-21E6AE9EC99F}",
+      "what_was_observed": "Crocodile",
+      "sighting": "I did",
+      "sighttime": 1709128020000,
+      "species": "Unsure",
+      "sightingid": "280224MKY1",
+      "publicstatus": "Under Investigation",
+      "publicinfo": "",
+      "managementunit": "Mackay Operations",
+      "lga": "Mackay Regional",
+      "created_date": 1709128598000,
+      "last_edited_date": 1709159202000,
+      "closeddate": null
+    },
+    "geometry": {
+      "x": 16607054.631899998,
+      "y": -2408933.2267999984
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 503531,
+      "globalid": "{FE05F759-6580-4ECF-94A4-6D879C632390}",
+      "what_was_observed": "Crocodile",
+      "sighting": "I did",
+      "sighttime": 1709029680000,
+      "species": "Estuarine",
+      "sightingid": "290224MKY1",
+      "publicstatus": "Under Investigation",
+      "publicinfo": "",
+      "managementunit": "Mackay Operations",
+      "lga": "Mackay Regional",
+      "created_date": 1709159490000,
+      "last_edited_date": 1709160567000,
+      "closeddate": null
+    },
+    "geometry": {
+      "x": 16609034.272100002,
+      "y": -2403184.888799999
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 501935,
+      "globalid": "{67D63051-749B-4B31-8A37-248762EE2917}",
+      "what_was_observed": "Crocodile",
+      "sighting": "I did",
+      "sighttime": 1709006700000,
+      "species": "Estuarine",
+      "sightingid": "270224CNS1",
+      "publicstatus": "No Further Action",
+      "publicinfo": "",
+      "managementunit": "Cairns Operations",
+      "lga": "Cairns Regional",
+      "created_date": 1709014437000,
+      "last_edited_date": 1709160495000,
+      "closeddate": 1709160480000
+    },
+    "geometry": {
+      "x": 16216713.394000001,
+      "y": -1889778.4195000008
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 501931,
+      "globalid": "{BCD3C89A-C353-4E77-9838-D54F9D18AC3B}",
+      "what_was_observed": "Crocodile",
+      "sighting": "I did",
+      "sighttime": 1708995480000,
+      "species": "Estuarine",
+      "sightingid": "270224ARK1",
+      "publicstatus": "Under Investigation",
+      "publicinfo": "",
+      "managementunit": "Remote Operations",
+      "lga": "Aurukun Shire",
+      "created_date": 1708996096000,
+      "last_edited_date": 1709160646000,
+      "closeddate": null
+    },
+    "geometry": {
+      "x": 15776533.2148,
+      "y": -1501658.195700001
+    }
+  },
+  {
+    "attributes": {
+      "objectid": 503532,
+      "globalid": "{8F6C0F94-C3E3-4C78-A799-0BC884B3D45C}",
+      "what_was_observed": "Crocodile",
+      "sighting": "Somebody else",
+      "sighttime": 1709155800000,
+      "species": "Estuarine",
+      "sightingid": "290224DUG1",
+      "publicstatus": "Under Investigation",
+      "publicinfo": "",
+      "managementunit": "Cairns Operations",
+      "lga": "Douglas Shire",
+      "created_date": 1709160266000,
+      "last_edited_date": 1709160951000,
+      "closeddate": null
+    },
+    "geometry": {
+      "x": 16192685.972499996,
+      "y": -1865192.3858999982
     }
   }
 ]
