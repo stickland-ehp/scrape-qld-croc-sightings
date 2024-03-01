@@ -1,6 +1,15 @@
 [
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 23377,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        146.08451579157446,
+        -17.79688769387595
+      ]
+    },
+    "properties": {
       "objectid": 23377,
       "globalid": "{C237D9B3-0221-49CB-A91F-E788B76F3D2C}",
       "what_was_observed": "Crocodile",
@@ -15,14 +24,19 @@
       "created_date": 1633500141000,
       "last_edited_date": 1633522273000,
       "closeddate": null
-    },
-    "geometry": {
-      "x": 16262053.9107,
-      "y": -2013788.238499999
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 49127,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        146.08737831095658,
+        -17.792531776964125
+      ]
+    },
+    "properties": {
       "objectid": 49127,
       "globalid": "{193E2340-6B71-4D29-9187-3036C983AA8C}",
       "what_was_observed": "Crocodile",
@@ -37,14 +51,19 @@
       "created_date": 1662456743000,
       "last_edited_date": 1662467267000,
       "closeddate": null
-    },
-    "geometry": {
-      "x": 16262372.564900003,
-      "y": -2013278.9756999984
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 465131,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        141.84798000040917,
+        -12.66463000026886
+      ]
+    },
+    "properties": {
       "objectid": 465131,
       "globalid": "{6012714F-B911-483E-B895-85A511605D67}",
       "what_was_observed": "Crocodile",
@@ -59,14 +78,19 @@
       "created_date": 1705958752000,
       "last_edited_date": 1707185138000,
       "closeddate": 1707185130000
-    },
-    "geometry": {
-      "x": 15790444.903700002,
-      "y": -1421442.6840999983
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 479531,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        141.8425450761592,
+        -12.666006885250868
+      ]
+    },
+    "properties": {
       "objectid": 479531,
       "globalid": "{3F098B48-554B-47E1-AEE5-C78891393BEE}",
       "what_was_observed": "Crocodile,Slide",
@@ -81,14 +105,19 @@
       "created_date": 1707185006000,
       "last_edited_date": 1707349012000,
       "closeddate": 1707349001000
-    },
-    "geometry": {
-      "x": 15789839.890699998,
-      "y": -1421599.7807999998
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 477931,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        146.08455113578933,
+        -17.7972562112634
+      ]
+    },
+    "properties": {
       "objectid": 477931,
       "globalid": "{3D966790-5947-45DE-84B6-91A25C66560A}",
       "what_was_observed": "Crocodile",
@@ -103,14 +132,19 @@
       "created_date": 1707113238000,
       "last_edited_date": 1707354927000,
       "closeddate": 1707354918000
-    },
-    "geometry": {
-      "x": 16262057.845200002,
-      "y": -2013831.3235
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 399531,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        147.09658999975804,
+        -19.469620000298242
+      ]
+    },
+    "properties": {
       "objectid": 399531,
       "globalid": "{86C2FDAE-0091-4869-A231-B2B9AA6E280D}",
       "what_was_observed": "Crocodile",
@@ -125,14 +159,19 @@
       "created_date": 1699408280000,
       "last_edited_date": 1699414592000,
       "closeddate": null
-    },
-    "geometry": {
-      "x": 16374717.496200003,
-      "y": -2210304.8500000015
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 486332,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        146.08466780448683,
+        -17.797237496739694
+      ]
+    },
+    "properties": {
       "objectid": 486332,
       "globalid": "{D34D3E39-4CF1-460E-AE08-C49DBF006598}",
       "what_was_observed": "Crocodile",
@@ -147,14 +186,19 @@
       "created_date": 1707622119000,
       "last_edited_date": 1708466712000,
       "closeddate": 1708412773000
-    },
-    "geometry": {
-      "x": 16262070.8327,
-      "y": -2013829.135499999
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 487135,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        146.08466780448683,
+        -17.80058811618132
+      ]
+    },
+    "properties": {
       "objectid": 487135,
       "globalid": "{18103B4E-3877-4C32-8614-12A8710CAB18}",
       "what_was_observed": "Crocodile",
@@ -169,14 +213,19 @@
       "created_date": 1707711103000,
       "last_edited_date": 1708466719000,
       "closeddate": 1708412600000
-    },
-    "geometry": {
-      "x": 16262070.8327,
-      "y": -2014220.8753000014
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 487931,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        141.8871170560043,
+        -11.980444178713745
+      ]
+    },
+    "properties": {
       "objectid": 487931,
       "globalid": "{D12B625A-6E69-42EA-AC5C-7CEBF3DE3E52}",
       "what_was_observed": "Crocodile",
@@ -191,14 +240,19 @@
       "created_date": 1707721763000,
       "last_edited_date": 1708466726000,
       "closeddate": 1708412450000
-    },
-    "geometry": {
-      "x": 15794801.620800003,
-      "y": -1343482.9107999988
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 487531,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        146.08586943413,
+        -17.795439577824464
+      ]
+    },
+    "properties": {
       "objectid": 487531,
       "globalid": "{90D18221-403C-4C28-AF74-44E38D995726}",
       "what_was_observed": "Crocodile",
@@ -213,14 +267,19 @@
       "created_date": 1707711335000,
       "last_edited_date": 1708466732000,
       "closeddate": 1708412682000
-    },
-    "geometry": {
-      "x": 16262204.597499996,
-      "y": -2013618.933699999
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 491131,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        145.41579199963545,
+        -16.355845000277963
+      ]
+    },
+    "properties": {
       "objectid": 491131,
       "globalid": "{0988C4DA-4BA3-4CED-8DF6-E0942C713B90}",
       "what_was_observed": "Slide",
@@ -235,14 +294,19 @@
       "created_date": 1707946437000,
       "last_edited_date": 1708466789000,
       "closeddate": 1708411085000
-    },
-    "geometry": {
-      "x": 16187611.918700002,
-      "y": -1845968.6143999994
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 483131,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        146.0629889997887,
+        -17.50745500033526
+      ]
+    },
+    "properties": {
       "objectid": 483131,
       "globalid": "{A59907FF-E517-46C6-8FC6-865B0BD2A346}",
       "what_was_observed": "Crocodile",
@@ -257,14 +321,19 @@
       "created_date": 1707440078000,
       "last_edited_date": 1708466826000,
       "closeddate": 1708413007000
-    },
-    "geometry": {
-      "x": 16259657.559199996,
-      "y": -1979976.678100001
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 485132,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        148.98516999955714,
+        -21.00818000021425
+      ]
+    },
+    "properties": {
       "objectid": 485132,
       "globalid": "{9D2C44F3-8664-456B-98CA-D0545D20F501}",
       "what_was_observed": "Crocodile",
@@ -279,14 +348,19 @@
       "created_date": 1707538462000,
       "last_edited_date": 1708466840000,
       "closeddate": 1708412948000
-    },
-    "geometry": {
-      "x": 16584953.2601,
-      "y": -2392853.9923
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 491134,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        151.36124989819052,
+        -23.95484861705157
+      ]
+    },
+    "properties": {
       "objectid": 491134,
       "globalid": "{F3EA665D-3F84-4B62-8A3B-CE2F5DD6ED98}",
       "what_was_observed": "Crocodile",
@@ -301,14 +375,19 @@
       "created_date": 1707970481000,
       "last_edited_date": 1708307890000,
       "closeddate": 1708307878000
-    },
-    "geometry": {
-      "x": 16849457.2645,
-      "y": -2747907.1812000014
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 430731,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        146.80415999969222,
+        -19.291039999692018
+      ]
+    },
+    "properties": {
       "objectid": 430731,
       "globalid": "{32CBE1EC-2EE1-4747-BD6C-771B9FDB6168}",
       "what_was_observed": "Crocodile,Slide",
@@ -323,14 +402,19 @@
       "created_date": 1703142028000,
       "last_edited_date": 1705529190000,
       "closeddate": null
-    },
-    "geometry": {
-      "x": 16342164.337499999,
-      "y": -2189231.3073999994
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 471131,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        145.72275000004035,
+        -17.146979999830787
+      ]
+    },
+    "properties": {
       "objectid": 471131,
       "globalid": "{9368A141-6C4D-4507-A8CC-F694E09CB784}",
       "what_was_observed": "Crocodile",
@@ -345,14 +429,19 @@
       "created_date": 1706524081000,
       "last_edited_date": 1706677150000,
       "closeddate": 1706677138000
-    },
-    "geometry": {
-      "x": 16221782.327,
-      "y": -1937941.1072999984
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 467532,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        145.46994440688275,
+        -16.48740844275709
+      ]
+    },
+    "properties": {
       "objectid": 467532,
       "globalid": "{A214452B-8079-4232-A75B-C96A876E6C0C}",
       "what_was_observed": "Crocodile",
@@ -367,14 +456,19 @@
       "created_date": 1706141921000,
       "last_edited_date": 1706678916000,
       "closeddate": 1706678907000
-    },
-    "geometry": {
-      "x": 16193640.137100004,
-      "y": -1861237.0331000015
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 459131,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        145.4806839996663,
+        -16.5717939998094
+      ]
+    },
+    "properties": {
       "objectid": 459131,
       "globalid": "{B7363511-BE70-4EA5-AEBF-83F8A1E04E06}",
       "what_was_observed": "Crocodile",
@@ -389,14 +483,19 @@
       "created_date": 1705538117000,
       "last_edited_date": 1706679170000,
       "closeddate": 1706679159000
-    },
-    "geometry": {
-      "x": 16194835.663099997,
-      "y": -1871035.743900001
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 456333,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        145.22436980080798,
+        -15.702847633145083
+      ]
+    },
+    "properties": {
       "objectid": 456333,
       "globalid": "{B3AEBB57-664F-4980-A87B-B5F23EFF7C8D}",
       "what_was_observed": "Crocodile",
@@ -411,14 +510,19 @@
       "created_date": 1705381981000,
       "last_edited_date": 1706679347000,
       "closeddate": 1706679338000
-    },
-    "geometry": {
-      "x": 16166302.897,
-      "y": -1770336.2655000016
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 445131,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        145.1929111579859,
+        -15.40439494905742
+      ]
+    },
+    "properties": {
       "objectid": 445131,
       "globalid": "{6977E0A7-E326-4373-87CB-D7CD263A4C30}",
       "what_was_observed": "Crocodile",
@@ -433,14 +537,19 @@
       "created_date": 1704668185000,
       "last_edited_date": 1706681429000,
       "closeddate": 1706681421000
-    },
-    "geometry": {
-      "x": 16162800.936899997,
-      "y": -1735849.7217000015
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 475131,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        146.0984190828038,
+        -17.600355317723256
+      ]
+    },
+    "properties": {
       "objectid": 475131,
       "globalid": "{135E9C18-52E2-472A-9669-FB284002D93F}",
       "what_was_observed": "Crocodile",
@@ -455,14 +564,19 @@
       "created_date": 1706835126000,
       "last_edited_date": 1707197598000,
       "closeddate": null
-    },
-    "geometry": {
-      "x": 16263601.618,
-      "y": -1990823.3874999993
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 452332,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        146.09923488333746,
+        -17.599931043520275
+      ]
+    },
+    "properties": {
       "objectid": 452332,
       "globalid": "{962B3D56-063D-4C69-99C4-29A29235CC75}",
       "what_was_observed": "Crocodile",
@@ -477,14 +591,19 @@
       "created_date": 1705115687000,
       "last_edited_date": 1706738744000,
       "closeddate": 1706681266000
-    },
-    "geometry": {
-      "x": 16263692.432499997,
-      "y": -1990773.8381000012
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 486732,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        145.40415999978728,
+        -16.434000000069485
+      ]
+    },
+    "properties": {
       "objectid": 486732,
       "globalid": "{57F583A8-F9AD-4544-8DDD-72E2CE3C0F0F}",
       "what_was_observed": "Crocodile",
@@ -499,14 +618,19 @@
       "created_date": 1707694655000,
       "last_edited_date": 1708466846000,
       "closeddate": 1708412647000
-    },
-    "geometry": {
-      "x": 16186317.050399996,
-      "y": -1855037.5417000018
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 429532,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        146.59889365920537,
+        -19.156877491850896
+      ]
+    },
+    "properties": {
       "objectid": 429532,
       "globalid": "{D3FCB8E2-D666-4408-99DF-6BED4C05A4B6}",
       "what_was_observed": "Crocodile",
@@ -521,14 +645,19 @@
       "created_date": 1703047469000,
       "last_edited_date": 1705615645000,
       "closeddate": null
-    },
-    "geometry": {
-      "x": 16319314.193000004,
-      "y": -2173414.4327000007
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 429931,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        146.65982216015038,
+        -19.19551834662839
+      ]
+    },
+    "properties": {
       "objectid": 429931,
       "globalid": "{A23D9D0B-3581-4DF9-AC03-35DA991FB08D}",
       "what_was_observed": "Crocodile",
@@ -543,14 +672,19 @@
       "created_date": 1703052664000,
       "last_edited_date": 1705615675000,
       "closeddate": null
-    },
-    "geometry": {
-      "x": 16326096.7227,
-      "y": -2177968.611200001
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 487131,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        145.40410300437748,
+        -16.43402606825212
+      ]
+    },
+    "properties": {
       "objectid": 487131,
       "globalid": "{DE8F6496-EEC9-4621-9C1B-45C98496D22A}",
       "what_was_observed": "Crocodile",
@@ -565,14 +699,19 @@
       "created_date": 1707691463000,
       "last_edited_date": 1708466853000,
       "closeddate": 1708412531000
-    },
-    "geometry": {
-      "x": 16186310.705700003,
-      "y": -1855040.5672000013
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 438331,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        146.31418999972794,
+        -18.52841999988029
+      ]
+    },
+    "properties": {
       "objectid": 438331,
       "globalid": "{F6ECEB4F-B0D4-48E5-B077-507A4EC626D0}",
       "what_was_observed": "Crocodile",
@@ -587,14 +726,19 @@
       "created_date": 1703978040000,
       "last_edited_date": 1705615715000,
       "closeddate": null
-    },
-    "geometry": {
-      "x": 16287621.126599997,
-      "y": -2099492.912700001
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 451531,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        145.95653000042077,
+        -18.24591000007789
+      ]
+    },
+    "properties": {
       "objectid": 451531,
       "globalid": "{C5EAD2BD-5EB1-407D-A84D-E5D5867A9502}",
       "what_was_observed": "Crocodile",
@@ -609,14 +753,19 @@
       "created_date": 1705038002000,
       "last_edited_date": 1707343486000,
       "closeddate": null
-    },
-    "geometry": {
-      "x": 16247806.597599998,
-      "y": -2066352.054200001
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 473131,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        150.50267746295106,
+        -23.364641155853505
+      ]
+    },
+    "properties": {
       "objectid": 473131,
       "globalid": "{D5E6CEA2-EF7E-4D5E-AB5A-BB5A07A943DD}",
       "what_was_observed": "Crocodile",
@@ -631,14 +780,19 @@
       "created_date": 1706746895000,
       "last_edited_date": 1706825113000,
       "closeddate": 1706816710000
-    },
-    "geometry": {
-      "x": 16753881.418200001,
-      "y": -2676175.786200002
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 487532,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        145.95591000027966,
+        -17.294299999647464
+      ]
+    },
+    "properties": {
       "objectid": 487532,
       "globalid": "{EF2E031B-647E-4330-8D82-6A45D40B8C8E}",
       "what_was_observed": "Crocodile",
@@ -653,14 +807,19 @@
       "created_date": 1707711906000,
       "last_edited_date": 1708466904000,
       "closeddate": null
-    },
-    "geometry": {
-      "x": 16247737.579499997,
-      "y": -1955110.3674999997
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 471531,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        145.82322999972675,
+        -17.05904000017824
+      ]
+    },
+    "properties": {
       "objectid": 471531,
       "globalid": "{E9498C83-22A6-4F4F-9D2D-5D099C747FA6}",
       "what_was_observed": "Crocodile",
@@ -675,14 +834,19 @@
       "created_date": 1706566495000,
       "last_edited_date": 1707180394000,
       "closeddate": 1707180385000
-    },
-    "geometry": {
-      "x": 16232967.709399998,
-      "y": -1927698.7272000015
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 472331,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        145.3756421923721,
+        -16.388565889145635
+      ]
+    },
+    "properties": {
       "objectid": 472331,
       "globalid": "{F323E67D-2A21-4804-B5E8-1854A1852D0C}",
       "what_was_observed": "Crocodile",
@@ -697,14 +861,19 @@
       "created_date": 1706612028000,
       "last_edited_date": 1707180479000,
       "closeddate": 1707180466000
-    },
-    "geometry": {
-      "x": 16183142.4626,
-      "y": -1849765.0285999998
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 475931,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        145.4765719767247,
+        -14.85911470283639
+      ]
+    },
+    "properties": {
       "objectid": 475931,
       "globalid": "{98BC7920-9C62-4FD6-8DA0-0B31C72DF802}",
       "what_was_observed": "Slide",
@@ -719,14 +888,19 @@
       "created_date": 1706931801000,
       "last_edited_date": 1707183236000,
       "closeddate": 1707183226000
-    },
-    "geometry": {
-      "x": 16194377.914800003,
-      "y": -1672968.9439999983
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 499131,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        146.08179690651812,
+        -17.57543789465446
+      ]
+    },
+    "properties": {
       "objectid": 499131,
       "globalid": "{E7DBDC48-0E5C-4A9F-BAFE-4D9A1564A640}",
       "what_was_observed": "Crocodile",
@@ -741,14 +915,19 @@
       "created_date": 1708821911000,
       "last_edited_date": 1708898809000,
       "closeddate": null
-    },
-    "geometry": {
-      "x": 16261751.245800003,
-      "y": -1987913.571899999
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 467531,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        145.46638448042984,
+        -16.5615889066719
+      ]
+    },
+    "properties": {
       "objectid": 467531,
       "globalid": "{6C288630-4361-4ACB-B8B6-05CD09994F11}",
       "what_was_observed": "Crocodile",
@@ -763,14 +942,19 @@
       "created_date": 1706128302000,
       "last_edited_date": 1707180534000,
       "closeddate": 1707180525000
-    },
-    "geometry": {
-      "x": 16193243.847900003,
-      "y": -1869850.5176
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 474331,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        145.9990299998933,
+        -17.32084000028623
+      ]
+    },
+    "properties": {
       "objectid": 474331,
       "globalid": "{BB148EC7-1CE3-4C51-B623-8318EED3616A}",
       "what_was_observed": "Crocodile",
@@ -785,14 +969,19 @@
       "created_date": 1706772419000,
       "last_edited_date": 1707184847000,
       "closeddate": 1707184833000
-    },
-    "geometry": {
-      "x": 16252537.675899997,
-      "y": -1958204.9028000012
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 473531,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        146.09112141108244,
+        -17.783969377374984
+      ]
+    },
+    "properties": {
       "objectid": 473531,
       "globalid": "{50FB6A92-2806-4320-8676-412A0C889AAA}",
       "what_was_observed": "Crocodile",
@@ -807,14 +996,19 @@
       "created_date": 1706748095000,
       "last_edited_date": 1707084314000,
       "closeddate": 1706853940000
-    },
-    "geometry": {
-      "x": 16262789.244900003,
-      "y": -2012277.9571000002
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 499134,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        146.7162299999209,
+        -19.209690000097666
+      ]
+    },
+    "properties": {
       "objectid": 499134,
       "globalid": "{3F001B41-23BD-4731-B0BA-34CAF7C4FEA1}",
       "what_was_observed": "Crocodile",
@@ -829,14 +1023,19 @@
       "created_date": 1708841982000,
       "last_edited_date": 1708898842000,
       "closeddate": null
-    },
-    "geometry": {
-      "x": 16332376.014700003,
-      "y": -2179639.1382
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 448732,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        141.88409000029645,
+        -12.679340000087452
+      ]
+    },
+    "properties": {
       "objectid": 448732,
       "globalid": "{CD7E81C8-EDCB-470C-BE08-A6C21729C5E4}",
       "what_was_observed": "Crocodile",
@@ -851,14 +1050,19 @@
       "created_date": 1704865215000,
       "last_edited_date": 1707182800000,
       "closeddate": 1707182787000
-    },
-    "geometry": {
-      "x": 15794464.6505,
-      "y": -1423121.076200001
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 454331,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        141.87234000044756,
+        -12.559720000308724
+      ]
+    },
+    "properties": {
       "objectid": 454331,
       "globalid": "{66AB861B-788E-4454-992A-18E70D59C3D5}",
       "what_was_observed": "Crocodile",
@@ -873,14 +1077,19 @@
       "created_date": 1705273136000,
       "last_edited_date": 1707182706000,
       "closeddate": 1707182696000
-    },
-    "geometry": {
-      "x": 15793156.646499999,
-      "y": -1409475.3883000016
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 445931,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        142.62610999977164,
+        -9.378470000336078
+      ]
+    },
+    "properties": {
       "objectid": 445931,
       "globalid": "{015D9DFC-72C2-4B2D-A06F-FB4B5929AFA8}",
       "what_was_observed": "Crocodile",
@@ -895,14 +1104,19 @@
       "created_date": 1704706983000,
       "last_edited_date": 1707183086000,
       "closeddate": 1707183077000
-    },
-    "geometry": {
-      "x": 15877065.939000003,
-      "y": -1048699.9598000012
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 475531,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        145.39083999994332,
+        -16.48673000007249
+      ]
+    },
+    "properties": {
       "objectid": 475531,
       "globalid": "{943AAB76-D004-4B62-B5FC-597EB882B09F}",
       "what_was_observed": "Crocodile",
@@ -917,14 +1131,19 @@
       "created_date": 1706855019000,
       "last_edited_date": 1707183583000,
       "closeddate": 1707183572000
-    },
-    "geometry": {
-      "x": 16184834.274800003,
-      "y": -1861158.2707999982
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 492732,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        142.23413338822715,
+        -10.589649708698307
+      ]
+    },
+    "properties": {
       "objectid": 492732,
       "globalid": "{7690215C-AFEB-4725-A65A-D7963D09C6B6}",
       "what_was_observed": "Crocodile",
@@ -939,14 +1158,19 @@
       "created_date": 1708311501000,
       "last_edited_date": 1708321575000,
       "closeddate": 1708321544000
-    },
-    "geometry": {
-      "x": 15833431.302199997,
-      "y": -1185603.8026
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 493531,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        142.23334999980722,
+        -10.588739999865838
+      ]
+    },
+    "properties": {
       "objectid": 493531,
       "globalid": "{F4893384-B85F-4BC5-873B-E80777B0F4D7}",
       "what_was_observed": "Crocodile",
@@ -961,14 +1185,19 @@
       "created_date": 1708319962000,
       "last_edited_date": 1708321946000,
       "closeddate": null
-    },
-    "geometry": {
-      "x": 15833344.095799997,
-      "y": -1185500.7798000015
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 478731,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        146.03890071137764,
+        -17.619699000819466
+      ]
+    },
+    "properties": {
       "objectid": 478731,
       "globalid": "{9CA9F269-E28A-4C50-AB14-FF88E2411230}",
       "what_was_observed": "Crocodile",
@@ -983,14 +1212,19 @@
       "created_date": 1707162802000,
       "last_edited_date": 1707348824000,
       "closeddate": 1707348812000
-    },
-    "geometry": {
-      "x": 16256976.063199997,
-      "y": -1993082.5876999982
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 472732,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        146.08585681729187,
+        -17.79539049275166
+      ]
+    },
+    "properties": {
       "objectid": 472732,
       "globalid": "{57E0B14D-EBD1-457A-BCE9-055ABDB0391F}",
       "what_was_observed": "Crocodile",
@@ -1005,14 +1239,19 @@
       "created_date": 1706662614000,
       "last_edited_date": 1707347642000,
       "closeddate": 1707347634000
-    },
-    "geometry": {
-      "x": 16262203.193000004,
-      "y": -2013613.1950000003
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 465931,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        142.2222123293852,
+        -10.58487321359334
+      ]
+    },
+    "properties": {
       "objectid": 465931,
       "globalid": "{B7EC824D-D5AD-490D-992D-FF9E821A7CB4}",
       "what_was_observed": "Crocodile",
@@ -1027,14 +1266,19 @@
       "created_date": 1705968960000,
       "last_edited_date": 1707347794000,
       "closeddate": 1707347785000
-    },
-    "geometry": {
-      "x": 15832104.255999997,
-      "y": -1185062.8770000003
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 465531,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        141.86454999984824,
+        -12.630240000107971
+      ]
+    },
+    "properties": {
       "objectid": 465531,
       "globalid": "{6E21DD6C-2236-4CFF-8EE8-3D4358C5C2B6}",
       "what_was_observed": "Crocodile",
@@ -1049,14 +1293,19 @@
       "created_date": 1705958891000,
       "last_edited_date": 1707347900000,
       "closeddate": 1707347889000
-    },
-    "geometry": {
-      "x": 15792289.467600003,
-      "y": -1417519.2067999989
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 472731,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        141.87585100015855,
+        -12.561011000063685
+      ]
+    },
+    "properties": {
       "objectid": 472731,
       "globalid": "{9138816D-D062-4014-AD6D-DCF0F88A463B}",
       "what_was_observed": "Crocodile",
@@ -1071,14 +1320,19 @@
       "created_date": 1706656604000,
       "last_edited_date": 1707347591000,
       "closeddate": 1707347582000
-    },
-    "geometry": {
-      "x": 15793547.489200003,
-      "y": -1409622.625500001
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 470733,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        146.1059400002463,
+        -17.777870000221878
+      ]
+    },
+    "properties": {
       "objectid": 470733,
       "globalid": "{F5CE5E30-8EBE-491C-A858-986EAAC99899}",
       "what_was_observed": "Crocodile",
@@ -1093,14 +1347,19 @@
       "created_date": 1706528925000,
       "last_edited_date": 1707347681000,
       "closeddate": 1707347670000
-    },
-    "geometry": {
-      "x": 16264438.842699997,
-      "y": -2011564.9164000005
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 428732,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        141.8851223307462,
+        -12.686300402810584
+      ]
+    },
+    "properties": {
       "objectid": 428732,
       "globalid": "{4E54C493-D2E8-4FDA-9FBF-6AE4D6E9499B}",
       "what_was_observed": "Crocodile",
@@ -1115,14 +1374,19 @@
       "created_date": 1702867292000,
       "last_edited_date": 1707348002000,
       "closeddate": 1707347992000
-    },
-    "geometry": {
-      "x": 15794579.568999998,
-      "y": -1423915.2829999998
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 479931,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        145.76066944855665,
+        -16.852239305715
+      ]
+    },
+    "properties": {
       "objectid": 479931,
       "globalid": "{6841403D-4913-4449-8E8D-221B3591BBCC}",
       "what_was_observed": "Crocodile",
@@ -1137,14 +1401,19 @@
       "created_date": 1707250161000,
       "last_edited_date": 1707348267000,
       "closeddate": 1707348254000
-    },
-    "geometry": {
-      "x": 16226003.500699997,
-      "y": -1903631.5857999995
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 451131,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        141.8998699997151,
+        -11.961260000093345
+      ]
+    },
+    "properties": {
       "objectid": 451131,
       "globalid": "{701B19EC-5C2C-4E6E-BD28-24ACDBAA1588}",
       "what_was_observed": "Crocodile",
@@ -1159,14 +1428,19 @@
       "created_date": 1705011844000,
       "last_edited_date": 1707348064000,
       "closeddate": 1707348054000
-    },
-    "geometry": {
-      "x": 15796221.272,
-      "y": -1341299.8636000007
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 479131,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        142.92021026259803,
+        -11.239919386314165
+      ]
+    },
+    "properties": {
       "objectid": 479131,
       "globalid": "{90C25141-D6E6-4691-8C5F-82A20F8F9C47}",
       "what_was_observed": "Slide",
@@ -1181,14 +1455,19 @@
       "created_date": 1707181590000,
       "last_edited_date": 1707348973000,
       "closeddate": 1707348962000
-    },
-    "geometry": {
-      "x": 15909805.030500002,
-      "y": -1259325.5441000015
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 476731,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        150.76917999982564,
+        -23.299410000210372
+      ]
+    },
+    "properties": {
       "objectid": 476731,
       "globalid": "{3CB6141F-B928-4E8C-B080-85C3EF368B65}",
       "what_was_observed": "Crocodile",
@@ -1203,14 +1482,19 @@
       "created_date": 1707055652000,
       "last_edited_date": 1707350528000,
       "closeddate": 1707350519000
-    },
-    "geometry": {
-      "x": 16783548.344899997,
-      "y": -2668267.5955
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 480731,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        146.03456672640738,
+        -18.640836171368424
+      ]
+    },
+    "properties": {
       "objectid": 480731,
       "globalid": "{A961DC41-D24E-4729-9946-CE12664F291B}",
       "what_was_observed": "Crocodile",
@@ -1225,14 +1509,19 @@
       "created_date": 1707269146000,
       "last_edited_date": 1707354786000,
       "closeddate": 1707354773000
-    },
-    "geometry": {
-      "x": 16256493.606200002,
-      "y": -2112695.4882999994
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 477132,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        146.08583859676295,
+        -17.79537656790586
+      ]
+    },
+    "properties": {
       "objectid": 477132,
       "globalid": "{1C398080-A0F4-49A4-8D5B-4DB764B45679}",
       "what_was_observed": "Crocodile",
@@ -1247,14 +1536,19 @@
       "created_date": 1707113190000,
       "last_edited_date": 1707354882000,
       "closeddate": 1707354872000
-    },
-    "geometry": {
-      "x": 16262201.164700001,
-      "y": -2013611.5670000017
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 473931,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        141.89412000036245,
+        -12.602020000309814
+      ]
+    },
+    "properties": {
       "objectid": 473931,
       "globalid": "{7F9F2F71-C09C-4860-AB41-0676B2D27D20}",
       "what_was_observed": "Crocodile",
@@ -1269,14 +1563,19 @@
       "created_date": 1706748947000,
       "last_edited_date": 1707355132000,
       "closeddate": 1707355119000
-    },
-    "geometry": {
-      "x": 15795581.185000002,
-      "y": -1414300.0450999998
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 470331,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        146.17028999995395,
+        -18.65189800005862
+      ]
+    },
+    "properties": {
       "objectid": 470331,
       "globalid": "{EA3E764C-681E-4B0F-9458-CAF8E8EEE166}",
       "what_was_observed": "Crocodile",
@@ -1291,14 +1590,19 @@
       "created_date": 1706477455000,
       "last_edited_date": 1707455956000,
       "closeddate": 1707455947000
-    },
-    "geometry": {
-      "x": 16271602.251900002,
-      "y": -2113995.1022000015
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 501934,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        141.7223365636639,
+        -13.36725230884931
+      ]
+    },
+    "properties": {
       "objectid": 501934,
       "globalid": "{166A18B3-9B43-4CA3-BD7B-629BB972B30E}",
       "what_was_observed": "Crocodile",
@@ -1313,14 +1617,19 @@
       "created_date": 1709005172000,
       "last_edited_date": 1709006783000,
       "closeddate": null
-    },
-    "geometry": {
-      "x": 15776458.340300001,
-      "y": -1501721.3486000001
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 493931,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        146.65285000015874,
+        -19.182670000252436
+      ]
+    },
+    "properties": {
       "objectid": 493931,
       "globalid": "{8765A4C6-A995-43F7-AC91-63B5F4348CBF}",
       "what_was_observed": "Crocodile",
@@ -1335,14 +1644,19 @@
       "created_date": 1708387844000,
       "last_edited_date": 1708388270000,
       "closeddate": null
-    },
-    "geometry": {
-      "x": 16325320.5854,
-      "y": -2176454.1974
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 482731,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        150.49451543316158,
+        -23.329690301022573
+      ]
+    },
+    "properties": {
       "objectid": 482731,
       "globalid": "{9166989D-BD51-4135-BB40-1E7AAF6FBA10}",
       "what_was_observed": "Crocodile,Tracks",
@@ -1357,14 +1671,19 @@
       "created_date": 1707391732000,
       "last_edited_date": 1707690251000,
       "closeddate": 1707690243000
-    },
-    "geometry": {
-      "x": 16752972.825199999,
-      "y": -2671938.0945000015
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 467533,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        145.74747999997464,
+        -16.942439999903357
+      ]
+    },
+    "properties": {
       "objectid": 467533,
       "globalid": "{D68F40EA-BC4A-48A9-A2C0-31CD2EB0315E}",
       "what_was_observed": "Crocodile",
@@ -1379,14 +1698,19 @@
       "created_date": 1706147461000,
       "last_edited_date": 1707694627000,
       "closeddate": 1707694617000
-    },
-    "geometry": {
-      "x": 16224535.258000001,
-      "y": -1914125.7459000014
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 499133,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        146.71824000013206,
+        -19.208489999657324
+      ]
+    },
+    "properties": {
       "objectid": 499133,
       "globalid": "{F915D0CF-ADF8-4DCA-A341-569AD3CD22EA}",
       "what_was_observed": "Crocodile",
@@ -1401,14 +1725,19 @@
       "created_date": 1708841729000,
       "last_edited_date": 1708898885000,
       "closeddate": null
-    },
-    "geometry": {
-      "x": 16332599.766900003,
-      "y": -2179497.6788999997
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 451132,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        149.30098999971585,
+        -21.54798999963852
+      ]
+    },
+    "properties": {
       "objectid": 451132,
       "globalid": "{870BE78D-EAF0-4C34-B582-021C7547A268}",
       "what_was_observed": "Crocodile,Slide",
@@ -1423,14 +1752,19 @@
       "created_date": 1705031878000,
       "last_edited_date": 1707694739000,
       "closeddate": 1707694731000
-    },
-    "geometry": {
-      "x": 16620110.181699999,
-      "y": -2457341.782499999
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 487134,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        146.304900000352,
+        -18.55934000040205
+      ]
+    },
+    "properties": {
       "objectid": 487134,
       "globalid": "{4317BAC1-5418-4DA9-B0DA-A9A39063A534}",
       "what_was_observed": "Crocodile",
@@ -1445,14 +1779,19 @@
       "created_date": 1707704832000,
       "last_edited_date": 1707705523000,
       "closeddate": null
-    },
-    "geometry": {
-      "x": 16286586.968599997,
-      "y": -2103123.405299999
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 467931,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        145.73942765537973,
+        -17.198424855574554
+      ]
+    },
+    "properties": {
       "objectid": 467931,
       "globalid": "{79F1D1BF-BDB7-4DCD-98A6-44A78FBB1B0F}",
       "what_was_observed": "Crocodile",
@@ -1467,14 +1806,19 @@
       "created_date": 1706143739000,
       "last_edited_date": 1708400012000,
       "closeddate": 1708399988000
-    },
-    "geometry": {
-      "x": 16223638.875100002,
-      "y": -1943935.1418999992
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 461131,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        146.1648617394068,
+        -18.33258101962226
+      ]
+    },
+    "properties": {
       "objectid": 461131,
       "globalid": "{ED523DA4-046F-4F26-B229-F46DC53E7F0F}",
       "what_was_observed": "Crocodile",
@@ -1489,14 +1833,19 @@
       "created_date": 1705662771000,
       "last_edited_date": 1708401488000,
       "closeddate": 1708401479000
-    },
-    "geometry": {
-      "x": 16270997.980700001,
-      "y": -2076513.5428000018
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 491931,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        145.67122150077108,
+        -16.756389993130767
+      ]
+    },
+    "properties": {
       "objectid": 491931,
       "globalid": "{7FBAAF89-8A89-4026-BA58-151AF9C4D7C9}",
       "what_was_observed": "Crocodile",
@@ -1511,14 +1860,19 @@
       "created_date": 1708129453000,
       "last_edited_date": 1708401543000,
       "closeddate": 1708401533000
-    },
-    "geometry": {
-      "x": 16216046.2007,
-      "y": -1892485.7344999984
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 467131,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        145.46786985553192,
+        -16.520774935407402
+      ]
+    },
+    "properties": {
       "objectid": 467131,
       "globalid": "{BC7C5038-D98B-4250-9A17-A42EF2A0B019}",
       "what_was_observed": "Crocodile",
@@ -1533,14 +1887,19 @@
       "created_date": 1706093610000,
       "last_edited_date": 1708400500000,
       "closeddate": 1708400492000
-    },
-    "geometry": {
-      "x": 16193409.199100003,
-      "y": -1865110.982999999
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 483531,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        145.75560537400887,
+        -16.949905089139847
+      ]
+    },
+    "properties": {
       "objectid": 483531,
       "globalid": "{917A2907-CEC9-4F66-B67B-8361950E975D}",
       "what_was_observed": "Crocodile",
@@ -1555,14 +1914,19 @@
       "created_date": 1707440124000,
       "last_edited_date": 1707775570000,
       "closeddate": 1707720819000
-    },
-    "geometry": {
-      "x": 16225439.770499997,
-      "y": -1914994.4770000018
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 474731,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        141.8878899997124,
+        -11.984189999810688
+      ]
+    },
+    "properties": {
       "objectid": 474731,
       "globalid": "{D2597AEB-1495-41AC-B0BE-3113C76B6072}",
       "what_was_observed": "Crocodile",
@@ -1577,14 +1941,19 @@
       "created_date": 1706826117000,
       "last_edited_date": 1707775513000,
       "closeddate": 1707721800000
-    },
-    "geometry": {
-      "x": 15794887.664499998,
-      "y": -1343909.181400001
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 481131,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        145.5668777778774,
+        -16.64697849108472
+      ]
+    },
+    "properties": {
       "objectid": 481131,
       "globalid": "{3A67A8AA-B700-4C08-8D83-F2FF1F9F5647}",
       "what_was_observed": "Crocodile",
@@ -1599,14 +1968,19 @@
       "created_date": 1707269369000,
       "last_edited_date": 1707775522000,
       "closeddate": 1707722019000
-    },
-    "geometry": {
-      "x": 16204430.710600004,
-      "y": -1879769.6598999985
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 478732,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        146.28124999996808,
+        -18.57881999978785
+      ]
+    },
+    "properties": {
       "objectid": 478732,
       "globalid": "{807D9CAF-49B5-4F04-B1ED-3593DCC6F898}",
       "what_was_observed": "Crocodile",
@@ -1621,14 +1995,19 @@
       "created_date": 1707186992000,
       "last_edited_date": 1707775530000,
       "closeddate": 1707722062000
-    },
-    "geometry": {
-      "x": 16283954.262599997,
-      "y": -2105411.0001999997
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 481932,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        141.88775185499142,
+        -11.981999438052576
+      ]
+    },
+    "properties": {
       "objectid": 481932,
       "globalid": "{9452B7DC-4D1E-42E2-BB59-A5C47AFD95CD}",
       "what_was_observed": "Crocodile",
@@ -1643,14 +2022,19 @@
       "created_date": 1707363410000,
       "last_edited_date": 1707775543000,
       "closeddate": 1707721126000
-    },
-    "geometry": {
-      "x": 15794872.286300004,
-      "y": -1343659.8969999999
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 481933,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        145.77095000043352,
+        -17.005690000377104
+      ]
+    },
+    "properties": {
       "objectid": 481933,
       "globalid": "{56BA90D4-3DD1-44E4-8A03-DFCA0879AF83}",
       "what_was_observed": "Crocodile",
@@ -1665,14 +2049,19 @@
       "created_date": 1707373658000,
       "last_edited_date": 1707775550000,
       "closeddate": 1707721853000
-    },
-    "geometry": {
-      "x": 16227147.9265,
-      "y": -1921487.3999000005
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 484732,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        145.5665195791494,
+        -16.647289327779912
+      ]
+    },
+    "properties": {
       "objectid": 484732,
       "globalid": "{5BBE5E7C-664E-40AB-83D6-1C378FB1313E}",
       "what_was_observed": "Crocodile",
@@ -1687,14 +2076,19 @@
       "created_date": 1707476159000,
       "last_edited_date": 1707775605000,
       "closeddate": 1707720993000
-    },
-    "geometry": {
-      "x": 16204390.836099997,
-      "y": -1879805.7758000009
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 485131,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        146.78104306768276,
+        -19.303792409983107
+      ]
+    },
+    "properties": {
       "objectid": 485131,
       "globalid": "{5C94953B-5A77-4D76-BA5F-981305C40893}",
       "what_was_observed": "Crocodile",
@@ -1709,14 +2103,19 @@
       "created_date": 1707517884000,
       "last_edited_date": 1707775612000,
       "closeddate": 1707720659000
-    },
-    "geometry": {
-      "x": 16339590.972400002,
-      "y": -2190735.405699998
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 487133,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        146.8101900003257,
+        -19.30083999964889
+      ]
+    },
+    "properties": {
       "objectid": 487133,
       "globalid": "{D5A5BA32-37C7-4549-A68B-7AA6F8651B6D}",
       "what_was_observed": "Crocodile",
@@ -1731,14 +2130,19 @@
       "created_date": 1707695849000,
       "last_edited_date": 1707775619000,
       "closeddate": 1707720575000
-    },
-    "geometry": {
-      "x": 16342835.594099998,
-      "y": -2190387.1697000004
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 491932,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        145.41461200950909,
+        -16.35421838229803
+      ]
+    },
+    "properties": {
       "objectid": 491932,
       "globalid": "{6DD79597-8739-414A-A948-A262BB5E1A80}",
       "what_was_observed": "Crocodile",
@@ -1753,14 +2157,19 @@
       "created_date": 1708149463000,
       "last_edited_date": 1708403602000,
       "closeddate": 1708403589000
-    },
-    "geometry": {
-      "x": 16187480.562799998,
-      "y": -1845779.9039999992
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 489131,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        146.9537999996715,
+        -19.39031999988341
+      ]
+    },
+    "properties": {
       "objectid": 489131,
       "globalid": "{F54C5A54-2E93-40E9-86F2-09752083B871}",
       "what_was_observed": "Crocodile",
@@ -1775,14 +2184,19 @@
       "created_date": 1707778760000,
       "last_edited_date": 1707778953000,
       "closeddate": null
-    },
-    "geometry": {
-      "x": 16358822.186099999,
-      "y": -2200944.1077999994
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 491531,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        145.40748973384697,
+        -16.423877547842167
+      ]
+    },
+    "properties": {
       "objectid": 491531,
       "globalid": "{509429D2-0547-4191-9852-728DA6D5B08E}",
       "what_was_observed": "Crocodile",
@@ -1797,14 +2211,19 @@
       "created_date": 1708071576000,
       "last_edited_date": 1708404072000,
       "closeddate": 1708404039000
-    },
-    "geometry": {
-      "x": 16186687.714699998,
-      "y": -1853862.7501999997
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 488731,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        145.67217693722915,
+        -16.75630975195853
+      ]
+    },
+    "properties": {
       "objectid": 488731,
       "globalid": "{15C2E5F7-DD50-471F-9715-8D35C538C980}",
       "what_was_observed": "Tracks",
@@ -1819,14 +2238,19 @@
       "created_date": 1707776366000,
       "last_edited_date": 1707861987000,
       "closeddate": 1707805871000
-    },
-    "geometry": {
-      "x": 16216152.5594,
-      "y": -1892476.4059999995
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 486731,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        146.03900006145483,
+        -17.619921059244806
+      ]
+    },
+    "properties": {
       "objectid": 486731,
       "globalid": "{6447854F-2156-4958-A1DE-A87BFE6758F8}",
       "what_was_observed": "Crocodile",
@@ -1841,14 +2265,19 @@
       "created_date": 1707680988000,
       "last_edited_date": 1707861967000,
       "closeddate": 1707807222000
-    },
-    "geometry": {
-      "x": 16256987.1228,
-      "y": -1993108.5238999985
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 489132,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        145.67214858639875,
+        -16.74123173602414
+      ]
+    },
+    "properties": {
       "objectid": 489132,
       "globalid": "{6ACF86DE-8E13-41DB-B107-317B1F6D8536}",
       "what_was_observed": "Crocodile",
@@ -1863,14 +2292,19 @@
       "created_date": 1707784541000,
       "last_edited_date": 1707861981000,
       "closeddate": 1707806219000
-    },
-    "geometry": {
-      "x": 16216149.403399996,
-      "y": -1890723.5692999996
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 485932,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        150.80795738794734,
+        -23.268323806509777
+      ]
+    },
+    "properties": {
       "objectid": 485932,
       "globalid": "{D7972A0A-23E5-414C-A827-9C04F345939D}",
       "what_was_observed": "Crocodile",
@@ -1885,14 +2319,19 @@
       "created_date": 1707633641000,
       "last_edited_date": 1707888397000,
       "closeddate": 1707888341000
-    },
-    "geometry": {
-      "x": 16787865.023999996,
-      "y": -2664500.2771999985
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 482331,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        141.88796255394297,
+        -11.980742437259769
+      ]
+    },
+    "properties": {
       "objectid": 482331,
       "globalid": "{5C3874C5-00ED-43E5-A077-C8A0C8DF3E92}",
       "what_was_observed": "Crocodile",
@@ -1907,14 +2346,19 @@
       "created_date": 1707365426000,
       "last_edited_date": 1708466739000,
       "closeddate": 1708414499000
-    },
-    "geometry": {
-      "x": 15794895.7412,
-      "y": -1343516.8520999998
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 481531,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        146.08463696711974,
+        -17.8005251080803
+      ]
+    },
+    "properties": {
       "objectid": 481531,
       "globalid": "{F96E77CB-9663-461D-818E-F9AF6B605DEB}",
       "what_was_observed": "Crocodile",
@@ -1929,14 +2373,19 @@
       "created_date": 1707349751000,
       "last_edited_date": 1708466774000,
       "closeddate": 1708413969000
-    },
-    "geometry": {
-      "x": 16262067.399899997,
-      "y": -2014213.5086000003
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 488332,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        141.88712225275822,
+        -11.98049685881057
+      ]
+    },
+    "properties": {
       "objectid": 488332,
       "globalid": "{56061387-13E7-4E3C-BBE2-AAEFCA2E05AA}",
       "what_was_observed": "Crocodile",
@@ -1951,14 +2400,19 @@
       "created_date": 1707727047000,
       "last_edited_date": 1708466746000,
       "closeddate": 1708412562000
-    },
-    "geometry": {
-      "x": 15794802.199299999,
-      "y": -1343488.9056999981
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 485931,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        141.8871255217275,
+        -11.980432947427198
+      ]
+    },
+    "properties": {
       "objectid": 485931,
       "globalid": "{03F46A08-40F7-477E-A575-6CDFB14C4F14}",
       "what_was_observed": "Crocodile",
@@ -1973,14 +2427,19 @@
       "created_date": 1707596779000,
       "last_edited_date": 1708466752000,
       "closeddate": 1708412850000
-    },
-    "geometry": {
-      "x": 15794802.563199997,
-      "y": -1343481.6327
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 484731,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        148.99839689620845,
+        -21.009584413949177
+      ]
+    },
+    "properties": {
       "objectid": 484731,
       "globalid": "{8A875AF2-967F-498E-8968-820516237E0F}",
       "what_was_observed": "Crocodile",
@@ -1995,14 +2454,19 @@
       "created_date": 1707472502000,
       "last_edited_date": 1708466760000,
       "closeddate": 1708413230000
-    },
-    "geometry": {
-      "x": 16586425.671499997,
-      "y": -2393021.4635999985
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 488331,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        146.03985999981168,
+        -17.534520000160136
+      ]
+    },
+    "properties": {
       "objectid": 488331,
       "globalid": "{3EA9E928-116E-4A81-AB04-BB5ECFBF0967}",
       "what_was_observed": "Crocodile",
@@ -2017,14 +2481,19 @@
       "created_date": 1707723450000,
       "last_edited_date": 1708466767000,
       "closeddate": 1708412750000
-    },
-    "geometry": {
-      "x": 16257082.850699998,
-      "y": -1983136.116799999
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 480332,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        146.04135299981394,
+        -17.6224889999287
+      ]
+    },
+    "properties": {
       "objectid": 480332,
       "globalid": "{7D2C578B-C219-44A9-84A9-CB50E0F822D1}",
       "what_was_observed": "Crocodile",
@@ -2039,14 +2508,19 @@
       "created_date": 1707257658000,
       "last_edited_date": 1707950227000,
       "closeddate": 1707950220000
-    },
-    "geometry": {
-      "x": 16257249.050700001,
-      "y": -1993408.4591000006
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 463131,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        145.75153868095475,
+        -17.141572695839816
+      ]
+    },
+    "properties": {
       "objectid": 463131,
       "globalid": "{49EB675C-6566-42C0-B206-2A868AA69F2C}",
       "what_was_observed": "Crocodile",
@@ -2061,14 +2535,19 @@
       "created_date": 1705786031000,
       "last_edited_date": 1707953725000,
       "closeddate": 1707953718000
-    },
-    "geometry": {
-      "x": 16224987.068300001,
-      "y": -1937311.1783999987
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 490331,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        145.41534999976952,
+        -16.35593999962986
+      ]
+    },
+    "properties": {
       "objectid": 490331,
       "globalid": "{728B268E-63EA-4780-B41B-69145A616313}",
       "what_was_observed": "Slide,Tracks",
@@ -2083,14 +2562,19 @@
       "created_date": 1707876410000,
       "last_edited_date": 1707954443000,
       "closeddate": 1707954434000
-    },
-    "geometry": {
-      "x": 16187562.715499997,
-      "y": -1845979.6356999986
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 421132,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        142.2938403735236,
+        -10.600255170436148
+      ]
+    },
+    "properties": {
       "objectid": 421132,
       "globalid": "{E970FC37-6AFD-4C64-A98C-393529174930}",
       "what_was_observed": "Crocodile",
@@ -2105,14 +2589,19 @@
       "created_date": 1701929231000,
       "last_edited_date": 1707956427000,
       "closeddate": 1707956417000
-    },
-    "geometry": {
-      "x": 15840077.8534,
-      "y": -1186804.8735999987
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 486331,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        150.5053899996133,
+        -23.36669000035018
+      ]
+    },
+    "properties": {
       "objectid": 486331,
       "globalid": "{54F578DE-C3A2-4789-8450-F3FB68E8B494}",
       "what_was_observed": "Crocodile",
@@ -2127,14 +2616,19 @@
       "created_date": 1707615806000,
       "last_edited_date": 1707975449000,
       "closeddate": 1707975441000
-    },
-    "geometry": {
-      "x": 16754183.376400001,
-      "y": -2676424.237399999
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 490332,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        145.79091367781078,
+        -17.09538937626531
+      ]
+    },
+    "properties": {
       "objectid": 490332,
       "globalid": "{F8E09C83-F66F-4941-9189-7023EF368544}",
       "what_was_observed": "Crocodile",
@@ -2149,14 +2643,19 @@
       "created_date": 1707880820000,
       "last_edited_date": 1708466802000,
       "closeddate": 1708412336000
-    },
-    "geometry": {
-      "x": 16229370.2729,
-      "y": -1931931.756099999
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 489931,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        146.08499596714498,
+        -17.79757160885468
+      ]
+    },
+    "properties": {
       "objectid": 489931,
       "globalid": "{AC01BD96-2273-48F5-87B4-F7B30A3D0EA6}",
       "what_was_observed": "Crocodile",
@@ -2171,14 +2670,19 @@
       "created_date": 1707864598000,
       "last_edited_date": 1708466810000,
       "closeddate": 1708412282000
-    },
-    "geometry": {
-      "x": 16262107.3636,
-      "y": -2013868.1981000006
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 490731,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        142.230979999746,
+        -10.578809999754734
+      ]
+    },
+    "properties": {
       "objectid": 490731,
       "globalid": "{26BA2D62-1B51-4464-96E3-A5B701BC8351}",
       "what_was_observed": "Crocodile",
@@ -2193,14 +2697,19 @@
       "created_date": 1707901344000,
       "last_edited_date": 1708466818000,
       "closeddate": 1708412222000
-    },
-    "geometry": {
-      "x": 15833080.268600002,
-      "y": -1184376.2459999993
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 489531,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        146.08808599655083,
+        -17.79581161190745
+      ]
+    },
+    "properties": {
       "objectid": 489531,
       "globalid": "{70F4C7C2-BA76-419F-9453-F57A6A5EE829}",
       "what_was_observed": "Crocodile",
@@ -2215,14 +2724,19 @@
       "created_date": 1707864557000,
       "last_edited_date": 1708466796000,
       "closeddate": 1708412256000
-    },
-    "geometry": {
-      "x": 16262451.344099998,
-      "y": -2013662.4294999987
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 491132,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        149.30703600024287,
+        -21.66088299973369
+      ]
+    },
+    "properties": {
       "objectid": 491132,
       "globalid": "{5292CCAB-0FCA-483D-988A-430484A58156}",
       "what_was_observed": "Crocodile",
@@ -2237,14 +2751,19 @@
       "created_date": 1707947926000,
       "last_edited_date": 1708485919000,
       "closeddate": null
-    },
-    "geometry": {
-      "x": 16620783.219400004,
-      "y": -2470858.5571999997
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 471931,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        146.8610213952564,
+        -19.290964773462367
+      ]
+    },
+    "properties": {
       "objectid": 471931,
       "globalid": "{2D1D83A0-4620-4519-ABBA-C997BC5316A9}",
       "what_was_observed": "Crocodile",
@@ -2259,14 +2778,19 @@
       "created_date": 1706573326000,
       "last_edited_date": 1708644272000,
       "closeddate": 1708644264000
-    },
-    "geometry": {
-      "x": 16348494.119099997,
-      "y": -2189222.4351000004
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 497131,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        145.8284599077676,
+        -17.058622570077993
+      ]
+    },
+    "properties": {
       "objectid": 497131,
       "globalid": "{B2116AFD-49F1-4444-87C7-2007BF8B6A6C}",
       "what_was_observed": "Crocodile",
@@ -2281,14 +2805,19 @@
       "created_date": 1708649484000,
       "last_edited_date": 1708657480000,
       "closeddate": null
-    },
-    "geometry": {
-      "x": 16233549.9001,
-      "y": -1927650.1206
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 478331,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        150.49134000002334,
+        -23.353460000239867
+      ]
+    },
+    "properties": {
       "objectid": 478331,
       "globalid": "{407B16BC-D6EA-4FE4-9935-E9AFEA884DA7}",
       "what_was_observed": "Crocodile",
@@ -2303,14 +2832,19 @@
       "created_date": 1707126972000,
       "last_edited_date": 1708659062000,
       "closeddate": 1708659054000
-    },
-    "geometry": {
-      "x": 16752619.3376,
-      "y": -2674819.9814999998
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 495931,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        146.465100849933,
+        -19.075097390725148
+      ]
+    },
+    "properties": {
       "objectid": 495931,
       "globalid": "{62E68616-814B-458E-9A54-AA89F4CF4188}",
       "what_was_observed": "Crocodile",
@@ -2325,14 +2859,19 @@
       "created_date": 1708446608000,
       "last_edited_date": 1708902446000,
       "closeddate": 1708902434000
-    },
-    "geometry": {
-      "x": 16304420.445600003,
-      "y": -2163779.4142000005
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 499931,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        145.56826958625606,
+        -16.654799425884605
+      ]
+    },
+    "properties": {
       "objectid": 499931,
       "globalid": "{B171D70C-B5BB-42CE-962F-CD39AC8B00F3}",
       "what_was_observed": "Crocodile",
@@ -2347,14 +2886,19 @@
       "created_date": 1708852846000,
       "last_edited_date": 1708901454000,
       "closeddate": 1708901447000
-    },
-    "geometry": {
-      "x": 16204585.645999998,
-      "y": -1880678.3867000006
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 498332,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        145.69238271955865,
+        -16.78737842253006
+      ]
+    },
+    "properties": {
       "objectid": 498332,
       "globalid": "{5563CBC2-C4F4-4573-91E2-A62B2BB30A55}",
       "what_was_observed": "Crocodile",
@@ -2369,14 +2913,19 @@
       "created_date": 1708775058000,
       "last_edited_date": 1708901660000,
       "closeddate": 1708901651000
-    },
-    "geometry": {
-      "x": 16218401.856799997,
-      "y": -1896088.6127999984
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 496731,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        146.76474999998118,
+        -19.31017000024361
+      ]
+    },
+    "properties": {
       "objectid": 496731,
       "globalid": "{E0D0D389-7B0F-43C0-8FE5-666F221EA816}",
       "what_was_observed": "Crocodile",
@@ -2391,14 +2940,19 @@
       "created_date": 1708552523000,
       "last_edited_date": 1708901824000,
       "closeddate": 1708901811000
-    },
-    "geometry": {
-      "x": 16337777.2364,
-      "y": -2191487.6622
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 492731,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        145.74541568402813,
+        -16.845493524780185
+      ]
+    },
+    "properties": {
       "objectid": 492731,
       "globalid": "{15B88CDB-8437-4B2C-8F10-075165974209}",
       "what_was_observed": "Crocodile",
@@ -2413,14 +2967,19 @@
       "created_date": 1708305085000,
       "last_edited_date": 1708908105000,
       "closeddate": 1708908095000
-    },
-    "geometry": {
-      "x": 16224305.459399998,
-      "y": -1902846.9673000015
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 493532,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        145.69391000017043,
+        -16.84691999969075
+      ]
+    },
+    "properties": {
       "objectid": 493532,
       "globalid": "{B305366F-350A-4D39-9320-3022B6EE69D5}",
       "what_was_observed": "Crocodile",
@@ -2435,14 +2994,19 @@
       "created_date": 1708324255000,
       "last_edited_date": 1708909723000,
       "closeddate": 1708909704000
-    },
-    "geometry": {
-      "x": 16218571.872900002,
-      "y": -1903012.8817999996
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 384333,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        146.69983000036115,
+        -19.192889999841118
+      ]
+    },
+    "properties": {
       "objectid": 384333,
       "globalid": "{6239667C-74F7-4112-9D9E-E660379555F7}",
       "what_was_observed": "Crocodile",
@@ -2457,14 +3021,19 @@
       "created_date": 1697522132000,
       "last_edited_date": 1708911125000,
       "closeddate": 1708911111000
-    },
-    "geometry": {
-      "x": 16330550.375100002,
-      "y": -2177658.8026
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 500331,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        148.5934599999042,
+        -20.40611000040387
+      ]
+    },
+    "properties": {
       "objectid": 500331,
       "globalid": "{88FA8C95-42FF-4BD9-9482-17623B87C5D0}",
       "what_was_observed": "Crocodile",
@@ -2479,14 +3048,19 @@
       "created_date": 1708886186000,
       "last_edited_date": 1708903184000,
       "closeddate": null
-    },
-    "geometry": {
-      "x": 16541348.3024,
-      "y": -2321202.7989000008
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 496331,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        146.80256999960568,
+        -19.30479000005784
+      ]
+    },
+    "properties": {
       "objectid": 496331,
       "globalid": "{D7C9F43E-8BDB-407F-B0EF-8C6E3AB0ABA5}",
       "what_was_observed": "Crocodile",
@@ -2501,14 +3075,19 @@
       "created_date": 1708467022000,
       "last_edited_date": 1708904009000,
       "closeddate": 1708903999000
-    },
-    "geometry": {
-      "x": 16341987.339500003,
-      "y": -2190853.0725999996
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 457931,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        146.25330999972343,
+        -18.591029999927358
+      ]
+    },
+    "properties": {
       "objectid": 457931,
       "globalid": "{A22BC0C7-4578-4143-94BA-B17C12594736}",
       "what_was_observed": "Crocodile",
@@ -2523,14 +3102,19 @@
       "created_date": 1705457088000,
       "last_edited_date": 1708915346000,
       "closeddate": null
-    },
-    "geometry": {
-      "x": 16280843.996,
-      "y": -2106844.9904999994
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 491133,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        149.04293371778996,
+        -20.93012572444969
+      ]
+    },
+    "properties": {
       "objectid": 491133,
       "globalid": "{2F7E09FA-45DE-4CFD-BE15-C20C85AFE661}",
       "what_was_observed": "Crocodile",
@@ -2545,14 +3129,19 @@
       "created_date": 1707950325000,
       "last_edited_date": 1708915391000,
       "closeddate": 1708915383000
-    },
-    "geometry": {
-      "x": 16591383.487800002,
-      "y": -2383548.774700001
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 487132,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        146.34124197758504,
+        -18.547521591565957
+      ]
+    },
+    "properties": {
       "objectid": 487132,
       "globalid": "{3DA00B3A-B1E7-4D92-B284-907486B3E71E}",
       "what_was_observed": "Crocodile",
@@ -2567,14 +3156,19 @@
       "created_date": 1707691659000,
       "last_edited_date": 1708915441000,
       "closeddate": 1708915429000
-    },
-    "geometry": {
-      "x": 16290632.538999997,
-      "y": -2101735.6613
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 477131,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        141.725326492001,
+        -13.35628796971238
+      ]
+    },
+    "properties": {
       "objectid": 477131,
       "globalid": "{5482B714-1A4B-4E44-9EF9-E74375E90066}",
       "what_was_observed": "Crocodile",
@@ -2589,14 +3183,19 @@
       "created_date": 1707086338000,
       "last_edited_date": 1708915705000,
       "closeddate": 1708915696000
-    },
-    "geometry": {
-      "x": 15776791.177599996,
-      "y": -1500466.8449000008
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 479532,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        145.03591056199457,
+        -15.38898966051894
+      ]
+    },
+    "properties": {
       "objectid": 479532,
       "globalid": "{A73EEEC7-B057-4EC1-A1D5-A0808A4E3FCA}",
       "what_was_observed": "Crocodile",
@@ -2611,14 +3210,19 @@
       "created_date": 1707202319000,
       "last_edited_date": 1708915607000,
       "closeddate": 1708915597000
-    },
-    "geometry": {
-      "x": 16145323.710500002,
-      "y": -1734070.9748999998
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 473532,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        146.06589000030266,
+        -17.50481000026856
+      ]
+    },
+    "properties": {
       "objectid": 473532,
       "globalid": "{5EFE12A9-ECF5-4310-971D-C129A8F3D40C}",
       "what_was_observed": "Crocodile",
@@ -2633,14 +3237,19 @@
       "created_date": 1706759527000,
       "last_edited_date": 1708915743000,
       "closeddate": 1708915735000
-    },
-    "geometry": {
-      "x": 16259980.497100003,
-      "y": -1979667.9387000017
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 351931,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        146.08243389200462,
+        -17.794736091395986
+      ]
+    },
+    "properties": {
       "objectid": 351931,
       "globalid": "{6B8D4FC6-DF08-46A7-B87D-7068B17E7053}",
       "what_was_observed": "Crocodile",
@@ -2655,14 +3264,19 @@
       "created_date": 1694538952000,
       "last_edited_date": 1708926649000,
       "closeddate": null
-    },
-    "geometry": {
-      "x": 16261822.154700004,
-      "y": -2013536.686900001
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 477531,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        146.01816651664186,
+        -17.747747403099275
+      ]
+    },
+    "properties": {
       "objectid": 477531,
       "globalid": "{91B50351-7C06-4B9B-8FD6-02110106C081}",
       "what_was_observed": "Crocodile",
@@ -2677,14 +3291,19 @@
       "created_date": 1707087045000,
       "last_edited_date": 1708926832000,
       "closeddate": null
-    },
-    "geometry": {
-      "x": 16254667.9432,
-      "y": -2008043.8253999986
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 459932,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        146.03899583308475,
+        -17.619951043215806
+      ]
+    },
+    "properties": {
       "objectid": 459932,
       "globalid": "{00D1A234-0239-42E2-946B-377C689EF9D4}",
       "what_was_observed": "Crocodile",
@@ -2699,14 +3318,19 @@
       "created_date": 1705636456000,
       "last_edited_date": 1708985310000,
       "closeddate": null
-    },
-    "geometry": {
-      "x": 16256986.652099997,
-      "y": -1993112.0260000005
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 497532,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        150.50350399655576,
+        -23.36506231042978
+      ]
+    },
+    "properties": {
       "objectid": 497532,
       "globalid": "{207E820A-4F20-4E62-B0B6-096834279EC7}",
       "what_was_observed": "Crocodile",
@@ -2721,14 +3345,19 @@
       "created_date": 1708661922000,
       "last_edited_date": 1708991047000,
       "closeddate": 1708991037000
-    },
-    "geometry": {
-      "x": 16753973.427500002,
-      "y": -2676226.856800001
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 501531,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        145.2492652201119,
+        -15.462533476944843
+      ]
+    },
+    "properties": {
       "objectid": 501531,
       "globalid": "{B2CC133A-C212-4235-9D9B-47052E24240F}",
       "what_was_observed": "Crocodile",
@@ -2743,14 +3372,19 @@
       "created_date": 1708989143000,
       "last_edited_date": 1709000511000,
       "closeddate": null
-    },
-    "geometry": {
-      "x": 16169074.242399998,
-      "y": -1742563.7813999988
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 498731,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        146.0535100002669,
+        -17.826799999850568
+      ]
+    },
+    "properties": {
       "objectid": 498731,
       "globalid": "{29C6381D-8900-4508-BB23-A4087F30B501}",
       "what_was_observed": "Crocodile",
@@ -2765,14 +3399,19 @@
       "created_date": 1708813188000,
       "last_edited_date": 1709012169000,
       "closeddate": null
-    },
-    "geometry": {
-      "x": 16258602.3618,
-      "y": -2017285.7082999982
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 483931,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        142.23328000038532,
+        -10.579280000224706
+      ]
+    },
+    "properties": {
       "objectid": 483931,
       "globalid": "{6D79E5CB-822F-4151-9272-B2BA308DCD82}",
       "what_was_observed": "Crocodile",
@@ -2787,14 +3426,19 @@
       "created_date": 1707460713000,
       "last_edited_date": 1709071558000,
       "closeddate": null
-    },
-    "geometry": {
-      "x": 15833336.303499997,
-      "y": -1184429.4708999991
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 497531,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        145.41729805305704,
+        -16.32963139402516
+      ]
+    },
+    "properties": {
       "objectid": 497531,
       "globalid": "{7DFDB0D8-832F-476C-A081-3CC52C868ED8}",
       "what_was_observed": "Tracks",
@@ -2809,14 +3453,19 @@
       "created_date": 1708652205000,
       "last_edited_date": 1709094358000,
       "closeddate": null
-    },
-    "geometry": {
-      "x": 16187779.571800001,
-      "y": -1842927.6614000015
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 500731,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        142.25099355607938,
+        -10.584774341653631
+      ]
+    },
+    "properties": {
       "objectid": 500731,
       "globalid": "{7A2E1BE9-6585-4EB8-BDB2-5AC6DDACDBD4}",
       "what_was_observed": "Crocodile",
@@ -2831,14 +3480,19 @@
       "created_date": 1708935069000,
       "last_edited_date": 1709092289000,
       "closeddate": null
-    },
-    "geometry": {
-      "x": 15835308.167499997,
-      "y": -1185051.6801000014
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 501131,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        150.4013082146767,
+        -23.193261287783752
+      ]
+    },
+    "properties": {
       "objectid": 501131,
       "globalid": "{1F233279-585F-40E7-9114-D05AE84CC3A2}",
       "what_was_observed": "Crocodile",
@@ -2853,14 +3507,19 @@
       "created_date": 1708943421000,
       "last_edited_date": 1709094070000,
       "closeddate": 1709094059000
-    },
-    "geometry": {
-      "x": 16742597.045100003,
-      "y": -2655407.1130000018
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 494331,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        145.46667000006144,
+        -16.525039999995986
+      ]
+    },
+    "properties": {
       "objectid": 494331,
       "globalid": "{28E2C6DA-35A1-4360-88FB-782414C21775}",
       "what_was_observed": "Crocodile",
@@ -2875,14 +3534,19 @@
       "created_date": 1708390533000,
       "last_edited_date": 1709165913000,
       "closeddate": 1709165905000
-    },
-    "geometry": {
-      "x": 16193275.631800003,
-      "y": -1865606.2179999985
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 502731,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        149.18371000043663,
+        -21.142959999821898
+      ]
+    },
+    "properties": {
       "objectid": 502731,
       "globalid": "{24999E5E-62B2-44A7-A27D-21E6AE9EC99F}",
       "what_was_observed": "Crocodile",
@@ -2897,14 +3561,19 @@
       "created_date": 1709128598000,
       "last_edited_date": 1709159202000,
       "closeddate": null
-    },
-    "geometry": {
-      "x": 16607054.631899998,
-      "y": -2408933.2267999984
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 503531,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        149.20149341092383,
+        -21.09479008813951
+      ]
+    },
+    "properties": {
       "objectid": 503531,
       "globalid": "{FE05F759-6580-4ECF-94A4-6D879C632390}",
       "what_was_observed": "Crocodile",
@@ -2919,14 +3588,19 @@
       "created_date": 1709159490000,
       "last_edited_date": 1709160567000,
       "closeddate": null
-    },
-    "geometry": {
-      "x": 16609034.272100002,
-      "y": -2403184.888799999
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 449932,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        145.7232599996783,
+        -17.176360000315952
+      ]
+    },
+    "properties": {
       "objectid": 449932,
       "globalid": "{3060B56E-3FDA-4455-A70A-72C152B6222D}",
       "what_was_observed": "Crocodile",
@@ -2941,14 +3615,19 @@
       "created_date": 1704954764000,
       "last_edited_date": 1709166008000,
       "closeddate": 1709166000000
-    },
-    "geometry": {
-      "x": 16221839.0999,
-      "y": -1941364.078499999
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 501935,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        145.6772150001596,
+        -16.733101000227613
+      ]
+    },
+    "properties": {
       "objectid": 501935,
       "globalid": "{67D63051-749B-4B31-8A37-248762EE2917}",
       "what_was_observed": "Crocodile",
@@ -2963,14 +3642,19 @@
       "created_date": 1709014437000,
       "last_edited_date": 1709160495000,
       "closeddate": 1709160480000
-    },
-    "geometry": {
-      "x": 16216713.394000001,
-      "y": -1889778.4195000008
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 501931,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        141.72300917274129,
+        -13.366700365585537
+      ]
+    },
+    "properties": {
       "objectid": 501931,
       "globalid": "{BCD3C89A-C353-4E77-9838-D54F9D18AC3B}",
       "what_was_observed": "Crocodile",
@@ -2985,14 +3669,19 @@
       "created_date": 1708996096000,
       "last_edited_date": 1709160646000,
       "closeddate": null
-    },
-    "geometry": {
-      "x": 15776533.2148,
-      "y": -1501658.195700001
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 501932,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        140.83730971977582,
+        -17.471724588222525
+      ]
+    },
+    "properties": {
       "objectid": 501932,
       "globalid": "{DBDF4A61-A3BE-4B28-B3AA-D76420009085}",
       "what_was_observed": "Crocodile",
@@ -3007,14 +3696,19 @@
       "created_date": 1709001445000,
       "last_edited_date": 1709165534000,
       "closeddate": 1709165526000
-    },
-    "geometry": {
-      "x": 15677937.602700002,
-      "y": -1975806.4013999999
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 495531,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        146.4732441992561,
+        -19.07802071588766
+      ]
+    },
+    "properties": {
       "objectid": 495531,
       "globalid": "{1EE6C9E2-EE98-44C8-9C65-08088A598A84}",
       "what_was_observed": "Crocodile",
@@ -3029,14 +3723,19 @@
       "created_date": 1708446540000,
       "last_edited_date": 1709165811000,
       "closeddate": 1709165803000
-    },
-    "geometry": {
-      "x": 16305326.9591,
-      "y": -2164123.7470999993
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 501933,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        141.7277473501821,
+        -13.353460454188248
+      ]
+    },
+    "properties": {
       "objectid": 501933,
       "globalid": "{6A0F2CAA-5473-4CFA-8738-92672473B8F1}",
       "what_was_observed": "Crocodile",
@@ -3051,14 +3750,19 @@
       "created_date": 1709004904000,
       "last_edited_date": 1709165754000,
       "closeddate": 1709165745000
-    },
-    "geometry": {
-      "x": 15777060.666299999,
-      "y": -1500143.3390999995
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 495131,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        146.4774031250354,
+        -19.08225543015542
+      ]
+    },
+    "properties": {
       "objectid": 495131,
       "globalid": "{0A12A371-99AD-4DD0-9CB0-34246E9468AE}",
       "what_was_observed": "Crocodile",
@@ -3073,14 +3777,19 @@
       "created_date": 1708446448000,
       "last_edited_date": 1709165784000,
       "closeddate": 1709165776000
-    },
-    "geometry": {
-      "x": 16305789.928599998,
-      "y": -2164622.5568000004
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 492331,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        146.09138143113637,
+        -17.560900417058512
+      ]
+    },
+    "properties": {
       "objectid": 492331,
       "globalid": "{2024A246-4BD9-46F8-B1D4-EBD3B64E4836}",
       "what_was_observed": "Crocodile",
@@ -3095,14 +3804,19 @@
       "created_date": 1708228008000,
       "last_edited_date": 1709165945000,
       "closeddate": 1709165937000
-    },
-    "geometry": {
-      "x": 16262818.190200001,
-      "y": -1986216.0943999998
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 503533,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        148.73291300035697,
+        -20.25528900011325
+      ]
+    },
+    "properties": {
       "objectid": 503533,
       "globalid": "{6DDBE30F-527D-4D53-9C5B-78A4C65831FC}",
       "what_was_observed": "Crocodile",
@@ -3117,14 +3831,19 @@
       "created_date": 1709166702000,
       "last_edited_date": 1709166880000,
       "closeddate": null
-    },
-    "geometry": {
-      "x": 16556872.139399998,
-      "y": -2303298.0628000014
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 503132,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        146.08463266598616,
+        -17.800643885777617
+      ]
+    },
+    "properties": {
       "objectid": 503132,
       "globalid": "{8D056E06-DE87-4C19-AF21-D8C6EB914B55}",
       "what_was_observed": "Crocodile",
@@ -3139,14 +3858,19 @@
       "created_date": 1709171838000,
       "last_edited_date": 1709244329000,
       "closeddate": null
-    },
-    "geometry": {
-      "x": 16262066.921099998,
-      "y": -2014227.3957000002
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 497931,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        146.47250799484644,
+        -19.076924184114432
+      ]
+    },
+    "properties": {
       "objectid": 497931,
       "globalid": "{C10ED4E4-AB95-46F1-A916-C3E1FE22427A}",
       "what_was_observed": "Crocodile",
@@ -3161,14 +3885,19 @@
       "created_date": 1708707529000,
       "last_edited_date": 1709292144000,
       "closeddate": null
-    },
-    "geometry": {
-      "x": 16305245.005199999,
-      "y": -2163994.5879999995
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 505131,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        145.72074200037733,
+        -16.805077000109588
+      ]
+    },
+    "properties": {
       "objectid": 505131,
       "globalid": "{78E830E2-B03D-47EC-99A4-498696DD532F}",
       "what_was_observed": "Crocodile",
@@ -3183,14 +3912,19 @@
       "created_date": 1709205250000,
       "last_edited_date": 1709255946000,
       "closeddate": null
-    },
-    "geometry": {
-      "x": 16221558.7975,
-      "y": -1898146.6064999998
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 499531,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        146.3188500003829,
+        -18.526360000211138
+      ]
+    },
+    "properties": {
       "objectid": 499531,
       "globalid": "{CE7680D5-FE23-4220-A9FD-36CE64550165}",
       "what_was_observed": "Crocodile",
@@ -3205,14 +3939,19 @@
       "created_date": 1708838908000,
       "last_edited_date": 1709256345000,
       "closeddate": null
-    },
-    "geometry": {
-      "x": 16288139.875500001,
-      "y": -2099251.059799999
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 504331,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        146.1089329999234,
+        -17.776801000339287
+      ]
+    },
+    "properties": {
       "objectid": 504331,
       "globalid": "{6AAAF4C1-519E-4E85-B475-1DDC33E1A9E6}",
       "what_was_observed": "Crocodile",
@@ -3227,14 +3966,19 @@
       "created_date": 1709195124000,
       "last_edited_date": 1709254523000,
       "closeddate": 1709254513000
-    },
-    "geometry": {
-      "x": 16264772.021899998,
-      "y": -2011439.9486999996
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 498331,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        146.31845000034983,
+        -18.526190000275108
+      ]
+    },
+    "properties": {
       "objectid": 498331,
       "globalid": "{A78519FD-FE86-40E8-96AD-A1A329FD1092}",
       "what_was_observed": "Crocodile",
@@ -3249,14 +3993,19 @@
       "created_date": 1708770136000,
       "last_edited_date": 1709256448000,
       "closeddate": null
-    },
-    "geometry": {
-      "x": 16288095.3477,
-      "y": -2099231.1011999995
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 505531,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        145.4129100002864,
+        -16.33804000012419
+      ]
+    },
+    "properties": {
       "objectid": 505531,
       "globalid": "{3BA7E78D-5353-4EA1-BA50-8FF826F0D45F}",
       "what_was_observed": "Crocodile",
@@ -3271,14 +4020,19 @@
       "created_date": 1709259044000,
       "last_edited_date": 1709263487000,
       "closeddate": null
-    },
-    "geometry": {
-      "x": 16187291.096,
-      "y": -1843903.0713
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 494731,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        146.31765000028363,
+        -18.523569999877168
+      ]
+    },
+    "properties": {
       "objectid": 494731,
       "globalid": "{B9DED117-B95E-4877-959E-F965BA9B6FEA}",
       "what_was_observed": "Crocodile",
@@ -3293,14 +4047,19 @@
       "created_date": 1708407153000,
       "last_edited_date": 1709256511000,
       "closeddate": null
-    },
-    "geometry": {
-      "x": 16288006.292099997,
-      "y": -2098923.5062999986
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 503532,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        145.46137300044523,
+        -16.52147600021376
+      ]
+    },
+    "properties": {
       "objectid": 503532,
       "globalid": "{8F6C0F94-C3E3-4C78-A799-0BC884B3D45C}",
       "what_was_observed": "Crocodile",
@@ -3315,14 +4074,19 @@
       "created_date": 1709160266000,
       "last_edited_date": 1709259932000,
       "closeddate": null
-    },
-    "geometry": {
-      "x": 16192685.972499996,
-      "y": -1865192.3858999982
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 505532,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        145.75119788708545,
+        -16.944704820574014
+      ]
+    },
+    "properties": {
       "objectid": 505532,
       "globalid": "{C1BEFBEA-F89B-4458-AE88-E1FEB3BBAFD6}",
       "what_was_observed": "Crocodile",
@@ -3337,14 +4101,19 @@
       "created_date": 1709268900000,
       "last_edited_date": 1709272327000,
       "closeddate": null
-    },
-    "geometry": {
-      "x": 16224949.131300002,
-      "y": -1914389.3051000014
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 451931,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        146.72404027010634,
+        -19.3038570996579
+      ]
+    },
+    "properties": {
       "objectid": 451931,
       "globalid": "{BFE302C9-ECAD-4214-B28B-A166C3A00777}",
       "what_was_observed": "Crocodile",
@@ -3359,14 +4128,19 @@
       "created_date": 1705039953000,
       "last_edited_date": 1709291398000,
       "closeddate": null
-    },
-    "geometry": {
-      "x": 16333245.450000003,
-      "y": -2190743.0359000005
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 503931,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        146.11359500022814,
+        -18.644008999978816
+      ]
+    },
+    "properties": {
       "objectid": 503931,
       "globalid": "{225578BF-DCD8-4AEE-BB2C-04DC99B22B81}",
       "what_was_observed": "Crocodile",
@@ -3381,14 +4155,19 @@
       "created_date": 1709168180000,
       "last_edited_date": 1709291732000,
       "closeddate": null
-    },
-    "geometry": {
-      "x": 16265290.9934,
-      "y": -2113068.2437000014
     }
   },
   {
-    "attributes": {
+    "type": "Feature",
+    "id": 499132,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        146.15262978801806,
+        -18.654620569178167
+      ]
+    },
+    "properties": {
       "objectid": 499132,
       "globalid": "{8979DE4B-F761-4648-A930-059B94BF4F00}",
       "what_was_observed": "Crocodile",
@@ -3403,10 +4182,6 @@
       "created_date": 1708840937000,
       "last_edited_date": 1709292484000,
       "closeddate": null
-    },
-    "geometry": {
-      "x": 16269636.3261,
-      "y": -2114314.9798999988
     }
   }
 ]
