@@ -3,55 +3,55 @@
   "features": [
     {
       "type": "Feature",
-      "id": 507931,
+      "id": 508731,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.08478717711338,
-          -17.797090510681127
+          142.21478000020278,
+          -10.235899999638315
         ]
       },
       "properties": {
-        "objectid": 507931,
-        "globalid": "{BFD8D48A-8ACD-4928-97A7-DC991D54BC0B}",
+        "objectid": 508731,
+        "globalid": "{A0307A12-EA89-45BD-8F54-6054FE25A29B}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1709441580000,
+        "sighttime": 1709512200000,
         "species": "Estuarine",
-        "sightingid": "030324CWC1",
+        "sightingid": "040324TRS1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Innisfail Operations",
-        "lga": "Cassowary Coast Regional",
-        "created_date": 1709441706000,
-        "last_edited_date": 1709448964000,
+        "managementunit": "Remote Operations",
+        "lga": "Torres Shire",
+        "created_date": 1709513249000,
+        "last_edited_date": 1709515449000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 508331,
+      "id": 509131,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.01962276297252,
-          -18.253315806279925
+          145.4084425076986,
+          -16.44751976332528
         ]
       },
       "properties": {
-        "objectid": 508331,
-        "globalid": "{0EBBBAC2-7F02-4B7C-9593-8242597EFD65}",
+        "objectid": 509131,
+        "globalid": "{815E0CA0-D9C7-4A58-A795-C125AB47C9EA}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1709418600000,
+        "sighttime": 1709498100000,
         "species": "Estuarine",
-        "sightingid": "030324CWC2",
+        "sightingid": "040324DUG1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Innisfail Operations",
-        "lga": "Cassowary Coast Regional",
-        "created_date": 1709449434000,
-        "last_edited_date": 1709449630000,
+        "managementunit": "Cairns Operations",
+        "lga": "Douglas Shire",
+        "created_date": 1709520852000,
+        "last_edited_date": 1709525109000,
         "closeddate": null
       }
     }
