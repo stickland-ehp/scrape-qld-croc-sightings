@@ -3,55 +3,109 @@
   "features": [
     {
       "type": "Feature",
-      "id": 508731,
+      "id": 511531,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          142.21478000020278,
-          -10.235899999638315
+          146.6721200002702,
+          -19.210929999751194
         ]
       },
       "properties": {
-        "objectid": 508731,
-        "globalid": "{A0307A12-EA89-45BD-8F54-6054FE25A29B}",
+        "objectid": 511531,
+        "globalid": "{F4596DED-F6E4-4A38-9915-FD8979375BE2}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1709512200000,
+        "sighttime": 1709626200000,
         "species": "Estuarine",
-        "sightingid": "040324TRS1",
+        "sightingid": "050324TSV2",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Remote Operations",
-        "lga": "Torres Shire",
-        "created_date": 1709513249000,
-        "last_edited_date": 1709515449000,
+        "managementunit": "Townsville Operations",
+        "lga": "Townsville City",
+        "created_date": 1709626350000,
+        "last_edited_date": 1709637399000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 509131,
+      "id": 511931,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.4084425076986,
-          -16.44751976332528
+          142.36586415069746,
+          -10.847053810654524
         ]
       },
       "properties": {
-        "objectid": 509131,
-        "globalid": "{815E0CA0-D9C7-4A58-A795-C125AB47C9EA}",
+        "objectid": 511931,
+        "globalid": "{A14E4B34-EBED-4255-986A-00B835DE1FF1}",
         "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1709498100000,
-        "species": "Estuarine",
-        "sightingid": "040324DUG1",
+        "sighting": "Somebody else",
+        "sighttime": 1709607600000,
+        "species": "",
+        "sightingid": "050324TRS2",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Cairns Operations",
-        "lga": "Douglas Shire",
-        "created_date": 1709520852000,
-        "last_edited_date": 1709525109000,
+        "managementunit": "Remote Operations",
+        "lga": "Torres Shire",
+        "created_date": 1709629398000,
+        "last_edited_date": 1709637144000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 510332,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.36610999982776,
+          -10.846830000203093
+        ]
+      },
+      "properties": {
+        "objectid": 510332,
+        "globalid": "{9D13D18D-8ACD-4CCA-85EF-452D2268FDBB}",
+        "what_was_observed": "Crocodile",
+        "sighting": "Somebody else",
+        "sighttime": 1709607600000,
+        "species": "Estuarine",
+        "sightingid": "050324TRS1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Remote Operations",
+        "lga": "Torres Shire",
+        "created_date": 1709607872000,
+        "last_edited_date": 1709615417000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 510732,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.70000000024046,
+          -19.21901000030114
+        ]
+      },
+      "properties": {
+        "objectid": 510732,
+        "globalid": "{CFC62609-CEA0-4C0E-B5AF-1ACDD3F0CFEE}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1709583300000,
+        "species": "Estuarine",
+        "sightingid": "050324TSV1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Townsville Operations",
+        "lga": "Townsville City",
+        "created_date": 1709604471000,
+        "last_edited_date": 1709615001000,
         "closeddate": null
       }
     }
