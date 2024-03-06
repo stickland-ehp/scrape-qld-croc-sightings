@@ -3,61 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": 511531,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          146.6721200002702,
-          -19.210929999751194
-        ]
-      },
-      "properties": {
-        "objectid": 511531,
-        "globalid": "{F4596DED-F6E4-4A38-9915-FD8979375BE2}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1709626200000,
-        "species": "Estuarine",
-        "sightingid": "050324TSV2",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Townsville Operations",
-        "lga": "Townsville City",
-        "created_date": 1709626350000,
-        "last_edited_date": 1709637399000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 511931,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          142.36586415069746,
-          -10.847053810654524
-        ]
-      },
-      "properties": {
-        "objectid": 511931,
-        "globalid": "{A14E4B34-EBED-4255-986A-00B835DE1FF1}",
-        "what_was_observed": "Crocodile",
-        "sighting": "Somebody else",
-        "sighttime": 1709607600000,
-        "species": "",
-        "sightingid": "050324TRS2",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Remote Operations",
-        "lga": "Torres Shire",
-        "created_date": 1709629398000,
-        "last_edited_date": 1709637144000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 510332,
+      "id": 512331,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -66,47 +12,74 @@
         ]
       },
       "properties": {
-        "objectid": 510332,
-        "globalid": "{9D13D18D-8ACD-4CCA-85EF-452D2268FDBB}",
+        "objectid": 512331,
+        "globalid": "{3B28FFA0-CA93-4899-BD5A-93B9A252DCB7}",
         "what_was_observed": "Crocodile",
         "sighting": "Somebody else",
-        "sighttime": 1709607600000,
+        "sighttime": 1709680860000,
         "species": "Estuarine",
-        "sightingid": "050324TRS1",
+        "sightingid": "060324TRS1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
         "managementunit": "Remote Operations",
         "lga": "Torres Shire",
-        "created_date": 1709607872000,
-        "last_edited_date": 1709615417000,
+        "created_date": 1709681074000,
+        "last_edited_date": 1709681779000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 510732,
+      "id": 512731,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.70000000024046,
-          -19.21901000030114
+          145.4481218959937,
+          -14.663883710611715
         ]
       },
       "properties": {
-        "objectid": 510732,
-        "globalid": "{CFC62609-CEA0-4C0E-B5AF-1ACDD3F0CFEE}",
+        "objectid": 512731,
+        "globalid": "{561E1250-81BC-48A3-8DB3-DDA7ECB9A23F}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1709583300000,
+        "sighttime": 1709677800000,
         "species": "Estuarine",
-        "sightingid": "050324TSV1",
-        "publicstatus": "Under Investigation",
+        "sightingid": "060324COO1",
+        "publicstatus": "No Further Action",
         "publicinfo": "",
-        "managementunit": "Townsville Operations",
-        "lga": "Townsville City",
-        "created_date": 1709604471000,
-        "last_edited_date": 1709615001000,
-        "closeddate": null
+        "managementunit": "Remote Operations",
+        "lga": "Cook Shire",
+        "created_date": 1709685320000,
+        "last_edited_date": 1709700286000,
+        "closeddate": 1709700276000
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 512732,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.3656391128373,
+          -10.847243584938319
+        ]
+      },
+      "properties": {
+        "objectid": 512732,
+        "globalid": "{2A799B24-8468-4E7B-9A49-6ADF7B1A06AC}",
+        "what_was_observed": "Crocodile",
+        "sighting": "Somebody else",
+        "sighttime": 1709674080000,
+        "species": "Estuarine",
+        "sightingid": "060324TRS2",
+        "publicstatus": "No Further Action",
+        "publicinfo": "",
+        "managementunit": "Remote Operations",
+        "lga": "Torres Shire",
+        "created_date": 1709688740000,
+        "last_edited_date": 1709698837000,
+        "closeddate": 1709698825000
       }
     }
   ]
