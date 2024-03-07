@@ -3,83 +3,83 @@
   "features": [
     {
       "type": "Feature",
-      "id": 512331,
+      "id": 515131,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          142.36610999982776,
-          -10.846830000203093
+          148.70352000029314,
+          -20.405019999923265
         ]
       },
       "properties": {
-        "objectid": 512331,
-        "globalid": "{3B28FFA0-CA93-4899-BD5A-93B9A252DCB7}",
+        "objectid": 515131,
+        "globalid": "{904865A2-A1AC-4E64-BA8A-1B3AC3EEFD05}",
         "what_was_observed": "Crocodile",
-        "sighting": "Somebody else",
-        "sighttime": 1709680860000,
+        "sighting": "I did",
+        "sighttime": 1709799600000,
         "species": "Estuarine",
-        "sightingid": "060324TRS1",
+        "sightingid": "070324WTS1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Remote Operations",
-        "lga": "Torres Shire",
-        "created_date": 1709681074000,
-        "last_edited_date": 1709681779000,
+        "managementunit": "Mackay Operations",
+        "lga": "Whitsunday Regional",
+        "created_date": 1709799947000,
+        "last_edited_date": 1709802496000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 512731,
+      "id": 514732,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.4481218959937,
-          -14.663883710611715
+          142.36578299958958,
+          -10.851347999696738
         ]
       },
       "properties": {
-        "objectid": 512731,
-        "globalid": "{561E1250-81BC-48A3-8DB3-DDA7ECB9A23F}",
+        "objectid": 514732,
+        "globalid": "{558C6F45-827F-41A0-91B5-F71582E6B4E9}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1709677800000,
+        "sighttime": 1709760360000,
         "species": "Estuarine",
-        "sightingid": "060324COO1",
-        "publicstatus": "No Further Action",
+        "sightingid": "070324TRS1",
+        "publicstatus": "Under Investigation",
         "publicinfo": "",
         "managementunit": "Remote Operations",
-        "lga": "Cook Shire",
-        "created_date": 1709685320000,
-        "last_edited_date": 1709700286000,
-        "closeddate": 1709700276000
+        "lga": "Torres Shire",
+        "created_date": 1709790607000,
+        "last_edited_date": 1709793670000,
+        "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 512732,
+      "id": 513931,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          142.3656391128373,
-          -10.847243584938319
+          146.08433139978598,
+          -17.797239976328672
         ]
       },
       "properties": {
-        "objectid": 512732,
-        "globalid": "{2A799B24-8468-4E7B-9A49-6ADF7B1A06AC}",
+        "objectid": 513931,
+        "globalid": "{4C995DBB-A1D7-4A9B-88FD-175D2D6AA6CA}",
         "what_was_observed": "Crocodile",
-        "sighting": "Somebody else",
-        "sighttime": 1709674080000,
-        "species": "Estuarine",
-        "sightingid": "060324TRS2",
-        "publicstatus": "No Further Action",
+        "sighting": "I did",
+        "sighttime": 1709755740000,
+        "species": "Unsure",
+        "sightingid": "070324CWC1",
+        "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Remote Operations",
-        "lga": "Torres Shire",
-        "created_date": 1709688740000,
-        "last_edited_date": 1709698837000,
-        "closeddate": 1709698825000
+        "managementunit": "Innisfail Operations",
+        "lga": "Cassowary Coast Regional",
+        "created_date": 1709756011000,
+        "last_edited_date": 1709762785000,
+        "closeddate": null
       }
     }
   ]
