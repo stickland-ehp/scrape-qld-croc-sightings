@@ -3,82 +3,28 @@
   "features": [
     {
       "type": "Feature",
-      "id": 515131,
+      "id": 515931,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          148.70352000029314,
-          -20.405019999923265
+          148.7119209514054,
+          -20.408124436286204
         ]
       },
       "properties": {
-        "objectid": 515131,
-        "globalid": "{904865A2-A1AC-4E64-BA8A-1B3AC3EEFD05}",
+        "objectid": 515931,
+        "globalid": "{646F6738-D053-4F56-B578-76283CCF51FD}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1709799600000,
+        "sighttime": 1709851860000,
         "species": "Estuarine",
-        "sightingid": "070324WTS1",
+        "sightingid": "080324WTS1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
         "managementunit": "Mackay Operations",
         "lga": "Whitsunday Regional",
-        "created_date": 1709799947000,
-        "last_edited_date": 1709802496000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 514732,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          142.36578299958958,
-          -10.851347999696738
-        ]
-      },
-      "properties": {
-        "objectid": 514732,
-        "globalid": "{558C6F45-827F-41A0-91B5-F71582E6B4E9}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1709760360000,
-        "species": "Estuarine",
-        "sightingid": "070324TRS1",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Remote Operations",
-        "lga": "Torres Shire",
-        "created_date": 1709790607000,
-        "last_edited_date": 1709793670000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 513931,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          146.08433139978598,
-          -17.797239976328672
-        ]
-      },
-      "properties": {
-        "objectid": 513931,
-        "globalid": "{4C995DBB-A1D7-4A9B-88FD-175D2D6AA6CA}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1709755740000,
-        "species": "Unsure",
-        "sightingid": "070324CWC1",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Innisfail Operations",
-        "lga": "Cassowary Coast Regional",
-        "created_date": 1709756011000,
-        "last_edited_date": 1709762785000,
+        "created_date": 1709855552000,
+        "last_edited_date": 1709859940000,
         "closeddate": null
       }
     }
