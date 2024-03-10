@@ -3,55 +3,55 @@
   "features": [
     {
       "type": "Feature",
-      "id": 516731,
+      "id": 517931,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.74471999992602,
-          -16.845659999924656
+          146.0858222249669,
+          -17.795858635513827
         ]
       },
       "properties": {
-        "objectid": 516731,
-        "globalid": "{8C571A49-FC00-4C93-861C-99AAAAF73B97}",
+        "objectid": 517931,
+        "globalid": "{02C8F32B-ED09-43A0-B202-CB4366A3AA78}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1709971320000,
+        "sighttime": 1710048480000,
         "species": "Estuarine",
-        "sightingid": "090324CNS2",
+        "sightingid": "100324CWC2",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Cairns Operations",
-        "lga": "Cairns Regional",
-        "created_date": 1709974179000,
-        "last_edited_date": 1709974510000,
+        "managementunit": "Innisfail Operations",
+        "lga": "Cassowary Coast Regional",
+        "created_date": 1710048571000,
+        "last_edited_date": 1710050371000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 516332,
+      "id": 517532,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.67184999987307,
-          -16.739379999779047
+          146.0846205953237,
+          -17.79765655020799
         ]
       },
       "properties": {
-        "objectid": 516332,
-        "globalid": "{BD192BD9-B215-491B-A6EF-E08C69883308}",
+        "objectid": 517532,
+        "globalid": "{69FB8945-A3CE-4047-93BC-732E706F0944}",
         "what_was_observed": "Crocodile",
-        "sighting": "Somebody else",
-        "sighttime": 1709958300000,
+        "sighting": "I did",
+        "sighttime": 1710048420000,
         "species": "Estuarine",
-        "sightingid": "090324CNS1",
+        "sightingid": "100324CWC1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Cairns Operations",
-        "lga": "Cairns Regional",
-        "created_date": 1709958516000,
-        "last_edited_date": 1709958753000,
+        "managementunit": "Innisfail Operations",
+        "lga": "Cassowary Coast Regional",
+        "created_date": 1710048536000,
+        "last_edited_date": 1710050285000,
         "closeddate": null
       }
     }
