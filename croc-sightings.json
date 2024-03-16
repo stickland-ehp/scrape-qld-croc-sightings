@@ -3,55 +3,55 @@
   "features": [
     {
       "type": "Feature",
-      "id": 522331,
+      "id": 523531,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.4484330957643,
-          -16.500809971692544
+          146.7908013174938,
+          -19.240701789041875
         ]
       },
       "properties": {
-        "objectid": 522331,
-        "globalid": "{7191A4F1-09D3-4E8B-A1EA-CD02F2559AD7}",
-        "what_was_observed": "Crocodile,Slide,Tracks",
-        "sighting": "I did",
-        "sighttime": 1710452400000,
-        "species": "Estuarine",
-        "sightingid": "150324DUG2",
-        "publicstatus": "No Further Action",
+        "objectid": 523531,
+        "globalid": "{2C89BD9D-E8A8-454D-9DFC-34F86285A794}",
+        "what_was_observed": "Tracks",
+        "sighting": "Somebody else",
+        "sighttime": 1710536700000,
+        "species": "",
+        "sightingid": "160324TSV1",
+        "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Cairns Operations",
-        "lga": "Douglas Shire",
-        "created_date": 1710452728000,
-        "last_edited_date": 1710462189000,
-        "closeddate": 1710462176000
+        "managementunit": "Townsville Operations",
+        "lga": "Townsville City",
+        "created_date": 1710573171000,
+        "last_edited_date": 1710575900000,
+        "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 521931,
+      "id": 523131,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.44727359710797,
-          -16.504960642335433
+          146.08461623669797,
+          -17.80064143788236
         ]
       },
       "properties": {
-        "objectid": 521931,
-        "globalid": "{9A333235-1548-4A8F-B2EE-54D6BCDC0DF9}",
+        "objectid": 523131,
+        "globalid": "{2B0C0BD2-64B3-4C08-8D11-F7A44A10247E}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1710451560000,
-        "species": "Estuarine",
-        "sightingid": "150324DUG1",
+        "sighttime": 1710535440000,
+        "species": "Unsure",
+        "sightingid": "160324CWC1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Cairns Operations",
-        "lga": "Douglas Shire",
-        "created_date": 1710451987000,
-        "last_edited_date": 1710462059000,
+        "managementunit": "Innisfail Operations",
+        "lga": "Cassowary Coast Regional",
+        "created_date": 1710535614000,
+        "last_edited_date": 1710540752000,
         "closeddate": null
       }
     }
