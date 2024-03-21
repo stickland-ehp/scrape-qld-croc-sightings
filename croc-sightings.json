@@ -3,28 +3,136 @@
   "features": [
     {
       "type": "Feature",
-      "id": 525533,
+      "id": 527134,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.0845952277984,
-          -17.797218984070888
+          145.88860989005988,
+          -16.95594204004649
         ]
       },
       "properties": {
-        "objectid": 525533,
-        "globalid": "{0DDE09EF-D02D-4185-8CEE-EACC25AFA828}",
+        "objectid": 527134,
+        "globalid": "{0B0D86CD-5F1E-4B0B-8C73-E5DB68B2D41A}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1710903720000,
+        "sighttime": 1710997200000,
         "species": "Estuarine",
-        "sightingid": "200324CWC1",
+        "sightingid": "210324YAA1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Cairns Operations",
+        "lga": "Yarrabah Aboriginal Shire",
+        "created_date": 1710997975000,
+        "last_edited_date": 1711000800000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 527135,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.66553536654737,
+          -22.826311249110418
+        ]
+      },
+      "properties": {
+        "objectid": 527135,
+        "globalid": "{A8A1D086-8A72-4FB4-B91D-A05C14A6F8D6}",
+        "what_was_observed": "Crocodile",
+        "sighting": "Somebody else",
+        "sighttime": 1710994860000,
+        "species": "Estuarine",
+        "sightingid": "210324LVG1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Capricornia Operations",
+        "lga": "Livingstone Shire",
+        "created_date": 1710998195000,
+        "last_edited_date": 1711001819000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 526734,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.00199053463737,
+          -20.908857492464026
+        ]
+      },
+      "properties": {
+        "objectid": 526734,
+        "globalid": "{FC951D92-6748-4AD5-AA22-615F594A8383}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1710984420000,
+        "species": "Estuarine",
+        "sightingid": "210324MKY1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Mackay Operations",
+        "lga": "Mackay Regional",
+        "created_date": 1710991870000,
+        "last_edited_date": 1711001377000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 527532,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.08261843920158,
+          -17.795998831254355
+        ]
+      },
+      "properties": {
+        "objectid": 527532,
+        "globalid": "{E23FAB2B-1045-4BCA-872F-3A5A84DD872F}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1710980580000,
+        "species": "Estuarine",
+        "sightingid": "210324CWC3",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
         "managementunit": "Innisfail Operations",
         "lga": "Cassowary Coast Regional",
-        "created_date": 1710903875000,
-        "last_edited_date": 1710913996000,
+        "created_date": 1710980951000,
+        "last_edited_date": 1710984975000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 526733,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.0843676288414,
+          -17.797224083522728
+        ]
+      },
+      "properties": {
+        "objectid": 526733,
+        "globalid": "{3A18DE01-A662-4435-807A-5E24321CAB1B}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1710980520000,
+        "species": "Unsure",
+        "sightingid": "210324CWC2",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Innisfail Operations",
+        "lga": "Cassowary Coast Regional",
+        "created_date": 1710980915000,
+        "last_edited_date": 1710985053000,
         "closeddate": null
       }
     }
