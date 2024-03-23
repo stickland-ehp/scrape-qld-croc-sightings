@@ -3,55 +3,28 @@
   "features": [
     {
       "type": "Feature",
-      "id": 529132,
+      "id": 529532,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.15370000042338,
-          -18.65362999981082
+          145.63307000034888,
+          -16.815479999739296
         ]
       },
       "properties": {
-        "objectid": 529132,
-        "globalid": "{BF477AFE-2D22-4A38-856B-43819D397AD9}",
+        "objectid": 529532,
+        "globalid": "{77D1EB27-58D9-4EC9-AE85-D85356A90343}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1711085940000,
+        "sighttime": 1711172760000,
         "species": "Unsure",
-        "sightingid": "220324HCN2",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Townsville Operations",
-        "lga": "Hinchinbrook Shire",
-        "created_date": 1711086228000,
-        "last_edited_date": 1711095365000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 528332,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          145.75126000019742,
-          -16.944709999672977
-        ]
-      },
-      "properties": {
-        "objectid": 528332,
-        "globalid": "{DA05273B-A2E8-465D-98E7-FDB07A104C7B}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1711060200000,
-        "species": "Unsure",
-        "sightingid": "220324CNS1",
+        "sightingid": "230324MAB1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
         "managementunit": "Cairns Operations",
-        "lga": "Cairns Regional",
-        "created_date": 1711063467000,
-        "last_edited_date": 1711070946000,
+        "lga": "Mareeba Shire",
+        "created_date": 1711173031000,
+        "last_edited_date": 1711173370000,
         "closeddate": null
       }
     }
