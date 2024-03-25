@@ -3,55 +3,55 @@
   "features": [
     {
       "type": "Feature",
-      "id": 530333,
+      "id": 531132,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          141.87433381571228,
-          -12.673164596705535
+          145.67627000032846,
+          -16.765160000040073
         ]
       },
       "properties": {
-        "objectid": 530333,
-        "globalid": "{C22D0019-84A1-481D-B4B8-C102B9014883}",
+        "objectid": 531132,
+        "globalid": "{917A9B8D-0C40-49AC-904B-E81E785B3846}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1711262640000,
+        "sighttime": 1711330740000,
         "species": "Estuarine",
-        "sightingid": "240324COO1",
+        "sightingid": "250324CNS1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Remote Operations",
-        "lga": "Cook Shire",
-        "created_date": 1711262841000,
-        "last_edited_date": 1711264217000,
+        "managementunit": "Cairns Operations",
+        "lga": "Cairns Regional",
+        "created_date": 1711331355000,
+        "last_edited_date": 1711343074000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 530332,
+      "id": 530732,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.1582199998417,
-          -23.95779999960822
+          146.08424121521963,
+          -17.8005080369498
         ]
       },
       "properties": {
-        "objectid": 530332,
-        "globalid": "{E6BD1812-4A40-465B-B9B1-D3C2947CE7E0}",
+        "objectid": 530732,
+        "globalid": "{3CDDC4A9-165B-4C96-993F-8D01500A89AF}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1711259160000,
+        "sighttime": 1711313940000,
         "species": "Estuarine",
-        "sightingid": "240324GLT1",
+        "sightingid": "250324CWC1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Capricornia Operations",
-        "lga": "Gladstone Regional",
-        "created_date": 1711260291000,
-        "last_edited_date": 1711263905000,
+        "managementunit": "Innisfail Operations",
+        "lga": "Cassowary Coast Regional",
+        "created_date": 1711314273000,
+        "last_edited_date": 1711316065000,
         "closeddate": null
       }
     }
