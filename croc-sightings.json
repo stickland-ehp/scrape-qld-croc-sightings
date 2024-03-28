@@ -3,28 +3,82 @@
   "features": [
     {
       "type": "Feature",
-      "id": 532733,
+      "id": 534734,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.70027991432428,
-          -16.785320596687036
+          150.7765820045791,
+          -23.290752435277746
         ]
       },
       "properties": {
-        "objectid": 532733,
-        "globalid": "{29AA3B9F-2EC5-43EE-A012-E74BCC9A8C9F}",
+        "objectid": 534734,
+        "globalid": "{4A480DFE-6689-4A8C-AD3E-041DE1B32251}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1711502160000,
+        "sighttime": 1711588980000,
         "species": "Estuarine",
-        "sightingid": "270324CNS1",
+        "sightingid": "280324LVG1",
+        "publicstatus": "No Further Action",
+        "publicinfo": "",
+        "managementunit": "Capricornia Operations",
+        "lga": "Livingstone Shire",
+        "created_date": 1711589230000,
+        "last_edited_date": 1711598725000,
+        "closeddate": 1711598716000
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 535132,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.02846999981293,
+          -17.511650000352432
+        ]
+      },
+      "properties": {
+        "objectid": 535132,
+        "globalid": "{7AB6F05B-7A36-4598-9CFF-E674AF56476A}",
+        "what_was_observed": "Tracks",
+        "sighting": "I did",
+        "sighttime": 1711587120000,
+        "species": "Unsure",
+        "sightingid": "280324CWC1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Cairns Operations",
-        "lga": "Cairns Regional",
-        "created_date": 1711502407000,
-        "last_edited_date": 1711503685000,
+        "managementunit": "Innisfail Operations",
+        "lga": "Cassowary Coast Regional",
+        "created_date": 1711589885000,
+        "last_edited_date": 1711591232000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 535532,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.34026000016019,
+          -10.183920000214668
+        ]
+      },
+      "properties": {
+        "objectid": 535532,
+        "globalid": "{F9A3AB1D-4444-4773-BB2D-3A5BB96BFE86}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1711582200000,
+        "species": "Estuarine",
+        "sightingid": "280324TSI1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Remote Operations",
+        "lga": "Torres Strait Island Regional",
+        "created_date": 1711596279000,
+        "last_edited_date": 1711598987000,
         "closeddate": null
       }
     }
