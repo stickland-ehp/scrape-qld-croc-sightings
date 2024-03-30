@@ -3,55 +3,55 @@
   "features": [
     {
       "type": "Feature",
-      "id": 537132,
+      "id": 537533,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          150.7480600002349,
-          -23.309269999606325
+          141.7229629310637,
+          -13.366745165810775
         ]
       },
       "properties": {
-        "objectid": 537132,
-        "globalid": "{CA8BA4A2-F739-4855-AE8D-2C66E462B0CF}",
+        "objectid": 537533,
+        "globalid": "{D3304D2B-8D01-4A97-8D6E-72BFF9AC47E4}",
         "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1711698600000,
+        "sighting": "Somebody else",
+        "sighttime": 1711774860000,
         "species": "Estuarine",
-        "sightingid": "290324LVG1",
+        "sightingid": "300324ARK1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Capricornia Operations",
-        "lga": "Livingstone Shire",
-        "created_date": 1711698833000,
-        "last_edited_date": 1711700923000,
+        "managementunit": "Remote Operations",
+        "lga": "Aurukun Shire",
+        "created_date": 1711775084000,
+        "last_edited_date": 1711781855000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 536732,
+      "id": 537932,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          149.2999999996789,
-          -21.554870000228888
+          146.31744636119186,
+          -18.529076797472232
         ]
       },
       "properties": {
-        "objectid": 536732,
-        "globalid": "{A3F4FBD6-579C-4CA0-AFF2-E43A8BCA547E}",
+        "objectid": 537932,
+        "globalid": "{E7CC9EE0-472C-4D20-AEEF-4449B4277E3E}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1711680420000,
+        "sighttime": 1711763700000,
         "species": "Estuarine",
-        "sightingid": "290324MKY1",
+        "sightingid": "300324HCN1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Mackay Operations",
-        "lga": "Mackay Regional",
-        "created_date": 1711680670000,
-        "last_edited_date": 1711684108000,
+        "managementunit": "Townsville Operations",
+        "lga": "Hinchinbrook Shire",
+        "created_date": 1711794378000,
+        "last_edited_date": 1711797021000,
         "closeddate": null
       }
     }
