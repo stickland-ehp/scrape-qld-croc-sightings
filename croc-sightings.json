@@ -3,55 +3,55 @@
   "features": [
     {
       "type": "Feature",
-      "id": 537533,
+      "id": 538732,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          141.7229629310637,
-          -13.366745165810775
+          146.04687999958384,
+          -18.27924999968891
         ]
       },
       "properties": {
-        "objectid": 537533,
-        "globalid": "{D3304D2B-8D01-4A97-8D6E-72BFF9AC47E4}",
+        "objectid": 538732,
+        "globalid": "{8B1289A4-D656-4740-98C7-60A9E04FC3CE}",
         "what_was_observed": "Crocodile",
-        "sighting": "Somebody else",
-        "sighttime": 1711774860000,
+        "sighting": "I did",
+        "sighttime": 1711874640000,
         "species": "Estuarine",
-        "sightingid": "300324ARK1",
+        "sightingid": "310324CWC2",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Remote Operations",
-        "lga": "Aurukun Shire",
-        "created_date": 1711775084000,
-        "last_edited_date": 1711781855000,
+        "managementunit": "Innisfail Operations",
+        "lga": "Cassowary Coast Regional",
+        "created_date": 1711875098000,
+        "last_edited_date": 1711876214000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 537932,
+      "id": 538332,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.31744636119186,
-          -18.529076797472232
+          146.0561419427768,
+          -18.021297389491796
         ]
       },
       "properties": {
-        "objectid": 537932,
-        "globalid": "{E7CC9EE0-472C-4D20-AEEF-4449B4277E3E}",
+        "objectid": 538332,
+        "globalid": "{AC03009D-A59C-408A-A101-FB476240226F}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1711763700000,
+        "sighttime": 1711863000000,
         "species": "Estuarine",
-        "sightingid": "300324HCN1",
+        "sightingid": "310324CWC1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Townsville Operations",
-        "lga": "Hinchinbrook Shire",
-        "created_date": 1711794378000,
-        "last_edited_date": 1711797021000,
+        "managementunit": "Innisfail Operations",
+        "lga": "Cassowary Coast Regional",
+        "created_date": 1711868700000,
+        "last_edited_date": 1711868807000,
         "closeddate": null
       }
     }
