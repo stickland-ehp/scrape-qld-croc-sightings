@@ -3,55 +3,55 @@
   "features": [
     {
       "type": "Feature",
-      "id": 539532,
+      "id": 540334,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.94612999962106,
-          -19.43447000003794
+          146.3176334820622,
+          -18.528749612310268
         ]
       },
       "properties": {
-        "objectid": 539532,
-        "globalid": "{D4E44EAD-3EE2-4C67-B453-0E1FB55CC9BD}",
+        "objectid": 540334,
+        "globalid": "{C002C998-8874-45F3-B658-459EE06624A0}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1711931580000,
-        "species": "Freshwater",
-        "sightingid": "010424TSV1",
+        "sighttime": 1712034000000,
+        "species": "Estuarine",
+        "sightingid": "020424HCN1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
         "managementunit": "Townsville Operations",
-        "lga": "Townsville City",
-        "created_date": 1711931790000,
-        "last_edited_date": 1711932526000,
+        "lga": "Hinchinbrook Shire",
+        "created_date": 1712039664000,
+        "last_edited_date": 1712046954000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 539132,
+      "id": 540332,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.03287504960701,
-          -18.26852816081586
+          146.08516537503453,
+          -17.796765468418066
         ]
       },
       "properties": {
-        "objectid": 539132,
-        "globalid": "{0B16D3E7-6BB2-4B64-9CD9-99CB46D767F3}",
+        "objectid": 540332,
+        "globalid": "{A0A8C54D-06CD-44CD-8F1C-B6B88DECE21D}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1711920000000,
-        "species": "Estuarine",
-        "sightingid": "010424CWC1",
+        "sighttime": 1712012220000,
+        "species": "Unsure",
+        "sightingid": "020424CWC1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
         "managementunit": "Innisfail Operations",
         "lga": "Cassowary Coast Regional",
-        "created_date": 1711923071000,
-        "last_edited_date": 1711923316000,
+        "created_date": 1712012388000,
+        "last_edited_date": 1712014093000,
         "closeddate": null
       }
     }
