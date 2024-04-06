@@ -3,109 +3,28 @@
   "features": [
     {
       "type": "Feature",
-      "id": 543932,
+      "id": 544732,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.81572999961605,
-          -19.250229999686972
+          146.71079000018963,
+          -19.25240999984761
         ]
       },
       "properties": {
-        "objectid": 543932,
-        "globalid": "{5BDB1642-C287-4FD9-B9AC-CD43CDB58259}",
-        "what_was_observed": "Crocodile",
+        "objectid": 544732,
+        "globalid": "{904E69AF-6E8D-40EB-B9DF-DDDE702A6224}",
+        "what_was_observed": "Crocodile,Slide",
         "sighting": "Somebody else",
-        "sighttime": 1712311860000,
-        "species": "Unsure",
-        "sightingid": "050424TSV1",
+        "sighttime": 1712394000000,
+        "species": "Estuarine",
+        "sightingid": "060424TSV1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
         "managementunit": "Townsville Operations",
         "lga": "Townsville City",
-        "created_date": 1712312349000,
-        "last_edited_date": 1712313369000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 543532,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          146.25922999985374,
-          -18.59369000022443
-        ]
-      },
-      "properties": {
-        "objectid": 543532,
-        "globalid": "{5C2310FF-F2BB-49CE-8345-5B4D64133012}",
-        "what_was_observed": "Crocodile",
-        "sighting": "Somebody else",
-        "sighttime": 1712286000000,
-        "species": "Estuarine",
-        "sightingid": "050424HCN1",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Townsville Operations",
-        "lga": "Hinchinbrook Shire",
-        "created_date": 1712294553000,
-        "last_edited_date": 1712302463000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 542732,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          145.77274304133388,
-          -16.9509287348505
-        ]
-      },
-      "properties": {
-        "objectid": 542732,
-        "globalid": "{E0DD5E1D-034A-46D8-A81F-D0B84957CF90}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1712272500000,
-        "species": "Estuarine",
-        "sightingid": "050424CNS1",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Cairns Operations",
-        "lga": "Cairns Regional",
-        "created_date": 1712278195000,
-        "last_edited_date": 1712286351000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 543132,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          141.86198907724636,
-          -12.63488472677163
-        ]
-      },
-      "properties": {
-        "objectid": 543132,
-        "globalid": "{4E738449-0C0A-4826-8E98-21E22DF185F6}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1712262780000,
-        "species": "Estuarine",
-        "sightingid": "050424WPA1",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Remote Operations",
-        "lga": "Weipa Town",
-        "created_date": 1712281296000,
-        "last_edited_date": 1712286465000,
+        "created_date": 1712395104000,
+        "last_edited_date": 1712396053000,
         "closeddate": null
       }
     }
