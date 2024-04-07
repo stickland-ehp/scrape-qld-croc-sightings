@@ -3,28 +3,28 @@
   "features": [
     {
       "type": "Feature",
-      "id": 544732,
+      "id": 545532,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.71079000018963,
-          -19.25240999984761
+          150.4259454734393,
+          -23.248479539239277
         ]
       },
       "properties": {
-        "objectid": 544732,
-        "globalid": "{904E69AF-6E8D-40EB-B9DF-DDDE702A6224}",
-        "what_was_observed": "Crocodile,Slide",
-        "sighting": "Somebody else",
-        "sighttime": 1712394000000,
+        "objectid": 545532,
+        "globalid": "{819B5A67-1F16-4EAD-9668-0075EA3FDEB2}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1712483100000,
         "species": "Estuarine",
-        "sightingid": "060424TSV1",
+        "sightingid": "070424LVG1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Townsville Operations",
-        "lga": "Townsville City",
-        "created_date": 1712395104000,
-        "last_edited_date": 1712396053000,
+        "managementunit": "Capricornia Operations",
+        "lga": "Livingstone Shire",
+        "created_date": 1712484512000,
+        "last_edited_date": 1712485985000,
         "closeddate": null
       }
     }
