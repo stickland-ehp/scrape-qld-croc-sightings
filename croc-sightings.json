@@ -3,28 +3,28 @@
   "features": [
     {
       "type": "Feature",
-      "id": 545532,
+      "id": 545932,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          150.4259454734393,
-          -23.248479539239277
+          145.70225999973815,
+          -16.80169999982371
         ]
       },
       "properties": {
-        "objectid": 545532,
-        "globalid": "{819B5A67-1F16-4EAD-9668-0075EA3FDEB2}",
+        "objectid": 545932,
+        "globalid": "{5051C6DE-C77B-4E74-9625-91C9066577E0}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1712483100000,
+        "sighttime": 1712545200000,
         "species": "Estuarine",
-        "sightingid": "070424LVG1",
+        "sightingid": "080424CNS1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Capricornia Operations",
-        "lga": "Livingstone Shire",
-        "created_date": 1712484512000,
-        "last_edited_date": 1712485985000,
+        "managementunit": "Cairns Operations",
+        "lga": "Cairns Regional",
+        "created_date": 1712561534000,
+        "last_edited_date": 1712561667000,
         "closeddate": null
       }
     }
