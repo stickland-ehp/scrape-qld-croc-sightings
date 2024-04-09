@@ -3,28 +3,55 @@
   "features": [
     {
       "type": "Feature",
-      "id": 545932,
+      "id": 547532,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.70225999973815,
-          -16.80169999982371
+          145.74451681628014,
+          -16.860736460856142
         ]
       },
       "properties": {
-        "objectid": 545932,
-        "globalid": "{5051C6DE-C77B-4E74-9625-91C9066577E0}",
+        "objectid": 547532,
+        "globalid": "{6BF892B3-E5F4-4EE0-8047-CA159A3AC6C0}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1712545200000,
+        "sighttime": 1712633700000,
         "species": "Estuarine",
-        "sightingid": "080424CNS1",
+        "sightingid": "090424CNS2",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
         "managementunit": "Cairns Operations",
         "lga": "Cairns Regional",
-        "created_date": 1712561534000,
-        "last_edited_date": 1712561667000,
+        "created_date": 1712660035000,
+        "last_edited_date": 1712660659000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 546732,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.7440031155832,
+          -16.860593798048455
+        ]
+      },
+      "properties": {
+        "objectid": 546732,
+        "globalid": "{9C8B282E-63D8-426E-850A-DA25C7ED24BA}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1712633700000,
+        "species": "",
+        "sightingid": "090424CNS1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Cairns Operations",
+        "lga": "Cairns Regional",
+        "created_date": 1712633836000,
+        "last_edited_date": 1712639296000,
         "closeddate": null
       }
     }
