@@ -3,28 +3,55 @@
   "features": [
     {
       "type": "Feature",
-      "id": 547933,
+      "id": 550332,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.37154143610073,
-          -16.453518928845497
+          150.4255154301499,
+          -23.24843514403685
         ]
       },
       "properties": {
-        "objectid": 547933,
-        "globalid": "{5A990611-8E9C-49E5-B47C-0A114A104145}",
+        "objectid": 550332,
+        "globalid": "{70631411-D7B1-4B64-A850-AA0DF4B5CD5E}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1712703960000,
+        "sighttime": 1712825520000,
         "species": "Estuarine",
-        "sightingid": "100424DUG1",
+        "sightingid": "110424LVG1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
+        "managementunit": "Capricornia Operations",
+        "lga": "Livingstone Shire",
+        "created_date": 1712827419000,
+        "last_edited_date": 1712828294000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 549133,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.7538630996002,
+          -16.897880000307133
+        ]
+      },
+      "properties": {
+        "objectid": 549133,
+        "globalid": "{FD6D3866-678E-4769-BCC0-E0DF66D7BF7C}",
+        "what_was_observed": "Crocodile",
+        "sighting": "",
+        "sighttime": 1712752200000,
+        "species": "Estuarine",
+        "sightingid": "C110424CNS1",
+        "publicstatus": "Removed",
+        "publicinfo": "",
         "managementunit": "Cairns Operations",
-        "lga": "Douglas Shire",
-        "created_date": 1712728155000,
-        "last_edited_date": 1712729823000,
+        "lga": "Cairns Regional",
+        "created_date": 1712798342000,
+        "last_edited_date": 1712809328000,
         "closeddate": null
       }
     }
