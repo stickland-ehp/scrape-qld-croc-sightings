@@ -1,4 +1,32 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "id": 555133,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.36583562828886,
+          -10.84747526928529
+        ]
+      },
+      "properties": {
+        "objectid": 555133,
+        "globalid": "{850751AB-658B-4F7D-8255-D18072529DB5}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1713400500000,
+        "species": "Estuarine",
+        "sightingid": "180424TRS1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Remote Operations",
+        "lga": "Torres Shire",
+        "created_date": 1713405105000,
+        "last_edited_date": 1713419674000,
+        "closeddate": null
+      }
+    }
+  ]
 }
