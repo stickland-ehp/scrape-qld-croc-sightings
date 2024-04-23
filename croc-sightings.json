@@ -3,55 +3,55 @@
   "features": [
     {
       "type": "Feature",
-      "id": 561532,
+      "id": 563132,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.23769773547087,
-          -15.457318133138665
+          146.41064942047706,
+          -19.014892640781014
         ]
       },
       "properties": {
-        "objectid": 561532,
-        "globalid": "{06FC1FB3-BB73-463C-A08D-21E589665A4B}",
+        "objectid": 563132,
+        "globalid": "{C5183F3F-77FE-451F-8309-005263E45E2B}",
         "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1713770760000,
+        "sighting": "Somebody else",
+        "sighttime": 1713865800000,
         "species": "Estuarine",
-        "sightingid": "220424COO1",
+        "sightingid": "230424TSV1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Remote Operations",
-        "lga": "Cook Shire",
-        "created_date": 1713771053000,
-        "last_edited_date": 1713771207000,
+        "managementunit": "Townsville Operations",
+        "lga": "Townsville City",
+        "created_date": 1713865990000,
+        "last_edited_date": 1713870325000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 560732,
+      "id": 562332,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.15173540915157,
-          -18.65392762053686
+          146.1485770502919,
+          -18.65513360815946
         ]
       },
       "properties": {
-        "objectid": 560732,
-        "globalid": "{E1E13DCA-E199-4CB3-AB78-E5EE72FB04BD}",
+        "objectid": 562332,
+        "globalid": "{BFE79D8E-A9D7-49C3-BC77-EF700FA90DED}",
         "what_was_observed": "Crocodile",
         "sighting": "Somebody else",
-        "sighttime": 1713741300000,
+        "sighttime": 1713824100000,
         "species": "Estuarine",
-        "sightingid": "220424HCN1",
+        "sightingid": "230424HCN1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
         "managementunit": "Townsville Operations",
         "lga": "Hinchinbrook Shire",
-        "created_date": 1713760623000,
-        "last_edited_date": 1713763339000,
+        "created_date": 1713832995000,
+        "last_edited_date": 1713835528000,
         "closeddate": null
       }
     }
