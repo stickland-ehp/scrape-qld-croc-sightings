@@ -3,28 +3,55 @@
   "features": [
     {
       "type": "Feature",
-      "id": 563532,
+      "id": 564332,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.08723656758448,
-          -17.795141305418866
+          145.74126000026868,
+          -17.06713000015078
         ]
       },
       "properties": {
-        "objectid": 563532,
-        "globalid": "{DF8C7F52-1390-4EE1-89F6-168B1BFBC567}",
+        "objectid": 564332,
+        "globalid": "{AB5E7CD2-4827-42ED-938E-2B7CE2238E0A}",
         "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1713911340000,
-        "species": "Estuarine",
-        "sightingid": "240424CWC1",
+        "sighting": "Somebody else",
+        "sighttime": 1714037100000,
+        "species": "Unsure",
+        "sightingid": "250424CNS1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Innisfail Operations",
-        "lga": "Cassowary Coast Regional",
-        "created_date": 1713916142000,
-        "last_edited_date": 1713917915000,
+        "managementunit": "Cairns Operations",
+        "lga": "Cairns Regional",
+        "created_date": 1714037613000,
+        "last_edited_date": 1714038139000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 563932,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.78467999976013,
+          -23.279780000046788
+        ]
+      },
+      "properties": {
+        "objectid": 563932,
+        "globalid": "{1CA8A5A7-8F00-421E-A2C9-644ECD43C5C3}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1714022460000,
+        "species": "Estuarine",
+        "sightingid": "250424LVG1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Capricornia Operations",
+        "lga": "Livingstone Shire",
+        "created_date": 1714023107000,
+        "last_edited_date": 1714025149000,
         "closeddate": null
       }
     }
