@@ -3,55 +3,55 @@
   "features": [
     {
       "type": "Feature",
-      "id": 564332,
+      "id": 565532,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.74126000026868,
-          -17.06713000015078
+          146.14184446379994,
+          -18.656279439918666
         ]
       },
       "properties": {
-        "objectid": 564332,
-        "globalid": "{AB5E7CD2-4827-42ED-938E-2B7CE2238E0A}",
+        "objectid": 565532,
+        "globalid": "{EF9EF1F4-CAF0-46A0-9D22-A38BCD207EF8}",
         "what_was_observed": "Crocodile",
-        "sighting": "Somebody else",
-        "sighttime": 1714037100000,
-        "species": "Unsure",
-        "sightingid": "250424CNS1",
+        "sighting": "I did",
+        "sighttime": 1714095360000,
+        "species": "Estuarine",
+        "sightingid": "260424HCN2",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Cairns Operations",
-        "lga": "Cairns Regional",
-        "created_date": 1714037613000,
-        "last_edited_date": 1714082740000,
+        "managementunit": "Townsville Operations",
+        "lga": "Hinchinbrook Shire",
+        "created_date": 1714125594000,
+        "last_edited_date": 1714126170000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 563932,
+      "id": 565132,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          150.78467999976013,
-          -23.279780000046788
+          146.29947999981394,
+          -18.711919999591696
         ]
       },
       "properties": {
-        "objectid": 563932,
-        "globalid": "{1CA8A5A7-8F00-421E-A2C9-644ECD43C5C3}",
+        "objectid": 565132,
+        "globalid": "{B82CF21A-F3D4-4615-AD7A-F0B5ADB0E675}",
         "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1714022460000,
+        "sighting": "Somebody else",
+        "sighttime": 1714083780000,
         "species": "Estuarine",
-        "sightingid": "250424LVG1",
+        "sightingid": "260424HCN1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Capricornia Operations",
-        "lga": "Livingstone Shire",
-        "created_date": 1714023107000,
-        "last_edited_date": 1714082723000,
+        "managementunit": "Townsville Operations",
+        "lga": "Hinchinbrook Shire",
+        "created_date": 1714096908000,
+        "last_edited_date": 1714097383000,
         "closeddate": null
       }
     }
