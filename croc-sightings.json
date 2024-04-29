@@ -3,28 +3,55 @@
   "features": [
     {
       "type": "Feature",
-      "id": 566732,
+      "id": 567532,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.74722435747148,
-          -19.20475106686289
+          150.5969787737565,
+          -23.427699159218584
         ]
       },
       "properties": {
-        "objectid": 566732,
-        "globalid": "{89FDF712-DAF8-44F3-B67B-C73B9850A761}",
+        "objectid": 567532,
+        "globalid": "{CEAB91FD-2F21-402D-B553-692644316C19}",
+        "what_was_observed": "Slide",
+        "sighting": "Somebody else",
+        "sighttime": 1714351620000,
+        "species": "Unsure",
+        "sightingid": "290424LVG1",
+        "publicstatus": "No Further Action",
+        "publicinfo": "",
+        "managementunit": "Capricornia Operations",
+        "lga": "Livingstone Shire",
+        "created_date": 1714352551000,
+        "last_edited_date": 1714365473000,
+        "closeddate": 1714365449000
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 567133,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.36543539828705,
+          -10.850911648789392
+        ]
+      },
+      "properties": {
+        "objectid": 567133,
+        "globalid": "{B19D40AB-B704-4863-BA88-CCE6F35DEFCA}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1714269000000,
-        "species": "Unsure",
-        "sightingid": "280424TSV1",
+        "sighttime": 1714347000000,
+        "species": "Estuarine",
+        "sightingid": "290424TRS1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Townsville Operations",
-        "lga": "Townsville City",
-        "created_date": 1714288419000,
-        "last_edited_date": 1714291445000,
+        "managementunit": "Remote Operations",
+        "lga": "Torres Shire",
+        "created_date": 1714369866000,
+        "last_edited_date": 1714370130000,
         "closeddate": null
       }
     }
