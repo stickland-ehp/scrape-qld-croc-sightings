@@ -3,55 +3,55 @@
   "features": [
     {
       "type": "Feature",
-      "id": 569532,
+      "id": 570333,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.15371999961658,
-          -18.654680000415752
+          146.32956276947212,
+          -18.632301714172346
         ]
       },
       "properties": {
-        "objectid": 569532,
-        "globalid": "{29C8C1A2-B3D5-43D9-B465-13E4A0A28C01}",
+        "objectid": 570333,
+        "globalid": "{B9AAF4EC-88FD-42BA-A574-86064F8A5FC7}",
         "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1714612500000,
+        "sighting": "Somebody else",
+        "sighttime": 1714705200000,
         "species": "Estuarine",
-        "sightingid": "020524HCN1",
+        "sightingid": "030524HCN1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
         "managementunit": "Townsville Operations",
         "lga": "Hinchinbrook Shire",
-        "created_date": 1714612929000,
-        "last_edited_date": 1714613154000,
+        "created_date": 1714713115000,
+        "last_edited_date": 1714713952000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 569132,
+      "id": 569933,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.795610000108,
-          -19.24034999982733
+          146.94059733238007,
+          -19.33726216470573
         ]
       },
       "properties": {
-        "objectid": 569132,
-        "globalid": "{531E8566-86F0-4B9A-8F9B-4C8D453662EC}",
+        "objectid": 569933,
+        "globalid": "{71E00D2B-4D47-407B-B82E-7AF90C9423D6}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1714569000000,
+        "sighttime": 1714690800000,
         "species": "Estuarine",
-        "sightingid": "010524TSV1",
+        "sightingid": "030524TSV1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
         "managementunit": "Townsville Operations",
         "lga": "Townsville City",
-        "created_date": 1714549153000,
-        "last_edited_date": 1714601146000,
+        "created_date": 1714707975000,
+        "last_edited_date": 1714708359000,
         "closeddate": null
       }
     }
