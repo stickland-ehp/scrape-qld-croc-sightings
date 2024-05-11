@@ -1,4 +1,86 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "id": 577932,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.78280985975005,
+          -16.937405335632317
+        ]
+      },
+      "properties": {
+        "objectid": 577932,
+        "globalid": "{1C72720F-B822-42EB-93C7-915E18DDD51C}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1715406240000,
+        "species": "Estuarine",
+        "sightingid": "110524CNS2",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Cairns Operations",
+        "lga": "Cairns Regional",
+        "created_date": 1715423175000,
+        "last_edited_date": 1715423680000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 577533,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.70760473852343,
+          -16.8076270193227
+        ]
+      },
+      "properties": {
+        "objectid": 577533,
+        "globalid": "{6AEF64FF-0465-4B5C-B570-729A7FF555D7}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1715403600000,
+        "species": "Estuarine",
+        "sightingid": "110524CNS1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Cairns Operations",
+        "lga": "Cairns Regional",
+        "created_date": 1715405625000,
+        "last_edited_date": 1715405986000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 577532,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.6653599998908,
+          -19.1843499996928
+        ]
+      },
+      "properties": {
+        "objectid": 577532,
+        "globalid": "{9DCF003D-E745-4C15-BA04-4A575A3ABFF6}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1715380380000,
+        "species": "Estuarine",
+        "sightingid": "110524TSV1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Townsville Operations",
+        "lga": "Townsville City",
+        "created_date": 1715381418000,
+        "last_edited_date": 1715382134000,
+        "closeddate": null
+      }
+    }
+  ]
 }
