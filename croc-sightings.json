@@ -3,28 +3,28 @@
   "features": [
     {
       "type": "Feature",
-      "id": 582332,
+      "id": 582732,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.14466290105443,
-          -18.656146827100077
+          150.54249386678484,
+          -23.390970796383133
         ]
       },
       "properties": {
-        "objectid": 582332,
-        "globalid": "{D578C762-E8C1-49C4-9928-226E746E86A8}",
+        "objectid": 582732,
+        "globalid": "{2760CB0E-8AF5-4A88-B045-F0056C607BD3}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1715825100000,
-        "species": "Unsure",
-        "sightingid": "160524HCN1",
+        "sighttime": 1715913180000,
+        "species": "",
+        "sightingid": "170524ROC1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Townsville Operations",
-        "lga": "Hinchinbrook Shire",
-        "created_date": 1715826724000,
-        "last_edited_date": 1715837429000,
+        "managementunit": "Capricornia Operations",
+        "lga": "Rockhampton Regional",
+        "created_date": 1715913318000,
+        "last_edited_date": 1715916088000,
         "closeddate": null
       }
     }
