@@ -1,4 +1,59 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "id": 587932,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.04591000017408,
+          -20.837680000047555
+        ]
+      },
+      "properties": {
+        "objectid": 587932,
+        "globalid": "{9E447A0A-2DDE-41DE-8327-9B303EA6C7F6}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1716522600000,
+        "species": "Unsure",
+        "sightingid": "240524CCY2",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Remote Operations",
+        "lga": "Cloncurry Shire",
+        "created_date": 1716522917000,
+        "last_edited_date": 1716524218000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 587533,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.50616999988208,
+          -20.705389999659793
+        ]
+      },
+      "properties": {
+        "objectid": 587533,
+        "globalid": "{A8E99C3A-E94D-451F-8117-103EF75E7CD5}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1716520020000,
+        "species": "Unsure",
+        "sightingid": "240524CCY1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Remote Operations",
+        "lga": "Cloncurry Shire",
+        "created_date": 1716520319000,
+        "last_edited_date": 1716524132000,
+        "closeddate": null
+      }
+    }
+  ]
 }
