@@ -3,55 +3,190 @@
   "features": [
     {
       "type": "Feature",
-      "id": 587932,
+      "id": 589132,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          140.04591000017408,
-          -20.837680000047555
+          150.75728000018893,
+          -23.29559999987964
         ]
       },
       "properties": {
-        "objectid": 587932,
-        "globalid": "{9E447A0A-2DDE-41DE-8327-9B303EA6C7F6}",
+        "objectid": 589132,
+        "globalid": "{7620E735-6B78-495E-A927-42791ECB09D0}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1716522600000,
-        "species": "Unsure",
-        "sightingid": "240524CCY2",
+        "sighttime": 1716620880000,
+        "species": "Estuarine",
+        "sightingid": "250524LVG2",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Remote Operations",
-        "lga": "Cloncurry Shire",
-        "created_date": 1716522917000,
-        "last_edited_date": 1716524218000,
+        "managementunit": "Capricornia Operations",
+        "lga": "Livingstone Shire",
+        "created_date": 1716621322000,
+        "last_edited_date": 1716623986000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 587533,
+      "id": 588734,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          140.50616999988208,
-          -20.705389999659793
+          150.82467000032767,
+          -23.27680999971751
         ]
       },
       "properties": {
-        "objectid": 587533,
-        "globalid": "{A8E99C3A-E94D-451F-8117-103EF75E7CD5}",
+        "objectid": 588734,
+        "globalid": "{3E4F7A4F-BA4A-47D1-9C8E-AC6CFEAEBDC1}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1716520020000,
+        "sighttime": 1716619260000,
         "species": "Unsure",
-        "sightingid": "240524CCY1",
+        "sightingid": "250524LVG1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Remote Operations",
-        "lga": "Cloncurry Shire",
-        "created_date": 1716520319000,
-        "last_edited_date": 1716524132000,
+        "managementunit": "Capricornia Operations",
+        "lga": "Livingstone Shire",
+        "created_date": 1716619652000,
+        "last_edited_date": 1716623866000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 588733,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.98516999955714,
+          -21.00818000021425
+        ]
+      },
+      "properties": {
+        "objectid": 588733,
+        "globalid": "{11612483-A1FA-4B6F-8E7F-CD99BEBD186C}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1716618000000,
+        "species": "Estuarine",
+        "sightingid": "250524MKY1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Mackay Operations",
+        "lga": "Mackay Regional",
+        "created_date": 1716618339000,
+        "last_edited_date": 1716624098000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 588732,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.7817701757518,
+          -19.303321995346657
+        ]
+      },
+      "properties": {
+        "objectid": 588732,
+        "globalid": "{0A8F1F59-1A6A-47D0-ACA0-E9D8CDBBAAF9}",
+        "what_was_observed": "Crocodile",
+        "sighting": "Somebody else",
+        "sighttime": 1716589800000,
+        "species": "Unsure",
+        "sightingid": "250524TSV1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Townsville Operations",
+        "lga": "Townsville City",
+        "created_date": 1716599810000,
+        "last_edited_date": 1716617430000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 589133,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.7498528270341,
+          -16.902543859470956
+        ]
+      },
+      "properties": {
+        "objectid": 589133,
+        "globalid": "{9ABF948D-A7B0-49BD-BFAF-F0B0E12CCD4D}",
+        "what_was_observed": "Crocodile",
+        "sighting": "Somebody else",
+        "sighttime": 1716588000000,
+        "species": "Unsure",
+        "sightingid": "250524CNS1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Cairns Operations",
+        "lga": "Cairns Regional",
+        "created_date": 1716624795000,
+        "last_edited_date": 1716633537000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 588333,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.445154828286,
+          -23.33648503002742
+        ]
+      },
+      "properties": {
+        "objectid": 588333,
+        "globalid": "{A51F78DF-539B-4CB2-9D83-869DFBD78A55}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1716553500000,
+        "species": "Estuarine",
+        "sightingid": "240524ROC1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Capricornia Operations",
+        "lga": "Rockhampton Regional",
+        "created_date": 1716553914000,
+        "last_edited_date": 1716575316000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 588332,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.45046850692196,
+          -23.329068278983158
+        ]
+      },
+      "properties": {
+        "objectid": 588332,
+        "globalid": "{AFA3241C-DD60-488B-9C9D-2CAB3EAF6FB8}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1716552840000,
+        "species": "Estuarine",
+        "sightingid": "240524LVG1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Capricornia Operations",
+        "lga": "Livingstone Shire",
+        "created_date": 1716553078000,
+        "last_edited_date": 1716575226000,
         "closeddate": null
       }
     }
