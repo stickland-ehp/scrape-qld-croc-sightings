@@ -3,190 +3,55 @@
   "features": [
     {
       "type": "Feature",
-      "id": 589132,
+      "id": 589933,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          150.75728000018893,
-          -23.29559999987964
+          150.75826917197924,
+          -23.29094865826137
         ]
       },
       "properties": {
-        "objectid": 589132,
-        "globalid": "{7620E735-6B78-495E-A927-42791ECB09D0}",
+        "objectid": 589933,
+        "globalid": "{B9796DC4-9D80-495A-96EB-B62DF0FEB26E}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1716620880000,
+        "sighttime": 1716687300000,
         "species": "Estuarine",
-        "sightingid": "250524LVG2",
+        "sightingid": "260524LVG1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
         "managementunit": "Capricornia Operations",
         "lga": "Livingstone Shire",
-        "created_date": 1716621322000,
-        "last_edited_date": 1716623986000,
+        "created_date": 1716688000000,
+        "last_edited_date": 1716688402000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 588734,
+      "id": 589532,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          150.82467000032767,
-          -23.27680999971751
+          145.6990631741197,
+          -16.869132495624903
         ]
       },
       "properties": {
-        "objectid": 588734,
-        "globalid": "{3E4F7A4F-BA4A-47D1-9C8E-AC6CFEAEBDC1}",
+        "objectid": 589532,
+        "globalid": "{4D610410-95A6-46A1-B923-289D56D5D098}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1716619260000,
-        "species": "Unsure",
-        "sightingid": "250524LVG1",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Capricornia Operations",
-        "lga": "Livingstone Shire",
-        "created_date": 1716619652000,
-        "last_edited_date": 1716623866000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 588733,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          148.98516999955714,
-          -21.00818000021425
-        ]
-      },
-      "properties": {
-        "objectid": 588733,
-        "globalid": "{11612483-A1FA-4B6F-8E7F-CD99BEBD186C}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1716618000000,
+        "sighttime": 1716674100000,
         "species": "Estuarine",
-        "sightingid": "250524MKY1",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Mackay Operations",
-        "lga": "Mackay Regional",
-        "created_date": 1716618339000,
-        "last_edited_date": 1716624098000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 588732,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          146.7817701757518,
-          -19.303321995346657
-        ]
-      },
-      "properties": {
-        "objectid": 588732,
-        "globalid": "{0A8F1F59-1A6A-47D0-ACA0-E9D8CDBBAAF9}",
-        "what_was_observed": "Crocodile",
-        "sighting": "Somebody else",
-        "sighttime": 1716589800000,
-        "species": "Unsure",
-        "sightingid": "250524TSV1",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Townsville Operations",
-        "lga": "Townsville City",
-        "created_date": 1716599810000,
-        "last_edited_date": 1716617430000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 589133,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          145.7498528270341,
-          -16.902543859470956
-        ]
-      },
-      "properties": {
-        "objectid": 589133,
-        "globalid": "{9ABF948D-A7B0-49BD-BFAF-F0B0E12CCD4D}",
-        "what_was_observed": "Crocodile",
-        "sighting": "Somebody else",
-        "sighttime": 1716588000000,
-        "species": "Unsure",
-        "sightingid": "250524CNS1",
+        "sightingid": "260524CNS1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
         "managementunit": "Cairns Operations",
         "lga": "Cairns Regional",
-        "created_date": 1716624795000,
-        "last_edited_date": 1716633537000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 588333,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.445154828286,
-          -23.33648503002742
-        ]
-      },
-      "properties": {
-        "objectid": 588333,
-        "globalid": "{A51F78DF-539B-4CB2-9D83-869DFBD78A55}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1716553500000,
-        "species": "Estuarine",
-        "sightingid": "240524ROC1",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Capricornia Operations",
-        "lga": "Rockhampton Regional",
-        "created_date": 1716553914000,
-        "last_edited_date": 1716575316000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 588332,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.45046850692196,
-          -23.329068278983158
-        ]
-      },
-      "properties": {
-        "objectid": 588332,
-        "globalid": "{AFA3241C-DD60-488B-9C9D-2CAB3EAF6FB8}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1716552840000,
-        "species": "Estuarine",
-        "sightingid": "240524LVG1",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Capricornia Operations",
-        "lga": "Livingstone Shire",
-        "created_date": 1716553078000,
-        "last_edited_date": 1716575226000,
+        "created_date": 1716674275000,
+        "last_edited_date": 1716674418000,
         "closeddate": null
       }
     }
