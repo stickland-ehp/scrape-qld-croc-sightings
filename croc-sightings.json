@@ -3,28 +3,55 @@
   "features": [
     {
       "type": "Feature",
-      "id": 590332,
+      "id": 591532,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          142.34944919418825,
-          -10.884230194670918
+          146.14858278064509,
+          -18.655077915195484
         ]
       },
       "properties": {
-        "objectid": 590332,
-        "globalid": "{71A721EA-0A05-441D-B1D2-158F05CC4E15}",
+        "objectid": 591532,
+        "globalid": "{CD151687-3F19-4FA0-B15A-21BC3EDEA8D2}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1716728820000,
-        "species": "",
-        "sightingid": "260524TRS1",
+        "sighttime": 1716868800000,
+        "species": "Unsure",
+        "sightingid": "280524HCN1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Remote Operations",
-        "lga": "Torres Shire",
-        "created_date": 1716729344000,
-        "last_edited_date": 1716760013000,
+        "managementunit": "Townsville Operations",
+        "lga": "Hinchinbrook Shire",
+        "created_date": 1716871047000,
+        "last_edited_date": 1716873636000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 591132,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.07651630295254,
+          -17.487512243736784
+        ]
+      },
+      "properties": {
+        "objectid": 591132,
+        "globalid": "{4C2CC710-A820-4C42-849E-36F9819A98CF}",
+        "what_was_observed": "Slide",
+        "sighting": "I did",
+        "sighttime": 1716851640000,
+        "species": "Estuarine",
+        "sightingid": "280524CWC1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Innisfail Operations",
+        "lga": "Cassowary Coast Regional",
+        "created_date": 1716852044000,
+        "last_edited_date": 1716862616000,
         "closeddate": null
       }
     }
