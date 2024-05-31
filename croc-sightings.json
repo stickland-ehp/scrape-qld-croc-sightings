@@ -3,55 +3,82 @@
   "features": [
     {
       "type": "Feature",
-      "id": 594733,
+      "id": 596332,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          142.38313999957438,
-          -10.832559999968648
+          144.2064807950954,
+          -20.848171962047687
         ]
       },
       "properties": {
-        "objectid": 594733,
-        "globalid": "{3F69555E-904E-4E04-BC93-9B3983BFB1C8}",
+        "objectid": 596332,
+        "globalid": "{85FBC14C-903F-41DA-9B3E-20E2A80B194C}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1717068000000,
-        "species": "Estuarine",
-        "sightingid": "300524TRS1",
-        "publicstatus": "Under Investigation",
+        "sighttime": 1717115400000,
+        "species": "Unsure",
+        "sightingid": "310524FLD1",
+        "publicstatus": "No Further Action",
         "publicinfo": "",
         "managementunit": "Remote Operations",
-        "lga": "Torres Shire",
-        "created_date": 1717068351000,
-        "last_edited_date": 1717068839000,
+        "lga": "Flinders Shire",
+        "created_date": 1717120011000,
+        "last_edited_date": 1717128807000,
+        "closeddate": 1717128797000
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 595932,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.77541412978937,
+          -19.226740970295797
+        ]
+      },
+      "properties": {
+        "objectid": 595932,
+        "globalid": "{BC63194F-ECC0-43A1-89EC-493ABDEE91BC}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1717111140000,
+        "species": "Estuarine",
+        "sightingid": "310524TSV1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Townsville Operations",
+        "lga": "Townsville City",
+        "created_date": 1717112244000,
+        "last_edited_date": 1717114781000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 594334,
+      "id": 596732,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.32872603010748,
-          -18.44562672830223
+          150.76358776889145,
+          -23.27033957759885
         ]
       },
       "properties": {
-        "objectid": 594334,
-        "globalid": "{894604CF-21C3-4B0B-921D-FB409BBA81CC}",
-        "what_was_observed": "Slide",
-        "sighting": "I did",
-        "sighttime": 1717047180000,
+        "objectid": 596732,
+        "globalid": "{CA2AE23E-F938-4A3A-AD4D-74977491CF1C}",
+        "what_was_observed": "Crocodile",
+        "sighting": "Somebody else",
+        "sighttime": 1717098540000,
         "species": "Estuarine",
-        "sightingid": "300524CWC1",
+        "sightingid": "310524LVG3",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Innisfail Operations",
-        "lga": "Cassowary Coast Regional",
-        "created_date": 1717047591000,
-        "last_edited_date": 1717048012000,
+        "managementunit": "Capricornia Operations",
+        "lga": "Livingstone Shire",
+        "created_date": 1717142105000,
+        "last_edited_date": 1717143471000,
         "closeddate": null
       }
     }
