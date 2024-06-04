@@ -3,82 +3,28 @@
   "features": [
     {
       "type": "Feature",
-      "id": 598333,
+      "id": 599532,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.15387000030267,
-          -18.655710000112176
+          145.78157999965077,
+          -16.945720000302217
         ]
       },
       "properties": {
-        "objectid": 598333,
-        "globalid": "{615BC678-4028-4C2B-AA5F-1FF0DF52BBE8}",
+        "objectid": 599532,
+        "globalid": "{026CD149-DC95-4E29-9FAC-166CFA7C9247}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1717385880000,
+        "sighttime": 1717473600000,
         "species": "Estuarine",
-        "sightingid": "030624HCN2",
+        "sightingid": "040624CNS2",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Townsville Operations",
-        "lga": "Hinchinbrook Shire",
-        "created_date": 1717386230000,
-        "last_edited_date": 1717395259000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 598332,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          146.14842482088548,
-          -18.654990539294378
-        ]
-      },
-      "properties": {
-        "objectid": 598332,
-        "globalid": "{ADFC8608-5825-4D1B-8DA2-607AE5553822}",
-        "what_was_observed": "Crocodile",
-        "sighting": "Somebody else",
-        "sighttime": 1717377360000,
-        "species": "Estuarine",
-        "sightingid": "030624HCN1",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Townsville Operations",
-        "lga": "Hinchinbrook Shire",
-        "created_date": 1717385016000,
-        "last_edited_date": 1717386554000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 597934,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          142.36738145551797,
-          -10.844870443557898
-        ]
-      },
-      "properties": {
-        "objectid": 597934,
-        "globalid": "{6A53B255-9B7B-4B82-9538-069B0CE69089}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1717370820000,
-        "species": "Estuarine",
-        "sightingid": "030624TRS1",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Remote Operations",
-        "lga": "Torres Shire",
-        "created_date": 1717384162000,
-        "last_edited_date": 1717384653000,
+        "managementunit": "Cairns Operations",
+        "lga": "Cairns Regional",
+        "created_date": 1717488011000,
+        "last_edited_date": 1717491223000,
         "closeddate": null
       }
     }
