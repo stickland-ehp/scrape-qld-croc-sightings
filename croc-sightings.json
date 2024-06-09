@@ -3,28 +3,55 @@
   "features": [
     {
       "type": "Feature",
-      "id": 602332,
+      "id": 603132,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.3931074222806,
-          -16.391678164713845
+          146.1485641989934,
+          -18.6551383276128
         ]
       },
       "properties": {
-        "objectid": 602332,
-        "globalid": "{EC712020-C601-47CD-9408-3092FE9B0948}",
+        "objectid": 603132,
+        "globalid": "{69BBF8E7-26AD-49CB-A260-D6A3D8C27655}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1717813800000,
+        "sighttime": 1717898580000,
         "species": "Estuarine",
-        "sightingid": "080624DUG1",
+        "sightingid": "090624HCN1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Cairns Operations",
-        "lga": "Douglas Shire",
-        "created_date": 1717833809000,
-        "last_edited_date": 1717834134000,
+        "managementunit": "Townsville Operations",
+        "lga": "Hinchinbrook Shire",
+        "created_date": 1717898864000,
+        "last_edited_date": 1717899188000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 602733,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.08995999961073,
+          -17.666180000378642
+        ]
+      },
+      "properties": {
+        "objectid": 602733,
+        "globalid": "{AE8A28E3-61CB-4F20-B6E4-8A764A68A1D8}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1717891740000,
+        "species": "Estuarine",
+        "sightingid": "090624CPT1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Remote Operations",
+        "lga": "Carpentaria Shire",
+        "created_date": 1717892355000,
+        "last_edited_date": 1717892499000,
         "closeddate": null
       }
     }
