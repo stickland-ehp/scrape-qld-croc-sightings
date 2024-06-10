@@ -3,55 +3,55 @@
   "features": [
     {
       "type": "Feature",
-      "id": 603132,
+      "id": 603932,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.1485641989934,
-          -18.6551383276128
+          146.94194444418346,
+          -19.324166666882082
         ]
       },
       "properties": {
-        "objectid": 603132,
-        "globalid": "{69BBF8E7-26AD-49CB-A260-D6A3D8C27655}",
+        "objectid": 603932,
+        "globalid": "{D0AAF9F7-BB9E-42B2-8B80-C0C4B48914EB}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1717898580000,
+        "sighttime": 1717997400000,
         "species": "Estuarine",
-        "sightingid": "090624HCN1",
+        "sightingid": "100624TSV1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
         "managementunit": "Townsville Operations",
-        "lga": "Hinchinbrook Shire",
-        "created_date": 1717898864000,
-        "last_edited_date": 1717899188000,
+        "lga": "Townsville City",
+        "created_date": 1718000516000,
+        "last_edited_date": 1718000906000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 602733,
+      "id": 603532,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          141.08995999961073,
-          -17.666180000378642
+          147.11222222182082,
+          -19.51027777746407
         ]
       },
       "properties": {
-        "objectid": 602733,
-        "globalid": "{AE8A28E3-61CB-4F20-B6E4-8A764A68A1D8}",
+        "objectid": 603532,
+        "globalid": "{496BB6D3-466C-4388-B116-F47A98B25E21}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1717891740000,
+        "sighttime": 1717966800000,
         "species": "Estuarine",
-        "sightingid": "090624CPT1",
+        "sightingid": "100624BKN1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Remote Operations",
-        "lga": "Carpentaria Shire",
-        "created_date": 1717892355000,
-        "last_edited_date": 1717892499000,
+        "managementunit": "Townsville Operations",
+        "lga": "Burdekin Shire",
+        "created_date": 1717973584000,
+        "last_edited_date": 1717974140000,
         "closeddate": null
       }
     }
