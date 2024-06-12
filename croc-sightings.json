@@ -1,4 +1,86 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "id": 605932,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.40614999990697,
+          -16.435880000340994
+        ]
+      },
+      "properties": {
+        "objectid": 605932,
+        "globalid": "{7949E2CB-654F-4452-8F0F-A45EE83F0742}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1718167740000,
+        "species": "Unsure",
+        "sightingid": "120624DUG1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Cairns Operations",
+        "lga": "Douglas Shire",
+        "created_date": 1718168533000,
+        "last_edited_date": 1718178309000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 606332,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.14826478871257,
+          -18.655256440720585
+        ]
+      },
+      "properties": {
+        "objectid": 606332,
+        "globalid": "{4B2CA34F-B08F-4B89-BA83-F6F37E6C396D}",
+        "what_was_observed": "Crocodile",
+        "sighting": "Somebody else",
+        "sighttime": 1718153100000,
+        "species": "Estuarine",
+        "sightingid": "120624HCN1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Townsville Operations",
+        "lga": "Hinchinbrook Shire",
+        "created_date": 1718169345000,
+        "last_edited_date": 1718177990000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 606333,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.14474097722902,
+          -18.655375297622875
+        ]
+      },
+      "properties": {
+        "objectid": 606333,
+        "globalid": "{C7E35577-3AA0-4F0C-899B-841149232735}",
+        "what_was_observed": "Slide",
+        "sighting": "Somebody else",
+        "sighttime": 1718151300000,
+        "species": "Unsure",
+        "sightingid": "120624HCN2",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Townsville Operations",
+        "lga": "Hinchinbrook Shire",
+        "created_date": 1718169555000,
+        "last_edited_date": 1718178121000,
+        "closeddate": null
+      }
+    }
+  ]
 }
