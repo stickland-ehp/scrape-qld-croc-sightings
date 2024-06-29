@@ -1,4 +1,59 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "id": 616732,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.70696021437502,
+          -16.807136423683403
+        ]
+      },
+      "properties": {
+        "objectid": 616732,
+        "globalid": "{9C721BAA-331D-4BA9-8503-AC5D5B9D5A39}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1719627240000,
+        "species": "Estuarine",
+        "sightingid": "290624CNS1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Cairns Operations",
+        "lga": "Cairns Regional",
+        "created_date": 1719627517000,
+        "last_edited_date": 1719628439000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 616332,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.46652723979642,
+          -16.525446125931285
+        ]
+      },
+      "properties": {
+        "objectid": 616332,
+        "globalid": "{143FF308-B72C-4B22-88C0-868D15679F30}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1719618240000,
+        "species": "Freshwater",
+        "sightingid": "290624DUG1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Cairns Operations",
+        "lga": "Douglas Shire",
+        "created_date": 1719618601000,
+        "last_edited_date": 1719619431000,
+        "closeddate": null
+      }
+    }
+  ]
 }
