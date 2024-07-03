@@ -1,32 +1,4 @@
 {
   "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 620333,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          145.88864789957614,
-          -16.955939299850748
-        ]
-      },
-      "properties": {
-        "objectid": 620333,
-        "globalid": "{CB71AAC5-2F85-48DB-8B73-E8CCFBCB635A}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1719894600000,
-        "species": "Estuarine",
-        "sightingid": "020724YAA1",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Cairns Operations",
-        "lga": "Yarrabah Aboriginal Shire",
-        "created_date": 1719900186000,
-        "last_edited_date": 1719902413000,
-        "closeddate": null
-      }
-    }
-  ]
+  "features": []
 }
