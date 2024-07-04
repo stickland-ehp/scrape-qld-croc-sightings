@@ -1,4 +1,113 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "id": 622733,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.80746859369836,
+          -19.239656674034546
+        ]
+      },
+      "properties": {
+        "objectid": 622733,
+        "globalid": "{AA3A2248-D11C-40CE-B843-9D3207F7D050}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1720072800000,
+        "species": "Estuarine",
+        "sightingid": "040724TSV1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Townsville Operations",
+        "lga": "Townsville City",
+        "created_date": 1720073480000,
+        "last_edited_date": 1720074058000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 623532,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.7075622446172,
+          -16.807735156767794
+        ]
+      },
+      "properties": {
+        "objectid": 623532,
+        "globalid": "{9FC00747-7A22-4DE2-91B8-B47BD0836EDD}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1720071060000,
+        "species": "Estuarine",
+        "sightingid": "040724CNS2",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Cairns Operations",
+        "lga": "Cairns Regional",
+        "created_date": 1720075042000,
+        "last_edited_date": 1720075236000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 622732,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.02955235893535,
+          -28.946602960270376
+        ]
+      },
+      "properties": {
+        "objectid": 622732,
+        "globalid": "{71DA5C6B-EA54-4C4B-8F5B-37728A99AA2D}",
+        "what_was_observed": "Slide",
+        "sighting": "Somebody else",
+        "sighttime": 1720062840000,
+        "species": "Freshwater",
+        "sightingid": "040724UNK1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Western Downs Operations",
+        "lga": "UNK",
+        "created_date": 1720063021000,
+        "last_edited_date": 1720073647000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 623132,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.70772773585207,
+          -16.807457674669966
+        ]
+      },
+      "properties": {
+        "objectid": 623132,
+        "globalid": "{40425162-A437-4EF3-927E-B41AF6018A3A}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1720060200000,
+        "species": "Estuarine",
+        "sightingid": "040724CNS1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Cairns Operations",
+        "lga": "Cairns Regional",
+        "created_date": 1720063540000,
+        "last_edited_date": 1720073864000,
+        "closeddate": null
+      }
+    }
+  ]
 }
