@@ -1,4 +1,32 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "id": 633135,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.16462651123936,
+          -21.089594358046398
+        ]
+      },
+      "properties": {
+        "objectid": 633135,
+        "globalid": "{059323F5-5A95-4C52-8672-ADC640345347}",
+        "what_was_observed": "Crocodile",
+        "sighting": "Somebody else",
+        "sighttime": 1721449800000,
+        "species": "Unsure",
+        "sightingid": "200724MKY1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Mackay Operations",
+        "lga": "Mackay Regional",
+        "created_date": 1721455725000,
+        "last_edited_date": 1721456493000,
+        "closeddate": null
+      }
+    }
+  ]
 }
