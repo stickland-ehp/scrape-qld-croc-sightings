@@ -1,32 +1,4 @@
 {
   "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 633935,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          147.3982499998236,
-          -19.586259999880856
-        ]
-      },
-      "properties": {
-        "objectid": 633935,
-        "globalid": "{ABD20CBE-AB7F-4D3E-8D1B-BC7F679DA950}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1721597520000,
-        "species": "Freshwater",
-        "sightingid": "220724BKN1",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Townsville Operations",
-        "lga": "Burdekin Shire",
-        "created_date": 1721598063000,
-        "last_edited_date": 1721599371000,
-        "closeddate": null
-      }
-    }
-  ]
+  "features": []
 }
