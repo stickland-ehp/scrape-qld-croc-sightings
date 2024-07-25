@@ -3,28 +3,28 @@
   "features": [
     {
       "type": "Feature",
-      "id": 635935,
+      "id": 636735,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          149.32700283789328,
-          -21.572400388444557
+          146.7332499996217,
+          -19.321099999833063
         ]
       },
       "properties": {
-        "objectid": 635935,
-        "globalid": "{61A88837-9066-4634-A2A3-EB45692DBA4A}",
+        "objectid": 636735,
+        "globalid": "{DEFD5E83-8594-4580-9D8E-4167EF8ED9DE}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1721788800000,
-        "species": "",
-        "sightingid": "240724MKY1",
+        "sighttime": 1721858220000,
+        "species": "Freshwater",
+        "sightingid": "250724TSV1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Mackay Operations",
-        "lga": "Mackay Regional",
-        "created_date": 1721788925000,
-        "last_edited_date": 1721796730000,
+        "managementunit": "Townsville Operations",
+        "lga": "Townsville City",
+        "created_date": 1721858498000,
+        "last_edited_date": 1721860053000,
         "closeddate": null
       }
     }
