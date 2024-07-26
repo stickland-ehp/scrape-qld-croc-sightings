@@ -3,28 +3,55 @@
   "features": [
     {
       "type": "Feature",
-      "id": 636735,
+      "id": 638335,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.7332499996217,
-          -19.321099999833063
+          148.2286030479853,
+          -19.968922073918208
         ]
       },
       "properties": {
-        "objectid": 636735,
-        "globalid": "{DEFD5E83-8594-4580-9D8E-4167EF8ED9DE}",
+        "objectid": 638335,
+        "globalid": "{E0D7154A-75EF-4EEB-8FB4-0C1073662C24}",
         "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1721858220000,
-        "species": "Freshwater",
-        "sightingid": "250724TSV1",
+        "sighting": "Somebody else",
+        "sighttime": 1721964480000,
+        "species": "Unsure",
+        "sightingid": "260724WTS1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Townsville Operations",
-        "lga": "Townsville City",
-        "created_date": 1721858498000,
-        "last_edited_date": 1721860053000,
+        "managementunit": "Mackay Operations",
+        "lga": "Whitsunday Regional",
+        "created_date": 1721964860000,
+        "last_edited_date": 1721970801000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 638336,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.69883615026572,
+          -20.451909575503233
+        ]
+      },
+      "properties": {
+        "objectid": 638336,
+        "globalid": "{1405DD15-F2E7-4940-98EF-1948195127F7}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1721942040000,
+        "species": "Estuarine",
+        "sightingid": "260724WTS2",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Mackay Operations",
+        "lga": "Whitsunday Regional",
+        "created_date": 1721967418000,
+        "last_edited_date": 1721969881000,
         "closeddate": null
       }
     }
