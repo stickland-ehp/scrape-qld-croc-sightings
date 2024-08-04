@@ -1,4 +1,32 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "id": 646336,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.90073347671714,
+          -14.400392703981726
+        ]
+      },
+      "properties": {
+        "objectid": 646336,
+        "globalid": "{A3C7CB46-D1D4-4FD6-8F5D-FBB0879FD046}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1722744000000,
+        "species": "Estuarine",
+        "sightingid": "040824COO1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Remote Operations",
+        "lga": "Cook Shire",
+        "created_date": 1722758963000,
+        "last_edited_date": 1722760699000,
+        "closeddate": null
+      }
+    }
+  ]
 }
