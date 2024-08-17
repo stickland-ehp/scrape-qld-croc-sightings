@@ -3,82 +3,28 @@
   "features": [
     {
       "type": "Feature",
-      "id": 659537,
+      "id": 660337,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          147.09642999992442,
-          -19.460649999656994
+          145.627114907532,
+          -17.286934815885537
         ]
       },
       "properties": {
-        "objectid": 659537,
-        "globalid": "{4403D11A-6E48-45BF-B9B3-C165999D7746}",
+        "objectid": 660337,
+        "globalid": "{D5031136-C423-42E3-9377-26E330E47EDE}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1723771860000,
-        "species": "Estuarine",
-        "sightingid": "160824BKN1",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Townsville Operations",
-        "lga": "Burdekin Shire",
-        "created_date": 1723797638000,
-        "last_edited_date": 1723797825000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 658738,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          146.1600014934953,
-          -18.408061078967947
-        ]
-      },
-      "properties": {
-        "objectid": 658738,
-        "globalid": "{D8E63F32-9AE4-4BB0-9CDB-00D1FF39D62B}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1723762800000,
-        "species": "Estuarine",
-        "sightingid": "160824CWC1",
+        "sighttime": 1723871700000,
+        "species": "Freshwater",
+        "sightingid": "170824TBL1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
         "managementunit": "Innisfail Operations",
-        "lga": "Cassowary Coast Regional",
-        "created_date": 1723779879000,
-        "last_edited_date": 1723781193000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 658737,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          145.73358263133798,
-          -16.873565817667053
-        ]
-      },
-      "properties": {
-        "objectid": 658737,
-        "globalid": "{A2ECC78D-FF56-471E-A675-469D62B4000A}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1723759200000,
-        "species": "Estuarine",
-        "sightingid": "160824CNS1",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Cairns Operations",
-        "lga": "Cairns Regional",
-        "created_date": 1723777092000,
-        "last_edited_date": 1723782233000,
+        "lga": "Tablelands Regional",
+        "created_date": 1723884379000,
+        "last_edited_date": 1723884646000,
         "closeddate": null
       }
     }
