@@ -3,28 +3,28 @@
   "features": [
     {
       "type": "Feature",
-      "id": 660337,
+      "id": 661137,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.627114907532,
-          -17.286934815885537
+          146.0606899998726,
+          -17.95874000012194
         ]
       },
       "properties": {
-        "objectid": 660337,
-        "globalid": "{D5031136-C423-42E3-9377-26E330E47EDE}",
+        "objectid": 661137,
+        "globalid": "{6F6DE21D-D3A0-4DE0-B83B-D35256D55635}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1723871700000,
-        "species": "Freshwater",
-        "sightingid": "170824TBL1",
+        "sighttime": 1723952700000,
+        "species": "Estuarine",
+        "sightingid": "180824CWC2",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
         "managementunit": "Innisfail Operations",
-        "lga": "Tablelands Regional",
-        "created_date": 1723884379000,
-        "last_edited_date": 1723884646000,
+        "lga": "Cassowary Coast Regional",
+        "created_date": 1723954827000,
+        "last_edited_date": 1723955153000,
         "closeddate": null
       }
     }
