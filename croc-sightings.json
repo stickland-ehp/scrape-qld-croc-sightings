@@ -1,4 +1,59 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "id": 663538,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.3508600001386,
+          -10.892860000308445
+        ]
+      },
+      "properties": {
+        "objectid": 663538,
+        "globalid": "{20CB8C18-4873-4E01-83A0-923B17FC96CC}",
+        "what_was_observed": "Crocodile",
+        "sighting": "Somebody else",
+        "sighttime": 1724114160000,
+        "species": "Unsure",
+        "sightingid": "200824NPA2",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Remote Operations",
+        "lga": "Northern Peninsula Area Regional",
+        "created_date": 1724114350000,
+        "last_edited_date": 1724125056000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 663537,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.98516999955714,
+          -21.00818000021425
+        ]
+      },
+      "properties": {
+        "objectid": 663537,
+        "globalid": "{5374BB60-95F6-468A-ADBB-4E21D9A30854}",
+        "what_was_observed": "Crocodile",
+        "sighting": "Somebody else",
+        "sighttime": 1724113860000,
+        "species": "Unsure",
+        "sightingid": "200824MKY1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Mackay Operations",
+        "lga": "Mackay Regional",
+        "created_date": 1724114097000,
+        "last_edited_date": 1724125203000,
+        "closeddate": null
+      }
+    }
+  ]
 }
