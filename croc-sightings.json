@@ -3,109 +3,82 @@
   "features": [
     {
       "type": "Feature",
-      "id": 665537,
+      "id": 666337,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.26040363529773,
-          -18.577125540720818
+          146.70916578956206,
+          -19.202183147809123
         ]
       },
       "properties": {
-        "objectid": 665537,
-        "globalid": "{AE61A9FA-2A0D-4375-9818-E29EC7ADD986}",
+        "objectid": 666337,
+        "globalid": "{859C7730-D516-4DF8-A32E-691EE241273B}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1724313660000,
+        "sighttime": 1724386680000,
         "species": "Estuarine",
-        "sightingid": "220824HCN1",
+        "sightingid": "230824TSV1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
         "managementunit": "Townsville Operations",
-        "lga": "Hinchinbrook Shire",
-        "created_date": 1724315025000,
-        "last_edited_date": 1724317229000,
+        "lga": "Townsville City",
+        "created_date": 1724390715000,
+        "last_edited_date": 1724391109000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 664738,
+      "id": 665937,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.47163000029195,
-          -16.53843000002662
+          146.02625236121034,
+          -18.263152377414038
         ]
       },
       "properties": {
-        "objectid": 664738,
-        "globalid": "{711367BF-5A6F-44AE-87A4-29BED438A794}",
+        "objectid": 665937,
+        "globalid": "{0F0BCB64-31B2-4012-BDA0-001815100C2A}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1724290920000,
+        "sighttime": 1724373360000,
         "species": "Estuarine",
-        "sightingid": "220824DUG1",
+        "sightingid": "230824CWC1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Cairns Operations",
-        "lga": "Douglas Shire",
-        "created_date": 1724291497000,
-        "last_edited_date": 1724296400000,
+        "managementunit": "Innisfail Operations",
+        "lga": "Cassowary Coast Regional",
+        "created_date": 1724373645000,
+        "last_edited_date": 1724376037000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 664737,
+      "id": 666338,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          150.4087021265077,
-          -23.643090727740475
+          145.68200766132068,
+          -16.776142162906535
         ]
       },
       "properties": {
-        "objectid": 664737,
-        "globalid": "{04844955-27EC-4CD1-B9C2-FBEF08A24936}",
+        "objectid": 666338,
+        "globalid": "{570E4B02-F95B-451B-BB77-7A4F9BA007F8}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1724280900000,
-        "species": "Unsure",
-        "sightingid": "220824ROC1",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Capricornia Operations",
-        "lga": "Rockhampton Regional",
-        "created_date": 1724281384000,
-        "last_edited_date": 1724286253000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 664739,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          145.74392425338274,
-          -16.84632457843967
-        ]
-      },
-      "properties": {
-        "objectid": 664739,
-        "globalid": "{35F20B8A-069F-4320-A364-1588F6CCB331}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1724266800000,
+        "sighttime": 1724355000000,
         "species": "",
-        "sightingid": "220824CNS1",
+        "sightingid": "230824CNS1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
         "managementunit": "Cairns Operations",
         "lga": "Cairns Regional",
-        "created_date": 1724293604000,
-        "last_edited_date": 1724300732000,
+        "created_date": 1724395941000,
+        "last_edited_date": 1724396286000,
         "closeddate": null
       }
     }
