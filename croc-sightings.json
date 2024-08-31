@@ -3,55 +3,55 @@
   "features": [
     {
       "type": "Feature",
-      "id": 672337,
+      "id": 673937,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.7355555553824,
-          -16.869444444790926
+          150.68686785722866,
+          -23.5813333968974
         ]
       },
       "properties": {
-        "objectid": 672337,
-        "globalid": "{7CB7C261-F7A0-49B0-8CA5-EF565A847A3A}",
+        "objectid": 673937,
+        "globalid": "{34EB15CA-CAEB-4AF3-85C6-61A64FF7DD79}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1724974860000,
+        "sighttime": 1725068340000,
         "species": "Estuarine",
-        "sightingid": "300824CNS1",
+        "sightingid": "310824ROC1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Cairns Operations",
-        "lga": "Cairns Regional",
-        "created_date": 1724975653000,
-        "last_edited_date": 1724976298000,
+        "managementunit": "Capricornia Operations",
+        "lga": "Rockhampton Regional",
+        "created_date": 1725097582000,
+        "last_edited_date": 1725097847000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 673137,
+      "id": 673537,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          148.9267194635941,
-          -20.072144186386307
+          146.03415999978944,
+          -18.27042999996769
         ]
       },
       "properties": {
-        "objectid": 673137,
-        "globalid": "{7F215001-9ED7-4561-8192-9B0F4A7BF97F}",
+        "objectid": 673537,
+        "globalid": "{34098AF3-9A56-4DCC-B660-FC58F9DFE101}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1724968800000,
-        "species": "Estuarine",
-        "sightingid": "300824WTS1",
+        "sighttime": 1725049200000,
+        "species": "Unsure",
+        "sightingid": "310824CWC1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Mackay Operations",
-        "lga": "Whitsunday Regional",
-        "created_date": 1724995479000,
-        "last_edited_date": 1724995609000,
+        "managementunit": "Innisfail Operations",
+        "lga": "Cassowary Coast Regional",
+        "created_date": 1725082013000,
+        "last_edited_date": 1725088831000,
         "closeddate": null
       }
     }
