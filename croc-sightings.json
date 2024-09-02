@@ -3,55 +3,28 @@
   "features": [
     {
       "type": "Feature",
-      "id": 674737,
+      "id": 675537,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          150.52052232089858,
-          -23.380111948734832
+          149.15999652239978,
+          -21.126778600830104
         ]
       },
       "properties": {
-        "objectid": 674737,
-        "globalid": "{34F8A927-77FF-405A-8434-5D7E0A9AC260}",
-        "what_was_observed": "Crocodile",
-        "sighting": "Somebody else",
-        "sighttime": 1725186300000,
-        "species": "Unsure",
-        "sightingid": "010924ROC2",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Capricornia Operations",
-        "lga": "Rockhampton Regional",
-        "created_date": 1725186564000,
-        "last_edited_date": 1725186838000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 674337,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.4817700002649,
-          -23.319669999879082
-        ]
-      },
-      "properties": {
-        "objectid": 674337,
-        "globalid": "{78E3C884-AC39-4D61-B319-1D85A17973EB}",
+        "objectid": 675537,
+        "globalid": "{B06F7991-9347-468D-B729-C0B184B83CE0}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1725178020000,
+        "sighttime": 1725250080000,
         "species": "Estuarine",
-        "sightingid": "010924ROC1",
+        "sightingid": "020924MKY1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Capricornia Operations",
-        "lga": "Rockhampton Regional",
-        "created_date": 1725180267000,
-        "last_edited_date": 1725180497000,
+        "managementunit": "Mackay Operations",
+        "lga": "Mackay Regional",
+        "created_date": 1725250533000,
+        "last_edited_date": 1725250852000,
         "closeddate": null
       }
     }
