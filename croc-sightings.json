@@ -1,4 +1,59 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "id": 678738,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.2103150004399,
+          -10.614880000035557
+        ]
+      },
+      "properties": {
+        "objectid": 678738,
+        "globalid": "{9468A3FB-E62E-48A8-8AF6-86D9F8942E0F}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1725512400000,
+        "species": "Estuarine",
+        "sightingid": "050924TRS1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Remote Operations",
+        "lga": "Torres Shire",
+        "created_date": 1725517362000,
+        "last_edited_date": 1725517572000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 678737,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.9033039998561,
+          -20.14256799997137
+        ]
+      },
+      "properties": {
+        "objectid": 678737,
+        "globalid": "{7A3C6B7F-C55A-43A1-9C4F-F18DB4DEE97F}",
+        "what_was_observed": "Crocodile",
+        "sighting": "Somebody else",
+        "sighttime": 1725512400000,
+        "species": "Estuarine",
+        "sightingid": "050924WTS2",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Mackay Operations",
+        "lga": "Whitsunday Regional",
+        "created_date": 1725514079000,
+        "last_edited_date": 1725514671000,
+        "closeddate": null
+      }
+    }
+  ]
 }
