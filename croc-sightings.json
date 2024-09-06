@@ -3,55 +3,55 @@
   "features": [
     {
       "type": "Feature",
-      "id": 678738,
+      "id": 679138,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          142.2103150004399,
-          -10.614880000035557
+          146.02033000030747,
+          -18.257910000237793
         ]
       },
       "properties": {
-        "objectid": 678738,
-        "globalid": "{9468A3FB-E62E-48A8-8AF6-86D9F8942E0F}",
+        "objectid": 679138,
+        "globalid": "{8E235673-942A-4E00-A848-642EC0982970}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1725512400000,
-        "species": "Estuarine",
-        "sightingid": "050924TRS1",
+        "sighttime": 1725601920000,
+        "species": "Unsure",
+        "sightingid": "060924CWC1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Remote Operations",
-        "lga": "Torres Shire",
-        "created_date": 1725517362000,
-        "last_edited_date": 1725517572000,
+        "managementunit": "Innisfail Operations",
+        "lga": "Cassowary Coast Regional",
+        "created_date": 1725602278000,
+        "last_edited_date": 1725617424000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 678737,
+      "id": 679137,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          148.9033039998561,
-          -20.14256799997137
+          145.75888314771592,
+          -16.879864953041
         ]
       },
       "properties": {
-        "objectid": 678737,
-        "globalid": "{7A3C6B7F-C55A-43A1-9C4F-F18DB4DEE97F}",
+        "objectid": 679137,
+        "globalid": "{1A3B8416-607F-423C-8962-1469BC346D73}",
         "what_was_observed": "Crocodile",
-        "sighting": "Somebody else",
-        "sighttime": 1725512400000,
+        "sighting": "I did",
+        "sighttime": 1725593100000,
         "species": "Estuarine",
-        "sightingid": "050924WTS2",
+        "sightingid": "060924CNS1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Mackay Operations",
-        "lga": "Whitsunday Regional",
-        "created_date": 1725514079000,
-        "last_edited_date": 1725514671000,
+        "managementunit": "Cairns Operations",
+        "lga": "Cairns Regional",
+        "created_date": 1725593412000,
+        "last_edited_date": 1725593738000,
         "closeddate": null
       }
     }
