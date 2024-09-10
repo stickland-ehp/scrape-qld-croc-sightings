@@ -3,83 +3,29 @@
   "features": [
     {
       "type": "Feature",
-      "id": 682339,
+      "id": 682737,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.817884064446,
-          -19.249929519144725
+          150.68778000028,
+          -22.865000000130458
         ]
       },
       "properties": {
-        "objectid": 682339,
-        "globalid": "{5E6416BC-19A3-42E3-892F-1D765A376587}",
+        "objectid": 682737,
+        "globalid": "{F1CB307E-D4DE-4084-9018-C9F3A6E13A76}",
         "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1725856680000,
+        "sighting": "Somebody else",
+        "sighttime": 1725927300000,
         "species": "Estuarine",
-        "sightingid": "090924TSV2",
+        "sightingid": "100924LVG1",
         "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Townsville Operations",
-        "lga": "Townsville City",
-        "created_date": 1725857440000,
-        "last_edited_date": 1725857743000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 682338,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          148.9017296699814,
-          -20.147854566276457
-        ]
-      },
-      "properties": {
-        "objectid": 682338,
-        "globalid": "{62642BE0-5945-4EB9-95BD-61FD9320BE32}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1725845940000,
-        "species": "Estuarine",
-        "sightingid": "090924WTS1",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Mackay Operations",
-        "lga": "Whitsunday Regional",
-        "created_date": 1725846966000,
-        "last_edited_date": 1725856974000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 681937,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.49930999964948,
-          -23.359550000056345
-        ]
-      },
-      "properties": {
-        "objectid": 681937,
-        "globalid": "{2EC87AB4-738A-43BA-9F71-B3318602756B}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1725828300000,
-        "species": "Estuarine",
-        "sightingid": "090924ROC1",
-        "publicstatus": "No Further Action",
         "publicinfo": "",
         "managementunit": "Capricornia Operations",
-        "lga": "Rockhampton Regional",
-        "created_date": 1725829961000,
-        "last_edited_date": 1725868191000,
-        "closeddate": 1725868190000
+        "lga": "Livingstone Shire",
+        "created_date": 1725932098000,
+        "last_edited_date": 1725940954000,
+        "closeddate": null
       }
     }
   ]
