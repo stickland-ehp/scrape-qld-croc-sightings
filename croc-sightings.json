@@ -3,28 +3,55 @@
   "features": [
     {
       "type": "Feature",
-      "id": 682737,
+      "id": 683937,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          150.68778000028,
-          -22.865000000130458
+          146.0880463260496,
+          -17.795309284712033
         ]
       },
       "properties": {
-        "objectid": 682737,
-        "globalid": "{F1CB307E-D4DE-4084-9018-C9F3A6E13A76}",
+        "objectid": 683937,
+        "globalid": "{2E526009-5DDD-4AE4-85DA-086FA1537B70}",
         "what_was_observed": "Crocodile",
-        "sighting": "Somebody else",
-        "sighttime": 1725927300000,
+        "sighting": "I did",
+        "sighttime": 1725981720000,
         "species": "Estuarine",
-        "sightingid": "100924LVG1",
+        "sightingid": "110924CWC2",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Capricornia Operations",
-        "lga": "Livingstone Shire",
-        "created_date": 1725932098000,
-        "last_edited_date": 1725940954000,
+        "managementunit": "Innisfail Operations",
+        "lga": "Cassowary Coast Regional",
+        "created_date": 1725981919000,
+        "last_edited_date": 1726034123000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 683537,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.08858387252567,
+          -17.794758859626413
+        ]
+      },
+      "properties": {
+        "objectid": 683537,
+        "globalid": "{ACBEAD3E-042C-48CA-AB2D-D5255E79CB70}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1725981420000,
+        "species": "Estuarine",
+        "sightingid": "110924CWC1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Innisfail Operations",
+        "lga": "Cassowary Coast Regional",
+        "created_date": 1725981763000,
+        "last_edited_date": 1726034080000,
         "closeddate": null
       }
     }
