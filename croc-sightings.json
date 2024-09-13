@@ -3,28 +3,28 @@
   "features": [
     {
       "type": "Feature",
-      "id": 686737,
+      "id": 688337,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.45250999996827,
-          -14.665889999879786
+          146.02795000012924,
+          -17.545230000286946
         ]
       },
       "properties": {
-        "objectid": 686737,
-        "globalid": "{1E3BACA7-A58F-422A-BD0B-849F500F9260}",
+        "objectid": 688337,
+        "globalid": "{9D9A89F7-0984-4366-A7F0-70CD244C28F7}",
         "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1726122600000,
+        "sighting": "Somebody else",
+        "sighttime": 1726180800000,
         "species": "Estuarine",
-        "sightingid": "120924COO1",
+        "sightingid": "130924CWC3",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Remote Operations",
-        "lga": "Cook Shire",
-        "created_date": 1726125183000,
-        "last_edited_date": 1726125541000,
+        "managementunit": "Innisfail Operations",
+        "lga": "Cassowary Coast Regional",
+        "created_date": 1726183854000,
+        "last_edited_date": 1726184343000,
         "closeddate": null
       }
     }
