@@ -3,29 +3,56 @@
   "features": [
     {
       "type": "Feature",
-      "id": 693937,
+      "id": 695537,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.10341981803924,
-          -18.36135899802276
+          146.01971000016638,
+          -17.351620000407895
         ]
       },
       "properties": {
-        "objectid": 693937,
-        "globalid": "{8AC63803-7701-48FE-8224-3A040911D4AF}",
+        "objectid": 695537,
+        "globalid": "{A2F1C7D9-4121-4CEE-BCD8-9C3282CCB5E9}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1726699620000,
+        "sighttime": 1726804020000,
         "species": "Estuarine",
-        "sightingid": "190924CWC1",
-        "publicstatus": "No Further Action",
+        "sightingid": "200924CNS1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Cairns Operations",
+        "lga": "Cairns Regional",
+        "created_date": 1726804705000,
+        "last_edited_date": 1726815239000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 695137,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.05936000007696,
+          -18.02556999959701
+        ]
+      },
+      "properties": {
+        "objectid": 695137,
+        "globalid": "{60EE52BF-41C8-4240-BA56-106986121539}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1726787100000,
+        "species": "Estuarine",
+        "sightingid": "200924CWC1",
+        "publicstatus": "Under Investigation",
         "publicinfo": "",
         "managementunit": "Innisfail Operations",
         "lga": "Cassowary Coast Regional",
-        "created_date": 1726699792000,
-        "last_edited_date": 1726720006000,
-        "closeddate": 1726719999000
+        "created_date": 1726787435000,
+        "last_edited_date": 1726815453000,
+        "closeddate": null
       }
     }
   ]
