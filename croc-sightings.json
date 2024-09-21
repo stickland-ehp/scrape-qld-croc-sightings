@@ -3,55 +3,82 @@
   "features": [
     {
       "type": "Feature",
-      "id": 695537,
+      "id": 696738,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.01971000016638,
-          -17.351620000407895
+          142.28413000032393,
+          -11.10382000026471
         ]
       },
       "properties": {
-        "objectid": 695537,
-        "globalid": "{A2F1C7D9-4121-4CEE-BCD8-9C3282CCB5E9}",
+        "objectid": 696738,
+        "globalid": "{1AC1A044-7281-4870-9A76-7A0EC10994DD}",
         "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1726804020000,
-        "species": "Estuarine",
-        "sightingid": "200924CNS1",
+        "sighting": "Somebody else",
+        "sighttime": 1726912800000,
+        "species": "Unsure",
+        "sightingid": "210924NPA1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Cairns Operations",
-        "lga": "Cairns Regional",
-        "created_date": 1726804705000,
-        "last_edited_date": 1726815239000,
+        "managementunit": "Remote Operations",
+        "lga": "Northern Peninsula Area Regional",
+        "created_date": 1726915728000,
+        "last_edited_date": 1726916587000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 695137,
+      "id": 696737,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.05936000007696,
-          -18.02556999959701
+          145.40945147476447,
+          -16.41937374202913
         ]
       },
       "properties": {
-        "objectid": 695137,
-        "globalid": "{60EE52BF-41C8-4240-BA56-106986121539}",
+        "objectid": 696737,
+        "globalid": "{C4A64092-6581-47D9-B2F2-F53E1E0E472B}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1726787100000,
+        "sighttime": 1726907520000,
         "species": "Estuarine",
-        "sightingid": "200924CWC1",
+        "sightingid": "210924DUG1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Cairns Operations",
+        "lga": "Douglas Shire",
+        "created_date": 1726907897000,
+        "last_edited_date": 1726908436000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 695938,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.0176000048877,
+          -18.2314877631965
+        ]
+      },
+      "properties": {
+        "objectid": 695938,
+        "globalid": "{1223BEFB-5C54-42CE-BBC0-8889D4B1CF3D}",
+        "what_was_observed": "Crocodile",
+        "sighting": "Somebody else",
+        "sighttime": 1726885200000,
+        "species": "Estuarine",
+        "sightingid": "210924CWC1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
         "managementunit": "Innisfail Operations",
         "lga": "Cassowary Coast Regional",
-        "created_date": 1726787435000,
-        "last_edited_date": 1726815453000,
+        "created_date": 1726885403000,
+        "last_edited_date": 1726888313000,
         "closeddate": null
       }
     }
