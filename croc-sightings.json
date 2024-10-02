@@ -52,32 +52,5 @@
       "last_edited_date": 1727832767000,
       "closeddate": null
     }
-  },
-  {
-    "type": "Feature",
-    "id": 708338,
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        148.93109682820946,
-        -20.231695355099806
-      ]
-    },
-    "properties": {
-      "objectid": 708338,
-      "globalid": "{981D318B-157C-4288-8B16-709CEB3FBB6E}",
-      "what_was_observed": "Crocodile",
-      "sighting": "Somebody else",
-      "sighttime": 1727764200000,
-      "species": "Estuarine",
-      "sightingid": "021024WTS2",
-      "publicstatus": "Under Investigation",
-      "publicinfo": "",
-      "managementunit": "Mackay Operations",
-      "lga": "Whitsunday Regional",
-      "created_date": 1727847196000,
-      "last_edited_date": 1727847945000,
-      "closeddate": null
-    }
   }
 ]
