@@ -1,1 +1,83 @@
-[]
+[
+  {
+    "type": "Feature",
+    "id": 708737,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        145.6778993807605,
+        -16.770672275119313
+      ]
+    },
+    "properties": {
+      "objectid": 708737,
+      "globalid": "{FB749D4A-CEE8-4EF5-8EEA-C8D7F22A088E}",
+      "what_was_observed": "Crocodile",
+      "sighting": "I did",
+      "sighttime": 1727833920000,
+      "species": "Freshwater",
+      "sightingid": "021024CNS1",
+      "publicstatus": "Under Investigation",
+      "publicinfo": "",
+      "managementunit": "Cairns Operations",
+      "lga": "Cairns Regional",
+      "created_date": 1727834242000,
+      "last_edited_date": 1727845763000,
+      "closeddate": null
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 708337,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        145.46944444412145,
+        -16.486666666988082
+      ]
+    },
+    "properties": {
+      "objectid": 708337,
+      "globalid": "{F04BB932-95B3-4874-9EC6-574C1A79B003}",
+      "what_was_observed": "Crocodile",
+      "sighting": "Somebody else",
+      "sighttime": 1727828100000,
+      "species": "Estuarine",
+      "sightingid": "021024DUG1",
+      "publicstatus": "Under Investigation",
+      "publicinfo": "",
+      "managementunit": "Cairns Operations",
+      "lga": "Douglas Shire",
+      "created_date": 1727832467000,
+      "last_edited_date": 1727832767000,
+      "closeddate": null
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 708338,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        148.93109682820946,
+        -20.231695355099806
+      ]
+    },
+    "properties": {
+      "objectid": 708338,
+      "globalid": "{981D318B-157C-4288-8B16-709CEB3FBB6E}",
+      "what_was_observed": "Crocodile",
+      "sighting": "Somebody else",
+      "sighttime": 1727764200000,
+      "species": "Estuarine",
+      "sightingid": "021024WTS2",
+      "publicstatus": "Under Investigation",
+      "publicinfo": "",
+      "managementunit": "Mackay Operations",
+      "lga": "Whitsunday Regional",
+      "created_date": 1727847196000,
+      "last_edited_date": 1727847945000,
+      "closeddate": null
+    }
+  }
+]
