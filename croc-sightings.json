@@ -1,55 +1,55 @@
 [
   {
     "type": "Feature",
-    "id": 708737,
+    "id": 709539,
     "geometry": {
       "type": "Point",
       "coordinates": [
-        145.6778993807605,
-        -16.770672275119313
+        145.46832999956987,
+        -16.524460000322932
       ]
     },
     "properties": {
-      "objectid": 708737,
-      "globalid": "{FB749D4A-CEE8-4EF5-8EEA-C8D7F22A088E}",
+      "objectid": 709539,
+      "globalid": "{E3ABC8FB-CABC-4E91-84B4-1F31F198CFF7}",
       "what_was_observed": "Crocodile",
       "sighting": "I did",
-      "sighttime": 1727833920000,
-      "species": "Freshwater",
-      "sightingid": "021024CNS1",
+      "sighttime": 1727933220000,
+      "species": "Estuarine",
+      "sightingid": "031024DUG1",
       "publicstatus": "Under Investigation",
       "publicinfo": "",
       "managementunit": "Cairns Operations",
-      "lga": "Cairns Regional",
-      "created_date": 1727834242000,
-      "last_edited_date": 1727845763000,
+      "lga": "Douglas Shire",
+      "created_date": 1727934152000,
+      "last_edited_date": 1727934623000,
       "closeddate": null
     }
   },
   {
     "type": "Feature",
-    "id": 708337,
+    "id": 709537,
     "geometry": {
       "type": "Point",
       "coordinates": [
-        145.46944444412145,
-        -16.486666666988082
+        145.95208999987392,
+        -17.323949999632443
       ]
     },
     "properties": {
-      "objectid": 708337,
-      "globalid": "{F04BB932-95B3-4874-9EC6-574C1A79B003}",
+      "objectid": 709537,
+      "globalid": "{7C094266-4DD0-45D3-B0B2-0B8B1AB478D0}",
       "what_was_observed": "Crocodile",
-      "sighting": "Somebody else",
-      "sighttime": 1727828100000,
+      "sighting": "I did",
+      "sighttime": 1727909580000,
       "species": "Estuarine",
-      "sightingid": "021024DUG1",
+      "sightingid": "031024CNS1",
       "publicstatus": "Under Investigation",
       "publicinfo": "",
       "managementunit": "Cairns Operations",
-      "lga": "Douglas Shire",
-      "created_date": 1727832467000,
-      "last_edited_date": 1727832767000,
+      "lga": "Cairns Regional",
+      "created_date": 1727918534000,
+      "last_edited_date": 1727927827000,
       "closeddate": null
     }
   }
