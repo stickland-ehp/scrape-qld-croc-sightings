@@ -1,4 +1,59 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "id": 715538,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.20686000002794,
+          -20.849320000365417
+        ]
+      },
+      "properties": {
+        "objectid": 715538,
+        "globalid": "{CD38BC5F-6AD1-4D0B-AECD-AF7D07438E4B}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1728428040000,
+        "species": "Freshwater",
+        "sightingid": "091024FLD1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Remote Operations",
+        "lga": "Flinders Shire",
+        "created_date": 1728428264000,
+        "last_edited_date": 1728428891000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 714738,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.20731000028974,
+          -20.851400000188647
+        ]
+      },
+      "properties": {
+        "objectid": 714738,
+        "globalid": "{A53F9FCC-1ED3-46E4-9B6C-5BC2169407AA}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1728389160000,
+        "species": "Freshwater",
+        "sightingid": "081024FLD1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Remote Operations",
+        "lga": "Flinders Shire",
+        "created_date": 1728389407000,
+        "last_edited_date": 1728425177000,
+        "closeddate": null
+      }
+    }
+  ]
 }
