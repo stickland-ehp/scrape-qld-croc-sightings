@@ -3,82 +3,82 @@
   "features": [
     {
       "type": "Feature",
-      "id": 716737,
+      "id": 717138,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.4710200001966,
-          -16.538590000112716
+          145.46029298023367,
+          -16.48482023639487
         ]
       },
       "properties": {
-        "objectid": 716737,
-        "globalid": "{D578E334-FBF0-4718-80AE-E97EC8130395}",
+        "objectid": 717138,
+        "globalid": "{DA0FEFF0-5810-42A1-A13A-F40F4F7D480B}",
         "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1728523800000,
+        "sighting": "Somebody else",
+        "sighttime": 1728600600000,
         "species": "Estuarine",
-        "sightingid": "101024DUG1",
+        "sightingid": "111024DUG1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
         "managementunit": "Cairns Operations",
         "lga": "Douglas Shire",
-        "created_date": 1728525311000,
-        "last_edited_date": 1728526115000,
+        "created_date": 1728604986000,
+        "last_edited_date": 1728605343000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 716338,
+      "id": 717538,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          144.2037800003122,
-          -20.848110000241412
+          146.00798399970864,
+          -18.234254000182425
         ]
       },
       "properties": {
-        "objectid": 716338,
-        "globalid": "{DD2627D4-3752-47AA-92F3-E39F7FC82A79}",
+        "objectid": 717538,
+        "globalid": "{F0B2AF9E-B9F6-4347-B25B-ACC3068F3AA5}",
         "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1728521820000,
-        "species": "Freshwater",
-        "sightingid": "101024FLD2",
+        "sighting": "Somebody else",
+        "sighttime": 1728597600000,
+        "species": "Estuarine",
+        "sightingid": "111024CWC1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Remote Operations",
-        "lga": "Flinders Shire",
-        "created_date": 1728522224000,
-        "last_edited_date": 1728522631000,
+        "managementunit": "Innisfail Operations",
+        "lga": "Cassowary Coast Regional",
+        "created_date": 1728628855000,
+        "last_edited_date": 1728629243000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 716337,
+      "id": 717537,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          144.20402999965916,
-          -20.850329999746748
+          150.49021712747776,
+          -23.33037685355062
         ]
       },
       "properties": {
-        "objectid": 716337,
-        "globalid": "{44193934-633C-4698-BB07-B1AEC00FD1E8}",
+        "objectid": 717537,
+        "globalid": "{69341EDD-7886-4842-AB5B-7183CD5B9EEF}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1728521640000,
-        "species": "Freshwater",
-        "sightingid": "101024FLD1",
+        "sighttime": 1728589200000,
+        "species": "Estuarine",
+        "sightingid": "111024ROC1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Remote Operations",
-        "lga": "Flinders Shire",
-        "created_date": 1728521799000,
-        "last_edited_date": 1728522560000,
+        "managementunit": "Capricornia Operations",
+        "lga": "Rockhampton Regional",
+        "created_date": 1728603701000,
+        "last_edited_date": 1728609321000,
         "closeddate": null
       }
     }
