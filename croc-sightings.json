@@ -3,55 +3,28 @@
   "features": [
     {
       "type": "Feature",
-      "id": 720339,
+      "id": 721139,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          148.70274076568305,
-          -20.404381060790094
+          146.83461999978596,
+          -19.271770000116966
         ]
       },
       "properties": {
-        "objectid": 720339,
-        "globalid": "{103BC2DE-E590-4D3D-BF22-735A0EA60E12}",
+        "objectid": 721139,
+        "globalid": "{5A3462C6-B995-4316-B3CF-C8582C212F10}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1728885480000,
+        "sighttime": 1728966720000,
         "species": "Estuarine",
-        "sightingid": "141024WTS1",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Mackay Operations",
-        "lga": "Whitsunday Regional",
-        "created_date": 1728885939000,
-        "last_edited_date": 1728887048000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 719937,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          146.8080676630933,
-          -19.240191564754177
-        ]
-      },
-      "properties": {
-        "objectid": 719937,
-        "globalid": "{18E36F4B-002C-407C-817B-8BDE5AC30890}",
-        "what_was_observed": "Crocodile",
-        "sighting": "Somebody else",
-        "sighttime": 1728851400000,
-        "species": "",
-        "sightingid": "141024TSV1",
+        "sightingid": "151024TSV1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
         "managementunit": "Townsville Operations",
         "lga": "Townsville City",
-        "created_date": 1728855187000,
-        "last_edited_date": 1728858126000,
+        "created_date": 1728967155000,
+        "last_edited_date": 1728971758000,
         "closeddate": null
       }
     }
