@@ -1,4 +1,59 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "id": 722737,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.606649999931,
+          -19.155290000132506
+        ]
+      },
+      "properties": {
+        "objectid": 722737,
+        "globalid": "{E1601F00-B043-4525-A93F-9D062BE2253F}",
+        "what_was_observed": "Crocodile",
+        "sighting": "Somebody else",
+        "sighttime": 1729126800000,
+        "species": "Unsure",
+        "sightingid": "171024TSV2",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Townsville Operations",
+        "lga": "Townsville City",
+        "created_date": 1729141194000,
+        "last_edited_date": 1729161705000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 721938,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.6103281455736,
+          -19.156207797481613
+        ]
+      },
+      "properties": {
+        "objectid": 721938,
+        "globalid": "{1F61715B-5BDB-4745-A810-A2C1B1EE084F}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1729126800000,
+        "species": "",
+        "sightingid": "171024TSV1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Townsville Operations",
+        "lga": "Townsville City",
+        "created_date": 1729132996000,
+        "last_edited_date": 1729133823000,
+        "closeddate": null
+      }
+    }
+  ]
 }
