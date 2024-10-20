@@ -1,4 +1,32 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "id": 725137,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.3173782087062,
+          -18.523223319755935
+        ]
+      },
+      "properties": {
+        "objectid": 725137,
+        "globalid": "{59E4E42E-7AC2-4060-9D30-8BD05C3EB740}",
+        "what_was_observed": "Crocodile",
+        "sighting": "Somebody else",
+        "sighttime": 1729354860000,
+        "species": "Estuarine",
+        "sightingid": "201024HCN1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Townsville Operations",
+        "lga": "Hinchinbrook Shire",
+        "created_date": 1729405496000,
+        "last_edited_date": 1729419151000,
+        "closeddate": null
+      }
+    }
+  ]
 }
