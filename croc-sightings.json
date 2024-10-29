@@ -3,28 +3,82 @@
   "features": [
     {
       "type": "Feature",
-      "id": 730737,
+      "id": 733137,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.68189400018275,
-          -16.775400000330425
+          146.7878689999124,
+          -19.301509000341802
         ]
       },
       "properties": {
-        "objectid": 730737,
-        "globalid": "{81DA4E50-D708-4332-8D4F-2730D5FDDA43}",
+        "objectid": 733137,
+        "globalid": "{0C9780FF-00F2-4520-8A49-E6B298614469}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1730093700000,
+        "sighttime": 1730187000000,
         "species": "Estuarine",
-        "sightingid": "281024CNS1",
+        "sightingid": "291024TSV1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Cairns Operations",
-        "lga": "Cairns Regional",
-        "created_date": 1730094012000,
-        "last_edited_date": 1730094181000,
+        "managementunit": "Townsville Operations",
+        "lga": "Townsville City",
+        "created_date": 1730193273000,
+        "last_edited_date": 1730193741000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 732337,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.6170535699186,
+          -20.56294935746862
+        ]
+      },
+      "properties": {
+        "objectid": 732337,
+        "globalid": "{4898D6FA-0386-464B-BA7A-55A840BEE2F2}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1730181960000,
+        "species": "Estuarine",
+        "sightingid": "291024MKY2",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Mackay Operations",
+        "lga": "Mackay Regional",
+        "created_date": 1730182260000,
+        "last_edited_date": 1730192832000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 731137,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.29766369991552,
+          -21.293558099939982
+        ]
+      },
+      "properties": {
+        "objectid": 731137,
+        "globalid": "{5B0505D8-4E52-4A18-9CC5-0B31CA45CD3E}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1730155920000,
+        "species": "Unsure",
+        "sightingid": "291024MKY1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Mackay Operations",
+        "lga": "Mackay Regional",
+        "created_date": 1730156105000,
+        "last_edited_date": 1730161235000,
         "closeddate": null
       }
     }
