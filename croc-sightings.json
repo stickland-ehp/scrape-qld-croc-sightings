@@ -3,28 +3,28 @@
   "features": [
     {
       "type": "Feature",
-      "id": 739137,
+      "id": 739537,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          150.79125767896784,
-          -23.166279834307012
+          150.82596999998603,
+          -23.252410000352665
         ]
       },
       "properties": {
-        "objectid": 739137,
-        "globalid": "{98110450-9988-4ACB-B53F-839DE5205F6C}",
-        "what_was_observed": "Tracks",
+        "objectid": 739537,
+        "globalid": "{35D487EB-5F3B-4E76-9FD5-BD495D7747BE}",
+        "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1730748480000,
-        "species": "",
-        "sightingid": "051124LVG1",
+        "sighttime": 1730881260000,
+        "species": "Estuarine",
+        "sightingid": "061124LVG1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
         "managementunit": "Capricornia Operations",
         "lga": "Livingstone Shire",
-        "created_date": 1730759525000,
-        "last_edited_date": 1730771969000,
+        "created_date": 1730883360000,
+        "last_edited_date": 1730883678000,
         "closeddate": null
       }
     }
