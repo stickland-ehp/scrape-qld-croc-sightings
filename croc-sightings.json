@@ -3,28 +3,55 @@
   "features": [
     {
       "type": "Feature",
-      "id": 739537,
+      "id": 739939,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          150.82596999998603,
-          -23.252410000352665
+          146.7782360192694,
+          -19.217219368592126
         ]
       },
       "properties": {
-        "objectid": 739537,
-        "globalid": "{35D487EB-5F3B-4E76-9FD5-BD495D7747BE}",
+        "objectid": 739939,
+        "globalid": "{09C8A9A7-4CEE-48E6-96BC-042B1CE3C36D}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1730881260000,
+        "sighttime": 1730932920000,
         "species": "Estuarine",
-        "sightingid": "061124LVG1",
+        "sightingid": "071124TSV1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Townsville Operations",
+        "lga": "Townsville City",
+        "created_date": 1730933235000,
+        "last_edited_date": 1730942180000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 739937,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.7861600002419,
+          -23.314020000370565
+        ]
+      },
+      "properties": {
+        "objectid": 739937,
+        "globalid": "{47E886E6-81A9-4DC8-93A8-EF33B813B911}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1730925840000,
+        "species": "Estuarine",
+        "sightingid": "071124LVG1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
         "managementunit": "Capricornia Operations",
         "lga": "Livingstone Shire",
-        "created_date": 1730883360000,
-        "last_edited_date": 1730883678000,
+        "created_date": 1730926577000,
+        "last_edited_date": 1730946431000,
         "closeddate": null
       }
     }
