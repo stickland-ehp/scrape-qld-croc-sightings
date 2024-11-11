@@ -3,55 +3,55 @@
   "features": [
     {
       "type": "Feature",
-      "id": 741937,
+      "id": 743537,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.8293399998883,
-          -19.278059999816175
+          145.73692000017925,
+          -16.92326199975548
         ]
       },
       "properties": {
-        "objectid": 741937,
-        "globalid": "{97DC14F7-0A0B-45EB-A805-455A6C88D7F0}",
+        "objectid": 743537,
+        "globalid": "{2DF0C6A1-918A-4C58-AFBD-3D7231E1A808}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1731191880000,
+        "sighttime": 1731300120000,
         "species": "Unsure",
-        "sightingid": "101124TSV1",
+        "sightingid": "111124CNS1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Townsville Operations",
-        "lga": "Townsville City",
-        "created_date": 1731192190000,
-        "last_edited_date": 1731195469000,
+        "managementunit": "Cairns Operations",
+        "lga": "Cairns Regional",
+        "created_date": 1731300466000,
+        "last_edited_date": 1731300584000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 741537,
+      "id": 742737,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.6565578998002,
-          -19.187401600344778
+          150.5974000000814,
+          -23.427699999964233
         ]
       },
       "properties": {
-        "objectid": 741537,
-        "globalid": "{4009FD62-047C-43EB-B5DF-6EA53ED163FA}",
+        "objectid": 742737,
+        "globalid": "{493EEC30-0E0B-4316-A8FD-D19011A41184}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1731152520000,
-        "species": "Estuarine",
-        "sightingid": "091124TSV1",
+        "sighttime": 1731282240000,
+        "species": "Unsure",
+        "sightingid": "111124LVG1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Townsville Operations",
-        "lga": "Townsville City",
-        "created_date": 1731152772000,
-        "last_edited_date": 1731195591000,
+        "managementunit": "Capricornia Operations",
+        "lga": "Livingstone Shire",
+        "created_date": 1731283482000,
+        "last_edited_date": 1731286108000,
         "closeddate": null
       }
     }
