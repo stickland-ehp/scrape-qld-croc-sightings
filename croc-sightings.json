@@ -3,28 +3,55 @@
   "features": [
     {
       "type": "Feature",
-      "id": 749937,
+      "id": 750337,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          150.42529921194918,
-          -23.251025581186585
+          149.14331999983605,
+          -21.214550000324625
         ]
       },
       "properties": {
-        "objectid": 749937,
-        "globalid": "{E8481549-0D3D-4A67-955E-ED57675ADA73}",
+        "objectid": 750337,
+        "globalid": "{9FE84EAC-E2DC-4DBB-8195-6A7D47E9646F}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1731823200000,
+        "sighttime": 1731890220000,
         "species": "Estuarine",
-        "sightingid": "171124ROC1",
+        "sightingid": "181124MKY1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Capricornia Operations",
-        "lga": "Rockhampton Regional",
-        "created_date": 1731824917000,
-        "last_edited_date": 1731839024000,
+        "managementunit": "Mackay Operations",
+        "lga": "Mackay Regional",
+        "created_date": 1731892030000,
+        "last_edited_date": 1731892995000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 750338,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.68220999965192,
+          -16.775600000354498
+        ]
+      },
+      "properties": {
+        "objectid": 750338,
+        "globalid": "{EB161049-921B-4478-8337-068C102E3693}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1731871020000,
+        "species": "Estuarine",
+        "sightingid": "181124CNS1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Cairns Operations",
+        "lga": "Cairns Regional",
+        "created_date": 1731909515000,
+        "last_edited_date": 1731909720000,
         "closeddate": null
       }
     }
