@@ -1,4 +1,59 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "id": 756738,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.6984369675183,
+          -16.78183822944887
+        ]
+      },
+      "properties": {
+        "objectid": 756738,
+        "globalid": "{A89723A2-7186-48FD-A97B-920A4ACBD93E}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1732580460000,
+        "species": "Estuarine",
+        "sightingid": "261124CNS2",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Cairns Operations",
+        "lga": "Cairns Regional",
+        "created_date": 1732580633000,
+        "last_edited_date": 1732582384000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 757137,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.70137000015856,
+          -16.783219999732868
+        ]
+      },
+      "properties": {
+        "objectid": 757137,
+        "globalid": "{DF4A1904-6C50-469E-9687-B98B821A98CA}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1732580100000,
+        "species": "Estuarine",
+        "sightingid": "261124CNS1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Cairns Operations",
+        "lga": "Cairns Regional",
+        "created_date": 1732580488000,
+        "last_edited_date": 1732583211000,
+        "closeddate": null
+      }
+    }
+  ]
 }
