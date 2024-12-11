@@ -3,55 +3,55 @@
   "features": [
     {
       "type": "Feature",
-      "id": 774737,
+      "id": 775138,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.09123000033225,
-          -17.56050000012341
+          145.56693999968556,
+          -16.646539999787947
         ]
       },
       "properties": {
-        "objectid": 774737,
-        "globalid": "{D93F7DAB-95D1-4E2F-9CEB-9E75E7E27C9F}",
+        "objectid": 775138,
+        "globalid": "{7CC39A3B-9FEA-48DD-9D5B-DDB25DF6CD8B}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1733815380000,
+        "sighttime": 1733886780000,
         "species": "Estuarine",
-        "sightingid": "101224CWC1",
+        "sightingid": "111224DUG1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Innisfail Operations",
-        "lga": "Cassowary Coast Regional",
-        "created_date": 1733822896000,
-        "last_edited_date": 1733823243000,
+        "managementunit": "Cairns Operations",
+        "lga": "Douglas Shire",
+        "created_date": 1733891268000,
+        "last_edited_date": 1733892314000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 774337,
+      "id": 775538,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.82120479469157,
-          -19.251084373597518
+          146.11622999970498,
+          -17.854419999973313
         ]
       },
       "properties": {
-        "objectid": 774337,
-        "globalid": "{76CAA68D-9B97-4555-A2CD-10809304FBB0}",
+        "objectid": 775538,
+        "globalid": "{BB28CD0F-A1E1-4915-850F-83C17A7FF859}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1733808600000,
+        "sighttime": 1733854320000,
         "species": "Estuarine",
-        "sightingid": "101224TSV1",
+        "sightingid": "111224CWC1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Townsville Operations",
-        "lga": "Townsville City",
-        "created_date": 1733809315000,
-        "last_edited_date": 1733818758000,
+        "managementunit": "Innisfail Operations",
+        "lga": "Cassowary Coast Regional",
+        "created_date": 1733879023000,
+        "last_edited_date": 1733887882000,
         "closeddate": null
       }
     }
