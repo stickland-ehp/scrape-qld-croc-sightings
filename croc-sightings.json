@@ -3,56 +3,56 @@
   "features": [
     {
       "type": "Feature",
-      "id": 775138,
+      "id": 777937,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.56693999968556,
-          -16.646539999787947
+          145.8508200001671,
+          -17.0921299997071
         ]
       },
       "properties": {
-        "objectid": 775138,
-        "globalid": "{7CC39A3B-9FEA-48DD-9D5B-DDB25DF6CD8B}",
+        "objectid": 777937,
+        "globalid": "{96886B73-D524-4019-8F05-9E3065631645}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1733886780000,
+        "sighttime": 1733993940000,
         "species": "Estuarine",
-        "sightingid": "111224DUG1",
+        "sightingid": "121224CNS1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
         "managementunit": "Cairns Operations",
-        "lga": "Douglas Shire",
-        "created_date": 1733891268000,
-        "last_edited_date": 1733892314000,
+        "lga": "Cairns Regional",
+        "created_date": 1733995882000,
+        "last_edited_date": 1733999846000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 775538,
+      "id": 776737,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.11622999970498,
-          -17.854419999973313
+          150.7597340466282,
+          -23.13942665095796
         ]
       },
       "properties": {
-        "objectid": 775538,
-        "globalid": "{BB28CD0F-A1E1-4915-850F-83C17A7FF859}",
+        "objectid": 776737,
+        "globalid": "{45F68DD2-AB4E-4094-A670-C7137B934951}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1733854320000,
-        "species": "Estuarine",
-        "sightingid": "111224CWC1",
-        "publicstatus": "Under Investigation",
+        "sighttime": 1733952600000,
+        "species": "Unsure",
+        "sightingid": "121224LVG1",
+        "publicstatus": "No Further Action",
         "publicinfo": "",
-        "managementunit": "Innisfail Operations",
-        "lga": "Cassowary Coast Regional",
-        "created_date": 1733879023000,
-        "last_edited_date": 1733887882000,
-        "closeddate": null
+        "managementunit": "Capricornia Operations",
+        "lga": "Livingstone Shire",
+        "created_date": 1733958395000,
+        "last_edited_date": 1733969362000,
+        "closeddate": 1733969308000
       }
     }
   ]
