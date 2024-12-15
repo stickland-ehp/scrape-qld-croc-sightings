@@ -3,55 +3,55 @@
   "features": [
     {
       "type": "Feature",
-      "id": 780337,
+      "id": 781137,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.09710899955633,
-          -17.93433599971464
+          145.67445000008811,
+          -16.761280000141394
         ]
       },
       "properties": {
-        "objectid": 780337,
-        "globalid": "{5E3BD314-9509-4CB8-93FC-912A53D4D5AD}",
+        "objectid": 781137,
+        "globalid": "{0FFEEF69-3848-44B8-BCB4-9D65887CCCC6}",
         "what_was_observed": "Crocodile",
-        "sighting": "Somebody else",
-        "sighttime": 1734156000000,
+        "sighting": "I did",
+        "sighttime": 1734244080000,
         "species": "Estuarine",
-        "sightingid": "141224CWC1",
+        "sightingid": "151224CNS1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Innisfail Operations",
-        "lga": "Cassowary Coast Regional",
-        "created_date": 1734157785000,
-        "last_edited_date": 1734157913000,
+        "managementunit": "Cairns Operations",
+        "lga": "Cairns Regional",
+        "created_date": 1734244425000,
+        "last_edited_date": 1734245974000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 779938,
+      "id": 780737,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.68873999987755,
-          -16.779516000306536
+          149.1930630301045,
+          -21.073175227088548
         ]
       },
       "properties": {
-        "objectid": 779938,
-        "globalid": "{1A171E2D-27DA-4010-A43F-F713558B7246}",
+        "objectid": 780737,
+        "globalid": "{2A8CFFB4-043D-4CBC-BD6D-DF2224524ABA}",
         "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1734132600000,
-        "species": "Estuarine",
-        "sightingid": "141224CNS2",
+        "sighting": "Somebody else",
+        "sighttime": 1734228000000,
+        "species": "Unsure",
+        "sightingid": "151224MKY1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Cairns Operations",
-        "lga": "Cairns Regional",
-        "created_date": 1734139002000,
-        "last_edited_date": 1734139371000,
+        "managementunit": "Mackay Operations",
+        "lga": "Mackay Regional",
+        "created_date": 1734239139000,
+        "last_edited_date": 1734245776000,
         "closeddate": null
       }
     }
