@@ -3,55 +3,55 @@
   "features": [
     {
       "type": "Feature",
-      "id": 781137,
+      "id": 783537,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.67445000008811,
-          -16.761280000141394
+          146.83262999966632,
+          -19.288000000039148
         ]
       },
       "properties": {
-        "objectid": 781137,
-        "globalid": "{0FFEEF69-3848-44B8-BCB4-9D65887CCCC6}",
+        "objectid": 783537,
+        "globalid": "{97D2245A-8E70-4B7E-B114-F54127010C35}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1734244080000,
+        "sighttime": 1734345180000,
         "species": "Estuarine",
-        "sightingid": "151224CNS1",
+        "sightingid": "161224TSV2",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Cairns Operations",
-        "lga": "Cairns Regional",
-        "created_date": 1734244425000,
-        "last_edited_date": 1734245974000,
+        "managementunit": "Townsville Operations",
+        "lga": "Townsville City",
+        "created_date": 1734345435000,
+        "last_edited_date": 1734345775000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 780737,
+      "id": 783137,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          149.1930630301045,
-          -21.073175227088548
+          146.95409309210098,
+          -19.390746810342854
         ]
       },
       "properties": {
-        "objectid": 780737,
-        "globalid": "{2A8CFFB4-043D-4CBC-BD6D-DF2224524ABA}",
+        "objectid": 783137,
+        "globalid": "{2302D48C-C6C1-4449-BA7B-37B79EC5C5EE}",
         "what_was_observed": "Crocodile",
-        "sighting": "Somebody else",
-        "sighttime": 1734228000000,
-        "species": "Unsure",
-        "sightingid": "151224MKY1",
+        "sighting": "I did",
+        "sighttime": 1734334380000,
+        "species": "Estuarine",
+        "sightingid": "161224TSV1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Mackay Operations",
-        "lga": "Mackay Regional",
-        "created_date": 1734239139000,
-        "last_edited_date": 1734245776000,
+        "managementunit": "Townsville Operations",
+        "lga": "Townsville City",
+        "created_date": 1734334684000,
+        "last_edited_date": 1734339643000,
         "closeddate": null
       }
     }
