@@ -3,55 +3,28 @@
   "features": [
     {
       "type": "Feature",
-      "id": 793137,
+      "id": 794737,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.09782477088655,
-          -17.932639106576985
+          146.57515999961728,
+          -18.75088000012737
         ]
       },
       "properties": {
-        "objectid": 793137,
-        "globalid": "{6AC37C80-60FC-4FB7-9D76-C1DFC7A3248B}",
+        "objectid": 794737,
+        "globalid": "{5D7C02EA-B99E-4FC5-9918-92887A2F76D7}",
         "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1734897600000,
-        "species": "",
-        "sightingid": "231224CWC1",
+        "sighting": "Somebody else",
+        "sighttime": 1735003020000,
+        "species": "Unsure",
+        "sightingid": "241224HCN1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Innisfail Operations",
-        "lga": "Cassowary Coast Regional",
-        "created_date": 1734903890000,
-        "last_edited_date": 1734911130000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 793938,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          145.7796799999428,
-          -16.938339999744464
-        ]
-      },
-      "properties": {
-        "objectid": 793938,
-        "globalid": "{5966242F-D885-406E-BF45-CFCC8D70FB00}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1734896700000,
-        "species": "Estuarine",
-        "sightingid": "231224CNS1",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Cairns Operations",
-        "lga": "Cairns Regional",
-        "created_date": 1734920936000,
-        "last_edited_date": 1734929739000,
+        "managementunit": "Townsville Operations",
+        "lga": "Hinchinbrook Shire",
+        "created_date": 1735003308000,
+        "last_edited_date": 1735005537000,
         "closeddate": null
       }
     }
