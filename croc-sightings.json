@@ -1,32 +1,4 @@
 {
   "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 794737,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          146.57515999961728,
-          -18.75088000012737
-        ]
-      },
-      "properties": {
-        "objectid": 794737,
-        "globalid": "{5D7C02EA-B99E-4FC5-9918-92887A2F76D7}",
-        "what_was_observed": "Crocodile",
-        "sighting": "Somebody else",
-        "sighttime": 1735003020000,
-        "species": "Unsure",
-        "sightingid": "241224HCN1",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Townsville Operations",
-        "lga": "Hinchinbrook Shire",
-        "created_date": 1735003308000,
-        "last_edited_date": 1735005537000,
-        "closeddate": null
-      }
-    }
-  ]
+  "features": []
 }
