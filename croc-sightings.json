@@ -3,109 +3,55 @@
   "features": [
     {
       "type": "Feature",
-      "id": 806737,
+      "id": 807537,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.82326999997017,
-          -19.252260000375575
+          145.7035460000511,
+          -16.884481999780533
         ]
       },
       "properties": {
-        "objectid": 806737,
-        "globalid": "{CC3C645C-5776-4450-B7FF-A22F57A51549}",
+        "objectid": 807537,
+        "globalid": "{4B2A18BE-815D-45D2-B1DE-4DF53E94C1DD}",
         "what_was_observed": "Crocodile",
-        "sighting": "Somebody else",
-        "sighttime": 1735626900000,
+        "sighting": "I did",
+        "sighttime": 1735717500000,
         "species": "Estuarine",
-        "sightingid": "311224TSV2",
+        "sightingid": "010125CNS1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Cairns Operations",
+        "lga": "Cairns Regional",
+        "created_date": 1735718089000,
+        "last_edited_date": 1735720900000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 807937,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.73646591443995,
+          -19.316287628940216
+        ]
+      },
+      "properties": {
+        "objectid": 807937,
+        "globalid": "{54203BB2-3D83-4239-A389-B3E6A80188F9}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1735716900000,
+        "species": "Freshwater",
+        "sightingid": "010125TSV1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
         "managementunit": "Townsville Operations",
         "lga": "Townsville City",
-        "created_date": 1735627260000,
-        "last_edited_date": 1735627478000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 806337,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          146.82423800026586,
-          -19.254115999909686
-        ]
-      },
-      "properties": {
-        "objectid": 806337,
-        "globalid": "{12AB4C82-9F1C-430F-9893-E98BFBAED537}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1735619760000,
-        "species": "Estuarine",
-        "sightingid": "311224TSV1",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Townsville Operations",
-        "lga": "Townsville City",
-        "created_date": 1735620509000,
-        "last_edited_date": 1735623831000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 805538,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          142.20717499955134,
-          -10.57702299991144
-        ]
-      },
-      "properties": {
-        "objectid": 805538,
-        "globalid": "{44BA4375-7FB3-4A2B-A167-42FF75005584}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1735605000000,
-        "species": "Estuarine",
-        "sightingid": "311224TRS1",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Remote Operations",
-        "lga": "Torres Shire",
-        "created_date": 1735613331000,
-        "last_edited_date": 1735614151000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 805537,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.50064000034337,
-          -23.352764000229723
-        ]
-      },
-      "properties": {
-        "objectid": 805537,
-        "globalid": "{483AD533-7764-4C04-B3BE-585A20A758E9}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1735604580000,
-        "species": "Estuarine",
-        "sightingid": "311224ROC1",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Capricornia Operations",
-        "lga": "Rockhampton Regional",
-        "created_date": 1735612891000,
-        "last_edited_date": 1735613773000,
+        "created_date": 1735729209000,
+        "last_edited_date": 1735729623000,
         "closeddate": null
       }
     }
