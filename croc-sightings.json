@@ -3,55 +3,55 @@
   "features": [
     {
       "type": "Feature",
-      "id": 807537,
+      "id": 808339,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.7035460000511,
-          -16.884481999780533
+          145.7959299997147,
+          -17.003549999622432
         ]
       },
       "properties": {
-        "objectid": 807537,
-        "globalid": "{4B2A18BE-815D-45D2-B1DE-4DF53E94C1DD}",
+        "objectid": 808339,
+        "globalid": "{B0172E65-D7D1-407D-ACA8-47EAA688D9CE}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1735717500000,
+        "sighttime": 1735770600000,
         "species": "Estuarine",
-        "sightingid": "010125CNS1",
+        "sightingid": "020125CNS1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
         "managementunit": "Cairns Operations",
         "lga": "Cairns Regional",
-        "created_date": 1735718089000,
-        "last_edited_date": 1735720900000,
+        "created_date": 1735784792000,
+        "last_edited_date": 1735798736000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 807937,
+      "id": 808337,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.73646591443995,
-          -19.316287628940216
+          151.35354000036506,
+          -23.957600000176022
         ]
       },
       "properties": {
-        "objectid": 807937,
-        "globalid": "{54203BB2-3D83-4239-A389-B3E6A80188F9}",
+        "objectid": 808337,
+        "globalid": "{79BC4D38-CA4E-4AF7-9C42-7859666F1242}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1735716900000,
-        "species": "Freshwater",
-        "sightingid": "010125TSV1",
+        "sighttime": 1735769580000,
+        "species": "Unsure",
+        "sightingid": "020125GLT1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Townsville Operations",
-        "lga": "Townsville City",
-        "created_date": 1735729209000,
-        "last_edited_date": 1735729623000,
+        "managementunit": "Capricornia Operations",
+        "lga": "Gladstone Regional",
+        "created_date": 1735769866000,
+        "last_edited_date": 1735770411000,
         "closeddate": null
       }
     }
