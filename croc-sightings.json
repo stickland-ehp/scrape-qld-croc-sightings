@@ -3,55 +3,55 @@
   "features": [
     {
       "type": "Feature",
-      "id": 808339,
+      "id": 810337,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.7959299997147,
-          -17.003549999622432
+          150.77581999965622,
+          -23.271209999754273
         ]
       },
       "properties": {
-        "objectid": 808339,
-        "globalid": "{B0172E65-D7D1-407D-ACA8-47EAA688D9CE}",
+        "objectid": 810337,
+        "globalid": "{EC4537E0-F7E2-4B26-ADA9-AC0E0041B093}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1735770600000,
+        "sighttime": 1735889280000,
         "species": "Estuarine",
-        "sightingid": "020125CNS1",
+        "sightingid": "030125LVG1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Cairns Operations",
-        "lga": "Cairns Regional",
-        "created_date": 1735784792000,
-        "last_edited_date": 1735798736000,
+        "managementunit": "Capricornia Operations",
+        "lga": "Livingstone Shire",
+        "created_date": 1735889534000,
+        "last_edited_date": 1735890210000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 808337,
+      "id": 809537,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.35354000036506,
-          -23.957600000176022
+          146.03797000014947,
+          -17.51499999971093
         ]
       },
       "properties": {
-        "objectid": 808337,
-        "globalid": "{79BC4D38-CA4E-4AF7-9C42-7859666F1242}",
+        "objectid": 809537,
+        "globalid": "{FB405CD6-91AB-4F46-A37A-14365647ACCC}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1735769580000,
-        "species": "Unsure",
-        "sightingid": "020125GLT1",
+        "sighttime": 1735859940000,
+        "species": "Estuarine",
+        "sightingid": "030125CWC1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Capricornia Operations",
-        "lga": "Gladstone Regional",
-        "created_date": 1735769866000,
-        "last_edited_date": 1735770411000,
+        "managementunit": "Innisfail Operations",
+        "lga": "Cassowary Coast Regional",
+        "created_date": 1735861474000,
+        "last_edited_date": 1735861694000,
         "closeddate": null
       }
     }
