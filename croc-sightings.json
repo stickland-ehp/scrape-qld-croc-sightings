@@ -3,109 +3,82 @@
   "features": [
     {
       "type": "Feature",
-      "id": 811937,
+      "id": 813138,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.14158999982607,
-          -18.733969999879754
+          149.2282269351143,
+          -21.111757573860825
         ]
       },
       "properties": {
-        "objectid": 811937,
-        "globalid": "{33F9B3F6-CBF6-465B-BA9A-F7F6B682381D}",
+        "objectid": 813138,
+        "globalid": "{1015D05C-4F11-4B7C-BD77-261BB939F57D}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1735981080000,
-        "species": "Estuarine",
-        "sightingid": "040125HCN1",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Townsville Operations",
-        "lga": "Hinchinbrook Shire",
-        "created_date": 1735982197000,
-        "last_edited_date": 1735986023000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 811537,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          149.22428011953994,
-          -21.11448840379752
-        ]
-      },
-      "properties": {
-        "objectid": 811537,
-        "globalid": "{E121EC0A-9606-4AAF-8853-8F71C6E38982}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1735969920000,
+        "sighttime": 1736046960000,
         "species": "Unsure",
-        "sightingid": "040125MKY1",
+        "sightingid": "050125MKY2",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
         "managementunit": "Mackay Operations",
         "lga": "Mackay Regional",
-        "created_date": 1735970060000,
-        "last_edited_date": 1735985633000,
+        "created_date": 1736047469000,
+        "last_edited_date": 1736050511000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 811137,
+      "id": 813137,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.78759000025315,
-          -19.269169999742005
+          149.22504990117824,
+          -21.11528886783843
         ]
       },
       "properties": {
-        "objectid": 811137,
-        "globalid": "{7E0A2D5E-1A64-40F6-BCF0-8758932DC260}",
+        "objectid": 813137,
+        "globalid": "{39A021F3-2E7A-4D4C-95D8-151CDACD94B8}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1735964160000,
+        "sighttime": 1736035200000,
         "species": "Unsure",
-        "sightingid": "040125TSV1",
+        "sightingid": "050125MKY1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Townsville Operations",
-        "lga": "Townsville City",
-        "created_date": 1735964987000,
-        "last_edited_date": 1735965208000,
+        "managementunit": "Mackay Operations",
+        "lga": "Mackay Regional",
+        "created_date": 1736038602000,
+        "last_edited_date": 1736040389000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 810737,
+      "id": 812737,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.09734536157896,
-          -17.90664413883843
+          148.70297302509974,
+          -20.404339310128606
         ]
       },
       "properties": {
-        "objectid": 810737,
-        "globalid": "{2B6E2F7F-C36F-426A-B812-FABE49509815}",
+        "objectid": 812737,
+        "globalid": "{BA53D287-FF28-4C7D-9A67-380938A3598E}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1735907100000,
+        "sighttime": 1736032440000,
         "species": "Estuarine",
-        "sightingid": "030125CWC2",
+        "sightingid": "050125WTS1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Innisfail Operations",
-        "lga": "Cassowary Coast Regional",
-        "created_date": 1735907893000,
-        "last_edited_date": 1735940321000,
+        "managementunit": "Mackay Operations",
+        "lga": "Whitsunday Regional",
+        "created_date": 1736034137000,
+        "last_edited_date": 1736035067000,
         "closeddate": null
       }
     }
