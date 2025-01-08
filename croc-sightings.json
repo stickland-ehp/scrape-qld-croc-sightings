@@ -3,28 +3,82 @@
   "features": [
     {
       "type": "Feature",
-      "id": 815537,
+      "id": 815939,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          150.7925269140226,
-          -23.27530408046378
+          149.22801000005805,
+          -21.111620000237274
         ]
       },
       "properties": {
-        "objectid": 815537,
-        "globalid": "{C4A33B04-2ACF-4975-8D34-BA307AEC44DD}",
+        "objectid": 815939,
+        "globalid": "{46EDD5C4-3896-49E2-B835-5CBAE432EDAC}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1736215200000,
-        "species": "Estuarine",
-        "sightingid": "070125LVG1",
+        "sighttime": 1736303880000,
+        "species": "Unsure",
+        "sightingid": "080125MKY2",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Capricornia Operations",
-        "lga": "Livingstone Shire",
-        "created_date": 1736219280000,
-        "last_edited_date": 1736219949000,
+        "managementunit": "Mackay Operations",
+        "lga": "Mackay Regional",
+        "created_date": 1736304633000,
+        "last_edited_date": 1736307846000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 817137,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.73637000041873,
+          -19.317819999642555
+        ]
+      },
+      "properties": {
+        "objectid": 817137,
+        "globalid": "{81F402E4-0211-4D10-9284-283B2119D2C1}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1736303400000,
+        "species": "Freshwater",
+        "sightingid": "080125TSV2",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Townsville Operations",
+        "lga": "Townsville City",
+        "created_date": 1736303668000,
+        "last_edited_date": 1736310760000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 816737,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.22621999995494,
+          -21.114619999794186
+        ]
+      },
+      "properties": {
+        "objectid": 816737,
+        "globalid": "{310087F1-28D1-44BF-85C2-1A30FFAE2CAC}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1736295000000,
+        "species": "Unsure",
+        "sightingid": "080125MKY1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Mackay Operations",
+        "lga": "Mackay Regional",
+        "created_date": 1736295349000,
+        "last_edited_date": 1736296000000,
         "closeddate": null
       }
     }
