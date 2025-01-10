@@ -3,163 +3,28 @@
   "features": [
     {
       "type": "Feature",
-      "id": 819137,
+      "id": 820337,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.72605635813972,
-          -16.804138408636074
+          146.25330999972343,
+          -18.591029999927358
         ]
       },
       "properties": {
-        "objectid": 819137,
-        "globalid": "{DF9933CD-5961-42B9-8A43-FF647BBC3710}",
+        "objectid": 820337,
+        "globalid": "{FD6EC86B-A2C5-4275-81B2-DC3B0E37A415}",
         "what_was_observed": "Crocodile",
-        "sighting": "Somebody else",
-        "sighttime": 1736400600000,
+        "sighting": "I did",
+        "sighttime": 1736460000000,
         "species": "Estuarine",
-        "sightingid": "090125CNS2",
+        "sightingid": "100125HCN1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Cairns Operations",
-        "lga": "Cairns Regional",
-        "created_date": 1736400973000,
-        "last_edited_date": 1736406120000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 818737,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          145.752630000176,
-          -16.855539999759134
-        ]
-      },
-      "properties": {
-        "objectid": 818737,
-        "globalid": "{24B911FE-9AC8-4AA2-975C-A905689017AE}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1736383620000,
-        "species": "Estuarine",
-        "sightingid": "090125CNS1",
-        "publicstatus": "Contractor Notified",
-        "publicinfo": "",
-        "managementunit": "Cairns Operations",
-        "lga": "Cairns Regional",
-        "created_date": 1736383856000,
-        "last_edited_date": 1736395662000,
-        "closeddate": 1736395499000
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 817938,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          148.99628007103865,
-          -20.908228932999382
-        ]
-      },
-      "properties": {
-        "objectid": 817938,
-        "globalid": "{C6A326E8-F885-43EE-9CC7-6191C5D78221}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1736375640000,
-        "species": "Estuarine",
-        "sightingid": "090125MKY1",
-        "publicstatus": "No Further Action",
-        "publicinfo": "",
-        "managementunit": "Mackay Operations",
-        "lga": "Mackay Regional",
-        "created_date": 1736375896000,
-        "last_edited_date": 1736400809000,
-        "closeddate": 1736400803000
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 817537,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          142.36552073554412,
-          -10.847135435165038
-        ]
-      },
-      "properties": {
-        "objectid": 817537,
-        "globalid": "{5B4F4F0A-E48B-435F-9C73-F80073002306}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1736374080000,
-        "species": "Estuarine",
-        "sightingid": "090125NPA1",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Remote Operations",
-        "lga": "Northern Peninsula Area Regional",
-        "created_date": 1736374424000,
-        "last_edited_date": 1736406299000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 817937,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          142.36552114427755,
-          -10.846591229874138
-        ]
-      },
-      "properties": {
-        "objectid": 817937,
-        "globalid": "{DA34BAC9-4BDD-4E3D-9074-FC8B424D24B2}",
-        "what_was_observed": "Crocodile",
-        "sighting": "Somebody else",
-        "sighttime": 1736373600000,
-        "species": "Estuarine",
-        "sightingid": "090125TRS1",
-        "publicstatus": "No Further Action",
-        "publicinfo": "",
-        "managementunit": "Remote Operations",
-        "lga": "Torres Shire",
-        "created_date": 1736374851000,
-        "last_edited_date": 1736387945000,
-        "closeddate": 1736387933000
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 818739,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          146.0213148017939,
-          -18.25660701579284
-        ]
-      },
-      "properties": {
-        "objectid": 818739,
-        "globalid": "{0E857DB9-EE50-4A90-B42D-C1A2E842B0F8}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1736361000000,
-        "species": "Estuarine",
-        "sightingid": "090125CWC2",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Innisfail Operations",
-        "lga": "Cassowary Coast Regional",
-        "created_date": 1736386476000,
-        "last_edited_date": 1736391505000,
+        "managementunit": "Townsville Operations",
+        "lga": "Hinchinbrook Shire",
+        "created_date": 1736474963000,
+        "last_edited_date": 1736477511000,
         "closeddate": null
       }
     }
