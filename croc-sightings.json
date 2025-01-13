@@ -1,4 +1,59 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "id": 821938,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.09862118847136,
+          -17.89547150089674
+        ]
+      },
+      "properties": {
+        "objectid": 821938,
+        "globalid": "{7AD1E654-8649-4C4A-84B0-095C5DE02E27}",
+        "what_was_observed": "Tracks",
+        "sighting": "I did",
+        "sighttime": 1736728140000,
+        "species": "Unsure",
+        "sightingid": "130125CWC1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Innisfail Operations",
+        "lga": "Cassowary Coast Regional",
+        "created_date": 1736728659000,
+        "last_edited_date": 1736730291000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 822737,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.11119000000681,
+          -18.627500000014045
+        ]
+      },
+      "properties": {
+        "objectid": 822737,
+        "globalid": "{403158E7-7238-475B-9995-952897C20E2A}",
+        "what_was_observed": "Slide",
+        "sighting": "I did",
+        "sighttime": 1736725740000,
+        "species": "Estuarine",
+        "sightingid": "130125HCN1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Townsville Operations",
+        "lga": "Hinchinbrook Shire",
+        "created_date": 1736741005000,
+        "last_edited_date": 1736741353000,
+        "closeddate": null
+      }
+    }
+  ]
 }
