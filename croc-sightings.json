@@ -3,55 +3,55 @@
   "features": [
     {
       "type": "Feature",
-      "id": 821938,
+      "id": 824737,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.09862118847136,
-          -17.89547150089674
+          146.785099999643,
+          -19.268279999964264
         ]
       },
       "properties": {
-        "objectid": 821938,
-        "globalid": "{7AD1E654-8649-4C4A-84B0-095C5DE02E27}",
-        "what_was_observed": "Tracks",
+        "objectid": 824737,
+        "globalid": "{2A18288F-6CE1-4E57-A060-9A53622EA628}",
+        "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1736728140000,
-        "species": "Unsure",
-        "sightingid": "130125CWC1",
+        "sighttime": 1736826000000,
+        "species": "Estuarine",
+        "sightingid": "140125TSV2",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Innisfail Operations",
-        "lga": "Cassowary Coast Regional",
-        "created_date": 1736728659000,
-        "last_edited_date": 1736730291000,
+        "managementunit": "Townsville Operations",
+        "lga": "Townsville City",
+        "created_date": 1736826582000,
+        "last_edited_date": 1736830413000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 822737,
+      "id": 823937,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.11119000000681,
-          -18.627500000014045
+          150.77439226225937,
+          -23.16257158928644
         ]
       },
       "properties": {
-        "objectid": 822737,
-        "globalid": "{403158E7-7238-475B-9995-952897C20E2A}",
-        "what_was_observed": "Slide",
+        "objectid": 823937,
+        "globalid": "{F9597684-EAD0-462C-913A-06C3FF569777}",
+        "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1736725740000,
-        "species": "Estuarine",
-        "sightingid": "130125HCN1",
+        "sighttime": 1736797200000,
+        "species": "Unsure",
+        "sightingid": "140125LVG1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Townsville Operations",
-        "lga": "Hinchinbrook Shire",
-        "created_date": 1736741005000,
-        "last_edited_date": 1736741353000,
+        "managementunit": "Capricornia Operations",
+        "lga": "Livingstone Shire",
+        "created_date": 1736799531000,
+        "last_edited_date": 1736807524000,
         "closeddate": null
       }
     }
