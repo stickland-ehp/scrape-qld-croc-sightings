@@ -3,56 +3,56 @@
   "features": [
     {
       "type": "Feature",
-      "id": 828337,
+      "id": 829938,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          142.37002260036968,
-          -10.844943500045245
+          148.96208999998396,
+          -20.357249999767792
         ]
       },
       "properties": {
-        "objectid": 828337,
-        "globalid": "{1AAB3180-E932-4D6C-895C-DF98291E1B9C}",
+        "objectid": 829938,
+        "globalid": "{AD164304-584D-4CF5-B106-4D72B1C3C0D6}",
         "what_was_observed": "Crocodile",
         "sighting": "Somebody else",
-        "sighttime": 1736980740000,
-        "species": "Unsure",
-        "sightingid": "160125NPA3",
-        "publicstatus": "No Further Action",
+        "sighttime": 1737079200000,
+        "species": "Estuarine",
+        "sightingid": "170125WTS1",
+        "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Remote Operations",
-        "lga": "Northern Peninsula Area Regional",
-        "created_date": 1736980905000,
-        "last_edited_date": 1737001817000,
-        "closeddate": 1737001458000
+        "managementunit": "Mackay Operations",
+        "lga": "Whitsunday Regional",
+        "created_date": 1737082007000,
+        "last_edited_date": 1737085561000,
+        "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 827937,
+      "id": 829937,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          142.36620479993806,
-          -10.847009700042278
+          149.17980840874858,
+          -21.039592835720224
         ]
       },
       "properties": {
-        "objectid": 827937,
-        "globalid": "{44384E0E-5AE5-4F60-ADBC-F8A2C426111B}",
+        "objectid": 829937,
+        "globalid": "{E07A555D-05E0-4F07-AC1F-84C3FF0408B2}",
         "what_was_observed": "Crocodile",
-        "sighting": "Somebody else",
-        "sighttime": 1736980020000,
-        "species": "Unsure",
-        "sightingid": "160125NPA1",
+        "sighting": "I did",
+        "sighttime": 1737056700000,
+        "species": "Estuarine",
+        "sightingid": "170125MKY1",
         "publicstatus": "No Further Action",
         "publicinfo": "",
-        "managementunit": "Remote Operations",
-        "lga": "Northern Peninsula Area Regional",
-        "created_date": 1736980338000,
-        "last_edited_date": 1736999939000,
-        "closeddate": 1736999934000
+        "managementunit": "Mackay Operations",
+        "lga": "Mackay Regional",
+        "created_date": 1737057044000,
+        "last_edited_date": 1737084074000,
+        "closeddate": 1737084067000
       }
     }
   ]
