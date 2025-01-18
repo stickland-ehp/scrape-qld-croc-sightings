@@ -3,56 +3,29 @@
   "features": [
     {
       "type": "Feature",
-      "id": 829938,
+      "id": 832337,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          148.96208999998396,
-          -20.357249999767792
+          149.1964999996529,
+          -21.058070000370869
         ]
       },
       "properties": {
-        "objectid": 829938,
-        "globalid": "{AD164304-584D-4CF5-B106-4D72B1C3C0D6}",
+        "objectid": 832337,
+        "globalid": "{FA9CEDEC-F123-4FB5-B256-34602CAC2E1F}",
         "what_was_observed": "Crocodile",
-        "sighting": "Somebody else",
-        "sighttime": 1737079200000,
+        "sighting": "I did",
+        "sighttime": 1737134580000,
         "species": "Estuarine",
-        "sightingid": "170125WTS1",
+        "sightingid": "180125MKY1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
         "managementunit": "Mackay Operations",
-        "lga": "Whitsunday Regional",
-        "created_date": 1737082007000,
-        "last_edited_date": 1737085561000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 829937,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          149.17980840874858,
-          -21.039592835720224
-        ]
-      },
-      "properties": {
-        "objectid": 829937,
-        "globalid": "{E07A555D-05E0-4F07-AC1F-84C3FF0408B2}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1737056700000,
-        "species": "Estuarine",
-        "sightingid": "170125MKY1",
-        "publicstatus": "No Further Action",
-        "publicinfo": "",
-        "managementunit": "Mackay Operations",
         "lga": "Mackay Regional",
-        "created_date": 1737057044000,
-        "last_edited_date": 1737084074000,
-        "closeddate": 1737084067000
+        "created_date": 1737134757000,
+        "last_edited_date": 1737151080000,
+        "closeddate": null
       }
     }
   ]
