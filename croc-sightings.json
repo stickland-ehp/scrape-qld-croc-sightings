@@ -1,4 +1,32 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "id": 835138,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.28788999979864,
+          -18.749819999704634
+        ]
+      },
+      "properties": {
+        "objectid": 835138,
+        "globalid": "{0B5BC20C-BA24-4F60-8FED-61A68F8870DB}",
+        "what_was_observed": "Slide",
+        "sighting": "Somebody else",
+        "sighttime": 1737423960000,
+        "species": "Estuarine",
+        "sightingid": "210125HCN1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Townsville Operations",
+        "lga": "Hinchinbrook Shire",
+        "created_date": 1737424855000,
+        "last_edited_date": 1737425646000,
+        "closeddate": null
+      }
+    }
+  ]
 }
