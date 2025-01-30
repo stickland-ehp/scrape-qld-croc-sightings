@@ -3,83 +3,56 @@
   "features": [
     {
       "type": "Feature",
-      "id": 846337,
+      "id": 847137,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.73017999989131,
-          -16.814690000338327
+          149.05445391960603,
+          -20.923597344807273
         ]
       },
       "properties": {
-        "objectid": 846337,
-        "globalid": "{30F6CD57-F8F4-4641-9B4D-7BAA0BBFB85C}",
+        "objectid": 847137,
+        "globalid": "{B3721A30-A500-42F3-A8A4-DFF6184F2DBE}",
         "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1738142760000,
+        "sighting": "Somebody else",
+        "sighttime": 1738189920000,
         "species": "Estuarine",
-        "sightingid": "290125CNS2",
+        "sightingid": "300125MKY2",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Cairns Operations",
-        "lga": "Cairns Regional",
-        "created_date": 1738144654000,
-        "last_edited_date": 1738144894000,
+        "managementunit": "Mackay Operations",
+        "lga": "Mackay Regional",
+        "created_date": 1738190167000,
+        "last_edited_date": 1738202284000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 845937,
+      "id": 846737,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.74721126266917,
-          -16.935913337257201
+          149.05036000041221,
+          -20.924600000349876
         ]
       },
       "properties": {
-        "objectid": 845937,
-        "globalid": "{ABA8D538-F21E-4FEB-BB33-801AFB053D40}",
+        "objectid": 846737,
+        "globalid": "{4AD745C1-6B39-4A7B-AC9E-7E8CFDA6503F}",
         "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1738109880000,
-        "species": "Estuarine",
-        "sightingid": "290125CNS1",
+        "sighting": "Somebody else",
+        "sighttime": 1738188840000,
+        "species": "Unsure",
+        "sightingid": "300125MKY1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Cairns Operations",
-        "lga": "Cairns Regional",
-        "created_date": 1738110464000,
-        "last_edited_date": 1738118540000,
+        "managementunit": "Mackay Operations",
+        "lga": "Mackay Regional",
+        "created_date": 1738189174000,
+        "last_edited_date": 1738191005000,
         "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 845537,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          146.82906999955159,
-          -19.23807999991816
-        ]
-      },
-      "properties": {
-        "objectid": 845537,
-        "globalid": "{9F8D92A6-2A36-430E-AE31-18B7121E1060}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1738096800000,
-        "species": "Estuarine",
-        "sightingid": "290125TSV1",
-        "publicstatus": "No Further Action",
-        "publicinfo": "",
-        "managementunit": "Townsville Operations",
-        "lga": "Townsville City",
-        "created_date": 1738097133000,
-        "last_edited_date": 1738131047000,
-        "closeddate": 1738131041000
       }
     }
   ]
