@@ -3,55 +3,82 @@
   "features": [
     {
       "type": "Feature",
-      "id": 847137,
+      "id": 848737,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          149.05445391960603,
-          -20.923597344807273
+          146.2992599997059,
+          -18.711710000132221
         ]
       },
       "properties": {
-        "objectid": 847137,
-        "globalid": "{B3721A30-A500-42F3-A8A4-DFF6184F2DBE}",
+        "objectid": 848737,
+        "globalid": "{C8C3C5CA-2467-4A36-AA24-631CE4BA6687}",
         "what_was_observed": "Crocodile",
-        "sighting": "Somebody else",
-        "sighttime": 1738189920000,
+        "sighting": "I did",
+        "sighttime": 1738278000000,
         "species": "Estuarine",
-        "sightingid": "300125MKY2",
+        "sightingid": "310125HCN1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Mackay Operations",
-        "lga": "Mackay Regional",
-        "created_date": 1738190167000,
-        "last_edited_date": 1738202284000,
+        "managementunit": "Townsville Operations",
+        "lga": "Hinchinbrook Shire",
+        "created_date": 1738279778000,
+        "last_edited_date": 1738280269000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 846737,
+      "id": 848337,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          149.05036000041221,
-          -20.924600000349876
+          141.88385503245919,
+          -12.676045517111257
         ]
       },
       "properties": {
-        "objectid": 846737,
-        "globalid": "{4AD745C1-6B39-4A7B-AC9E-7E8CFDA6503F}",
+        "objectid": 848337,
+        "globalid": "{57948E95-64C4-47AB-9C72-69C5B63423D9}",
         "what_was_observed": "Crocodile",
-        "sighting": "Somebody else",
-        "sighttime": 1738188840000,
-        "species": "Unsure",
-        "sightingid": "300125MKY1",
+        "sighting": "I did",
+        "sighttime": 1738274880000,
+        "species": "Estuarine",
+        "sightingid": "310125NAA1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Mackay Operations",
-        "lga": "Mackay Regional",
-        "created_date": 1738189174000,
-        "last_edited_date": 1738191005000,
+        "managementunit": "Remote Operations",
+        "lga": "Napranum Aboriginal Shire",
+        "created_date": 1738275154000,
+        "last_edited_date": 1738293003000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 847937,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.41050000004216,
+          -16.346969999611709
+        ]
+      },
+      "properties": {
+        "objectid": 847937,
+        "globalid": "{7ED77461-9C57-4C32-9437-6F3C17FA7D04}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1738242960000,
+        "species": "Unsure",
+        "sightingid": "300125DUG1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Cairns Operations",
+        "lga": "Douglas Shire",
+        "created_date": 1738243604000,
+        "last_edited_date": 1738280398000,
         "closeddate": null
       }
     }
