@@ -1,4 +1,59 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "id": 849538,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.88497695009562,
+          -12.68050685327761
+        ]
+      },
+      "properties": {
+        "objectid": 849538,
+        "globalid": "{101269CB-9B63-484C-A722-DD46039E1772}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1738477320000,
+        "species": "",
+        "sightingid": "020225NAA1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Remote Operations",
+        "lga": "Napranum Aboriginal Shire",
+        "created_date": 1738477566000,
+        "last_edited_date": 1738477988000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 849537,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.67111240576972,
+          -16.743073508262423
+        ]
+      },
+      "properties": {
+        "objectid": 849537,
+        "globalid": "{D7D40E32-34CD-4BD3-826E-4404B39E7B94}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1738459200000,
+        "species": "Estuarine",
+        "sightingid": "020225CNS1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Cairns Operations",
+        "lga": "Cairns Regional",
+        "created_date": 1738459508000,
+        "last_edited_date": 1738460837000,
+        "closeddate": null
+      }
+    }
+  ]
 }
