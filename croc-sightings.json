@@ -3,109 +3,28 @@
   "features": [
     {
       "type": "Feature",
-      "id": 854337,
+      "id": 858338,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          149.17832190446416,
-          -21.0325626295955
+          145.40706398630121,
+          -16.440663983799858
         ]
       },
       "properties": {
-        "objectid": 854337,
-        "globalid": "{F9514D82-F776-4604-9075-5ECB03AE6E31}",
+        "objectid": 858338,
+        "globalid": "{BBD783D2-D327-48F1-9AE4-301E6C77F922}",
         "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1738738200000,
+        "sighting": "Somebody else",
+        "sighttime": 1738879200000,
         "species": "Estuarine",
-        "sightingid": "050225MKY2",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Mackay Operations",
-        "lga": "Mackay Regional",
-        "created_date": 1738744754000,
-        "last_edited_date": 1738745382000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 853537,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          149.22301999969031,
-          -21.065859999622127
-        ]
-      },
-      "properties": {
-        "objectid": 853537,
-        "globalid": "{24FC4067-D0A0-4DEB-8105-E2A2BAD98C3D}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1738727520000,
-        "species": "Estuarine",
-        "sightingid": "050225MKY1",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Mackay Operations",
-        "lga": "Mackay Regional",
-        "created_date": 1738738050000,
-        "last_edited_date": 1738740296000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 853937,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          145.46928289559236,
-          -16.48794294803368
-        ]
-      },
-      "properties": {
-        "objectid": 853937,
-        "globalid": "{A895C16E-F4BB-46B9-972E-C37EFF4380B3}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1738703700000,
-        "species": "Estuarine",
-        "sightingid": "050225DUG1",
+        "sightingid": "070225DUG2",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
         "managementunit": "Cairns Operations",
         "lga": "Douglas Shire",
-        "created_date": 1738739581000,
-        "last_edited_date": 1738740684000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 853137,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          148.72890720409598,
-          -20.270587448043916
-        ]
-      },
-      "properties": {
-        "objectid": 853137,
-        "globalid": "{C83C489D-B0F2-42CF-A1CC-5FD28A3410CA}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1738700100000,
-        "species": "Estuarine",
-        "sightingid": "050225WTS1",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Mackay Operations",
-        "lga": "Whitsunday Regional",
-        "created_date": 1738721420000,
-        "last_edited_date": 1738727521000,
+        "created_date": 1738887531000,
+        "last_edited_date": 1738891777000,
         "closeddate": null
       }
     }
