@@ -3,55 +3,55 @@
   "features": [
     {
       "type": "Feature",
-      "id": 865137,
+      "id": 867537,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.76807141474302,
-          -19.262968853851827
+          141.88455573455047,
+          -12.686335119038784
         ]
       },
       "properties": {
-        "objectid": 865137,
-        "globalid": "{85EA08DB-59D5-43EC-8F95-5DEFE4A326C3}",
+        "objectid": 867537,
+        "globalid": "{832502C4-44F0-46F9-8E8F-8B143B69B0E6}",
         "what_was_observed": "Crocodile",
-        "sighting": "Somebody else",
-        "sighttime": 1739142000000,
+        "sighting": "I did",
+        "sighttime": 1739246400000,
         "species": "Estuarine",
-        "sightingid": "100225TSV1",
+        "sightingid": "110225COO2",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Townsville Operations",
-        "lga": "Townsville City",
-        "created_date": 1739165904000,
-        "last_edited_date": 1739168986000,
+        "managementunit": "Remote Operations",
+        "lga": "Cook Shire",
+        "created_date": 1739255755000,
+        "last_edited_date": 1739261749000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 864737,
+      "id": 867937,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.6717103612537,
-          -16.742262668793821
+          143.40870823732359,
+          -12.287457908410049
         ]
       },
       "properties": {
-        "objectid": 864737,
-        "globalid": "{02CFF101-86C9-4CE1-A3FF-B0024A8AB8CA}",
+        "objectid": 867937,
+        "globalid": "{F49BA166-26B5-4303-9EBB-FA891578B8B6}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1739134800000,
+        "sighttime": 1739241480000,
         "species": "Estuarine",
-        "sightingid": "100225CNS1",
+        "sightingid": "110225COO3",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Cairns Operations",
-        "lga": "Cairns Regional",
-        "created_date": 1739141782000,
-        "last_edited_date": 1739156523000,
+        "managementunit": "Remote Operations",
+        "lga": "COO",
+        "created_date": 1739256494000,
+        "last_edited_date": 1739261550000,
         "closeddate": null
       }
     }
