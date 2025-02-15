@@ -1,32 +1,4 @@
 {
   "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 871537,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          146.80367000014581,
-          -19.236269999671837
-        ]
-      },
-      "properties": {
-        "objectid": 871537,
-        "globalid": "{296A2156-F123-4373-8A94-617D3D756332}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1739493540000,
-        "species": "Unsure",
-        "sightingid": "140225TSV1",
-        "publicstatus": "No Further Action",
-        "publicinfo": "",
-        "managementunit": "Townsville Operations",
-        "lga": "Townsville City",
-        "created_date": 1739494179000,
-        "last_edited_date": 1739500241000,
-        "closeddate": 1739500230000
-      }
-    }
-  ]
+  "features": []
 }
