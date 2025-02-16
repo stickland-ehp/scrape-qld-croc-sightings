@@ -1,4 +1,32 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "id": 873137,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.56059642593249,
+          -16.384410772551142
+        ]
+      },
+      "properties": {
+        "objectid": 873137,
+        "globalid": "{3CA41D21-85C0-410F-84D2-5DAF70C1285B}",
+        "what_was_observed": "Tracks",
+        "sighting": "I did",
+        "sighttime": 1739660400000,
+        "species": "Unsure",
+        "sightingid": "160225DUG1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Cairns Operations",
+        "lga": "Douglas Shire",
+        "created_date": 1739660557000,
+        "last_edited_date": 1739661176000,
+        "closeddate": null
+      }
+    }
+  ]
 }
