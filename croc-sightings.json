@@ -3,28 +3,55 @@
   "features": [
     {
       "type": "Feature",
-      "id": 873137,
+      "id": 875937,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.56059642593249,
-          -16.384410772551142
+          145.40691773518307,
+          -16.436373058861474
         ]
       },
       "properties": {
-        "objectid": 873137,
-        "globalid": "{3CA41D21-85C0-410F-84D2-5DAF70C1285B}",
-        "what_was_observed": "Tracks",
+        "objectid": 875937,
+        "globalid": "{7CC80754-2C56-423D-93CB-A9B382D631EC}",
+        "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1739660400000,
-        "species": "Unsure",
-        "sightingid": "160225DUG1",
+        "sighttime": 1739771220000,
+        "species": "Estuarine",
+        "sightingid": "170225DUG2",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
         "managementunit": "Cairns Operations",
         "lga": "Douglas Shire",
-        "created_date": 1739660557000,
-        "last_edited_date": 1739661176000,
+        "created_date": 1739772046000,
+        "last_edited_date": 1739773749000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 874737,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.70598064018526,
+          -16.892890736984132
+        ]
+      },
+      "properties": {
+        "objectid": 874737,
+        "globalid": "{8B278335-58F4-4E13-AD83-51F14E0A0815}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1739750460000,
+        "species": "Unsure",
+        "sightingid": "170225CNS1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Cairns Operations",
+        "lga": "Cairns Regional",
+        "created_date": 1739751298000,
+        "last_edited_date": 1739762689000,
         "closeddate": null
       }
     }
