@@ -3,82 +3,28 @@
   "features": [
     {
       "type": "Feature",
-      "id": 877537,
+      "id": 879537,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.45073799983149,
-          -25.228082999893374
+          150.75404999978707,
+          -23.303620000367204
         ]
       },
       "properties": {
-        "objectid": 877537,
-        "globalid": "{AF712338-95E7-48EA-BE97-1C2639AACDAE}",
+        "objectid": 879537,
+        "globalid": "{9A3F5E0E-7952-40B3-A98B-DDD3EB34FD9E}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1739849400000,
+        "sighttime": 1739960700000,
         "species": "Unsure",
-        "sightingid": "180225BDB1",
+        "sightingid": "190225LVG1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Wide Bay Operations",
-        "lga": "Bundaberg Regional",
-        "created_date": 1739858186000,
-        "last_edited_date": 1739858675000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 877137,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          148.51463348679795,
-          -20.289529408773085
-        ]
-      },
-      "properties": {
-        "objectid": 877137,
-        "globalid": "{00B6908D-092A-4E44-9A17-840B18151D5E}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1739834160000,
-        "species": "Estuarine",
-        "sightingid": "180225WTS1",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Mackay Operations",
-        "lga": "Whitsunday Regional",
-        "created_date": 1739834890000,
-        "last_edited_date": 1739857588000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 876337,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          145.71165113504199,
-          -16.7983198710197
-        ]
-      },
-      "properties": {
-        "objectid": 876337,
-        "globalid": "{38769486-E91A-4E7E-8030-3EEA13C9A622}",
-        "what_was_observed": "Crocodile",
-        "sighting": "Somebody else",
-        "sighttime": 1739823420000,
-        "species": "Estuarine",
-        "sightingid": "180225CNS1",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Cairns Operations",
-        "lga": "Cairns Regional",
-        "created_date": 1739830966000,
-        "last_edited_date": 1739849456000,
+        "managementunit": "Capricornia Operations",
+        "lga": "Livingstone Shire",
+        "created_date": 1739960916000,
+        "last_edited_date": 1739961458000,
         "closeddate": null
       }
     }
