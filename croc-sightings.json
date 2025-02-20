@@ -3,28 +3,28 @@
   "features": [
     {
       "type": "Feature",
-      "id": 879537,
+      "id": 879538,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          150.75404999978707,
-          -23.303620000367204
+          149.30160999985699,
+          -21.548070000160067
         ]
       },
       "properties": {
-        "objectid": 879537,
-        "globalid": "{9A3F5E0E-7952-40B3-A98B-DDD3EB34FD9E}",
+        "objectid": 879538,
+        "globalid": "{E9E7064B-2298-43D7-B928-F2846CFDA05C}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1739960700000,
-        "species": "Unsure",
-        "sightingid": "190225LVG1",
+        "sighttime": 1740000000000,
+        "species": "Estuarine",
+        "sightingid": "200225MKY1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Capricornia Operations",
-        "lga": "Livingstone Shire",
-        "created_date": 1739960916000,
-        "last_edited_date": 1739961458000,
+        "managementunit": "Mackay Operations",
+        "lga": "Mackay Regional",
+        "created_date": 1740000510000,
+        "last_edited_date": 1740002948000,
         "closeddate": null
       }
     }
