@@ -3,28 +3,55 @@
   "features": [
     {
       "type": "Feature",
-      "id": 879538,
+      "id": 881538,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          149.30160999985699,
-          -21.548070000160067
+          146.82607144738768,
+          -19.258066789686115
         ]
       },
       "properties": {
-        "objectid": 879538,
-        "globalid": "{E9E7064B-2298-43D7-B928-F2846CFDA05C}",
+        "objectid": 881538,
+        "globalid": "{0A352E8E-31C6-4BB3-8B72-6A42BC4B1B52}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1740000000000,
-        "species": "Estuarine",
-        "sightingid": "200225MKY1",
+        "sighttime": 1740105180000,
+        "species": "",
+        "sightingid": "210225TSV3",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Mackay Operations",
-        "lga": "Mackay Regional",
-        "created_date": 1740000510000,
-        "last_edited_date": 1740002948000,
+        "managementunit": "Townsville Operations",
+        "lga": "Townsville City",
+        "created_date": 1740105339000,
+        "last_edited_date": 1740115616000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 881138,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.79941000042228,
+          -19.239980000264541
+        ]
+      },
+      "properties": {
+        "objectid": 881138,
+        "globalid": "{42214A34-4BF0-43F0-BA95-DC65AE5CA1DD}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1740099600000,
+        "species": "Estuarine",
+        "sightingid": "210225TSV2",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Townsville Operations",
+        "lga": "Townsville City",
+        "created_date": 1740100109000,
+        "last_edited_date": 1740115235000,
         "closeddate": null
       }
     }
