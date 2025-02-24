@@ -1,4 +1,86 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "id": 883140,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.70456000043791,
+          -19.267249999876864
+        ]
+      },
+      "properties": {
+        "objectid": 883140,
+        "globalid": "{2686E205-BF2B-4228-96CD-59256A7FC7B4}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1740360720000,
+        "species": "Unsure",
+        "sightingid": "240225TSV1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Townsville Operations",
+        "lga": "Townsville City",
+        "created_date": 1740361245000,
+        "last_edited_date": 1740362537000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 883138,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.15346000016348,
+          -15.427628999819161
+        ]
+      },
+      "properties": {
+        "objectid": 883138,
+        "globalid": "{63F72604-4DE0-4700-BEBA-81937CA9EF7A}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1740352500000,
+        "species": "Unsure",
+        "sightingid": "240225COO1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Remote Operations",
+        "lga": "Cook Shire",
+        "created_date": 1740356523000,
+        "last_edited_date": 1740370852000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 883139,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.15276999970214,
+          -15.42769999962665
+        ]
+      },
+      "properties": {
+        "objectid": 883139,
+        "globalid": "{A06F1D6F-1B72-4389-8C51-BD1AB70D25B9}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1740351600000,
+        "species": "Estuarine",
+        "sightingid": "240225COO2",
+        "publicstatus": "No Further Action",
+        "publicinfo": "",
+        "managementunit": "Remote Operations",
+        "lga": "Cook Shire",
+        "created_date": 1740360283000,
+        "last_edited_date": 1740367805000,
+        "closeddate": 1740367722000
+      }
+    }
+  ]
 }
