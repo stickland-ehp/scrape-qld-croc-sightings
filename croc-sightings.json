@@ -3,55 +3,28 @@
   "features": [
     {
       "type": "Feature",
-      "id": 891538,
+      "id": 894338,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          149.22497100035022,
-          -21.10047100007608
+          145.3403708838886,
+          -17.038349154856189
         ]
       },
       "properties": {
-        "objectid": 891538,
-        "globalid": "{DCDA8825-1E9F-466F-A99A-F9A49E463739}",
+        "objectid": 894338,
+        "globalid": "{D28423E7-DFCE-4ABF-9361-648EE58BA1B2}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1740960900000,
-        "species": "Estuarine",
-        "sightingid": "030325MKY1",
+        "sighttime": 1741211640000,
+        "species": "Freshwater",
+        "sightingid": "060325MAB1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Mackay Operations",
-        "lga": "Mackay Regional",
-        "created_date": 1740963546000,
-        "last_edited_date": 1740984381000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 892338,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          146.15833000004281,
-          -18.658149999790016
-        ]
-      },
-      "properties": {
-        "objectid": 892338,
-        "globalid": "{0C1CCB0D-B83E-4F31-869D-DED9B2D66A7C}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1740958200000,
-        "species": "Unsure",
-        "sightingid": "030325HCN1",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Townsville Operations",
-        "lga": "Hinchinbrook Shire",
-        "created_date": 1741001195000,
-        "last_edited_date": 1741001568000,
+        "managementunit": "Cairns Operations",
+        "lga": "Mareeba Shire",
+        "created_date": 1741215762000,
+        "last_edited_date": 1741228738000,
         "closeddate": null
       }
     }
