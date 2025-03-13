@@ -1,4 +1,59 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "id": 900738,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.61546499994998,
+          -20.563264999626135
+        ]
+      },
+      "properties": {
+        "objectid": 900738,
+        "globalid": "{4C42AB8F-1B7D-4416-8223-F7BF5E8ED433}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1741831200000,
+        "species": "Estuarine",
+        "sightingid": "130325WTS2",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Mackay Operations",
+        "lga": "WTS",
+        "created_date": 1741844876000,
+        "last_edited_date": 1741845523000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 900338,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.61546499994998,
+          -20.563264999626135
+        ]
+      },
+      "properties": {
+        "objectid": 900338,
+        "globalid": "{5F13BA20-E16D-465F-8F27-2A9D804792C6}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1741831200000,
+        "species": "Estuarine",
+        "sightingid": "130325WTS1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Mackay Operations",
+        "lga": "Whitsunday Regional",
+        "created_date": 1741844830000,
+        "last_edited_date": 1741845283000,
+        "closeddate": null
+      }
+    }
+  ]
 }
