@@ -3,28 +3,55 @@
   "features": [
     {
       "type": "Feature",
-      "id": 908338,
+      "id": 909538,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.80900000027216,
-          -19.29519999969903
+          146.08626599990376,
+          -17.572948999900635
         ]
       },
       "properties": {
-        "objectid": 908338,
-        "globalid": "{78A7B03F-9D06-4C9E-8B2E-0BE44F060B18}",
+        "objectid": 909538,
+        "globalid": "{E4CED89A-E12B-4018-9BF0-BBC58B045500}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1742280000000,
+        "sighttime": 1742346900000,
         "species": "Estuarine",
-        "sightingid": "180325TSV1",
+        "sightingid": "190325CWC1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Innisfail Operations",
+        "lga": "Cassowary Coast Regional",
+        "created_date": 1742347401000,
+        "last_edited_date": 1742351469000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 910738,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.81197799988067,
+          -19.297020999606055
+        ]
+      },
+      "properties": {
+        "objectid": 910738,
+        "globalid": "{DC73553B-ED26-4D4E-94A5-571609C364C3}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1742338800000,
+        "species": "Estuarine",
+        "sightingid": "190325TSV1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
         "managementunit": "Townsville Operations",
         "lga": "Townsville City",
-        "created_date": 1742281987000,
-        "last_edited_date": 1742282334000,
+        "created_date": 1742362244000,
+        "last_edited_date": 1742362719000,
         "closeddate": null
       }
     }
