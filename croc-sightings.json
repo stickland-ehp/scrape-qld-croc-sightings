@@ -3,82 +3,163 @@
   "features": [
     {
       "type": "Feature",
-      "id": 912338,
+      "id": 914739,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.46696999963706,
-          -16.08993999971101
+          151.35470186159063,
+          -23.942060292709058
         ]
       },
       "properties": {
-        "objectid": 912338,
-        "globalid": "{E7697562-0290-4EB1-8339-7B5F3CB57F15}",
+        "objectid": 914739,
+        "globalid": "{1A331987-76DA-4F7D-BC21-C028D7017F95}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1742462760000,
+        "sighttime": 1742544900000,
         "species": "Estuarine",
-        "sightingid": "200325DUG1",
+        "sightingid": "210325GLT1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Cairns Operations",
-        "lga": "Douglas Shire",
-        "created_date": 1742463277000,
-        "last_edited_date": 1742469789000,
+        "managementunit": "Capricornia Operations",
+        "lga": "Gladstone Regional",
+        "created_date": 1742551718000,
+        "last_edited_date": 1742551899000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 911938,
+      "id": 915138,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.83041000029124,
-          -19.275169999872709
+          146.15283000003703,
+          -18.6535599997665
         ]
       },
       "properties": {
-        "objectid": 911938,
-        "globalid": "{3EC8C5F3-EE13-41EB-A164-725954B98CDB}",
+        "objectid": 915138,
+        "globalid": "{53EDB893-6B1F-49AC-BDF1-991280EA505F}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1742454180000,
-        "species": "Estuarine",
-        "sightingid": "200325TSV1",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Townsville Operations",
-        "lga": "Townsville City",
-        "created_date": 1742455125000,
-        "last_edited_date": 1742455512000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 911538,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          146.14894900043021,
-          -18.652886999836966
-        ]
-      },
-      "properties": {
-        "objectid": 911538,
-        "globalid": "{0819326B-81D2-4E0C-9856-67923F2EF768}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1742406300000,
-        "species": "Estuarine",
-        "sightingid": "200325HCN1",
+        "sighttime": 1742541660000,
+        "species": "Unsure",
+        "sightingid": "210325HCN1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
         "managementunit": "Townsville Operations",
         "lga": "Hinchinbrook Shire",
-        "created_date": 1742420702000,
-        "last_edited_date": 1742421923000,
+        "created_date": 1742542037000,
+        "last_edited_date": 1742542553000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 914738,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.83731484323039,
+          -19.270814934401177
+        ]
+      },
+      "properties": {
+        "objectid": 914738,
+        "globalid": "{D13435D3-BAAB-4029-9F27-1714DECE81FB}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1742539800000,
+        "species": "Estuarine",
+        "sightingid": "210325TSV4",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Townsville Operations",
+        "lga": "Townsville City",
+        "created_date": 1742541828000,
+        "last_edited_date": 1742542319000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 913938,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.83203100033995,
+          -19.27358700040152
+        ]
+      },
+      "properties": {
+        "objectid": 913938,
+        "globalid": "{3B5B6EDC-D53C-4E5B-B9CC-F28B79D5D2FF}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1742522400000,
+        "species": "Estuarine",
+        "sightingid": "210325TSV2",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Townsville Operations",
+        "lga": "Townsville City",
+        "created_date": 1742534470000,
+        "last_edited_date": 1742534803000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 913538,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.69028499993962,
+          -20.273226000287618
+        ]
+      },
+      "properties": {
+        "objectid": 913538,
+        "globalid": "{FB0ED290-3D0B-434F-9D29-AFD36AA0DE4D}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1742521500000,
+        "species": "Estuarine",
+        "sightingid": "210325WTS1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Mackay Operations",
+        "lga": "Whitsunday Regional",
+        "created_date": 1742527397000,
+        "last_edited_date": 1742537376000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 913539,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.20941300026649,
+          -10.61305899992654
+        ]
+      },
+      "properties": {
+        "objectid": 913539,
+        "globalid": "{CB90C36D-CEE5-4074-8AA6-B527DA2358C8}",
+        "what_was_observed": "Crocodile",
+        "sighting": "Somebody else",
+        "sighttime": 1742515200000,
+        "species": "Estuarine",
+        "sightingid": "210325TRS2",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Remote Operations",
+        "lga": "Torres Shire",
+        "created_date": 1742528993000,
+        "last_edited_date": 1742531928000,
         "closeddate": null
       }
     }
