@@ -3,109 +3,82 @@
   "features": [
     {
       "type": "Feature",
-      "id": 920338,
+      "id": 921938,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          149.04304840031233,
-          -21.139946599768429
+          145.74978999976145,
+          -16.903870000190963
         ]
       },
       "properties": {
-        "objectid": 920338,
-        "globalid": "{8CAD8467-9EDF-4882-BE19-6595E811EF9F}",
+        "objectid": 921938,
+        "globalid": "{C7C1E07B-C6DB-4965-ABDF-0D536A9F32B8}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1742803800000,
-        "species": "Unsure",
-        "sightingid": "240325MKY1",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Mackay Operations",
-        "lga": "Mackay Regional",
-        "created_date": 1742805414000,
-        "last_edited_date": 1742808130000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 919138,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          145.70871999964356,
-          -16.802410000176774
-        ]
-      },
-      "properties": {
-        "objectid": 919138,
-        "globalid": "{D1DA4AF1-F840-425F-8EA4-4A00DF10BD90}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1742772960000,
+        "sighttime": 1742860800000,
         "species": "Estuarine",
-        "sightingid": "240325CNS1",
+        "sightingid": "250325CNS2",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
         "managementunit": "Cairns Operations",
         "lga": "Cairns Regional",
-        "created_date": 1742773704000,
-        "last_edited_date": 1742774423000,
+        "created_date": 1742880033000,
+        "last_edited_date": 1742880281000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 918738,
+      "id": 921138,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          141.88500976645125,
-          -12.678776733316049
+          146.04459699956118,
+          -18.282518000355577
         ]
       },
       "properties": {
-        "objectid": 918738,
-        "globalid": "{63F8E6F8-4518-4DCE-9B81-9F58CAC0B8FB}",
+        "objectid": 921138,
+        "globalid": "{8C1C79D9-5745-49FE-88DC-2071422F352B}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1742770680000,
+        "sighttime": 1742854200000,
         "species": "Estuarine",
-        "sightingid": "240325NAA1",
+        "sightingid": "250325CWC1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Remote Operations",
-        "lga": "Napranum Aboriginal Shire",
-        "created_date": 1742770970000,
-        "last_edited_date": 1742793181000,
+        "managementunit": "Innisfail Operations",
+        "lga": "Cassowary Coast Regional",
+        "created_date": 1742855185000,
+        "last_edited_date": 1742856763000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 918338,
+      "id": 921139,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.814740000417,
-          -16.892090000091969
+          146.27132916137884,
+          -18.578533029332288
         ]
       },
       "properties": {
-        "objectid": 918338,
-        "globalid": "{9057411D-EC1C-46AC-93C0-B15D0B413674}",
+        "objectid": 921139,
+        "globalid": "{5ED03AC0-87ED-4660-9EFF-43A90399D255}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1742734320000,
-        "species": "Unsure",
-        "sightingid": "230325CNS1",
+        "sighttime": 1742853600000,
+        "species": "Estuarine",
+        "sightingid": "250325HCN1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Cairns Operations",
-        "lga": "Cairns Regional",
-        "created_date": 1742735827000,
-        "last_edited_date": 1742767637000,
+        "managementunit": "Townsville Operations",
+        "lga": "Hinchinbrook Shire",
+        "created_date": 1742855694000,
+        "last_edited_date": 1742856492000,
         "closeddate": null
       }
     }
