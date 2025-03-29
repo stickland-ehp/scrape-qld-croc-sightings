@@ -3,109 +3,28 @@
   "features": [
     {
       "type": "Feature",
-      "id": 927538,
+      "id": 928338,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.77481149857425,
-          -19.20946820825932
+          145.62230999963859,
+          -17.28588000035775
         ]
       },
       "properties": {
-        "objectid": 927538,
-        "globalid": "{0F78A02D-C5EC-4833-B026-64AB989F6D79}",
+        "objectid": 928338,
+        "globalid": "{D9C528FB-C986-4D78-B31A-DB87BB220DBE}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1743121200000,
-        "species": "Estuarine",
-        "sightingid": "280325TSV1",
+        "sighttime": 1743239640000,
+        "species": "Unsure",
+        "sightingid": "290325TBL1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Townsville Operations",
-        "lga": "Townsville City",
-        "created_date": 1743124521000,
-        "last_edited_date": 1743125242000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 927138,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          148.71628000027042,
-          -20.265909999648521
-        ]
-      },
-      "properties": {
-        "objectid": 927138,
-        "globalid": "{ABE263AB-8C07-4924-A17A-0F36ACB9E1A0}",
-        "what_was_observed": "Crocodile",
-        "sighting": "Somebody else",
-        "sighttime": 1743118440000,
-        "species": "Estuarine",
-        "sightingid": "280325WTS1",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Mackay Operations",
-        "lga": "Whitsunday Regional",
-        "created_date": 1743118670000,
-        "last_edited_date": 1743131613000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 926338,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          141.86273819403988,
-          -12.635230795635024
-        ]
-      },
-      "properties": {
-        "objectid": 926338,
-        "globalid": "{B7B0CD7A-76DB-4658-8FE6-B6080950F4A9}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1743108480000,
-        "species": "Estuarine",
-        "sightingid": "280325WPA1",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Remote Operations",
-        "lga": "Weipa Town",
-        "created_date": 1743108813000,
-        "last_edited_date": 1743134926000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 926738,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          141.86200735975902,
-          -12.636175867874654
-        ]
-      },
-      "properties": {
-        "objectid": 926738,
-        "globalid": "{D2BE97D8-7DF1-4D7C-8BC9-0B2431E198EE}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1743108000000,
-        "species": "Estuarine",
-        "sightingid": "280325WPA2",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Remote Operations",
-        "lga": "Weipa Town",
-        "created_date": 1743109253000,
-        "last_edited_date": 1743115078000,
+        "managementunit": "Innisfail Operations",
+        "lga": "Tablelands Regional",
+        "created_date": 1743240054000,
+        "last_edited_date": 1743244927000,
         "closeddate": null
       }
     }
