@@ -1,32 +1,4 @@
 {
   "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 928338,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          145.62230999963859,
-          -17.28588000035775
-        ]
-      },
-      "properties": {
-        "objectid": 928338,
-        "globalid": "{D9C528FB-C986-4D78-B31A-DB87BB220DBE}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1743239640000,
-        "species": "Unsure",
-        "sightingid": "290325TBL1",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Innisfail Operations",
-        "lga": "Tablelands Regional",
-        "created_date": 1743240054000,
-        "last_edited_date": 1743244927000,
-        "closeddate": null
-      }
-    }
-  ]
+  "features": []
 }
