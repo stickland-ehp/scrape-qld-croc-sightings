@@ -1,4 +1,113 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "id": 930339,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.78622177624396,
+          -19.302332595574303
+        ]
+      },
+      "properties": {
+        "objectid": 930339,
+        "globalid": "{62EC1CC3-EBBF-4AA5-8199-C8B1B35B9BC7}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1743399600000,
+        "species": "Estuarine",
+        "sightingid": "310325TSV2",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Townsville Operations",
+        "lga": "Townsville City",
+        "created_date": 1743400629000,
+        "last_edited_date": 1743402504000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 931138,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.69918490590345,
+          -20.451970835423527
+        ]
+      },
+      "properties": {
+        "objectid": 931138,
+        "globalid": "{8E8E548D-F346-4832-B85D-9330B22B3EE6}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1743396300000,
+        "species": "Estuarine",
+        "sightingid": "310325WTS1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Mackay Operations",
+        "lga": "Whitsunday Regional",
+        "created_date": 1743397157000,
+        "last_edited_date": 1743399711000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 930738,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.86117290211519,
+          -12.63704438891785
+        ]
+      },
+      "properties": {
+        "objectid": 930738,
+        "globalid": "{6721FA2B-2CF6-4412-874F-6873BED6C2C6}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1743386400000,
+        "species": "Estuarine",
+        "sightingid": "310325WPA1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Remote Operations",
+        "lga": "Weipa Town",
+        "created_date": 1743391608000,
+        "last_edited_date": 1743392198000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 930338,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.70734999972541,
+          -19.30434000012486
+        ]
+      },
+      "properties": {
+        "objectid": 930338,
+        "globalid": "{23FADF86-B94B-4E90-AD94-AC81937BD019}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1743372960000,
+        "species": "Estuarine",
+        "sightingid": "310325TSV1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Townsville Operations",
+        "lga": "Townsville City",
+        "created_date": 1743373178000,
+        "last_edited_date": 1743374869000,
+        "closeddate": null
+      }
+    }
+  ]
 }
