@@ -3,83 +3,29 @@
   "features": [
     {
       "type": "Feature",
-      "id": 934340,
+      "id": 937138,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          148.85982000019442,
-          -21.158009999823033
+          145.86232248630739,
+          -17.549774817422957
         ]
       },
       "properties": {
-        "objectid": 934340,
-        "globalid": "{B9108DF2-FE78-4C77-9FE3-C91D0BA04136}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1743657180000,
-        "species": "Estuarine",
-        "sightingid": "030425MKY3",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Mackay Operations",
-        "lga": "Mackay Regional",
-        "created_date": 1743661548000,
-        "last_edited_date": 1743661948000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 933938,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          149.02322000023372,
-          -21.140430000224995
-        ]
-      },
-      "properties": {
-        "objectid": 933938,
-        "globalid": "{5D30AA56-3222-4461-9129-A991AAFB2F16}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1743626700000,
-        "species": "",
-        "sightingid": "030425MKY1",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Mackay Operations",
-        "lga": "Mackay Regional",
-        "created_date": 1743626907000,
-        "last_edited_date": 1743647233000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 934338,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          149.02474000000009,
-          -21.140670000269697
-        ]
-      },
-      "properties": {
-        "objectid": 934338,
-        "globalid": "{321AFA62-0516-4F16-AFF0-D63ACD07288E}",
+        "objectid": 937138,
+        "globalid": "{581003A1-CA72-4222-B483-60AB8C09F56A}",
         "what_was_observed": "Crocodile",
         "sighting": "Somebody else",
-        "sighttime": 1743626640000,
-        "species": "Unsure",
-        "sightingid": "030425MKY2",
-        "publicstatus": "No Further Action",
+        "sighttime": 1743713100000,
+        "species": "Estuarine",
+        "sightingid": "040425CWC2",
+        "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Mackay Operations",
-        "lga": "Mackay Regional",
-        "created_date": 1743627017000,
-        "last_edited_date": 1743646535000,
-        "closeddate": 1743646532000
+        "managementunit": "Innisfail Operations",
+        "lga": "Cassowary Coast Regional",
+        "created_date": 1743745704000,
+        "last_edited_date": 1743753807000,
+        "closeddate": null
       }
     }
   ]
