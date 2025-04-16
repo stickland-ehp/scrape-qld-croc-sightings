@@ -3,137 +3,110 @@
   "features": [
     {
       "type": "Feature",
-      "id": 957938,
+      "id": 960338,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.26355300016431,
-          -15.471974000002605
+          145.26465814984766,
+          -15.47266644511112
         ]
       },
       "properties": {
-        "objectid": 957938,
-        "globalid": "{836FAC30-AC98-4698-9812-3A1839CB1299}",
+        "objectid": 960338,
+        "globalid": "{9209E42F-D07B-4262-AB22-F1F842C59536}",
         "what_was_observed": "Crocodile",
-        "sighting": "Somebody else",
-        "sighttime": 1744697700000,
-        "species": "Unsure",
-        "sightingid": "150425COO1",
+        "sighting": "I did",
+        "sighttime": 1744783620000,
+        "species": "Estuarine",
+        "sightingid": "160425COO1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
         "managementunit": "Remote Operations",
         "lga": "Cook Shire",
-        "created_date": 1744707929000,
-        "last_edited_date": 1744708749000,
+        "created_date": 1744787671000,
+        "last_edited_date": 1744792189000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 955940,
+      "id": 959538,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          149.19303950771877,
-          -21.050552016131757
+          146.7805939998722,
+          -19.304591000370159
         ]
       },
       "properties": {
-        "objectid": 955940,
-        "globalid": "{5D7773F1-1D1B-4B4B-9614-D65F71D51851}",
+        "objectid": 959538,
+        "globalid": "{4762AE9E-430E-4BBF-AE62-A472245F78A1}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1744681140000,
-        "species": "",
-        "sightingid": "150425MKY1",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Mackay Operations",
-        "lga": "Mackay Regional",
-        "created_date": 1744685532000,
-        "last_edited_date": 1744688656000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 956339,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          149.19140805307677,
-          -21.049929804490059
-        ]
-      },
-      "properties": {
-        "objectid": 956339,
-        "globalid": "{1DCD3837-EE6F-4C7E-85E4-84C2E769891F}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1744678800000,
+        "sighttime": 1744775100000,
         "species": "Estuarine",
-        "sightingid": "150425MKY2",
+        "sightingid": "160425TSV2",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Mackay Operations",
-        "lga": "Mackay Regional",
-        "created_date": 1744688192000,
-        "last_edited_date": 1744688636000,
+        "managementunit": "Townsville Operations",
+        "lga": "Townsville City",
+        "created_date": 1744777377000,
+        "last_edited_date": 1744778344000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 956338,
+      "id": 959938,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.02970000004939,
-          -18.265599999671348
+          149.20504199973951,
+          -21.156655999855467
         ]
       },
       "properties": {
-        "objectid": 956338,
-        "globalid": "{EF5A085D-6A3D-4DD8-86DC-1C9481F601A8}",
+        "objectid": 959938,
+        "globalid": "{2A7332B6-E71C-4CAF-BEB8-8783EF92F9BF}",
         "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1744670220000,
+        "sighting": "Somebody else",
+        "sighttime": 1744772400000,
+        "species": "Estuarine",
+        "sightingid": "160425MKY1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Mackay Operations",
+        "lga": "Mackay Regional",
+        "created_date": 1744778180000,
+        "last_edited_date": 1744778315000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 958738,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.1919100002165,
+          -21.049399999796197
+        ]
+      },
+      "properties": {
+        "objectid": 958738,
+        "globalid": "{7DDAE7EA-9B92-4EC5-BDED-DDBAD58242A8}",
+        "what_was_observed": "Crocodile",
+        "sighting": "Somebody else",
+        "sighttime": 1744723020000,
         "species": "Unsure",
-        "sightingid": "150425CWC1",
-        "publicstatus": "Under Investigation",
+        "sightingid": "150425MKY3",
+        "publicstatus": "No Further Action",
         "publicinfo": "",
-        "managementunit": "Innisfail Operations",
-        "lga": "Cassowary Coast Regional",
-        "created_date": 1744670558000,
-        "last_edited_date": 1744677873000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 955938,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          141.85961111092513,
-          -12.63802777812629
-        ]
-      },
-      "properties": {
-        "objectid": 955938,
-        "globalid": "{3D785668-4F57-4A10-A887-C73B4747C633}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1744664400000,
-        "species": "Estuarine",
-        "sightingid": "150425WPA1",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Remote Operations",
-        "lga": "Weipa Town",
-        "created_date": 1744669927000,
-        "last_edited_date": 1744678260000,
-        "closeddate": null
+        "managementunit": "Mackay Operations",
+        "lga": "Mackay Regional",
+        "created_date": 1744723589000,
+        "last_edited_date": 1744789191000,
+        "closeddate": 1744789190000
       }
     }
   ]
