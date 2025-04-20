@@ -3,55 +3,82 @@
   "features": [
     {
       "type": "Feature",
-      "id": 963938,
+      "id": 965138,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          148.65218079132555,
-          -20.419126569714624
+          145.26355300016431,
+          -15.471974000002605
         ]
       },
       "properties": {
-        "objectid": 963938,
-        "globalid": "{006B12CE-4FCD-4E1A-BC52-77BEA781205C}",
+        "objectid": 965138,
+        "globalid": "{96AF32C3-3E51-47F5-85A3-8B935C6E64DD}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1745052060000,
-        "species": "Estuarine",
-        "sightingid": "190425WTS1",
+        "sighttime": 1745133300000,
+        "species": "Unsure",
+        "sightingid": "200425COO1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Mackay Operations",
-        "lga": "Whitsunday Regional",
-        "created_date": 1745059547000,
-        "last_edited_date": 1745060655000,
+        "managementunit": "Remote Operations",
+        "lga": "Cook Shire",
+        "created_date": 1745139458000,
+        "last_edited_date": 1745139710000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 963538,
+      "id": 964738,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.94179999957737,
-          -19.321039999795222
+          146.03148845864351,
+          -18.265716285205531
         ]
       },
       "properties": {
-        "objectid": 963538,
-        "globalid": "{539FFAB9-777E-41C6-86C7-8A03BC9EC49F}",
+        "objectid": 964738,
+        "globalid": "{D3F820FB-9A29-4D72-A2B6-4C3118B3DCEE}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1745017740000,
+        "sighttime": 1745118000000,
         "species": "Estuarine",
-        "sightingid": "190425TSV2",
+        "sightingid": "200425CWC2",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Townsville Operations",
-        "lga": "Townsville City",
-        "created_date": 1745028819000,
-        "last_edited_date": 1745029208000,
+        "managementunit": "Innisfail Operations",
+        "lga": "Cassowary Coast Regional",
+        "created_date": 1745119021000,
+        "last_edited_date": 1745119191000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 964338,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.04603323591888,
+          -18.275809914242263
+        ]
+      },
+      "properties": {
+        "objectid": 964338,
+        "globalid": "{29E0CC5C-B805-4B99-948F-41EEC4ABACD0}",
+        "what_was_observed": "Crocodile",
+        "sighting": "Somebody else",
+        "sighttime": 1745097780000,
+        "species": "",
+        "sightingid": "200425CWC1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Innisfail Operations",
+        "lga": "Cassowary Coast Regional",
+        "created_date": 1745098341000,
+        "last_edited_date": 1745098526000,
         "closeddate": null
       }
     }
