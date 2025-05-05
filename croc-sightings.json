@@ -1,4 +1,140 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "id": 984338,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.78279587663479,
+          -19.303172011116629
+        ]
+      },
+      "properties": {
+        "objectid": 984338,
+        "globalid": "{E1E805EC-F949-4454-BAE1-DFC801302656}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1746428400000,
+        "species": "Estuarine",
+        "sightingid": "050525TSV3",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Townsville Operations",
+        "lga": "Townsville City",
+        "created_date": 1746431243000,
+        "last_edited_date": 1746434153000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 984738,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.26326630014646,
+          -15.472886699988909
+        ]
+      },
+      "properties": {
+        "objectid": 984738,
+        "globalid": "{933A1A56-0DED-44B4-93B6-31521D7524C1}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1746423900000,
+        "species": "Estuarine",
+        "sightingid": "050525COO2",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Remote Operations",
+        "lga": "Cook Shire",
+        "created_date": 1746441648000,
+        "last_edited_date": 1746442498000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 983138,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.24836790016118,
+          -15.461627500181701
+        ]
+      },
+      "properties": {
+        "objectid": 983138,
+        "globalid": "{3DBE1DE0-1322-4ECF-8BEA-CF345AE30F13}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1746404700000,
+        "species": "Estuarine",
+        "sightingid": "050525COO1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Remote Operations",
+        "lga": "Cook Shire",
+        "created_date": 1746405273000,
+        "last_edited_date": 1746408862000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 983938,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.70965210242261,
+          -19.201212994996443
+        ]
+      },
+      "properties": {
+        "objectid": 983938,
+        "globalid": "{E3807915-BD01-4A7E-BE60-D82EBFB0031F}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1746404640000,
+        "species": "Estuarine",
+        "sightingid": "050525TSV2",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Townsville Operations",
+        "lga": "Townsville City",
+        "created_date": 1746412256000,
+        "last_edited_date": 1746412838000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 983538,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.70994582546936,
+          -19.199398116197049
+        ]
+      },
+      "properties": {
+        "objectid": 983538,
+        "globalid": "{6B404136-8C1A-4B35-AF43-C182E0E8EAE9}",
+        "what_was_observed": "Crocodile,Slide",
+        "sighting": "I did",
+        "sighttime": 1746404400000,
+        "species": "Estuarine",
+        "sightingid": "050525TSV1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Townsville Operations",
+        "lga": "Townsville City",
+        "created_date": 1746411905000,
+        "last_edited_date": 1746412621000,
+        "closeddate": null
+      }
+    }
+  ]
 }
