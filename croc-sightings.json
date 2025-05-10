@@ -3,55 +3,109 @@
   "features": [
     {
       "type": "Feature",
-      "id": 991938,
+      "id": 993938,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          149.15822570851446,
-          -21.048106653261485
+          146.31647000027587,
+          -18.523749999706283
         ]
       },
       "properties": {
-        "objectid": 991938,
-        "globalid": "{6F695525-FD59-4588-95B3-38ACDBA8C4E0}",
+        "objectid": 993938,
+        "globalid": "{FB6A7C95-A114-49E6-A274-5A5B09B46C7E}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1746754020000,
-        "species": "Estuarine",
-        "sightingid": "090525MKY1",
+        "sighttime": 1746853620000,
+        "species": "Unsure",
+        "sightingid": "100525HCN1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Mackay Operations",
-        "lga": "Mackay Regional",
-        "created_date": 1746754445000,
-        "last_edited_date": 1746766652000,
+        "managementunit": "Townsville Operations",
+        "lga": "Hinchinbrook Shire",
+        "created_date": 1746855115000,
+        "last_edited_date": 1746859368000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 991538,
+      "id": 993139,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          150.73884909482479,
-          -23.134195460966986
+          148.64618000031186,
+          -20.419509999843704
         ]
       },
       "properties": {
-        "objectid": 991538,
-        "globalid": "{8681E906-99E6-4361-8BB5-3715CF6E0D92}",
+        "objectid": 993139,
+        "globalid": "{63DED40D-BB91-40E4-BE5B-F5FBB95FC6EC}",
         "what_was_observed": "Crocodile",
-        "sighting": "Somebody else",
-        "sighttime": 1746745200000,
+        "sighting": "I did",
+        "sighttime": 1746853080000,
         "species": "Unsure",
-        "sightingid": "090525LVG1",
+        "sightingid": "100525WTS1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Capricornia Operations",
-        "lga": "Livingstone Shire",
-        "created_date": 1746751733000,
-        "last_edited_date": 1746771215000,
+        "managementunit": "Mackay Operations",
+        "lga": "Whitsunday Regional",
+        "created_date": 1746853441000,
+        "last_edited_date": 1746860052000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 993538,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.70119049975725,
+          -19.256504800152602
+        ]
+      },
+      "properties": {
+        "objectid": 993538,
+        "globalid": "{5CA865B0-4F1F-4F4B-8742-A1A99993DC75}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1746846240000,
+        "species": "Unsure",
+        "sightingid": "100525TSV2",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Townsville Operations",
+        "lga": "Townsville City",
+        "created_date": 1746846427000,
+        "last_edited_date": 1746858768000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 993138,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.74961999994252,
+          -19.268040000225891
+        ]
+      },
+      "properties": {
+        "objectid": 993138,
+        "globalid": "{D45F122A-645D-46A9-BBD3-E15A4BA0005C}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1746845580000,
+        "species": "Unsure",
+        "sightingid": "100525TSV1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Townsville Operations",
+        "lga": "Townsville City",
+        "created_date": 1746845855000,
+        "last_edited_date": 1746858457000,
         "closeddate": null
       }
     }
