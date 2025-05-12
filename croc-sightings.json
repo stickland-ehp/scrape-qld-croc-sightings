@@ -3,28 +3,28 @@
   "features": [
     {
       "type": "Feature",
-      "id": 994338,
+      "id": 995138,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.80292248684501,
-          -19.305411047291365
+          141.09938999962705,
+          -17.774780000410235
         ]
       },
       "properties": {
-        "objectid": 994338,
-        "globalid": "{E700A51F-17C5-4CCC-8726-4D1F63956003}",
+        "objectid": 995138,
+        "globalid": "{6793A315-D4D2-4F94-A1E7-CF426D12C7CE}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1746921480000,
-        "species": "Freshwater",
-        "sightingid": "110525TSV1",
+        "sighttime": 1747035180000,
+        "species": "Unsure",
+        "sightingid": "120525CPT1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Townsville Operations",
-        "lga": "Townsville City",
-        "created_date": 1746930055000,
-        "last_edited_date": 1746933285000,
+        "managementunit": "Remote Operations",
+        "lga": "Carpentaria Shire",
+        "created_date": 1747035842000,
+        "last_edited_date": 1747047191000,
         "closeddate": null
       }
     }
