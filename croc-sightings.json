@@ -1,32 +1,4 @@
 {
   "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 995938,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          145.5641512984636,
-          -16.656361924195739
-        ]
-      },
-      "properties": {
-        "objectid": 995938,
-        "globalid": "{841C9EE1-1A78-4039-8ED9-9D2AC3990C81}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1747087980000,
-        "species": "",
-        "sightingid": "130525DUG1",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Cairns Operations",
-        "lga": "Douglas Shire",
-        "created_date": 1747088119000,
-        "last_edited_date": 1747089216000,
-        "closeddate": null
-      }
-    }
-  ]
+  "features": []
 }
