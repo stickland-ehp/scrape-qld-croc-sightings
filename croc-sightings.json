@@ -3,55 +3,28 @@
   "features": [
     {
       "type": "Feature",
-      "id": 997939,
+      "id": 999139,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.94181999966884,
-          -19.324296099594804
+          146.15398618750322,
+          -18.654255673502838
         ]
       },
       "properties": {
-        "objectid": 997939,
-        "globalid": "{CEA50C75-589A-4B06-B2D9-C84E1ED31DED}",
+        "objectid": 999139,
+        "globalid": "{958762C0-1887-408E-AFBD-93658396E6D4}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1747296300000,
-        "species": "Estuarine",
-        "sightingid": "150525TSV2",
+        "sighttime": 1747362900000,
+        "species": "",
+        "sightingid": "160525HCN1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
         "managementunit": "Townsville Operations",
-        "lga": "Townsville City",
-        "created_date": 1747297738000,
-        "last_edited_date": 1747298747000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 997140,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          145.4485683173674,
-          -14.66817602205775
-        ]
-      },
-      "properties": {
-        "objectid": 997140,
-        "globalid": "{ABF16B68-A6F3-4A20-B7C7-B1625AC04C38}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1747264200000,
-        "species": "Unsure",
-        "sightingid": "150525COO1",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Remote Operations",
-        "lga": "Cook Shire",
-        "created_date": 1747273012000,
-        "last_edited_date": 1747279953000,
+        "lga": "Hinchinbrook Shire",
+        "created_date": 1747364073000,
+        "last_edited_date": 1747364249000,
         "closeddate": null
       }
     }
