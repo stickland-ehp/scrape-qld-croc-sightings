@@ -3,55 +3,55 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1003539,
+      "id": 1005139,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.70673939769844,
-          -16.800756728880362
+          146.70887698029992,
+          -19.317437460616656
         ]
       },
       "properties": {
-        "objectid": 1003539,
-        "globalid": "{5E8B331C-A85B-4DA9-B2AF-5F69BC87EF3D}",
+        "objectid": 1005139,
+        "globalid": "{4B2B22F1-CAF7-4318-899D-FA3E012F9627}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1747722120000,
+        "sighttime": 1747808460000,
         "species": "Estuarine",
-        "sightingid": "200525CNS2",
+        "sightingid": "210525TSV2",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Cairns Operations",
-        "lga": "Cairns Regional",
-        "created_date": 1747722451000,
-        "last_edited_date": 1747724262000,
+        "managementunit": "Townsville Operations",
+        "lga": "Townsville City",
+        "created_date": 1747808859000,
+        "last_edited_date": 1747813285000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 1003139,
+      "id": 1004740,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.71227137054174,
-          -16.807016999146359
+          142.22054999964689,
+          -10.22902000020178
         ]
       },
       "properties": {
-        "objectid": 1003139,
-        "globalid": "{EBD9BA2B-6A1A-4050-B52C-D567D81183BB}",
+        "objectid": 1004740,
+        "globalid": "{801F086F-97FA-45D3-862C-2CC27E7A124D}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1747699200000,
+        "sighttime": 1747788000000,
         "species": "Estuarine",
-        "sightingid": "200525CNS1",
+        "sightingid": "210525TSI1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Cairns Operations",
-        "lga": "Cairns Regional",
-        "created_date": 1747721588000,
-        "last_edited_date": 1747724645000,
+        "managementunit": "Remote Operations",
+        "lga": "Torres Strait Island Regional",
+        "created_date": 1747806834000,
+        "last_edited_date": 1747812296000,
         "closeddate": null
       }
     }
