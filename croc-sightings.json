@@ -3,82 +3,109 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1017539,
+      "id": 1019539,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.26393999977861,
-          -15.472549999709003
+          146.14476479785546,
+          -18.656405868451312
         ]
       },
       "properties": {
-        "objectid": 1017539,
-        "globalid": "{E6FC92AC-6BEA-4F11-A843-5BACC5F7D4D9}",
+        "objectid": 1019539,
+        "globalid": "{FE127E17-6FCA-4165-9118-43B8734508D6}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1748399400000,
+        "sighttime": 1748498400000,
         "species": "Estuarine",
-        "sightingid": "280525COO1",
+        "sightingid": "290525HCN3",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Remote Operations",
-        "lga": "Cook Shire",
-        "created_date": 1748399757000,
-        "last_edited_date": 1748404024000,
+        "managementunit": "Townsville Operations",
+        "lga": "Hinchinbrook Shire",
+        "created_date": 1748513109000,
+        "last_edited_date": 1748513712000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 1017540,
+      "id": 1019139,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.47168999966809,
-          -16.530080000133022
+          148.22518958465295,
+          -20.012946774131969
         ]
       },
       "properties": {
-        "objectid": 1017540,
-        "globalid": "{8164E63B-F19A-43DF-922A-31072785C5BE}",
+        "objectid": 1019139,
+        "globalid": "{02CF0038-9B48-4C5B-89F4-55AF504C315A}",
         "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1748395800000,
+        "sighting": "Somebody else",
+        "sighttime": 1748480400000,
         "species": "Estuarine",
-        "sightingid": "280525DUG1",
+        "sightingid": "290525UNK1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Cairns Operations",
-        "lga": "Douglas Shire",
-        "created_date": 1748401560000,
-        "last_edited_date": 1748401981000,
+        "managementunit": "Western Downs Operations",
+        "lga": "UNK",
+        "created_date": 1748485205000,
+        "last_edited_date": 1748488207000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 1017939,
+      "id": 1018340,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.46980573125737,
-          -16.531020000439849
+          145.89867364072936,
+          -16.992309347340573
         ]
       },
       "properties": {
-        "objectid": 1017939,
-        "globalid": "{E4DCEAA0-467F-4AF6-AC91-8E670F8AF0C1}",
+        "objectid": 1018340,
+        "globalid": "{5B7F7F28-742A-4194-B1A4-CBDF159B7CF1}",
         "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1748390400000,
+        "sighting": "Somebody else",
+        "sighttime": 1748478900000,
         "species": "Estuarine",
-        "sightingid": "280525DUG2",
+        "sightingid": "290525YAA1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
         "managementunit": "Cairns Operations",
-        "lga": "Douglas Shire",
-        "created_date": 1748412815000,
-        "last_edited_date": 1748423602000,
+        "lga": "Yarrabah Aboriginal Shire",
+        "created_date": 1748489566000,
+        "last_edited_date": 1748492851000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1018339,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.20634363594704,
+          -18.652876495190107
+        ]
+      },
+      "properties": {
+        "objectid": 1018339,
+        "globalid": "{BFCB6014-5867-4AE7-8A06-3A0DD51C3EC5}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1748464800000,
+        "species": "Estuarine",
+        "sightingid": "290525HCN1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Townsville Operations",
+        "lga": "Hinchinbrook Shire",
+        "created_date": 1748466343000,
+        "last_edited_date": 1748469934000,
         "closeddate": null
       }
     }
