@@ -1,4 +1,59 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1023139,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.20547258273515,
+          -18.653597371030553
+        ]
+      },
+      "properties": {
+        "objectid": 1023139,
+        "globalid": "{F0AB0CC0-FFC2-4C78-92C8-0BE809F7971B}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1748756820000,
+        "species": "Estuarine",
+        "sightingid": "010625HCN2",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Townsville Operations",
+        "lga": "Hinchinbrook Shire",
+        "created_date": 1748757082000,
+        "last_edited_date": 1748769138000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1023539,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.57147078050261,
+          -19.705150270646033
+        ]
+      },
+      "properties": {
+        "objectid": 1023539,
+        "globalid": "{EF85FF73-88E6-4249-83BF-A32B14733C40}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1748755560000,
+        "species": "",
+        "sightingid": "010625BKN1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Townsville Operations",
+        "lga": "Burdekin Shire",
+        "created_date": 1748763207000,
+        "last_edited_date": 1748769193000,
+        "closeddate": null
+      }
+    }
+  ]
 }
