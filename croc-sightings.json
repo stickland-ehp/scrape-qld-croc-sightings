@@ -3,56 +3,56 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1023139,
+      "id": 1023940,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.20547258273515,
-          -18.653597371030553
+          146.73111999975993,
+          -19.396250000400364
         ]
       },
       "properties": {
-        "objectid": 1023139,
-        "globalid": "{F0AB0CC0-FFC2-4C78-92C8-0BE809F7971B}",
+        "objectid": 1023940,
+        "globalid": "{DCE1B2B4-4433-482F-B5AE-4E8D5F035B96}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1748756820000,
-        "species": "Estuarine",
-        "sightingid": "010625HCN2",
+        "sighttime": 1748838960000,
+        "species": "Unsure",
+        "sightingid": "020625TSV2",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
         "managementunit": "Townsville Operations",
-        "lga": "Hinchinbrook Shire",
-        "created_date": 1748757082000,
-        "last_edited_date": 1748769138000,
+        "lga": "Townsville City",
+        "created_date": 1748846494000,
+        "last_edited_date": 1748846735000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 1023539,
+      "id": 1023939,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          147.57147078050261,
-          -19.705150270646033
+          146.83184521885769,
+          -19.277176675893557
         ]
       },
       "properties": {
-        "objectid": 1023539,
-        "globalid": "{EF85FF73-88E6-4249-83BF-A32B14733C40}",
+        "objectid": 1023939,
+        "globalid": "{C3EC24FD-15E5-4318-B5F3-9FD441292104}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1748755560000,
-        "species": "",
-        "sightingid": "010625BKN1",
-        "publicstatus": "Under Investigation",
+        "sighttime": 1748818500000,
+        "species": "Estuarine",
+        "sightingid": "020625TSV1",
+        "publicstatus": "No Further Action",
         "publicinfo": "",
         "managementunit": "Townsville Operations",
-        "lga": "Burdekin Shire",
-        "created_date": 1748763207000,
-        "last_edited_date": 1748769193000,
-        "closeddate": null
+        "lga": "Townsville City",
+        "created_date": 1748818812000,
+        "last_edited_date": 1748846744000,
+        "closeddate": 1748846742000
       }
     }
   ]
