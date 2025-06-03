@@ -3,56 +3,29 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1023940,
+      "id": 1025540,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.73111999975993,
-          -19.396250000400364
+          146.1526464149357,
+          -18.654395055073909
         ]
       },
       "properties": {
-        "objectid": 1023940,
-        "globalid": "{DCE1B2B4-4433-482F-B5AE-4E8D5F035B96}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1748838960000,
-        "species": "Unsure",
-        "sightingid": "020625TSV2",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Townsville Operations",
-        "lga": "Townsville City",
-        "created_date": 1748846494000,
-        "last_edited_date": 1748846735000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1023939,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          146.83184521885769,
-          -19.277176675893557
-        ]
-      },
-      "properties": {
-        "objectid": 1023939,
-        "globalid": "{C3EC24FD-15E5-4318-B5F3-9FD441292104}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1748818500000,
-        "species": "Estuarine",
-        "sightingid": "020625TSV1",
+        "objectid": 1025540,
+        "globalid": "{0E27BD09-6079-4409-8AC8-E157FFB7444D}",
+        "what_was_observed": "Slide",
+        "sighting": "Somebody else",
+        "sighttime": 1748909700000,
+        "species": "",
+        "sightingid": "030625HCN1",
         "publicstatus": "No Further Action",
         "publicinfo": "",
         "managementunit": "Townsville Operations",
-        "lga": "Townsville City",
-        "created_date": 1748818812000,
-        "last_edited_date": 1748846744000,
-        "closeddate": 1748846742000
+        "lga": "Hinchinbrook Shire",
+        "created_date": 1748915259000,
+        "last_edited_date": 1748934302000,
+        "closeddate": 1748934293000
       }
     }
   ]
