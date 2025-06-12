@@ -3,56 +3,83 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1037144,
+      "id": 1038742,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          141.62144671481562,
-          -14.918242283155442
+          146.10944475846267,
+          -18.367296143701083
         ]
       },
       "properties": {
-        "objectid": 1037144,
-        "globalid": "{87246B53-9D85-4FFD-8A7F-61B07E9C4082}",
+        "objectid": 1038742,
+        "globalid": "{E86DDB70-C620-4C11-A0CD-C2FC9CB2A4AB}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1749613140000,
+        "sighttime": 1749687420000,
         "species": "Estuarine",
-        "sightingid": "110625PPA1",
+        "sightingid": "120625CWC2",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Remote Operations",
-        "lga": "Pormpuraaw Aboriginal Shire",
-        "created_date": 1749613437000,
-        "last_edited_date": 1749616663000,
+        "managementunit": "Innisfail Operations",
+        "lga": "Cassowary Coast Regional",
+        "created_date": 1749687750000,
+        "last_edited_date": 1749704194000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 1037143,
+      "id": 1038342,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.48145342736842,
-          -16.552979821968481
+          146.09557848411126,
+          -18.354355107951051
         ]
       },
       "properties": {
-        "objectid": 1037143,
-        "globalid": "{5C34FC0E-467A-4A45-86A9-D3BED8697E9D}",
+        "objectid": 1038342,
+        "globalid": "{BE22E7D9-EB4F-4F50-B577-3D931B030EF3}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1749610980000,
+        "sighttime": 1749684120000,
         "species": "Estuarine",
-        "sightingid": "110625DUG1",
-        "publicstatus": "No Further Action",
+        "sightingid": "120625CWC1",
+        "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Cairns Operations",
-        "lga": "Douglas Shire",
-        "created_date": 1749611214000,
-        "last_edited_date": 1749620160000,
-        "closeddate": 1749620155000
+        "managementunit": "Innisfail Operations",
+        "lga": "Cassowary Coast Regional",
+        "created_date": 1749684384000,
+        "last_edited_date": 1749704167000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1038743,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.08663222777369,
+          -18.349298163180382
+        ]
+      },
+      "properties": {
+        "objectid": 1038743,
+        "globalid": "{9CCAB114-0C56-46C0-964C-71502EDF52ED}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1749683760000,
+        "species": "Estuarine",
+        "sightingid": "120625CWC3",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Innisfail Operations",
+        "lga": "Cassowary Coast Regional",
+        "created_date": 1749689044000,
+        "last_edited_date": 1749695800000,
+        "closeddate": null
       }
     }
   ]
