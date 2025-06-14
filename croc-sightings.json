@@ -3,55 +3,55 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1039143,
+      "id": 1040742,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.17929524596121,
-          -18.394148008057492
+          145.71585852672754,
+          -16.847794814783022
         ]
       },
       "properties": {
-        "objectid": 1039143,
-        "globalid": "{A633C067-02D0-4D52-933B-867AAD4A9418}",
+        "objectid": 1040742,
+        "globalid": "{EAF14089-DB35-4309-8BDB-40010FB88C1C}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1749771960000,
+        "sighttime": 1749863340000,
         "species": "Estuarine",
-        "sightingid": "130625CWC1",
+        "sightingid": "140625CNS1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Innisfail Operations",
-        "lga": "Cassowary Coast Regional",
-        "created_date": 1749772434000,
-        "last_edited_date": 1749788082000,
+        "managementunit": "Cairns Operations",
+        "lga": "Cairns Regional",
+        "created_date": 1749863952000,
+        "last_edited_date": 1749868714000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 1039142,
+      "id": 1041142,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.74627482468102,
-          -17.206926088215553
+          145.69084636775915,
+          -16.873689855176679
         ]
       },
       "properties": {
-        "objectid": 1039142,
-        "globalid": "{1F8F0118-C90E-4B1B-BED7-829B1E26780B}",
+        "objectid": 1041142,
+        "globalid": "{7645DF24-FAC0-4555-A2EA-DF874D03AA04}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1749764640000,
+        "sighttime": 1749861900000,
         "species": "Estuarine",
-        "sightingid": "130625CNS1",
+        "sightingid": "140625CNS2",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
         "managementunit": "Cairns Operations",
         "lga": "Cairns Regional",
-        "created_date": 1749764872000,
-        "last_edited_date": 1749765931000,
+        "created_date": 1749870044000,
+        "last_edited_date": 1749870538000,
         "closeddate": null
       }
     }
