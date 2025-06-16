@@ -3,28 +3,55 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1041542,
+      "id": 1042742,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.85083818033226,
-          -19.158310780319958
+          150.4700652000478,
+          -23.319725399851936
         ]
       },
       "properties": {
-        "objectid": 1041542,
-        "globalid": "{45000D9A-20C6-452F-AFA7-4F0F8BEB6F31}",
+        "objectid": 1042742,
+        "globalid": "{FB7C6F11-855D-4E4B-81A1-C2A75617CB05}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1749956700000,
-        "species": "Unsure",
-        "sightingid": "150625TSV1",
+        "sighttime": 1750039980000,
+        "species": "Estuarine",
+        "sightingid": "160625LVG1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Townsville Operations",
-        "lga": "Townsville City",
-        "created_date": 1749957213000,
-        "last_edited_date": 1749957851000,
+        "managementunit": "Capricornia Operations",
+        "lga": "Livingstone Shire",
+        "created_date": 1750040414000,
+        "last_edited_date": 1750042415000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1041942,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.62190720656204,
+          -9.3767238541167472
+        ]
+      },
+      "properties": {
+        "objectid": 1041942,
+        "globalid": "{0800771C-16A5-416A-94F8-6DE15AA1ABA2}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1750032360000,
+        "species": "Estuarine",
+        "sightingid": "160625TSI1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Remote Operations",
+        "lga": "Torres Strait Island Regional",
+        "created_date": 1750032601000,
+        "last_edited_date": 1750043741000,
         "closeddate": null
       }
     }
