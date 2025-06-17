@@ -3,55 +3,28 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1042742,
+      "id": 1044342,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          150.4700652000478,
-          -23.319725399851936
+          145.75549912936197,
+          -16.972956544457524
         ]
       },
       "properties": {
-        "objectid": 1042742,
-        "globalid": "{FB7C6F11-855D-4E4B-81A1-C2A75617CB05}",
+        "objectid": 1044342,
+        "globalid": "{3E575888-8C80-4001-BEBF-C1FF1FA8E2EF}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1750039980000,
+        "sighttime": 1750116600000,
         "species": "Estuarine",
-        "sightingid": "160625LVG1",
+        "sightingid": "170625CNS1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Capricornia Operations",
-        "lga": "Livingstone Shire",
-        "created_date": 1750040414000,
-        "last_edited_date": 1750042415000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1041942,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          142.62190720656204,
-          -9.3767238541167472
-        ]
-      },
-      "properties": {
-        "objectid": 1041942,
-        "globalid": "{0800771C-16A5-416A-94F8-6DE15AA1ABA2}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1750032360000,
-        "species": "Estuarine",
-        "sightingid": "160625TSI1",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Remote Operations",
-        "lga": "Torres Strait Island Regional",
-        "created_date": 1750032601000,
-        "last_edited_date": 1750043741000,
+        "managementunit": "Cairns Operations",
+        "lga": "Cairns Regional",
+        "created_date": 1750119257000,
+        "last_edited_date": 1750125449000,
         "closeddate": null
       }
     }
