@@ -3,28 +3,28 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1049942,
+      "id": 1051142,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.78772999999526,
-          -19.273249999922697
+          151.36109999991231,
+          -23.955130000334229
         ]
       },
       "properties": {
-        "objectid": 1049942,
-        "globalid": "{AB8CE839-2C49-4CED-97E4-176A4094CF70}",
+        "objectid": 1051142,
+        "globalid": "{EB863ED7-8BF8-4AF9-B63C-5BFF8BC9ABDC}",
         "what_was_observed": "Crocodile",
-        "sighting": "Somebody else",
-        "sighttime": 1750662120000,
-        "species": "Unsure",
-        "sightingid": "230625TSV1",
+        "sighting": "I did",
+        "sighttime": 1750762800000,
+        "species": "Estuarine",
+        "sightingid": "240625GLT1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Townsville Operations",
-        "lga": "Townsville City",
-        "created_date": 1750662752000,
-        "last_edited_date": 1750677561000,
+        "managementunit": "Capricornia Operations",
+        "lga": "Gladstone Regional",
+        "created_date": 1750757923000,
+        "last_edited_date": 1750761374000,
         "closeddate": null
       }
     }
