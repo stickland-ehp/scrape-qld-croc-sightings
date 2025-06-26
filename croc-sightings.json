@@ -3,55 +3,55 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1052742,
+      "id": 1054342,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.67686638465906,
-          -16.761853359787093
+          150.47003410037271,
+          -23.319714300390807
         ]
       },
       "properties": {
-        "objectid": 1052742,
-        "globalid": "{AE7F7F77-7403-45DD-974B-A90AF5DC8A01}",
+        "objectid": 1054342,
+        "globalid": "{B66D91A5-B211-4101-ABBB-3069325A2664}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1750814100000,
+        "sighttime": 1750917180000,
         "species": "Estuarine",
-        "sightingid": "250625CNS1",
+        "sightingid": "260625LVG1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Cairns Operations",
-        "lga": "Cairns Regional",
-        "created_date": 1750816146000,
-        "last_edited_date": 1750828395000,
+        "managementunit": "Capricornia Operations",
+        "lga": "Livingstone Shire",
+        "created_date": 1750917430000,
+        "last_edited_date": 1750917913000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 1051542,
+      "id": 1053543,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.08417451530983,
-          -17.800325064674748
+          142.18338948112029,
+          -10.60313303584611
         ]
       },
       "properties": {
-        "objectid": 1051542,
-        "globalid": "{DFD78CE0-7BD8-472D-A938-A30B6E5178DF}",
+        "objectid": 1053543,
+        "globalid": "{54EAD74F-F814-42C0-9220-F23134EFE0EE}",
         "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1750803180000,
+        "sighting": "Somebody else",
+        "sighttime": 1750907400000,
         "species": "Estuarine",
-        "sightingid": "250625CWC1",
+        "sightingid": "260625TRS1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Innisfail Operations",
-        "lga": "Cassowary Coast Regional",
-        "created_date": 1750803556000,
-        "last_edited_date": 1750805406000,
+        "managementunit": "Remote Operations",
+        "lga": "Torres Shire",
+        "created_date": 1750915332000,
+        "last_edited_date": 1750917569000,
         "closeddate": null
       }
     }
