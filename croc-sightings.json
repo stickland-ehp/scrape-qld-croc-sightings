@@ -3,28 +3,28 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1059142,
+      "id": 1059543,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.85122500028345,
-          -19.158185000404391
+          145.6237845194988,
+          -17.284929703799225
         ]
       },
       "properties": {
-        "objectid": 1059142,
-        "globalid": "{C4F4C93A-5B61-4011-B199-A67313553D93}",
+        "objectid": 1059543,
+        "globalid": "{091D0946-2B59-435E-90A0-7DF22A6350D9}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1751158800000,
-        "species": "Estuarine",
-        "sightingid": "290625TSV1",
+        "sighttime": 1751256600000,
+        "species": "Freshwater",
+        "sightingid": "300625TBL1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Townsville Operations",
-        "lga": "Townsville City",
-        "created_date": 1751168234000,
-        "last_edited_date": 1751168725000,
+        "managementunit": "Innisfail Operations",
+        "lga": "Tablelands Regional",
+        "created_date": 1751256824000,
+        "last_edited_date": 1751257443000,
         "closeddate": null
       }
     }
