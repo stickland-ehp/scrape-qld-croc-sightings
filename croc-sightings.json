@@ -3,55 +3,55 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1063542,
+      "id": 1065143,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          141.88851999989927,
-          -12.689200000009278
+          146.85145371943966,
+          -19.157762120984035
         ]
       },
       "properties": {
-        "objectid": 1063542,
-        "globalid": "{5EB43B8C-FE35-4A9E-9FAF-E1453C63781F}",
-        "what_was_observed": "Slide,Tracks",
+        "objectid": 1065143,
+        "globalid": "{1E2B15C6-4BAF-48C3-837E-DD03A9081274}",
+        "what_was_observed": "Crocodile",
         "sighting": "Somebody else",
-        "sighttime": 1751518080000,
+        "sighttime": 1751583660000,
         "species": "Estuarine",
-        "sightingid": "030725COO1",
+        "sightingid": "040725TSV1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Remote Operations",
-        "lga": "Cook Shire",
-        "created_date": 1751518525000,
-        "last_edited_date": 1751518879000,
+        "managementunit": "Townsville Operations",
+        "lga": "Townsville City",
+        "created_date": 1751592507000,
+        "last_edited_date": 1751592697000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 1063142,
+      "id": 1064742,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.85157579958837,
-          -19.157339700402925
+          146.32887312743864,
+          -18.446667837461955
         ]
       },
       "properties": {
-        "objectid": 1063142,
-        "globalid": "{FA30F15C-0E31-449E-B7C5-AA54F7E449EB}",
+        "objectid": 1064742,
+        "globalid": "{66934AFC-A50B-497A-9C96-9FD531382408}",
         "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1751516100000,
-        "species": "Freshwater",
-        "sightingid": "030725TSV1",
+        "sighting": "Somebody else",
+        "sighttime": 1751578680000,
+        "species": "",
+        "sightingid": "040725CWC1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Townsville Operations",
-        "lga": "Townsville City",
-        "created_date": 1751516512000,
-        "last_edited_date": 1751517385000,
+        "managementunit": "Innisfail Operations",
+        "lga": "Cassowary Coast Regional",
+        "created_date": 1751578842000,
+        "last_edited_date": 1751581723000,
         "closeddate": null
       }
     }
