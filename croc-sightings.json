@@ -3,55 +3,82 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1070742,
+      "id": 1072742,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.45396000031278,
-          -14.661819999610941
+          148.95933999998107,
+          -20.318439999998905
         ]
       },
       "properties": {
-        "objectid": 1070742,
-        "globalid": "{D9364066-4466-4619-AFD7-57C9A6A4C6A3}",
+        "objectid": 1072742,
+        "globalid": "{31404F4F-1D36-4ACA-84FE-503871284FA1}",
         "what_was_observed": "Crocodile",
         "sighting": "Somebody else",
-        "sighttime": 1752026400000,
-        "species": "Estuarine",
-        "sightingid": "090725COO2",
+        "sighttime": 1752127200000,
+        "species": "Unsure",
+        "sightingid": "100725WTS3",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Remote Operations",
-        "lga": "Cook Shire",
-        "created_date": 1752044703000,
-        "last_edited_date": 1752057040000,
+        "managementunit": "Mackay Operations",
+        "lga": "Whitsunday Regional",
+        "created_date": 1752129146000,
+        "last_edited_date": 1752129778000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 1069942,
+      "id": 1071542,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          150.4265713395792,
-          -23.249182296784554
+          148.96104999971823,
+          -20.328740000132029
         ]
       },
       "properties": {
-        "objectid": 1069942,
-        "globalid": "{407D575E-40C5-4C08-96EB-893633DB1006}",
+        "objectid": 1071542,
+        "globalid": "{DB1AEDB9-9DB0-421C-9213-88B9028071B6}",
         "what_was_observed": "Crocodile",
         "sighting": "Somebody else",
-        "sighttime": 1752017700000,
-        "species": "Estuarine",
-        "sightingid": "090725LVG1",
+        "sighttime": 1752112800000,
+        "species": "Unsure",
+        "sightingid": "100725WTS1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Capricornia Operations",
-        "lga": "Livingstone Shire",
-        "created_date": 1752024287000,
-        "last_edited_date": 1752034270000,
+        "managementunit": "Mackay Operations",
+        "lga": "Whitsunday Regional",
+        "created_date": 1752116729000,
+        "last_edited_date": 1752122137000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1071142,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.44383999983512,
+          -14.682699999645017
+        ]
+      },
+      "properties": {
+        "objectid": 1071142,
+        "globalid": "{0C753314-ED4F-4C49-8E52-6CCCDD29BD1B}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1752100200000,
+        "species": "Estuarine",
+        "sightingid": "100725COO1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Remote Operations",
+        "lga": "Cook Shire",
+        "created_date": 1752106419000,
+        "last_edited_date": 1752109294000,
         "closeddate": null
       }
     }
