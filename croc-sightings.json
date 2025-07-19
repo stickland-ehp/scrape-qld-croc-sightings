@@ -3,28 +3,28 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1085542,
+      "id": 1086742,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.46700610562326,
-          -16.521961077809596
+          146.74399569286442,
+          -19.204491172657047
         ]
       },
       "properties": {
-        "objectid": 1085542,
-        "globalid": "{4F320604-78F9-4436-BD72-8E452132988A}",
+        "objectid": 1086742,
+        "globalid": "{3DE5D059-42E0-419D-BBA8-1AF1CB1B3E1E}",
         "what_was_observed": "Crocodile",
-        "sighting": "Somebody else",
-        "sighttime": 1752794160000,
+        "sighting": "I did",
+        "sighttime": 1752898500000,
         "species": "Estuarine",
-        "sightingid": "180725DUG1",
+        "sightingid": "190725TSV1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Cairns Operations",
-        "lga": "Douglas Shire",
-        "created_date": 1752819756000,
-        "last_edited_date": 1752820139000,
+        "managementunit": "Townsville Operations",
+        "lga": "Townsville City",
+        "created_date": 1752898732000,
+        "last_edited_date": 1752924823000,
         "closeddate": null
       }
     }
