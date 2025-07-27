@@ -1,4 +1,59 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1095942,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.31803000022526,
+          -18.525309999657832
+        ]
+      },
+      "properties": {
+        "objectid": 1095942,
+        "globalid": "{8C7105F6-C308-4B54-9E84-7263BBE4D122}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1753594200000,
+        "species": "Estuarine",
+        "sightingid": "270725HCN1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Townsville Operations",
+        "lga": "Hinchinbrook Shire",
+        "created_date": 1753599671000,
+        "last_edited_date": 1753599818000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1095542,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.72395009961093,
+          -13.367300000091619
+        ]
+      },
+      "properties": {
+        "objectid": 1095542,
+        "globalid": "{47D34FA7-7CBB-4871-9043-CEE192AE8026}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1753567500000,
+        "species": "Estuarine",
+        "sightingid": "270725ARK1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Remote Operations",
+        "lga": "Aurukun Shire",
+        "created_date": 1753567751000,
+        "last_edited_date": 1753585860000,
+        "closeddate": null
+      }
+    }
+  ]
 }
