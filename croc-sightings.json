@@ -3,55 +3,55 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1095942,
+      "id": 1097542,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.31803000022526,
-          -18.525309999657832
+          148.98516999955714,
+          -21.008180000214249
         ]
       },
       "properties": {
-        "objectid": 1095942,
-        "globalid": "{8C7105F6-C308-4B54-9E84-7263BBE4D122}",
+        "objectid": 1097542,
+        "globalid": "{35FFA378-93DB-485C-89CF-98B97748001F}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1753594200000,
+        "sighttime": 1753688280000,
         "species": "Estuarine",
-        "sightingid": "270725HCN1",
+        "sightingid": "280725MKY1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Townsville Operations",
-        "lga": "Hinchinbrook Shire",
-        "created_date": 1753599671000,
-        "last_edited_date": 1753599818000,
+        "managementunit": "Mackay Operations",
+        "lga": "Mackay Regional",
+        "created_date": 1753688860000,
+        "last_edited_date": 1753693572000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 1095542,
+      "id": 1096743,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          141.72395009961093,
-          -13.367300000091619
+          146.16988599972294,
+          -18.652156000149294
         ]
       },
       "properties": {
-        "objectid": 1095542,
-        "globalid": "{47D34FA7-7CBB-4871-9043-CEE192AE8026}",
+        "objectid": 1096743,
+        "globalid": "{6B6D2922-1DD1-4737-90AE-61D19EF461AC}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1753567500000,
-        "species": "Estuarine",
-        "sightingid": "270725ARK1",
+        "sighttime": 1753660800000,
+        "species": "",
+        "sightingid": "280725HCN2",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Remote Operations",
-        "lga": "Aurukun Shire",
-        "created_date": 1753567751000,
-        "last_edited_date": 1753585860000,
+        "managementunit": "Townsville Operations",
+        "lga": "Hinchinbrook Shire",
+        "created_date": 1753676128000,
+        "last_edited_date": 1753679993000,
         "closeddate": null
       }
     }
