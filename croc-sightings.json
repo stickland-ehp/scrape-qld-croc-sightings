@@ -3,55 +3,55 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1097542,
+      "id": 1098742,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          148.98516999955714,
-          -21.008180000214249
+          145.7291100003867,
+          -16.814490000218175
         ]
       },
       "properties": {
-        "objectid": 1097542,
-        "globalid": "{35FFA378-93DB-485C-89CF-98B97748001F}",
+        "objectid": 1098742,
+        "globalid": "{D90FF0F7-F4FB-4EF8-8645-26687C5D5D9D}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1753688280000,
+        "sighttime": 1753783320000,
         "species": "Estuarine",
-        "sightingid": "280725MKY1",
+        "sightingid": "290725CNS1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Mackay Operations",
-        "lga": "Mackay Regional",
-        "created_date": 1753688860000,
-        "last_edited_date": 1753693572000,
+        "managementunit": "Cairns Operations",
+        "lga": "Cairns Regional",
+        "created_date": 1753783793000,
+        "last_edited_date": 1753784046000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 1096743,
+      "id": 1097942,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.16988599972294,
-          -18.652156000149294
+          143.46929824767969,
+          -13.13125096245585
         ]
       },
       "properties": {
-        "objectid": 1096743,
-        "globalid": "{6B6D2922-1DD1-4737-90AE-61D19EF461AC}",
+        "objectid": 1097942,
+        "globalid": "{582326AA-B0F5-49C7-A09A-B34BEC6288B8}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1753660800000,
-        "species": "",
-        "sightingid": "280725HCN2",
+        "sighttime": 1753734000000,
+        "species": "Estuarine",
+        "sightingid": "290725LRA1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Townsville Operations",
-        "lga": "Hinchinbrook Shire",
-        "created_date": 1753676128000,
-        "last_edited_date": 1753679993000,
+        "managementunit": "Remote Operations",
+        "lga": "Lockhart River Aboriginal Shire",
+        "created_date": 1753740341000,
+        "last_edited_date": 1753769098000,
         "closeddate": null
       }
     }
