@@ -3,55 +3,109 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1098742,
+      "id": 1100342,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.7291100003867,
-          -16.814490000218175
+          150.47008349962849,
+          -23.319485600139636
         ]
       },
       "properties": {
-        "objectid": 1098742,
-        "globalid": "{D90FF0F7-F4FB-4EF8-8645-26687C5D5D9D}",
+        "objectid": 1100342,
+        "globalid": "{88CE5890-89C0-418B-A198-8761143FFC4A}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1753783320000,
+        "sighttime": 1753849080000,
         "species": "Estuarine",
-        "sightingid": "290725CNS1",
+        "sightingid": "300725LVG1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Cairns Operations",
-        "lga": "Cairns Regional",
-        "created_date": 1753783793000,
-        "last_edited_date": 1753784046000,
+        "managementunit": "Capricornia Operations",
+        "lga": "Livingstone Shire",
+        "created_date": 1753849395000,
+        "last_edited_date": 1753851210000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 1097942,
+      "id": 1099943,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          143.46929824767969,
-          -13.13125096245585
+          141.84005000006772,
+          -12.692909999642726
         ]
       },
       "properties": {
-        "objectid": 1097942,
-        "globalid": "{582326AA-B0F5-49C7-A09A-B34BEC6288B8}",
+        "objectid": 1099943,
+        "globalid": "{A2F057C9-0D22-4B1E-8D31-FCE345785811}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1753734000000,
-        "species": "Estuarine",
-        "sightingid": "290725LRA1",
+        "sighttime": 1753837980000,
+        "species": "Unsure",
+        "sightingid": "300725COO1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
         "managementunit": "Remote Operations",
-        "lga": "Lockhart River Aboriginal Shire",
-        "created_date": 1753740341000,
-        "last_edited_date": 1753769098000,
+        "lga": "Cook Shire",
+        "created_date": 1753838679000,
+        "last_edited_date": 1753845611000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1099542,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.16654096351897,
+          -10.174327347317208
+        ]
+      },
+      "properties": {
+        "objectid": 1099542,
+        "globalid": "{7669E765-53C1-421A-9314-5A12450F1EF3}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1753822440000,
+        "species": "Estuarine",
+        "sightingid": "300725TRS1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Remote Operations",
+        "lga": "Torres Shire",
+        "created_date": 1753823098000,
+        "last_edited_date": 1753826795000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1099142,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.860124483737,
+          -12.637168309965194
+        ]
+      },
+      "properties": {
+        "objectid": 1099142,
+        "globalid": "{2A3A768F-6EC9-4A2D-94A3-F0807125FBE5}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1753822080000,
+        "species": "Estuarine",
+        "sightingid": "300725WPA1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Remote Operations",
+        "lga": "Weipa Town",
+        "created_date": 1753822207000,
+        "last_edited_date": 1753846171000,
         "closeddate": null
       }
     }
