@@ -3,55 +3,28 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1109143,
+      "id": 1109942,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.24829000005633,
-          -15.461599999630021
+          147.22300000037629,
+          -19.569000000362983
         ]
       },
       "properties": {
-        "objectid": 1109143,
-        "globalid": "{8109BAF6-F349-4211-AEA4-CD7A57BC7C50}",
+        "objectid": 1109942,
+        "globalid": "{A7CBD7D7-324C-4D4D-912C-4915A4672CAA}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1754964000000,
-        "species": "Estuarine",
-        "sightingid": "120825COO1",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Remote Operations",
-        "lga": "Cook Shire",
-        "created_date": 1754964741000,
-        "last_edited_date": 1754967302000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1109542,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          146.80660000007367,
-          -19.272530000288871
-        ]
-      },
-      "properties": {
-        "objectid": 1109542,
-        "globalid": "{2255E1C0-5C18-45D2-9023-A1970470E6C0}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1754963100000,
-        "species": "Unsure",
-        "sightingid": "120825TSV1",
+        "sighttime": 1755047640000,
+        "species": "Freshwater",
+        "sightingid": "130825BKN1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
         "managementunit": "Townsville Operations",
-        "lga": "Townsville City",
-        "created_date": 1754965458000,
-        "last_edited_date": 1754971393000,
+        "lga": "Burdekin Shire",
+        "created_date": 1755047919000,
+        "last_edited_date": 1755052937000,
         "closeddate": null
       }
     }
