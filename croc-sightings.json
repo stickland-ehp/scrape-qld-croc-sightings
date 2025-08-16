@@ -3,28 +3,55 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1111942,
+      "id": 1113142,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          148.98516999955714,
-          -21.008180000214249
+          146.1507648522506,
+          -18.6547652776134
         ]
       },
       "properties": {
-        "objectid": 1111942,
-        "globalid": "{1E264711-54D4-40CB-8958-BFF676379231}",
+        "objectid": 1113142,
+        "globalid": "{412CFF72-6F1F-4EB7-AE54-8D7FE5CC392F}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1755209820000,
-        "species": "Unsure",
-        "sightingid": "150825MKY1",
+        "sighttime": 1755319500000,
+        "species": "",
+        "sightingid": "160825HCN1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Mackay Operations",
-        "lga": "Mackay Regional",
-        "created_date": 1755210057000,
-        "last_edited_date": 1755212729000,
+        "managementunit": "Townsville Operations",
+        "lga": "Hinchinbrook Shire",
+        "created_date": 1755326306000,
+        "last_edited_date": 1755333431000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1112742,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.17255417577977,
+          -18.457296298538022
+        ]
+      },
+      "properties": {
+        "objectid": 1112742,
+        "globalid": "{DA8E6E75-3ACE-46BC-BB69-8059415B6BDE}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1755311460000,
+        "species": "Estuarine",
+        "sightingid": "160825CWC1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Innisfail Operations",
+        "lga": "Cassowary Coast Regional",
+        "created_date": 1755311827000,
+        "last_edited_date": 1755319717000,
         "closeddate": null
       }
     }
