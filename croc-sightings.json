@@ -3,55 +3,28 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1113142,
+      "id": 1113543,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.1507648522506,
-          -18.6547652776134
+          145.64273743317963,
+          -16.832640759346123
         ]
       },
       "properties": {
-        "objectid": 1113142,
-        "globalid": "{412CFF72-6F1F-4EB7-AE54-8D7FE5CC392F}",
+        "objectid": 1113543,
+        "globalid": "{6F5EA7C7-C26B-447B-AE80-1015FFFB2CC4}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1755319500000,
-        "species": "",
-        "sightingid": "160825HCN1",
+        "sighttime": 1755389280000,
+        "species": "Freshwater",
+        "sightingid": "170825MAB1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Townsville Operations",
-        "lga": "Hinchinbrook Shire",
-        "created_date": 1755326306000,
-        "last_edited_date": 1755333431000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1112742,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          146.17255417577977,
-          -18.457296298538022
-        ]
-      },
-      "properties": {
-        "objectid": 1112742,
-        "globalid": "{DA8E6E75-3ACE-46BC-BB69-8059415B6BDE}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1755311460000,
-        "species": "Estuarine",
-        "sightingid": "160825CWC1",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Innisfail Operations",
-        "lga": "Cassowary Coast Regional",
-        "created_date": 1755311827000,
-        "last_edited_date": 1755319717000,
+        "managementunit": "Cairns Operations",
+        "lga": "Mareeba Shire",
+        "created_date": 1755407514000,
+        "last_edited_date": 1755410835000,
         "closeddate": null
       }
     }
