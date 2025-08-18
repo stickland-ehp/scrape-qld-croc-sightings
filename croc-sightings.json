@@ -3,28 +3,55 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1113543,
+      "id": 1114742,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.64273743317963,
-          -16.832640759346123
+          147.04665620595077,
+          -19.517502568364769
         ]
       },
       "properties": {
-        "objectid": 1113543,
-        "globalid": "{6F5EA7C7-C26B-447B-AE80-1015FFFB2CC4}",
+        "objectid": 1114742,
+        "globalid": "{2B975FB5-A89D-4519-B2D1-ACA1D4F4AE2F}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1755389280000,
+        "sighttime": 1755498600000,
         "species": "Freshwater",
-        "sightingid": "170825MAB1",
+        "sightingid": "180825BKN1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Cairns Operations",
-        "lga": "Mareeba Shire",
-        "created_date": 1755407514000,
-        "last_edited_date": 1755410835000,
+        "managementunit": "Townsville Operations",
+        "lga": "Burdekin Shire",
+        "created_date": 1755504277000,
+        "last_edited_date": 1755504819000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1114342,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.76991197382691,
+          -19.184248411391394
+        ]
+      },
+      "properties": {
+        "objectid": 1114342,
+        "globalid": "{637A3D3D-462C-429B-8764-C2D71C70C54D}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1755475200000,
+        "species": "Estuarine",
+        "sightingid": "180825TSV1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Townsville Operations",
+        "lga": "Townsville City",
+        "created_date": 1755491521000,
+        "last_edited_date": 1755496619000,
         "closeddate": null
       }
     }
