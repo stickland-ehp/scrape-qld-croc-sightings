@@ -3,28 +3,55 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1115142,
+      "id": 1116342,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.17044999978754,
-          -18.652190000382728
+          141.72291999967794,
+          -13.366769999954668
         ]
       },
       "properties": {
-        "objectid": 1115142,
-        "globalid": "{ACB8E626-150D-4EF5-9F08-5266BD6AF575}",
+        "objectid": 1116342,
+        "globalid": "{DFC7A191-C48F-4E60-ACF2-1C096F8EC1AF}",
         "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1755591180000,
-        "species": "Unsure",
-        "sightingid": "190825HCN1",
+        "sighting": "Somebody else",
+        "sighttime": 1755662400000,
+        "species": "Estuarine",
+        "sightingid": "200825ARK2",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Townsville Operations",
-        "lga": "Hinchinbrook Shire",
-        "created_date": 1755591528000,
-        "last_edited_date": 1755594760000,
+        "managementunit": "Remote Operations",
+        "lga": "Aurukun Shire",
+        "created_date": 1755689434000,
+        "last_edited_date": 1755689675000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1115942,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.72531999987643,
+          -13.367839999972867
+        ]
+      },
+      "properties": {
+        "objectid": 1115942,
+        "globalid": "{7112C437-4D2A-416B-8FC3-EB41C3A26D65}",
+        "what_was_observed": "Crocodile",
+        "sighting": "Somebody else",
+        "sighttime": 1755613800000,
+        "species": "Estuarine",
+        "sightingid": "200825ARK1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Remote Operations",
+        "lga": "Aurukun Shire",
+        "created_date": 1755658892000,
+        "last_edited_date": 1755663653000,
         "closeddate": null
       }
     }
