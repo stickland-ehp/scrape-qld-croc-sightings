@@ -3,55 +3,28 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1116342,
+      "id": 1117542,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          141.72291999967794,
-          -13.366769999954668
+          145.46550000009935,
+          -16.099709999822693
         ]
       },
       "properties": {
-        "objectid": 1116342,
-        "globalid": "{DFC7A191-C48F-4E60-ACF2-1C096F8EC1AF}",
+        "objectid": 1117542,
+        "globalid": "{F2F3D7AE-52FE-4DFD-B27A-2B2A9CE8D990}",
         "what_was_observed": "Crocodile",
-        "sighting": "Somebody else",
-        "sighttime": 1755662400000,
+        "sighting": "I did",
+        "sighttime": 1755768960000,
         "species": "Estuarine",
-        "sightingid": "200825ARK2",
+        "sightingid": "210825DUG1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Remote Operations",
-        "lga": "Aurukun Shire",
-        "created_date": 1755689434000,
-        "last_edited_date": 1755689675000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1115942,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          141.72531999987643,
-          -13.367839999972867
-        ]
-      },
-      "properties": {
-        "objectid": 1115942,
-        "globalid": "{7112C437-4D2A-416B-8FC3-EB41C3A26D65}",
-        "what_was_observed": "Crocodile",
-        "sighting": "Somebody else",
-        "sighttime": 1755613800000,
-        "species": "Estuarine",
-        "sightingid": "200825ARK1",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Remote Operations",
-        "lga": "Aurukun Shire",
-        "created_date": 1755658892000,
-        "last_edited_date": 1755663653000,
+        "managementunit": "Cairns Operations",
+        "lga": "Douglas Shire",
+        "created_date": 1755769498000,
+        "last_edited_date": 1755769921000,
         "closeddate": null
       }
     }
