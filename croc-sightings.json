@@ -1,4 +1,32 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1123142,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.7213776713869,
+          -13.365728225740924
+        ]
+      },
+      "properties": {
+        "objectid": 1123142,
+        "globalid": "{DCB0B151-57D5-4ED2-BB1E-7C3FBA621907}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1756499820000,
+        "species": "Estuarine",
+        "sightingid": "300825ARK1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Remote Operations",
+        "lga": "Aurukun Shire",
+        "created_date": 1756500072000,
+        "last_edited_date": 1756513255000,
+        "closeddate": null
+      }
+    }
+  ]
 }
