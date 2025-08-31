@@ -3,28 +3,55 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1123142,
+      "id": 1123942,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          141.7213776713869,
-          -13.365728225740924
+          146.08482119182162,
+          -17.800515875865347
         ]
       },
       "properties": {
-        "objectid": 1123142,
-        "globalid": "{DCB0B151-57D5-4ED2-BB1E-7C3FBA621907}",
+        "objectid": 1123942,
+        "globalid": "{A6DE48E5-86A4-48F9-AFE4-751693C014A1}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1756499820000,
+        "sighttime": 1756605000000,
         "species": "Estuarine",
-        "sightingid": "300825ARK1",
+        "sightingid": "310825CWC1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Innisfail Operations",
+        "lga": "Cassowary Coast Regional",
+        "created_date": 1756608552000,
+        "last_edited_date": 1756613090000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1124742,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.33296699979911,
+          -15.066501500383218
+        ]
+      },
+      "properties": {
+        "objectid": 1124742,
+        "globalid": "{1F343C0A-2312-4651-BBAF-027EA352710D}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1756564200000,
+        "species": "Estuarine",
+        "sightingid": "310825COO1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
         "managementunit": "Remote Operations",
-        "lga": "Aurukun Shire",
-        "created_date": 1756500072000,
-        "last_edited_date": 1756513255000,
+        "lga": "Cook Shire",
+        "created_date": 1756616074000,
+        "last_edited_date": 1756618820000,
         "closeddate": null
       }
     }
