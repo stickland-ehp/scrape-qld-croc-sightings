@@ -1,4 +1,32 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1128742,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.20592000021969,
+          -20.847750000365888
+        ]
+      },
+      "properties": {
+        "objectid": 1128742,
+        "globalid": "{D9EACF80-B4F8-457E-AE36-8D39B00D2BA0}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1756873380000,
+        "species": "Freshwater",
+        "sightingid": "030925FLD1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Remote Operations",
+        "lga": "Flinders Shire",
+        "created_date": 1756873624000,
+        "last_edited_date": 1756878871000,
+        "closeddate": null
+      }
+    }
+  ]
 }
