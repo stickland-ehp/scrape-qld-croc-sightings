@@ -1,4 +1,59 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1138342,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.21799999966061,
+          -10.225000000027684
+        ]
+      },
+      "properties": {
+        "objectid": 1138342,
+        "globalid": "{8FFFB2AB-252A-4729-895E-C758C53015C1}",
+        "what_was_observed": "Crocodile",
+        "sighting": "Somebody else",
+        "sighttime": 1757640600000,
+        "species": "Freshwater",
+        "sightingid": "120925TSI2",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Remote Operations",
+        "lga": "Torres Strait Island Regional",
+        "created_date": 1757666035000,
+        "last_edited_date": 1757667983000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1137142,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.31902000020179,
+          -15.944720000140276
+        ]
+      },
+      "properties": {
+        "objectid": 1137142,
+        "globalid": "{3FF3AD24-F294-4F03-8107-340ADBC1C51D}",
+        "what_was_observed": "Crocodile",
+        "sighting": "Somebody else",
+        "sighttime": 1757633520000,
+        "species": "Estuarine",
+        "sightingid": "120925WWA1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Cairns Operations",
+        "lga": "Wujal Wujal Aboriginal Shire",
+        "created_date": 1757634238000,
+        "last_edited_date": 1757639311000,
+        "closeddate": null
+      }
+    }
+  ]
 }
