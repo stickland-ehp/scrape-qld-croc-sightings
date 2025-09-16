@@ -3,109 +3,82 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1142743,
+      "id": 1143942,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.87471830028542,
-          -17.476051700401349
+          150.79075999972397,
+          -23.276419999764226
         ]
       },
       "properties": {
-        "objectid": 1142743,
-        "globalid": "{3EC5779A-C2C9-4692-BA1C-63B5C0FF0443}",
-        "what_was_observed": "Crocodile,Slide,Tracks",
-        "sighting": "I did",
-        "sighttime": 1757910060000,
-        "species": "Estuarine",
-        "sightingid": "150925CNS4",
-        "publicstatus": "No Further Action",
-        "publicinfo": "",
-        "managementunit": "Cairns Operations",
-        "lga": "Cairns Regional",
-        "created_date": 1757910447000,
-        "last_edited_date": 1757923954000,
-        "closeddate": 1757923953000
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1141943,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          145.87443766479404,
-          -17.476056603304695
-        ]
-      },
-      "properties": {
-        "objectid": 1141943,
-        "globalid": "{00D6C171-5C9F-42F2-B7C0-D0044081F95A}",
+        "objectid": 1143942,
+        "globalid": "{8927046F-460C-469B-9909-43A4F251D8D6}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1757907180000,
+        "sighttime": 1757986380000,
         "species": "Estuarine",
-        "sightingid": "150925CNS3",
+        "sightingid": "160925LVG2",
         "publicstatus": "No Further Action",
-        "publicinfo": "",
-        "managementunit": "Cairns Operations",
-        "lga": "Cairns Regional",
-        "created_date": 1757907432000,
-        "last_edited_date": 1757923916000,
-        "closeddate": 1757923916000
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1142342,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.78600000040828,
-          -23.280109999753918
-        ]
-      },
-      "properties": {
-        "objectid": 1142342,
-        "globalid": "{D17EE94C-379D-4310-922F-59EED6F7276A}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1757900220000,
-        "species": "Estuarine",
-        "sightingid": "150925LVG1",
-        "publicstatus": "Under Investigation",
         "publicinfo": "",
         "managementunit": "Capricornia Operations",
         "lga": "Livingstone Shire",
-        "created_date": 1757900881000,
-        "last_edited_date": 1757914365000,
-        "closeddate": null
+        "created_date": 1757986700000,
+        "last_edited_date": 1758003781000,
+        "closeddate": 1758003781000
       }
     },
     {
       "type": "Feature",
-      "id": 1141542,
+      "id": 1143542,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.0257396504569,
-          -17.526600790048732
+          150.79198999996044,
+          -23.277950000332876
         ]
       },
       "properties": {
-        "objectid": 1141542,
-        "globalid": "{5273DC22-243E-4CFD-8836-502724B14BEA}",
+        "objectid": 1143542,
+        "globalid": "{45955C6D-CD69-4CE0-AD35-D41084F06F87}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1757897100000,
+        "sighttime": 1757983440000,
         "species": "Estuarine",
-        "sightingid": "150925CWC1",
+        "sightingid": "160925LVG1",
+        "publicstatus": "No Further Action",
+        "publicinfo": "",
+        "managementunit": "Capricornia Operations",
+        "lga": "Livingstone Shire",
+        "created_date": 1757983761000,
+        "last_edited_date": 1758003824000,
+        "closeddate": 1758003824000
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1143142,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.78737000014513,
+          -19.274159999939005
+        ]
+      },
+      "properties": {
+        "objectid": 1143142,
+        "globalid": "{BD21D5F3-A5C2-4E54-A467-343BA74AB695}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1757981040000,
+        "species": "Unsure",
+        "sightingid": "160925TSV1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Innisfail Operations",
-        "lga": "Cassowary Coast Regional",
-        "created_date": 1757898011000,
-        "last_edited_date": 1757898325000,
+        "managementunit": "Townsville Operations",
+        "lga": "Townsville City",
+        "created_date": 1757981310000,
+        "last_edited_date": 1757983734000,
         "closeddate": null
       }
     }
