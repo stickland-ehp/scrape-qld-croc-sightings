@@ -1,4 +1,32 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1146742,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.4249489767862,
+          -23.250954092798164
+        ]
+      },
+      "properties": {
+        "objectid": 1146742,
+        "globalid": "{3E1C6D81-77A7-439E-A887-DFF7E33B1884}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1758159720000,
+        "species": "Estuarine",
+        "sightingid": "180925ROC1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Capricornia Operations",
+        "lga": "Rockhampton Regional",
+        "created_date": 1758160076000,
+        "last_edited_date": 1758160183000,
+        "closeddate": null
+      }
+    }
+  ]
 }
