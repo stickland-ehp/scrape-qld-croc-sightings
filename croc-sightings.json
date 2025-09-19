@@ -3,28 +3,28 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1146742,
+      "id": 1148742,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          150.4249489767862,
-          -23.250954092798164
+          150.80777116090078,
+          -23.268949592675227
         ]
       },
       "properties": {
-        "objectid": 1146742,
-        "globalid": "{3E1C6D81-77A7-439E-A887-DFF7E33B1884}",
+        "objectid": 1148742,
+        "globalid": "{7EBF4CE4-F442-4007-B56D-4E4508C9650B}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1758159720000,
+        "sighttime": 1758248100000,
         "species": "Estuarine",
-        "sightingid": "180925ROC1",
+        "sightingid": "190925LVG1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
         "managementunit": "Capricornia Operations",
-        "lga": "Rockhampton Regional",
-        "created_date": 1758160076000,
-        "last_edited_date": 1758160183000,
+        "lga": "Livingstone Shire",
+        "created_date": 1758270312000,
+        "last_edited_date": 1758276393000,
         "closeddate": null
       }
     }
