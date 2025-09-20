@@ -1,32 +1,4 @@
 {
   "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 1148742,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.80777116090078,
-          -23.268949592675227
-        ]
-      },
-      "properties": {
-        "objectid": 1148742,
-        "globalid": "{7EBF4CE4-F442-4007-B56D-4E4508C9650B}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1758248100000,
-        "species": "Estuarine",
-        "sightingid": "190925LVG1",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Capricornia Operations",
-        "lga": "Livingstone Shire",
-        "created_date": 1758270312000,
-        "last_edited_date": 1758276393000,
-        "closeddate": null
-      }
-    }
-  ]
+  "features": []
 }
