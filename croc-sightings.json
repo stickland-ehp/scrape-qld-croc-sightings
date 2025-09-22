@@ -1,4 +1,32 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1150342,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.68267629714958,
+          -16.775873531343038
+        ]
+      },
+      "properties": {
+        "objectid": 1150342,
+        "globalid": "{27BC2A41-6D8B-436A-8429-B74DB0D4311B}",
+        "what_was_observed": "Crocodile",
+        "sighting": "Somebody else",
+        "sighttime": 1758474000000,
+        "species": "Estuarine",
+        "sightingid": "220925CNS1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Cairns Operations",
+        "lga": "Cairns Regional",
+        "created_date": 1758496360000,
+        "last_edited_date": 1758513959000,
+        "closeddate": null
+      }
+    }
+  ]
 }
