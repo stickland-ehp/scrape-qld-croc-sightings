@@ -3,28 +3,55 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1154342,
+      "id": 1155943,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.14478000004499,
-          -18.656710000414034
+          145.46246999971405,
+          -16.041200000094353
         ]
       },
       "properties": {
-        "objectid": 1154342,
-        "globalid": "{65D6F69C-7B5C-4B2C-8415-2EF96B7C8045}",
+        "objectid": 1155943,
+        "globalid": "{65AAF7C1-D111-401B-8992-EBCFF774F324}",
         "what_was_observed": "Crocodile",
-        "sighting": "Somebody else",
-        "sighttime": 1758855600000,
+        "sighting": "I did",
+        "sighttime": 1758948840000,
         "species": "Estuarine",
-        "sightingid": "260925HCN1",
+        "sightingid": "270925DUG1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Townsville Operations",
-        "lga": "Hinchinbrook Shire",
-        "created_date": 1758860999000,
-        "last_edited_date": 1758861506000,
+        "managementunit": "Cairns Operations",
+        "lga": "Douglas Shire",
+        "created_date": 1758949241000,
+        "last_edited_date": 1758949629000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1155542,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.7055878464374,
+          -16.83161353967979
+        ]
+      },
+      "properties": {
+        "objectid": 1155542,
+        "globalid": "{E621A750-0C70-4EE4-8F25-791678DBD0C8}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1758920400000,
+        "species": "Estuarine",
+        "sightingid": "270925CNS1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Cairns Operations",
+        "lga": "Cairns Regional",
+        "created_date": 1758922363000,
+        "last_edited_date": 1758922585000,
         "closeddate": null
       }
     }
