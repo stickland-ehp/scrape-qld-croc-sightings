@@ -3,28 +3,109 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1156342,
+      "id": 1158742,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          150.78355046800334,
-          -23.284500763208644
+          146.03375999975631,
+          -17.361849999832156
         ]
       },
       "properties": {
-        "objectid": 1156342,
-        "globalid": "{ED96E899-A84D-4E9F-AEBB-EEB2351912EA}",
+        "objectid": 1158742,
+        "globalid": "{DA897D4B-7527-430C-AF31-8B0D3ADF5E08}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1759018440000,
+        "sighttime": 1759101120000,
         "species": "Estuarine",
-        "sightingid": "280925LVG1",
+        "sightingid": "290925CNS2",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Cairns Operations",
+        "lga": "Cairns Regional",
+        "created_date": 1759102378000,
+        "last_edited_date": 1759104616000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1157542,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.24516348808885,
+          -10.591953645134325
+        ]
+      },
+      "properties": {
+        "objectid": 1157542,
+        "globalid": "{9A03E0FC-E4C1-409C-81D0-8025D946889C}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1759092960000,
+        "species": "Estuarine",
+        "sightingid": "290925TRS1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Remote Operations",
+        "lga": "Torres Shire",
+        "created_date": 1759093667000,
+        "last_edited_date": 1759101714000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1157543,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.77196936400426,
+          -23.15946654452199
+        ]
+      },
+      "properties": {
+        "objectid": 1157543,
+        "globalid": "{1FF2ECB1-BE32-45E8-999A-1D42C24A69D3}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1759090800000,
+        "species": "Freshwater",
+        "sightingid": "290925LVG2",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
         "managementunit": "Capricornia Operations",
         "lga": "Livingstone Shire",
-        "created_date": 1759018984000,
-        "last_edited_date": 1759019629000,
+        "created_date": 1759094255000,
+        "last_edited_date": 1759104774000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1157942,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.77411083894546,
+          -23.161547514392399
+        ]
+      },
+      "properties": {
+        "objectid": 1157942,
+        "globalid": "{B15D9FB0-7EC1-4674-859B-E2C8164C87E6}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1759090200000,
+        "species": "Estuarine",
+        "sightingid": "290925LVG1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Capricornia Operations",
+        "lga": "Livingstone Shire",
+        "created_date": 1759093810000,
+        "last_edited_date": 1759104943000,
         "closeddate": null
       }
     }
