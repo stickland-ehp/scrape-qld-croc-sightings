@@ -3,28 +3,55 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1169942,
+      "id": 1170344,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.71319724344383,
-          -16.830644444506408
+          146.78756096849983,
+          -19.272251981057796
         ]
       },
       "properties": {
-        "objectid": 1169942,
-        "globalid": "{7F756140-84E6-4AB8-9072-7CE48A84D997}",
+        "objectid": 1170344,
+        "globalid": "{110E2F08-F5B1-4D6A-A90E-23CA08C25FB6}",
         "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1759888920000,
-        "species": "Estuarine",
-        "sightingid": "081025CNS1",
+        "sighting": "Somebody else",
+        "sighttime": 1759981800000,
+        "species": "Unsure",
+        "sightingid": "091025TSV2",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Cairns Operations",
-        "lga": "Cairns Regional",
-        "created_date": 1759889348000,
-        "last_edited_date": 1759903977000,
+        "managementunit": "Townsville Operations",
+        "lga": "Townsville City",
+        "created_date": 1759984381000,
+        "last_edited_date": 1759986258000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1170343,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.80509691378748,
+          -19.286101223412999
+        ]
+      },
+      "properties": {
+        "objectid": 1170343,
+        "globalid": "{07C07459-F0DC-491D-84B9-3E27D74A8F6C}",
+        "what_was_observed": "Slide",
+        "sighting": "I did",
+        "sighttime": 1759968000000,
+        "species": "",
+        "sightingid": "091025TSV1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Townsville Operations",
+        "lga": "Townsville City",
+        "created_date": 1759984001000,
+        "last_edited_date": 1759984243000,
         "closeddate": null
       }
     }
