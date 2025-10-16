@@ -1,4 +1,32 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1177543,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.08474084650254,
+          -17.800524597460299
+        ]
+      },
+      "properties": {
+        "objectid": 1177543,
+        "globalid": "{6BFA116D-DAF6-4339-84FA-A42F6B2830F9}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1760583480000,
+        "species": "Estuarine",
+        "sightingid": "161025CWC1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Innisfail Operations",
+        "lga": "Cassowary Coast Regional",
+        "created_date": 1760583772000,
+        "last_edited_date": 1760584020000,
+        "closeddate": null
+      }
+    }
+  ]
 }
