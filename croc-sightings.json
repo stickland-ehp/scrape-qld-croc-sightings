@@ -3,28 +3,28 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1180342,
+      "id": 1181542,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.0260400003755,
-          -17.526709999608304
+          143.42190516258381,
+          -18.795835335529009
         ]
       },
       "properties": {
-        "objectid": 1180342,
-        "globalid": "{C58BEF83-1144-498E-8A23-7A82F980D8A5}",
+        "objectid": 1181542,
+        "globalid": "{CFAB2A60-AA7B-4639-83F0-31B3EB0CE081}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1760712300000,
-        "species": "Estuarine",
-        "sightingid": "181025CWC1",
+        "sighttime": 1760835600000,
+        "species": "Freshwater",
+        "sightingid": "191025ERD1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Innisfail Operations",
-        "lga": "Cassowary Coast Regional",
-        "created_date": 1760755857000,
-        "last_edited_date": 1760756166000,
+        "managementunit": "Remote Operations",
+        "lga": "Etheridge Shire",
+        "created_date": 1760837757000,
+        "last_edited_date": 1760839824000,
         "closeddate": null
       }
     }
