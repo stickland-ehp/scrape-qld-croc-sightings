@@ -3,136 +3,28 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1195942,
+      "id": 1196342,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.04970489033528,
-          -18.281456957715243
+          146.20097430039098,
+          -18.664754499953517
         ]
       },
       "properties": {
-        "objectid": 1195942,
-        "globalid": "{2E2185C5-AA29-48A9-BF5D-320B53AEB58D}",
+        "objectid": 1196342,
+        "globalid": "{B0C7B266-8CC7-49AC-BDCA-4998CE6255DE}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1761897840000,
+        "sighttime": 1761959640000,
         "species": "Estuarine",
-        "sightingid": "311025CWC6",
+        "sightingid": "011125HCN1",
         "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Innisfail Operations",
-        "lga": "Cassowary Coast Regional",
-        "created_date": 1761898996000,
-        "last_edited_date": 1761899417000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1194742,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          146.78323000007225,
-          -19.299670000027874
-        ]
-      },
-      "properties": {
-        "objectid": 1194742,
-        "globalid": "{D2DE6966-F2EA-4FDC-976E-B7F195C814C2}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1761858420000,
-        "species": "Unsure",
-        "sightingid": "311025TSV1",
-        "publicstatus": "No Further Action",
         "publicinfo": "",
         "managementunit": "Townsville Operations",
-        "lga": "Townsville City",
-        "created_date": 1761858602000,
-        "last_edited_date": 1761874750000,
-        "closeddate": 1761874746000
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1193543,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          146.08473152827813,
-          -17.800608422939881
-        ]
-      },
-      "properties": {
-        "objectid": 1193543,
-        "globalid": "{B9684E02-4C88-4D00-8BA4-64F375F45A5C}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1761837180000,
-        "species": "Unsure",
-        "sightingid": "311025CWC3",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Innisfail Operations",
-        "lga": "Cassowary Coast Regional",
-        "created_date": 1761837377000,
-        "last_edited_date": 1761861944000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1194342,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          146.08473152827813,
-          -17.800608423795222
-        ]
-      },
-      "properties": {
-        "objectid": 1194342,
-        "globalid": "{36314814-83C0-4863-B3A2-560D93CEFD38}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1761837060000,
-        "species": "Unsure",
-        "sightingid": "311025CWC2",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Innisfail Operations",
-        "lga": "Cassowary Coast Regional",
-        "created_date": 1761837284000,
-        "last_edited_date": 1761861938000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1193942,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          146.08475854870355,
-          -17.800552503653297
-        ]
-      },
-      "properties": {
-        "objectid": 1193942,
-        "globalid": "{D2CE07DD-6B55-45A6-95CE-65E3D3E85B81}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1761836880000,
-        "species": "Unsure",
-        "sightingid": "311025CWC1",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Innisfail Operations",
-        "lga": "Cassowary Coast Regional",
-        "created_date": 1761837117000,
-        "last_edited_date": 1761861925000,
+        "lga": "Hinchinbrook Shire",
+        "created_date": 1761959819000,
+        "last_edited_date": 1761964096000,
         "closeddate": null
       }
     }
