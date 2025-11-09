@@ -1,4 +1,86 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1204742,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.04949000002588,
+          -20.923470000386654
+        ]
+      },
+      "properties": {
+        "objectid": 1204742,
+        "globalid": "{CAAEDE1B-B8B2-46C0-810C-715838EAEA70}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1762666200000,
+        "species": "Estuarine",
+        "sightingid": "091125MKY2",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Mackay Operations",
+        "lga": "Mackay Regional",
+        "created_date": 1762666572000,
+        "last_edited_date": 1762682664000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1203942,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.76525354816039,
+          -23.321115478146289
+        ]
+      },
+      "properties": {
+        "objectid": 1203942,
+        "globalid": "{AB34754E-BCEA-4CB8-B79E-B09118087297}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1762653960000,
+        "species": "Estuarine",
+        "sightingid": "091125LVG1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Capricornia Operations",
+        "lga": "Livingstone Shire",
+        "created_date": 1762654183000,
+        "last_edited_date": 1762683155000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1203542,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.21177288763806,
+          -23.836698981962215
+        ]
+      },
+      "properties": {
+        "objectid": 1203542,
+        "globalid": "{5E830D39-5D36-48B1-B91E-750BCABAEDAA}",
+        "what_was_observed": "Crocodile",
+        "sighting": "Somebody else",
+        "sighttime": 1762645560000,
+        "species": "Unsure",
+        "sightingid": "091125GLT1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Capricornia Operations",
+        "lga": "Gladstone Regional",
+        "created_date": 1762647438000,
+        "last_edited_date": 1762683412000,
+        "closeddate": null
+      }
+    }
+  ]
 }
