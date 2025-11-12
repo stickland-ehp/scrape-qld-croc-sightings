@@ -1,4 +1,113 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1208342,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.8864119676812,
+          -17.184419598002311
+        ]
+      },
+      "properties": {
+        "objectid": 1208342,
+        "globalid": "{178106A8-E9C8-4EAA-A2E3-9B12F4FD6B77}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1762908900000,
+        "species": "Estuarine",
+        "sightingid": "121125CNS1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Cairns Operations",
+        "lga": "Cairns Regional",
+        "created_date": 1762913697000,
+        "last_edited_date": 1762921246000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1208343,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.56889727507775,
+          -16.654201904198228
+        ]
+      },
+      "properties": {
+        "objectid": 1208343,
+        "globalid": "{BC84888A-6E75-49D9-BBC2-72EF432E746F}",
+        "what_was_observed": "Tracks",
+        "sighting": "I did",
+        "sighttime": 1762900380000,
+        "species": "Estuarine",
+        "sightingid": "121125DUG1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Cairns Operations",
+        "lga": "Douglas Shire",
+        "created_date": 1762925442000,
+        "last_edited_date": 1762925853000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1207942,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.08463672008307,
+          -17.80078761018385
+        ]
+      },
+      "properties": {
+        "objectid": 1207942,
+        "globalid": "{24C08C0E-5DDE-4BB4-9338-D220BE185573}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1762863180000,
+        "species": "Freshwater",
+        "sightingid": "111125CWC2",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Innisfail Operations",
+        "lga": "Cassowary Coast Regional",
+        "created_date": 1762863343000,
+        "last_edited_date": 1762898748000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1207542,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.08463722134297,
+          -17.800787085024364
+        ]
+      },
+      "properties": {
+        "objectid": 1207542,
+        "globalid": "{DEC2F835-C3F3-4B83-94AF-3EBF16B8BE73}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1762863060000,
+        "species": "Freshwater",
+        "sightingid": "111125CWC1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Innisfail Operations",
+        "lga": "Cassowary Coast Regional",
+        "created_date": 1762863259000,
+        "last_edited_date": 1762898742000,
+        "closeddate": null
+      }
+    }
+  ]
 }
