@@ -1,4 +1,59 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1216745,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.46743999999035,
+          -16.510499999688747
+        ]
+      },
+      "properties": {
+        "objectid": 1216745,
+        "globalid": "{68B7B3D6-1C05-4532-BA1D-0EE9AF6AE5D1}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1763705220000,
+        "species": "Estuarine",
+        "sightingid": "211125DUG2",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Cairns Operations",
+        "lga": "Douglas Shire",
+        "created_date": 1763705480000,
+        "last_edited_date": 1763705675000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1217545,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.75183000041199,
+          -23.135974000204669
+        ]
+      },
+      "properties": {
+        "objectid": 1217545,
+        "globalid": "{69933E76-8B7F-49E8-9345-405D6F53BE4A}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1763640000000,
+        "species": "Estuarine",
+        "sightingid": "211125LVG1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Capricornia Operations",
+        "lga": "Livingstone Shire",
+        "created_date": 1763719914000,
+        "last_edited_date": 1763720228000,
+        "closeddate": null
+      }
+    }
+  ]
 }
