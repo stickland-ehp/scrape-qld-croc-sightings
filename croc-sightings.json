@@ -3,55 +3,55 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1216745,
+      "id": 1219145,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.46743999999035,
-          -16.510499999688747
+          145.69807790011942,
+          -16.927015694373551
         ]
       },
       "properties": {
-        "objectid": 1216745,
-        "globalid": "{68B7B3D6-1C05-4532-BA1D-0EE9AF6AE5D1}",
+        "objectid": 1219145,
+        "globalid": "{F5B05AEA-1B5D-4E78-9799-F884430EFAB6}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1763705220000,
+        "sighttime": 1763770140000,
         "species": "Estuarine",
-        "sightingid": "211125DUG2",
+        "sightingid": "221125CNS2",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
         "managementunit": "Cairns Operations",
-        "lga": "Douglas Shire",
-        "created_date": 1763705480000,
-        "last_edited_date": 1763705675000,
+        "lga": "Cairns Regional",
+        "created_date": 1763770342000,
+        "last_edited_date": 1763770518000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 1217545,
+      "id": 1219945,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          150.75183000041199,
-          -23.135974000204669
+          145.54497089991179,
+          -16.806284699570266
         ]
       },
       "properties": {
-        "objectid": 1217545,
-        "globalid": "{69933E76-8B7F-49E8-9345-405D6F53BE4A}",
+        "objectid": 1219945,
+        "globalid": "{52F8A9D9-CD1D-42D0-927A-67ED06D4228F}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1763640000000,
-        "species": "Estuarine",
-        "sightingid": "211125LVG1",
+        "sighttime": 1763765940000,
+        "species": "Freshwater",
+        "sightingid": "221125MAB1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Capricornia Operations",
-        "lga": "Livingstone Shire",
-        "created_date": 1763719914000,
-        "last_edited_date": 1763720228000,
+        "managementunit": "Cairns Operations",
+        "lga": "Mareeba Shire",
+        "created_date": 1763803440000,
+        "last_edited_date": 1763803901000,
         "closeddate": null
       }
     }
