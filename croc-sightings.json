@@ -3,55 +3,55 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1219145,
+      "id": 1220746,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.69807790011942,
-          -16.927015694373551
+          148.98516999955714,
+          -21.008180000214249
         ]
       },
       "properties": {
-        "objectid": 1219145,
-        "globalid": "{F5B05AEA-1B5D-4E78-9799-F884430EFAB6}",
+        "objectid": 1220746,
+        "globalid": "{093FEC0E-D199-4220-9BE5-4414C139E85D}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1763770140000,
-        "species": "Estuarine",
-        "sightingid": "221125CNS2",
+        "sighttime": 1763878260000,
+        "species": "Unsure",
+        "sightingid": "231125MKY1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Cairns Operations",
-        "lga": "Cairns Regional",
-        "created_date": 1763770342000,
-        "last_edited_date": 1763770518000,
+        "managementunit": "Mackay Operations",
+        "lga": "Mackay Regional",
+        "created_date": 1763878567000,
+        "last_edited_date": 1763879420000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 1219945,
+      "id": 1220745,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.54497089991179,
-          -16.806284699570266
+          145.97907000021883,
+          -17.522729999827483
         ]
       },
       "properties": {
-        "objectid": 1219945,
-        "globalid": "{52F8A9D9-CD1D-42D0-927A-67ED06D4228F}",
+        "objectid": 1220745,
+        "globalid": "{21195C75-4691-4E75-899C-40E5A2FE529F}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1763765940000,
-        "species": "Freshwater",
-        "sightingid": "221125MAB1",
+        "sighttime": 1763877960000,
+        "species": "Unsure",
+        "sightingid": "231125CWC1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Cairns Operations",
-        "lga": "Mareeba Shire",
-        "created_date": 1763803440000,
-        "last_edited_date": 1763803901000,
+        "managementunit": "Innisfail Operations",
+        "lga": "Cassowary Coast Regional",
+        "created_date": 1763878329000,
+        "last_edited_date": 1763879226000,
         "closeddate": null
       }
     }
