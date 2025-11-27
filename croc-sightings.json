@@ -3,29 +3,29 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1225945,
+      "id": 1226745,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          149.17504120045271,
-          -21.036089539209797
+          148.99810810221771,
+          -21.009748978201895
         ]
       },
       "properties": {
-        "objectid": 1225945,
-        "globalid": "{4471761A-5607-410B-89F3-C30064EC78F5}",
+        "objectid": 1226745,
+        "globalid": "{FE847B3A-CF86-43CC-9B32-07015718CF20}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1764122820000,
+        "sighttime": 1764211320000,
         "species": "Estuarine",
-        "sightingid": "261125MKY1",
-        "publicstatus": "No Further Action",
+        "sightingid": "271125MKY2",
+        "publicstatus": "Under Investigation",
         "publicinfo": "",
         "managementunit": "Mackay Operations",
         "lga": "Mackay Regional",
-        "created_date": 1764130318000,
-        "last_edited_date": 1764131078000,
-        "closeddate": 1764131070000
+        "created_date": 1764228725000,
+        "last_edited_date": 1764229084000,
+        "closeddate": null
       }
     }
   ]
