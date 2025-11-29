@@ -3,56 +3,29 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1227545,
+      "id": 1227945,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.03204636813044,
-          -17.517916081928348
+          150.76191999985403,
+          -23.302969999816089
         ]
       },
       "properties": {
-        "objectid": 1227545,
-        "globalid": "{3B5385BE-438E-45FE-AF77-FD589F849C2D}",
+        "objectid": 1227945,
+        "globalid": "{110A7F99-E676-4253-BC4F-C78AF0C197D1}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1764275100000,
+        "sighttime": 1764375600000,
         "species": "Estuarine",
-        "sightingid": "281125CWC1",
+        "sightingid": "291125LVG1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Innisfail Operations",
-        "lga": "Cassowary Coast Regional",
-        "created_date": 1764282652000,
-        "last_edited_date": 1764297348000,
+        "managementunit": "Capricornia Operations",
+        "lga": "Livingstone Shire",
+        "created_date": 1764376719000,
+        "last_edited_date": 1764385552000,
         "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1227145,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          149.22541388505661,
-          -21.096045052326161
-        ]
-      },
-      "properties": {
-        "objectid": 1227145,
-        "globalid": "{51A7764C-3248-46CE-A57F-F9852F1EB7FB}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1764270900000,
-        "species": "Estuarine",
-        "sightingid": "281125MKY1",
-        "publicstatus": "No Further Action",
-        "publicinfo": "",
-        "managementunit": "Mackay Operations",
-        "lga": "Mackay Regional",
-        "created_date": 1764279979000,
-        "last_edited_date": 1764297094000,
-        "closeddate": 1764297090000
       }
     }
   ]
