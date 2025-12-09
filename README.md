@@ -1,2 +1,3 @@
 # qld-croc-sightings
-Daily scrape of crocodile sightings in Queensland, taken from: https://environment.qld.gov.au/wildlife/animals/living-with/crocodiles/sightings
+Daily scrape of crocodile sightings in Queensland, taken from: 
+- https://www.qld.gov.au/environment/plants-animals/animals/living-with/crocodiles/crocodile-sightings/crocodile-sightings-dashboard
