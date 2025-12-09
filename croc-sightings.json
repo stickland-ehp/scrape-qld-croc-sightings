@@ -3,6 +3,33 @@
   "features": [
     {
       "type": "Feature",
+      "id": 1237945,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.17059977589483,
+          -18.65214750498388
+        ]
+      },
+      "properties": {
+        "objectid": 1237945,
+        "globalid": "{B348BFEC-7F43-4AE6-AA12-EBE03CEF6F7D}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1765227600000,
+        "species": "Freshwater",
+        "sightingid": "091225HCN1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Townsville Operations",
+        "lga": "Hinchinbrook Shire",
+        "created_date": 1765232364000,
+        "last_edited_date": 1765232700000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1236347,
       "geometry": {
         "type": "Point",
@@ -24,7 +51,7 @@
         "managementunit": "Cairns Operations",
         "lga": "Douglas Shire",
         "created_date": 1765165357000,
-        "last_edited_date": 1765166905000,
+        "last_edited_date": 1765237744000,
         "closeddate": null
       }
     },
@@ -51,7 +78,7 @@
         "managementunit": "Cairns Operations",
         "lga": "Douglas Shire",
         "created_date": 1765164901000,
-        "last_edited_date": 1765166790000,
+        "last_edited_date": 1765237779000,
         "closeddate": null
       }
     },
@@ -78,7 +105,7 @@
         "managementunit": "Cairns Operations",
         "lga": "Douglas Shire",
         "created_date": 1765164853000,
-        "last_edited_date": 1765166615000,
+        "last_edited_date": 1765237915000,
         "closeddate": null
       }
     },
@@ -105,7 +132,7 @@
         "managementunit": "Cairns Operations",
         "lga": "Douglas Shire",
         "created_date": 1765167719000,
-        "last_edited_date": 1765170914000,
+        "last_edited_date": 1765237714000,
         "closeddate": null
       }
     },
@@ -142,8 +169,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.47077859952356,
-          -16.077084848434108
+          145.47022069991803,
+          -16.077590000120612
         ]
       },
       "properties": {
@@ -159,34 +186,7 @@
         "managementunit": "Cairns Operations",
         "lga": "Douglas Shire",
         "created_date": 1765162458000,
-        "last_edited_date": 1765165343000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1235948,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          142.21522999956622,
-          -10.235690000182837
-        ]
-      },
-      "properties": {
-        "objectid": 1235948,
-        "globalid": "{7FF61897-6ACC-403E-97F3-F1385B70A08E}",
-        "what_was_observed": "Crocodile",
-        "sighting": "Somebody else",
-        "sighttime": 1765139400000,
-        "species": "Estuarine",
-        "sightingid": "081225TSI1",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Remote Operations",
-        "lga": "Torres Strait Island Regional",
-        "created_date": 1765174299000,
-        "last_edited_date": 1765186807000,
+        "last_edited_date": 1765237885000,
         "closeddate": null
       }
     }
