@@ -3,55 +3,55 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1239945,
+      "id": 1241946,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.70426177138131,
-          -16.832357343922947
+          141.8773399999628,
+          -12.620029999609729
         ]
       },
       "properties": {
-        "objectid": 1239945,
-        "globalid": "{D5594ED7-6291-44D5-8F19-AC3D2CFD4240}",
+        "objectid": 1241946,
+        "globalid": "{AD6C942C-01B0-42B3-8969-EE4BD814B041}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1765324860000,
-        "species": "",
-        "sightingid": "101225CNS1",
+        "sighttime": 1765409400000,
+        "species": "Estuarine",
+        "sightingid": "111225WPA2",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Cairns Operations",
-        "lga": "Cairns Regional",
-        "created_date": 1765325062000,
-        "last_edited_date": 1765325516000,
+        "managementunit": "Remote Operations",
+        "lga": "Weipa Town",
+        "created_date": 1765410014000,
+        "last_edited_date": 1765426839000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 1240345,
+      "id": 1241945,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.40427215540925,
-          -19.010257829320967
+          141.87789999982945,
+          -12.621200000087544
         ]
       },
       "properties": {
-        "objectid": 1240345,
-        "globalid": "{EF3BD256-806A-4628-9594-D5F3C7FE11EB}",
+        "objectid": 1241945,
+        "globalid": "{4BD33B87-E76B-482C-B945-FBCB67B2E923}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1765319340000,
-        "species": "Estuarine",
-        "sightingid": "101225TSV1",
+        "sighttime": 1765402020000,
+        "species": "",
+        "sightingid": "111225WPA1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Townsville Operations",
-        "lga": "Townsville City",
-        "created_date": 1765334043000,
-        "last_edited_date": 1765334567000,
+        "managementunit": "Remote Operations",
+        "lga": "Weipa Town",
+        "created_date": 1765405881000,
+        "last_edited_date": 1765407296000,
         "closeddate": null
       }
     }
