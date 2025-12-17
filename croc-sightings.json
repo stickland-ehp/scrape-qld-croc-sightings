@@ -3,56 +3,56 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1245545,
+      "id": 1246346,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.40555900007814,
-          -16.443301999741152
+          145.80779976655054,
+          -17.899068153324361
         ]
       },
       "properties": {
-        "objectid": 1245545,
-        "globalid": "{9EDAC7EB-8540-4BD9-AF87-8E5EDFA73B7B}",
+        "objectid": 1246346,
+        "globalid": "{E3CE797B-0E66-4EC9-B879-C23D4115390A}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1765854180000,
+        "sighttime": 1765953480000,
         "species": "Estuarine",
-        "sightingid": "161225DUG1",
+        "sightingid": "171225CWC1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Cairns Operations",
-        "lga": "Douglas Shire",
-        "created_date": 1765854736000,
-        "last_edited_date": 1765862595000,
+        "managementunit": "Innisfail Operations",
+        "lga": "Cassowary Coast Regional",
+        "created_date": 1765953888000,
+        "last_edited_date": 1765958921000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 1245945,
+      "id": 1246745,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.46779091248305,
-          -16.087465063636341
+          145.71522934939748,
+          -16.808312747270804
         ]
       },
       "properties": {
-        "objectid": 1245945,
-        "globalid": "{7230D76B-94D3-4F29-BDB1-A15DAA47C9DF}",
+        "objectid": 1246745,
+        "globalid": "{D2765BEF-B4F3-4F2C-8A65-A123A06935BC}",
         "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1765834800000,
+        "sighting": "",
+        "sighttime": 1765888200000,
         "species": "Estuarine",
-        "sightingid": "161225DUG2",
-        "publicstatus": "Under Investigation",
+        "sightingid": "C171225CNS1",
+        "publicstatus": "Removed",
         "publicinfo": "",
         "managementunit": "Cairns Operations",
-        "lga": "Douglas Shire",
-        "created_date": 1765867402000,
-        "last_edited_date": 1765867702000,
-        "closeddate": null
+        "lga": "Cairns Regional",
+        "created_date": 1765925823000,
+        "last_edited_date": 1765949281000,
+        "closeddate": 1765949275000
       }
     }
   ]
