@@ -3,56 +3,56 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1246346,
+      "id": 1248345,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.80779976655054,
-          -17.899068153324361
+          146.95099000029251,
+          -19.399770000099892
         ]
       },
       "properties": {
-        "objectid": 1246346,
-        "globalid": "{E3CE797B-0E66-4EC9-B879-C23D4115390A}",
-        "what_was_observed": "Crocodile",
+        "objectid": 1248345,
+        "globalid": "{2DE79860-C888-49C2-BC12-FCE16CA9A61B}",
+        "what_was_observed": "Crocodile,Nest,Slide,Tracks",
         "sighting": "I did",
-        "sighttime": 1765953480000,
-        "species": "Estuarine",
-        "sightingid": "171225CWC1",
+        "sighttime": 1766049000000,
+        "species": "Freshwater",
+        "sightingid": "181225TSV1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Innisfail Operations",
-        "lga": "Cassowary Coast Regional",
-        "created_date": 1765953888000,
-        "last_edited_date": 1765958921000,
+        "managementunit": "Townsville Operations",
+        "lga": "Townsville City",
+        "created_date": 1766049248000,
+        "last_edited_date": 1766050190000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 1246745,
+      "id": 1247945,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.71522934939748,
-          -16.808312747270804
+          145.69514114486057,
+          -16.783936747466331
         ]
       },
       "properties": {
-        "objectid": 1246745,
-        "globalid": "{D2765BEF-B4F3-4F2C-8A65-A123A06935BC}",
+        "objectid": 1247945,
+        "globalid": "{6A44A736-2961-49F0-A1CA-4E4DAA0CC3CF}",
         "what_was_observed": "Crocodile",
-        "sighting": "",
-        "sighttime": 1765888200000,
+        "sighting": "I did",
+        "sighttime": 1766047800000,
         "species": "Estuarine",
-        "sightingid": "C171225CNS1",
-        "publicstatus": "Removed",
+        "sightingid": "181225CNS1",
+        "publicstatus": "Under Investigation",
         "publicinfo": "",
         "managementunit": "Cairns Operations",
         "lga": "Cairns Regional",
-        "created_date": 1765925823000,
-        "last_edited_date": 1765949281000,
-        "closeddate": 1765949275000
+        "created_date": 1766049217000,
+        "last_edited_date": 1766049896000,
+        "closeddate": null
       }
     }
   ]
