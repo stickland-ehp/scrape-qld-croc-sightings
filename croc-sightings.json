@@ -3,55 +3,55 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1256350,
+      "id": 1255149,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.55883000031733,
-          -16.383139999892609
+          145.6618299998529,
+          -16.861129999708634
         ]
       },
       "properties": {
-        "objectid": 1256350,
-        "globalid": "{FBE2B906-F1D8-491E-A054-FD311C0FC558}",
+        "objectid": 1255149,
+        "globalid": "{76B5DA7F-58D4-4007-9D18-F825382FB85B}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1766985540000,
+        "sighttime": 1767093180000,
         "species": "Estuarine",
-        "sightingid": "291225DUG1",
+        "sightingid": "301225CNS1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
         "managementunit": "Cairns Operations",
-        "lga": "Douglas Shire",
-        "created_date": 1766989812000,
-        "last_edited_date": 1766990057000,
+        "lga": "Cairns Regional",
+        "created_date": 1767093709000,
+        "last_edited_date": 1767094505000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 1255948,
+      "id": 1256351,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.67848962241118,
-          -16.769570446663288
+          146.70516940584858,
+          -19.262962181610352
         ]
       },
       "properties": {
-        "objectid": 1255948,
-        "globalid": "{04CAD58C-FE85-4188-8D0B-5E3716B335F9}",
+        "objectid": 1256351,
+        "globalid": "{9AD28FA9-570C-4944-81BA-42FE8FA60DB6}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1766973660000,
+        "sighttime": 1767072420000,
         "species": "Estuarine",
-        "sightingid": "291225CNS1",
+        "sightingid": "301225TSV1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Cairns Operations",
-        "lga": "Cairns Regional",
-        "created_date": 1766973842000,
-        "last_edited_date": 1766976447000,
+        "managementunit": "Townsville Operations",
+        "lga": "Townsville City",
+        "created_date": 1767073238000,
+        "last_edited_date": 1767073745000,
         "closeddate": null
       }
     }
