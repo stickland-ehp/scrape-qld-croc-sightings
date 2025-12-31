@@ -3,55 +3,55 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1255149,
+      "id": 1255150,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.6618299998529,
-          -16.861129999708634
+          146.09752440120499,
+          -17.896204760329887
         ]
       },
       "properties": {
-        "objectid": 1255149,
-        "globalid": "{76B5DA7F-58D4-4007-9D18-F825382FB85B}",
+        "objectid": 1255150,
+        "globalid": "{C5915708-9E95-47BA-9529-70E6B99F7BFC}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1767093180000,
+        "sighttime": 1767139080000,
         "species": "Estuarine",
-        "sightingid": "301225CNS1",
+        "sightingid": "311225CWC1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Cairns Operations",
-        "lga": "Cairns Regional",
-        "created_date": 1767093709000,
-        "last_edited_date": 1767094505000,
+        "managementunit": "Innisfail Operations",
+        "lga": "Cassowary Coast Regional",
+        "created_date": 1767139497000,
+        "last_edited_date": 1767140694000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 1256351,
+      "id": 1256352,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.70516940584858,
-          -19.262962181610352
+          145.66404000008055,
+          -16.876980000114891
         ]
       },
       "properties": {
-        "objectid": 1256351,
-        "globalid": "{9AD28FA9-570C-4944-81BA-42FE8FA60DB6}",
+        "objectid": 1256352,
+        "globalid": "{B7B0E71A-B4B2-4981-9C0E-ADCF316F6ACE}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1767072420000,
+        "sighttime": 1767135600000,
         "species": "Estuarine",
-        "sightingid": "301225TSV1",
+        "sightingid": "311225CNS1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Townsville Operations",
-        "lga": "Townsville City",
-        "created_date": 1767073238000,
-        "last_edited_date": 1767073745000,
+        "managementunit": "Cairns Operations",
+        "lga": "Cairns Regional",
+        "created_date": 1767148550000,
+        "last_edited_date": 1767156871000,
         "closeddate": null
       }
     }
