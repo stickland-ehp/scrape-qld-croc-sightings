@@ -3,109 +3,109 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1255155,
+      "id": 1255157,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.70095000009445,
-          -19.199910000111842
+          148.7822140002169,
+          -20.27213200003451
         ]
       },
       "properties": {
-        "objectid": 1255155,
-        "globalid": "{BB6B9C01-5ED8-48FD-8AE9-6C3DAFE01EC0}",
+        "objectid": 1255157,
+        "globalid": "{89577BB8-7E18-48AE-8F05-290E27580526}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1767421920000,
+        "sighttime": 1767515400000,
         "species": "Estuarine",
-        "sightingid": "030126TSV2",
+        "sightingid": "040126WTS1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Townsville Operations",
-        "lga": "Townsville City",
-        "created_date": 1767422224000,
-        "last_edited_date": 1767422613000,
+        "managementunit": "Mackay Operations",
+        "lga": "Whitsunday Regional",
+        "created_date": 1767517744000,
+        "last_edited_date": 1767518027000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 1254748,
+      "id": 1257147,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.81238100028682,
-          -19.245169999787738
+          150.7436900000082,
+          -23.501870000213355
         ]
       },
       "properties": {
-        "objectid": 1254748,
-        "globalid": "{B63CF2ED-8064-412F-AAA8-ECC7E2079786}",
+        "objectid": 1257147,
+        "globalid": "{53072768-12FA-4532-8DE2-9D9AEFF74C42}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1767415200000,
-        "species": "Estuarine",
-        "sightingid": "030126TSV1",
+        "sighttime": 1767497640000,
+        "species": "Freshwater",
+        "sightingid": "040126ROC1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Townsville Operations",
-        "lga": "Townsville City",
-        "created_date": 1767416334000,
-        "last_edited_date": 1767417120000,
+        "managementunit": "Capricornia Operations",
+        "lga": "Rockhampton Regional",
+        "created_date": 1767497945000,
+        "last_edited_date": 1767501440000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 1255154,
+      "id": 1255156,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.70318000035323,
-          -16.832049999885839
+          145.69592864397126,
+          -16.78400487267621
         ]
       },
       "properties": {
-        "objectid": 1255154,
-        "globalid": "{464D9503-A577-49EA-BDA5-5B463E75D340}",
+        "objectid": 1255156,
+        "globalid": "{A898629A-4FCB-4A52-BBF8-7CBB18AD3924}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1767408420000,
-        "species": "Estuarine",
-        "sightingid": "030126CNS1",
+        "sighttime": 1767496020000,
+        "species": "",
+        "sightingid": "040126CNS1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
         "managementunit": "Cairns Operations",
         "lga": "Cairns Regional",
-        "created_date": 1767408619000,
-        "last_edited_date": 1767409429000,
+        "created_date": 1767496151000,
+        "last_edited_date": 1767501790000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 1255153,
+      "id": 1256355,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          141.72224760260301,
-          -13.366606253622084
+          146.30136057165726,
+          -18.707171081300338
         ]
       },
       "properties": {
-        "objectid": 1255153,
-        "globalid": "{68272BEC-AA24-41F0-BFE4-9394CC99BBF2}",
+        "objectid": 1256355,
+        "globalid": "{2845FC7E-7CAF-4015-90B2-235CC0B6D199}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1767357060000,
+        "sighttime": 1767479400000,
         "species": "Estuarine",
-        "sightingid": "020126ARK1",
+        "sightingid": "040126HCN1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Remote Operations",
-        "lga": "Aurukun Shire",
-        "created_date": 1767358318000,
-        "last_edited_date": 1767393579000,
+        "managementunit": "Townsville Operations",
+        "lga": "Hinchinbrook Shire",
+        "created_date": 1767494597000,
+        "last_edited_date": 1767501585000,
         "closeddate": null
       }
     }
