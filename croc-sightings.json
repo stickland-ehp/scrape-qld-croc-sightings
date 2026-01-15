@@ -3,55 +3,55 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1256365,
+      "id": 1256766,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          141.02955235893535,
-          -28.946602960270376
+          148.98516999955714,
+          -21.008180000214249
         ]
       },
       "properties": {
-        "objectid": 1256365,
-        "globalid": "{E5A6CE39-A7D5-4C12-AB02-9F0A4DFBD2BD}",
-        "what_was_observed": "Slide",
+        "objectid": 1256766,
+        "globalid": "{6C47B9CF-B9EB-4B82-A7D2-71AF560ADB7C}",
+        "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1768375200000,
-        "species": "",
-        "sightingid": "140126UNK1",
+        "sighttime": 1768452780000,
+        "species": "Estuarine",
+        "sightingid": "150126MKY1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Western Downs Operations",
-        "lga": "UNK",
-        "created_date": 1768375327000,
-        "last_edited_date": 1768375622000,
+        "managementunit": "Mackay Operations",
+        "lga": "Mackay Regional",
+        "created_date": 1768453011000,
+        "last_edited_date": 1768454353000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 1257159,
+      "id": 1255959,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          141.7243816619515,
-          -13.355030082333874
+          145.46886929865914,
+          -16.087029315309351
         ]
       },
       "properties": {
-        "objectid": 1257159,
-        "globalid": "{780B4B40-0AD7-4A65-94A0-BCB1C8F91CFA}",
+        "objectid": 1255959,
+        "globalid": "{0949369E-7C56-4FEB-BC17-55710F929C69}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1768316640000,
+        "sighttime": 1768433460000,
         "species": "Estuarine",
-        "sightingid": "140126ARK1",
+        "sightingid": "150126DUG1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Remote Operations",
-        "lga": "Aurukun Shire",
-        "created_date": 1768317461000,
-        "last_edited_date": 1768341937000,
+        "managementunit": "Cairns Operations",
+        "lga": "Douglas Shire",
+        "created_date": 1768462442000,
+        "last_edited_date": 1768463043000,
         "closeddate": null
       }
     }
