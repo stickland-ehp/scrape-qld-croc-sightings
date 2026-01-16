@@ -3,55 +3,55 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1256766,
+      "id": 1256768,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          148.98516999955714,
-          -21.008180000214249
+          146.70381601212634,
+          -19.316889555739778
         ]
       },
       "properties": {
-        "objectid": 1256766,
-        "globalid": "{6C47B9CF-B9EB-4B82-A7D2-71AF560ADB7C}",
+        "objectid": 1256768,
+        "globalid": "{1E1AE4D7-1B77-476D-8463-FAC706C3B657}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1768452780000,
+        "sighttime": 1768538100000,
         "species": "Estuarine",
-        "sightingid": "150126MKY1",
+        "sightingid": "160126TSV1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Mackay Operations",
-        "lga": "Mackay Regional",
-        "created_date": 1768453011000,
-        "last_edited_date": 1768454353000,
+        "managementunit": "Townsville Operations",
+        "lga": "Townsville City",
+        "created_date": 1768538237000,
+        "last_edited_date": 1768539291000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 1255959,
+      "id": 1256366,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.46886929865914,
-          -16.087029315309351
+          145.96708333292014,
+          -17.340249999837511
         ]
       },
       "properties": {
-        "objectid": 1255959,
-        "globalid": "{0949369E-7C56-4FEB-BC17-55710F929C69}",
+        "objectid": 1256366,
+        "globalid": "{7C8B6A26-5CBA-4435-9A5F-E1C8E85FF1A5}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1768433460000,
+        "sighttime": 1768516200000,
         "species": "Estuarine",
-        "sightingid": "150126DUG1",
+        "sightingid": "160126CNS1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
         "managementunit": "Cairns Operations",
-        "lga": "Douglas Shire",
-        "created_date": 1768462442000,
-        "last_edited_date": 1768463043000,
+        "lga": "Cairns Regional",
+        "created_date": 1768534284000,
+        "last_edited_date": 1768536089000,
         "closeddate": null
       }
     }
