@@ -3,55 +3,28 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1256768,
+      "id": 1255960,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.70381601212634,
-          -19.316889555739778
+          146.09016999997507,
+          -17.558290000111366
         ]
       },
       "properties": {
-        "objectid": 1256768,
-        "globalid": "{1E1AE4D7-1B77-476D-8463-FAC706C3B657}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1768538100000,
-        "species": "Estuarine",
-        "sightingid": "160126TSV1",
+        "objectid": 1255960,
+        "globalid": "{F3716D99-3C65-4F22-9192-6E149140236F}",
+        "what_was_observed": "Tracks",
+        "sighting": "Somebody else",
+        "sighttime": 1768628280000,
+        "species": "Unsure",
+        "sightingid": "170126CWC1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Townsville Operations",
-        "lga": "Townsville City",
-        "created_date": 1768538237000,
-        "last_edited_date": 1768539291000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1256366,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          145.96708333292014,
-          -17.340249999837511
-        ]
-      },
-      "properties": {
-        "objectid": 1256366,
-        "globalid": "{7C8B6A26-5CBA-4435-9A5F-E1C8E85FF1A5}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1768516200000,
-        "species": "Estuarine",
-        "sightingid": "160126CNS1",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Cairns Operations",
-        "lga": "Cairns Regional",
-        "created_date": 1768534284000,
-        "last_edited_date": 1768536089000,
+        "managementunit": "Innisfail Operations",
+        "lga": "Cassowary Coast Regional",
+        "created_date": 1768628505000,
+        "last_edited_date": 1768628830000,
         "closeddate": null
       }
     }
