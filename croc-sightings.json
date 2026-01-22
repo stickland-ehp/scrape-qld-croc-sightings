@@ -3,82 +3,82 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1255176,
+      "id": 1255179,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.4537214769436,
-          -14.647231845427232
+          146.83411000014803,
+          -19.253099999892807
         ]
       },
       "properties": {
-        "objectid": 1255176,
-        "globalid": "{69783EDD-3C07-46D2-821F-54DA1391FCF9}",
+        "objectid": 1255179,
+        "globalid": "{4F1DC292-1499-4F98-85BF-487F7E745F9A}",
         "what_was_observed": "Crocodile",
         "sighting": "Somebody else",
-        "sighttime": 1768948200000,
-        "species": "Estuarine",
-        "sightingid": "210126COO1",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Remote Operations",
-        "lga": "Cook Shire",
-        "created_date": 1768950780000,
-        "last_edited_date": 1768972264000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1255177,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          145.52213649075409,
-          -16.595128435601527
-        ]
-      },
-      "properties": {
-        "objectid": 1255177,
-        "globalid": "{C8E01743-3EDD-4CE8-8390-ACDA818A764B}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1768946400000,
-        "species": "Estuarine",
-        "sightingid": "210126DUG1",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Cairns Operations",
-        "lga": "Douglas Shire",
-        "created_date": 1768959825000,
-        "last_edited_date": 1768962546000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1255963,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          146.77624999958479,
-          -19.191918999843335
-        ]
-      },
-      "properties": {
-        "objectid": 1255963,
-        "globalid": "{969ACB12-29B1-46FE-89E9-9745EE758274}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1768946400000,
-        "species": "Estuarine",
-        "sightingid": "210126TSV1",
+        "sighttime": 1769051160000,
+        "species": "Unsure",
+        "sightingid": "220126TSV2",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
         "managementunit": "Townsville Operations",
         "lga": "Townsville City",
-        "created_date": 1768955916000,
-        "last_edited_date": 1768957611000,
+        "created_date": 1769051849000,
+        "last_edited_date": 1769052091000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1255965,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.32681328773674,
+          -16.664301884061842
+        ]
+      },
+      "properties": {
+        "objectid": 1255965,
+        "globalid": "{7C013EA2-93CA-4D62-A8E0-BE8319B6A566}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1769049000000,
+        "species": "",
+        "sightingid": "220126MAB1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Cairns Operations",
+        "lga": "Mareeba Shire",
+        "created_date": 1769069530000,
+        "last_edited_date": 1769069893000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1256372,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.73202345430587,
+          -19.304229230538105
+        ]
+      },
+      "properties": {
+        "objectid": 1256372,
+        "globalid": "{3A1D12BA-F2A3-4924-A3C8-DBA36EB8D2E8}",
+        "what_was_observed": "Crocodile",
+        "sighting": "Somebody else",
+        "sighttime": 1769034600000,
+        "species": "Freshwater",
+        "sightingid": "220126TSV1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Townsville Operations",
+        "lga": "Townsville City",
+        "created_date": 1769036313000,
+        "last_edited_date": 1769053901000,
         "closeddate": null
       }
     }
