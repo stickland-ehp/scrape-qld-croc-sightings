@@ -3,28 +3,55 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1259145,
+      "id": 1261145,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          147.51240403708562,
-          -19.514224442002146
+          141.87375999975654,
+          -12.626619999990341
         ]
       },
       "properties": {
-        "objectid": 1259145,
-        "globalid": "{DA82429A-8F1E-4D1D-ACC0-A5E31F655FC9}",
+        "objectid": 1261145,
+        "globalid": "{1BBEA296-50E9-46D3-9241-E1962C3A2F8F}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1769749440000,
+        "sighttime": 1769848260000,
         "species": "Estuarine",
-        "sightingid": "300126BKN2",
+        "sightingid": "310126WPA1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Townsville Operations",
-        "lga": "Burdekin Shire",
-        "created_date": 1769760711000,
-        "last_edited_date": 1769762531000,
+        "managementunit": "Remote Operations",
+        "lga": "Weipa Town",
+        "created_date": 1769848855000,
+        "last_edited_date": 1769850813000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1260345,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.71218000038053,
+          -20.266229999781803
+        ]
+      },
+      "properties": {
+        "objectid": 1260345,
+        "globalid": "{4FB94FA0-6FDB-453D-9EFB-648F96DEB788}",
+        "what_was_observed": "Crocodile",
+        "sighting": "Somebody else",
+        "sighttime": 1769822700000,
+        "species": "Unsure",
+        "sightingid": "310126WTS1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Mackay Operations",
+        "lga": "Whitsunday Regional",
+        "created_date": 1769823184000,
+        "last_edited_date": 1769833484000,
         "closeddate": null
       }
     }
