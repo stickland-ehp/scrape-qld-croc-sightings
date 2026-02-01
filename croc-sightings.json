@@ -3,55 +3,28 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1261145,
+      "id": 1261945,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          141.87375999975654,
-          -12.626619999990341
+          146.80883333314262,
+          -19.241472221903653
         ]
       },
       "properties": {
-        "objectid": 1261145,
-        "globalid": "{1BBEA296-50E9-46D3-9241-E1962C3A2F8F}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1769848260000,
-        "species": "Estuarine",
-        "sightingid": "310126WPA1",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Remote Operations",
-        "lga": "Weipa Town",
-        "created_date": 1769848855000,
-        "last_edited_date": 1769850813000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1260345,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          148.71218000038053,
-          -20.266229999781803
-        ]
-      },
-      "properties": {
-        "objectid": 1260345,
-        "globalid": "{4FB94FA0-6FDB-453D-9EFB-648F96DEB788}",
+        "objectid": 1261945,
+        "globalid": "{CDCCC1CE-AD8A-4C77-BC06-E726EB0FB1AF}",
         "what_was_observed": "Crocodile",
         "sighting": "Somebody else",
-        "sighttime": 1769822700000,
-        "species": "Unsure",
-        "sightingid": "310126WTS1",
+        "sighttime": 1769902200000,
+        "species": "Estuarine",
+        "sightingid": "010226TSV1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Mackay Operations",
-        "lga": "Whitsunday Regional",
-        "created_date": 1769823184000,
-        "last_edited_date": 1769833484000,
+        "managementunit": "Townsville Operations",
+        "lga": "Townsville City",
+        "created_date": 1769907801000,
+        "last_edited_date": 1769908208000,
         "closeddate": null
       }
     }
