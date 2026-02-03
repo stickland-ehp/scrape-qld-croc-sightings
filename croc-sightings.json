@@ -3,56 +3,56 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1263545,
+      "id": 1264745,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.94370027321114,
-          -18.225506393856829
+          145.2240991348196,
+          -15.520904855806746
         ]
       },
       "properties": {
-        "objectid": 1263545,
-        "globalid": "{F09D1E82-FB49-4702-AA88-557ECF134100}",
+        "objectid": 1264745,
+        "globalid": "{4C907B34-F56A-4DDF-A23F-F666D5E93B05}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1770007200000,
+        "sighttime": 1770079140000,
         "species": "Estuarine",
-        "sightingid": "020226CWC1",
+        "sightingid": "030226COO1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Innisfail Operations",
-        "lga": "Cassowary Coast Regional",
-        "created_date": 1770008024000,
-        "last_edited_date": 1770011691000,
+        "managementunit": "Remote Operations",
+        "lga": "Cook Shire",
+        "created_date": 1770079377000,
+        "last_edited_date": 1770079936000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 1263146,
+      "id": 1264345,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          147.50152338005626,
-          -19.516850244956174
+          145.73480100018818,
+          -16.821529999890235
         ]
       },
       "properties": {
-        "objectid": 1263146,
-        "globalid": "{58934FD3-A0C3-4E45-8FC3-44C3D51B0F80}",
+        "objectid": 1264345,
+        "globalid": "{2F6F7A9D-BFFA-4DC5-9FE1-7EA3473C0691}",
         "what_was_observed": "Crocodile",
-        "sighting": "Somebody else",
-        "sighttime": 1770002400000,
+        "sighting": "",
+        "sighttime": 1770037200000,
         "species": "Estuarine",
-        "sightingid": "020226BKN1",
-        "publicstatus": "Under Investigation",
+        "sightingid": "C030226CNS1",
+        "publicstatus": "Removed",
         "publicinfo": "",
-        "managementunit": "Townsville Operations",
-        "lga": "Burdekin Shire",
-        "created_date": 1770005308000,
-        "last_edited_date": 1770009681000,
-        "closeddate": null
+        "managementunit": "Cairns Operations",
+        "lga": "Cairns Regional",
+        "created_date": 1770076304000,
+        "last_edited_date": 1770094176000,
+        "closeddate": 1770094171000
       }
     }
   ]
