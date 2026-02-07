@@ -3,28 +3,55 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1270745,
+      "id": 1271545,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.56711999961055,
-          -16.64919000033327
+          141.89441404859934,
+          -12.602377475294638
         ]
       },
       "properties": {
-        "objectid": 1270745,
-        "globalid": "{75A2FEFD-63F8-4DC8-9EE0-9A1CE6C46B03}",
+        "objectid": 1271545,
+        "globalid": "{AEFE2700-0382-418D-8B65-AEF668B6B134}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1770365880000,
+        "sighttime": 1770449940000,
         "species": "Estuarine",
-        "sightingid": "060226DUG2",
+        "sightingid": "070226WPA1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Cairns Operations",
-        "lga": "Douglas Shire",
-        "created_date": 1770366215000,
-        "last_edited_date": 1770368669000,
+        "managementunit": "Remote Operations",
+        "lga": "Weipa Town",
+        "created_date": 1770450423000,
+        "last_edited_date": 1770450801000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1271145,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.25224000015842,
+          -15.457070000366626
+        ]
+      },
+      "properties": {
+        "objectid": 1271145,
+        "globalid": "{8F30CC43-9973-4369-AABA-4420FF3787B9}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1770447540000,
+        "species": "Estuarine",
+        "sightingid": "070226COO1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Remote Operations",
+        "lga": "Cook Shire",
+        "created_date": 1770447854000,
+        "last_edited_date": 1770448156000,
         "closeddate": null
       }
     }
