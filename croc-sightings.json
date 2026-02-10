@@ -3,28 +3,55 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1273145,
+      "id": 1274345,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.3086739998287,
-          -18.353280799768257
+          142.33969000024786,
+          -10.183569999849492
         ]
       },
       "properties": {
-        "objectid": 1273145,
-        "globalid": "{8A9C7D50-6D65-4840-8BCF-3044C8EFE9E9}",
-        "what_was_observed": "Tracks",
+        "objectid": 1274345,
+        "globalid": "{1A6EF13B-29D3-498E-AD7D-5D630CBD07D3}",
+        "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1770599880000,
+        "sighttime": 1770682680000,
         "species": "Estuarine",
-        "sightingid": "090226CWC1",
+        "sightingid": "100226TSI1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Innisfail Operations",
-        "lga": "Cassowary Coast Regional",
-        "created_date": 1770600364000,
-        "last_edited_date": 1770602040000,
+        "managementunit": "Remote Operations",
+        "lga": "Torres Strait Island Regional",
+        "created_date": 1770683299000,
+        "last_edited_date": 1770685006000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1274745,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.52244000004754,
+          -16.59756999982233
+        ]
+      },
+      "properties": {
+        "objectid": 1274745,
+        "globalid": "{E39E84EF-131F-4456-89B2-148E2C983FF5}",
+        "what_was_observed": "Slide,Tracks",
+        "sighting": "I did",
+        "sighttime": 1770670800000,
+        "species": "Estuarine",
+        "sightingid": "100226DUG1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Cairns Operations",
+        "lga": "Douglas Shire",
+        "created_date": 1770690180000,
+        "last_edited_date": 1770694763000,
         "closeddate": null
       }
     }
