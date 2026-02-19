@@ -3,82 +3,28 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1283545,
+      "id": 1284745,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          141.72138999986586,
-          -13.366610000376998
+          145.5591499999845,
+          -16.384149999950239
         ]
       },
       "properties": {
-        "objectid": 1283545,
-        "globalid": "{7B83381F-9FFD-4A48-9316-7EF00ADB043B}",
-        "what_was_observed": "Crocodile",
+        "objectid": 1284745,
+        "globalid": "{D6321902-4189-48BE-96A6-86328AC12D48}",
+        "what_was_observed": "Tracks",
         "sighting": "I did",
-        "sighttime": 1771398000000,
+        "sighttime": 1771450200000,
         "species": "Estuarine",
-        "sightingid": "180226ARK2",
+        "sightingid": "190226DUG1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Remote Operations",
-        "lga": "Aurukun Shire",
-        "created_date": 1771399593000,
-        "last_edited_date": 1771399859000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1282745,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          146.79685000039024,
-          -19.239279999704415
-        ]
-      },
-      "properties": {
-        "objectid": 1282745,
-        "globalid": "{FF0DFD2A-D104-4FCB-80D9-B5D74CA501F0}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1771388400000,
-        "species": "Unsure",
-        "sightingid": "180226TSV1",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Townsville Operations",
-        "lga": "Townsville City",
-        "created_date": 1771388713000,
-        "last_edited_date": 1771393660000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1283145,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          146.79630398819086,
-          -19.238636642299177
-        ]
-      },
-      "properties": {
-        "objectid": 1283145,
-        "globalid": "{1611017D-4B26-43AF-8FCD-625FF67E4903}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1771383420000,
-        "species": "Unsure",
-        "sightingid": "180226TSV2",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Townsville Operations",
-        "lga": "Townsville City",
-        "created_date": 1771389343000,
-        "last_edited_date": 1771393688000,
+        "managementunit": "Cairns Operations",
+        "lga": "Douglas Shire",
+        "created_date": 1771492069000,
+        "last_edited_date": 1771495615000,
         "closeddate": null
       }
     }
