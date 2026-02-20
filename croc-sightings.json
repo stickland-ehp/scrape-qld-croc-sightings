@@ -3,28 +3,55 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1284745,
+      "id": 1285545,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.5591499999845,
-          -16.384149999950239
+          146.09728432734366,
+          -17.895242129845379
         ]
       },
       "properties": {
-        "objectid": 1284745,
-        "globalid": "{D6321902-4189-48BE-96A6-86328AC12D48}",
-        "what_was_observed": "Tracks",
-        "sighting": "I did",
-        "sighttime": 1771450200000,
+        "objectid": 1285545,
+        "globalid": "{D56D17FB-1F18-47BB-ADE3-817484225754}",
+        "what_was_observed": "Crocodile",
+        "sighting": "Somebody else",
+        "sighttime": 1771545900000,
         "species": "Estuarine",
-        "sightingid": "190226DUG1",
+        "sightingid": "200226CWC1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Cairns Operations",
-        "lga": "Douglas Shire",
-        "created_date": 1771492069000,
-        "last_edited_date": 1771495615000,
+        "managementunit": "Innisfail Operations",
+        "lga": "Cassowary Coast Regional",
+        "created_date": 1771546439000,
+        "last_edited_date": 1771561669000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1286345,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.299216790922,
+          -21.292789017890325
+        ]
+      },
+      "properties": {
+        "objectid": 1286345,
+        "globalid": "{EC1170C7-DDEC-4627-984F-E54AC2FEC287}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1771538520000,
+        "species": "Estuarine",
+        "sightingid": "200226MKY1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Mackay Operations",
+        "lga": "Mackay Regional",
+        "created_date": 1771571186000,
+        "last_edited_date": 1771571385000,
         "closeddate": null
       }
     }
