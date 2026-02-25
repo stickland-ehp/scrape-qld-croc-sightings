@@ -3,82 +3,109 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1290746,
+      "id": 1292746,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          143.34946799958084,
-          -12.782699000317576
+          145.679373502667,
+          -16.769894040496681
         ]
       },
       "properties": {
-        "objectid": 1290746,
-        "globalid": "{4EF2F791-A915-4B81-BBB2-6B3B90A2831A}",
+        "objectid": 1292746,
+        "globalid": "{FFA1BE5D-B560-4BDE-8B0A-2080381376FA}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1771972200000,
+        "species": "Estuarine",
+        "sightingid": "250226CNS1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Cairns Operations",
+        "lga": "Cairns Regional",
+        "created_date": 1771974431000,
+        "last_edited_date": 1771997694000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1291945,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.75731000008449,
+          -19.310810000247642
+        ]
+      },
+      "properties": {
+        "objectid": 1291945,
+        "globalid": "{85BA30FC-1299-4EC9-AB26-DE76CE775A42}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1771969740000,
+        "species": "Estuarine",
+        "sightingid": "250226TSV1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Townsville Operations",
+        "lga": "Townsville City",
+        "created_date": 1771970014000,
+        "last_edited_date": 1771971117000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1291545,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.09857000156816,
+          -17.785470482428213
+        ]
+      },
+      "properties": {
+        "objectid": 1291545,
+        "globalid": "{132EE794-CBA2-4E7B-8148-FE4ADC1B4D70}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1771963740000,
+        "species": "Estuarine",
+        "sightingid": "250226CWC1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Innisfail Operations",
+        "lga": "Cassowary Coast Regional",
+        "created_date": 1771964187000,
+        "last_edited_date": 1771970588000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1292745,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.44292480161357,
+          -16.501544819947902
+        ]
+      },
+      "properties": {
+        "objectid": 1292745,
+        "globalid": "{912CD45C-FD51-4665-9F2B-7CBAD111E367}",
         "what_was_observed": "Crocodile",
         "sighting": "Somebody else",
-        "sighttime": 1771905960000,
+        "sighttime": 1771947000000,
         "species": "Estuarine",
-        "sightingid": "240226LRA2",
+        "sightingid": "250226DUG3",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Remote Operations",
-        "lga": "Lockhart River Aboriginal Shire",
-        "created_date": 1771906478000,
-        "last_edited_date": 1771906881000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1290345,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          143.34542172792803,
-          -12.78354162916771
-        ]
-      },
-      "properties": {
-        "objectid": 1290345,
-        "globalid": "{3C87D1E7-1E32-4CA1-A9F5-CEDA32C88BAC}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1771899120000,
-        "species": "Estuarine",
-        "sightingid": "240226LRA1",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Remote Operations",
-        "lga": "Lockhart River Aboriginal Shire",
-        "created_date": 1771899691000,
-        "last_edited_date": 1771910107000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1291145,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          143.36141122974226,
-          -12.795494103887895
-        ]
-      },
-      "properties": {
-        "objectid": 1291145,
-        "globalid": "{E7A36106-35CB-4D32-AAC5-DFD88BBD2240}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1771883100000,
-        "species": "Estuarine",
-        "sightingid": "240226COO1",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Remote Operations",
-        "lga": "Cook Shire",
-        "created_date": 1771906040000,
-        "last_edited_date": 1771909660000,
+        "managementunit": "Cairns Operations",
+        "lga": "Douglas Shire",
+        "created_date": 1771971271000,
+        "last_edited_date": 1771979132000,
         "closeddate": null
       }
     }
