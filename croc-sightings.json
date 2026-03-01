@@ -3,28 +3,55 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1296345,
+      "id": 1297545,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          147.53085000001059,
-          -19.690520000140623
+          145.46738999976162,
+          -16.088750000429297
         ]
       },
       "properties": {
-        "objectid": 1296345,
-        "globalid": "{B3C444B9-787A-48D3-9CF9-48028D4BEE22}",
+        "objectid": 1297545,
+        "globalid": "{AFCA6D16-9367-4716-9F49-329B525AD630}",
         "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1772224200000,
+        "sighting": "Somebody else",
+        "sighttime": 1772343060000,
         "species": "Estuarine",
-        "sightingid": "280226BKN1",
+        "sightingid": "010326DUG1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Townsville Operations",
-        "lga": "Burdekin Shire",
-        "created_date": 1772231494000,
-        "last_edited_date": 1772234909000,
+        "managementunit": "Cairns Operations",
+        "lga": "Douglas Shire",
+        "created_date": 1772343629000,
+        "last_edited_date": 1772345157000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1297145,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.2280940011577,
+          -12.243910980206183
+        ]
+      },
+      "properties": {
+        "objectid": 1297145,
+        "globalid": "{310CEC54-ACA2-4D92-9753-DED96A4784FE}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1772318700000,
+        "species": "Estuarine",
+        "sightingid": "010326COO1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Remote Operations",
+        "lga": "Cook Shire",
+        "created_date": 1772342630000,
+        "last_edited_date": 1772345420000,
         "closeddate": null
       }
     }
