@@ -3,34 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1305945,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.77602999971847,
-          -23.28922999965922
-        ]
-      },
-      "properties": {
-        "objectid": 1305945,
-        "globalid": "{3D8F053E-200C-4F15-B46B-DC1AA6A3751E}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1772940420000,
-        "species": "Estuarine",
-        "sightingid": "080326LVG1",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Capricornia Operations",
-        "lga": "Livingstone Shire",
-        "created_date": 1772940926000,
-        "last_edited_date": 1772941364000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1305545,
+      "id": 1306346,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -39,19 +12,46 @@
         ]
       },
       "properties": {
-        "objectid": 1305545,
-        "globalid": "{405ACBDE-1828-46D9-BF38-C4CAE3F4DC71}",
+        "objectid": 1306346,
+        "globalid": "{C201ED94-96BF-461F-891A-6EBE517DF8F6}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1772883900000,
-        "species": "Unsure",
-        "sightingid": "070326CWC1",
+        "sighttime": 1772971380000,
+        "species": "Estuarine",
+        "sightingid": "080326CWC2",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
         "managementunit": "Innisfail Operations",
         "lga": "Cassowary Coast Regional",
-        "created_date": 1772887855000,
-        "last_edited_date": 1772915795000,
+        "created_date": 1772971607000,
+        "last_edited_date": 1773008842000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1306745,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.08809748959658,
+          -17.794592393764045
+        ]
+      },
+      "properties": {
+        "objectid": 1306745,
+        "globalid": "{F96E9148-737C-4761-B2CB-93732E229C77}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1772971140000,
+        "species": "Freshwater",
+        "sightingid": "080326CWC1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Innisfail Operations",
+        "lga": "Cassowary Coast Regional",
+        "created_date": 1772971430000,
+        "last_edited_date": 1773008822000,
         "closeddate": null
       }
     }
