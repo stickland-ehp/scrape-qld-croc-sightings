@@ -3,55 +3,28 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1306346,
+      "id": 1307545,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.08809748959658,
-          -17.794592393764045
+          145.56094291152741,
+          -16.383873251114494
         ]
       },
       "properties": {
-        "objectid": 1306346,
-        "globalid": "{C201ED94-96BF-461F-891A-6EBE517DF8F6}",
-        "what_was_observed": "Crocodile",
+        "objectid": 1307545,
+        "globalid": "{778839CB-81AE-4ACC-B769-4733E36C7B2A}",
+        "what_was_observed": "Tracks,Slide",
         "sighting": "I did",
-        "sighttime": 1772971380000,
+        "sighttime": 1773093900000,
         "species": "Estuarine",
-        "sightingid": "080326CWC2",
+        "sightingid": "100326DUG1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Innisfail Operations",
-        "lga": "Cassowary Coast Regional",
-        "created_date": 1772971607000,
-        "last_edited_date": 1773008842000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1306745,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          146.08809748959658,
-          -17.794592393764045
-        ]
-      },
-      "properties": {
-        "objectid": 1306745,
-        "globalid": "{F96E9148-737C-4761-B2CB-93732E229C77}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1772971140000,
-        "species": "Freshwater",
-        "sightingid": "080326CWC1",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Innisfail Operations",
-        "lga": "Cassowary Coast Regional",
-        "created_date": 1772971430000,
-        "last_edited_date": 1773008822000,
+        "managementunit": "Cairns Operations",
+        "lga": "Douglas Shire",
+        "created_date": 1773095815000,
+        "last_edited_date": 1773096002000,
         "closeddate": null
       }
     }
