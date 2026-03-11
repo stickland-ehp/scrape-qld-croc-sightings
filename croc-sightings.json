@@ -1,32 +1,4 @@
 {
   "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 1307545,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          145.56094291152741,
-          -16.383873251114494
-        ]
-      },
-      "properties": {
-        "objectid": 1307545,
-        "globalid": "{778839CB-81AE-4ACC-B769-4733E36C7B2A}",
-        "what_was_observed": "Tracks,Slide",
-        "sighting": "I did",
-        "sighttime": 1773093900000,
-        "species": "Estuarine",
-        "sightingid": "100326DUG1",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Cairns Operations",
-        "lga": "Douglas Shire",
-        "created_date": 1773095815000,
-        "last_edited_date": 1773096002000,
-        "closeddate": null
-      }
-    }
-  ]
+  "features": []
 }
