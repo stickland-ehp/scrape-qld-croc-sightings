@@ -3,55 +3,55 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1310345,
+      "id": 1311545,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.70310798068067,
-          -19.316130345630278
+          146.03118999967853,
+          -17.513660000188416
         ]
       },
       "properties": {
-        "objectid": 1310345,
-        "globalid": "{E868F3B6-95E7-4ABA-BC91-0761734B7E19}",
+        "objectid": 1311545,
+        "globalid": "{5B87A3E0-D294-43B0-A21E-6199F35B1F08}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1773357360000,
+        "sighttime": 1773457200000,
         "species": "Estuarine",
-        "sightingid": "130326TSV1",
+        "sightingid": "140326CWC1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Townsville Operations",
-        "lga": "Townsville City",
-        "created_date": 1773357715000,
-        "last_edited_date": 1773378965000,
+        "managementunit": "Innisfail Operations",
+        "lga": "Cassowary Coast Regional",
+        "created_date": 1773462526000,
+        "last_edited_date": 1773463626000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 1309545,
+      "id": 1311145,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          142.07678999961493,
-          -11.765179999604154
+          149.07999000030259,
+          -21.14347000027405
         ]
       },
       "properties": {
-        "objectid": 1309545,
-        "globalid": "{7DC6A982-547B-47F9-BB48-8A8AD794B777}",
+        "objectid": 1311145,
+        "globalid": "{956AE1F9-5099-445A-9D54-6139A14704E7}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1773322020000,
+        "sighttime": 1773452520000,
         "species": "Estuarine",
-        "sightingid": "120326COO2",
+        "sightingid": "140326MKY1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Remote Operations",
-        "lga": "Cook Shire",
-        "created_date": 1773322343000,
-        "last_edited_date": 1773353171000,
+        "managementunit": "Mackay Operations",
+        "lga": "Mackay Regional",
+        "created_date": 1773452914000,
+        "last_edited_date": 1773454853000,
         "closeddate": null
       }
     }
