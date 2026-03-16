@@ -3,28 +3,28 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1311945,
+      "id": 1312345,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.92602000009833,
-          -17.349139999809534
+          141.89413999955562,
+          -12.597599999655806
         ]
       },
       "properties": {
-        "objectid": 1311945,
-        "globalid": "{2E8713C6-294C-4FB6-B849-0DB9F691164E}",
+        "objectid": 1312345,
+        "globalid": "{71E304AC-26BB-4FCF-85A2-23AEFC9D9487}",
         "what_was_observed": "Crocodile",
-        "sighting": "Somebody else",
-        "sighttime": 1773536400000,
-        "species": "Estuarine",
-        "sightingid": "150326CNS1",
+        "sighting": "I did",
+        "sighttime": 1773629280000,
+        "species": "Unsure",
+        "sightingid": "160326COO1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Cairns Operations",
-        "lga": "Cairns Regional",
-        "created_date": 1773546308000,
-        "last_edited_date": 1773546605000,
+        "managementunit": "Remote Operations",
+        "lga": "Cook Shire",
+        "created_date": 1773629625000,
+        "last_edited_date": 1773631949000,
         "closeddate": null
       }
     }
