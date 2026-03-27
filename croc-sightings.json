@@ -3,28 +3,55 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1325146,
+      "id": 1326745,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          148.68712784572077,
-          -20.632523071929203
+          146.72836584864217,
+          -19.327506877288318
         ]
       },
       "properties": {
-        "objectid": 1325146,
-        "globalid": "{CA23DABD-DCC9-4B3E-B62D-C19E0BEEB0FB}",
+        "objectid": 1326745,
+        "globalid": "{46DB2501-0CFF-4B4F-8773-1F1CD3B75BFA}",
         "what_was_observed": "Crocodile",
-        "sighting": "Somebody else",
-        "sighttime": 1774499400000,
-        "species": "Estuarine",
-        "sightingid": "260326MKY1",
+        "sighting": "I did",
+        "sighttime": 1774568640000,
+        "species": "Freshwater",
+        "sightingid": "270326TSV2",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Mackay Operations",
-        "lga": "Mackay Regional",
-        "created_date": 1774502509000,
-        "last_edited_date": 1774503224000,
+        "managementunit": "Townsville Operations",
+        "lga": "Townsville City",
+        "created_date": 1774572167000,
+        "last_edited_date": 1774585548000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1326345,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.73282935271013,
+          -19.360057537001747
+        ]
+      },
+      "properties": {
+        "objectid": 1326345,
+        "globalid": "{8188349B-8B25-4C3D-9875-4F418C2C50E0}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1774556100000,
+        "species": "Unsure",
+        "sightingid": "270326TSV1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Townsville Operations",
+        "lga": "Townsville City",
+        "created_date": 1774571002000,
+        "last_edited_date": 1774585490000,
         "closeddate": null
       }
     }
