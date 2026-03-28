@@ -3,55 +3,28 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1326745,
+      "id": 1327145,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.72836584864217,
-          -19.327506877288318
+          148.22525461459469,
+          -19.965691520487354
         ]
       },
       "properties": {
-        "objectid": 1326745,
-        "globalid": "{46DB2501-0CFF-4B4F-8773-1F1CD3B75BFA}",
+        "objectid": 1327145,
+        "globalid": "{85E1984A-FB29-4D44-839D-36552DD44198}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1774568640000,
-        "species": "Freshwater",
-        "sightingid": "270326TSV2",
+        "sighttime": 1774632180000,
+        "species": "",
+        "sightingid": "280326WTS1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Townsville Operations",
-        "lga": "Townsville City",
-        "created_date": 1774572167000,
-        "last_edited_date": 1774585548000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1326345,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          146.73282935271013,
-          -19.360057537001747
-        ]
-      },
-      "properties": {
-        "objectid": 1326345,
-        "globalid": "{8188349B-8B25-4C3D-9875-4F418C2C50E0}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1774556100000,
-        "species": "Unsure",
-        "sightingid": "270326TSV1",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Townsville Operations",
-        "lga": "Townsville City",
-        "created_date": 1774571002000,
-        "last_edited_date": 1774585490000,
+        "managementunit": "Mackay Operations",
+        "lga": "Whitsunday Regional",
+        "created_date": 1774632511000,
+        "last_edited_date": 1774656803000,
         "closeddate": null
       }
     }
