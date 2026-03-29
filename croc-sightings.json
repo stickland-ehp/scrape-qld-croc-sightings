@@ -3,28 +3,28 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1327145,
+      "id": 1327545,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          148.22525461459469,
-          -19.965691520487354
+          146.77543000032549,
+          -19.227019999684256
         ]
       },
       "properties": {
-        "objectid": 1327145,
-        "globalid": "{85E1984A-FB29-4D44-839D-36552DD44198}",
+        "objectid": 1327545,
+        "globalid": "{E0E188BC-BD73-4AE5-81B5-B9156F224671}",
         "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1774632180000,
-        "species": "",
-        "sightingid": "280326WTS1",
+        "sighting": "Somebody else",
+        "sighttime": 1774762860000,
+        "species": "Estuarine",
+        "sightingid": "290326TSV1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Mackay Operations",
-        "lga": "Whitsunday Regional",
-        "created_date": 1774632511000,
-        "last_edited_date": 1774656803000,
+        "managementunit": "Townsville Operations",
+        "lga": "Townsville City",
+        "created_date": 1774763080000,
+        "last_edited_date": 1774763964000,
         "closeddate": null
       }
     }
