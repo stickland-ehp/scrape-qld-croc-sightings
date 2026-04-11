@@ -3,55 +3,55 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1341945,
+      "id": 1343145,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.65289000034167,
-          -19.18212999973192
+          146.100301700111,
+          -18.361017300326907
         ]
       },
       "properties": {
-        "objectid": 1341945,
-        "globalid": "{4F23D6DC-9A44-4B71-A9DD-7325A440ECB7}",
+        "objectid": 1343145,
+        "globalid": "{7BD28004-005D-4C3C-BA8E-616B8508AB9A}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1775775060000,
+        "sighttime": 1775861100000,
         "species": "Estuarine",
-        "sightingid": "100426TSV1",
+        "sightingid": "110426CWC1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Townsville Operations",
-        "lga": "Townsville City",
-        "created_date": 1775786066000,
-        "last_edited_date": 1775800108000,
+        "managementunit": "Innisfail Operations",
+        "lga": "Cassowary Coast Regional",
+        "created_date": 1775861336000,
+        "last_edited_date": 1775861584000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 1341545,
+      "id": 1342745,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.08470251179614,
-          -17.800608138977147
+          146.47620459996989,
+          -19.083305299891968
         ]
       },
       "properties": {
-        "objectid": 1341545,
-        "globalid": "{A07521D1-B932-4590-8E94-4FF96464CF0B}",
-        "what_was_observed": "Crocodile,Slide",
-        "sighting": "I did",
-        "sighttime": 1775774520000,
+        "objectid": 1342745,
+        "globalid": "{BB915479-42F1-4695-8305-99318BD214F9}",
+        "what_was_observed": "Crocodile",
+        "sighting": "Somebody else",
+        "sighttime": 1775856480000,
         "species": "Estuarine",
-        "sightingid": "100426CWC1",
+        "sightingid": "110426TSV1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Innisfail Operations",
-        "lga": "Cassowary Coast Regional",
-        "created_date": 1775774702000,
-        "last_edited_date": 1775800136000,
+        "managementunit": "Townsville Operations",
+        "lga": "Townsville City",
+        "created_date": 1775856833000,
+        "last_edited_date": 1775858352000,
         "closeddate": null
       }
     }
