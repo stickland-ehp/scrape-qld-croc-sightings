@@ -3,55 +3,55 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1343145,
+      "id": 1344346,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.100301700111,
-          -18.361017300326907
+          150.75179000022897,
+          -23.302809999662916
         ]
       },
       "properties": {
-        "objectid": 1343145,
-        "globalid": "{7BD28004-005D-4C3C-BA8E-616B8508AB9A}",
+        "objectid": 1344346,
+        "globalid": "{25229E21-D697-49B9-9992-4FD2071ABE9A}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1775861100000,
+        "sighttime": 1775964600000,
         "species": "Estuarine",
-        "sightingid": "110426CWC1",
+        "sightingid": "120426LVG2",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Innisfail Operations",
-        "lga": "Cassowary Coast Regional",
-        "created_date": 1775861336000,
-        "last_edited_date": 1775861584000,
+        "managementunit": "Capricornia Operations",
+        "lga": "Livingstone Shire",
+        "created_date": 1775965765000,
+        "last_edited_date": 1775966056000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 1342745,
+      "id": 1344745,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.47620459996989,
-          -19.083305299891968
+          149.16549081900175,
+          -21.021250678891949
         ]
       },
       "properties": {
-        "objectid": 1342745,
-        "globalid": "{BB915479-42F1-4695-8305-99318BD214F9}",
+        "objectid": 1344745,
+        "globalid": "{CDF17037-DA14-498F-BEA2-0E47AC77BDD4}",
         "what_was_observed": "Crocodile",
-        "sighting": "Somebody else",
-        "sighttime": 1775856480000,
-        "species": "Estuarine",
-        "sightingid": "110426TSV1",
+        "sighting": "I did",
+        "sighttime": 1775948400000,
+        "species": "Unsure",
+        "sightingid": "120426MKY1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Townsville Operations",
-        "lga": "Townsville City",
-        "created_date": 1775856833000,
-        "last_edited_date": 1775858352000,
+        "managementunit": "Mackay Operations",
+        "lga": "Mackay Regional",
+        "created_date": 1775980998000,
+        "last_edited_date": 1775981322000,
         "closeddate": null
       }
     }
