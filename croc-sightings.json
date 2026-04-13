@@ -3,55 +3,55 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1344346,
+      "id": 1345146,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          150.75179000022897,
-          -23.302809999662916
+          146.93720299956996,
+          -19.356548999710412
         ]
       },
       "properties": {
-        "objectid": 1344346,
-        "globalid": "{25229E21-D697-49B9-9992-4FD2071ABE9A}",
+        "objectid": 1345146,
+        "globalid": "{C0A2FF4D-DE5C-46E1-823F-1A8A0A6F4DB5}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1775964600000,
+        "sighttime": 1776044940000,
         "species": "Estuarine",
-        "sightingid": "120426LVG2",
+        "sightingid": "130426TSV2",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Capricornia Operations",
-        "lga": "Livingstone Shire",
-        "created_date": 1775965765000,
-        "last_edited_date": 1775966056000,
+        "managementunit": "Townsville Operations",
+        "lga": "Townsville City",
+        "created_date": 1776046310000,
+        "last_edited_date": 1776046694000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 1344745,
+      "id": 1345145,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          149.16549081900175,
-          -21.021250678891949
+          146.40504000027988,
+          -19.006909999929348
         ]
       },
       "properties": {
-        "objectid": 1344745,
-        "globalid": "{CDF17037-DA14-498F-BEA2-0E47AC77BDD4}",
+        "objectid": 1345145,
+        "globalid": "{848EF050-F80B-464B-94C1-249E2048F0B9}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1775948400000,
-        "species": "Unsure",
-        "sightingid": "120426MKY1",
+        "sighttime": 1776040680000,
+        "species": "Estuarine",
+        "sightingid": "130426TSV1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Mackay Operations",
-        "lga": "Mackay Regional",
-        "created_date": 1775980998000,
-        "last_edited_date": 1775981322000,
+        "managementunit": "Townsville Operations",
+        "lga": "Townsville City",
+        "created_date": 1776041073000,
+        "last_edited_date": 1776041661000,
         "closeddate": null
       }
     }
