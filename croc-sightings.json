@@ -3,55 +3,109 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1345146,
+      "id": 1348345,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.93720299956996,
-          -19.356548999710412
+          146.08809748959658,
+          -17.794592393764045
         ]
       },
       "properties": {
-        "objectid": 1345146,
-        "globalid": "{C0A2FF4D-DE5C-46E1-823F-1A8A0A6F4DB5}",
+        "objectid": 1348345,
+        "globalid": "{9C299FCA-099B-4B39-AE2A-1A5BB0C698F7}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1776044940000,
-        "species": "Estuarine",
-        "sightingid": "130426TSV2",
+        "sighttime": 1776158100000,
+        "species": "Unsure",
+        "sightingid": "140426CWC1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Townsville Operations",
-        "lga": "Townsville City",
-        "created_date": 1776046310000,
-        "last_edited_date": 1776046694000,
+        "managementunit": "Innisfail Operations",
+        "lga": "Cassowary Coast Regional",
+        "created_date": 1776159769000,
+        "last_edited_date": 1776164524000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 1345145,
+      "id": 1347546,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.40504000027988,
-          -19.006909999929348
+          145.68751200018923,
+          -16.782650000249959
         ]
       },
       "properties": {
-        "objectid": 1345145,
-        "globalid": "{848EF050-F80B-464B-94C1-249E2048F0B9}",
+        "objectid": 1347546,
+        "globalid": "{C8F4F956-F813-48A4-847D-E3FF27B8A18A}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1776040680000,
+        "sighttime": 1776148800000,
         "species": "Estuarine",
-        "sightingid": "130426TSV1",
+        "sightingid": "140426CNS3",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Townsville Operations",
-        "lga": "Townsville City",
-        "created_date": 1776041073000,
-        "last_edited_date": 1776041661000,
+        "managementunit": "Cairns Operations",
+        "lga": "Cairns Regional",
+        "created_date": 1776149100000,
+        "last_edited_date": 1776149590000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1347945,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.59019100004252,
+          -20.463672000120635
+        ]
+      },
+      "properties": {
+        "objectid": 1347945,
+        "globalid": "{B641A6D7-4DFD-4D24-BAFA-10889BDF878E}",
+        "what_was_observed": "Crocodile",
+        "sighting": "Somebody else",
+        "sighttime": 1776135600000,
+        "species": "Estuarine",
+        "sightingid": "140426WTS1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Mackay Operations",
+        "lga": "Whitsunday Regional",
+        "created_date": 1776149385000,
+        "last_edited_date": 1776149789000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1346746,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.70562193121421,
+          -16.831273456301158
+        ]
+      },
+      "properties": {
+        "objectid": 1346746,
+        "globalid": "{3BA143AE-8B24-44B8-B8D8-082BF7BACA72}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1776125100000,
+        "species": "Estuarine",
+        "sightingid": "140426CNS1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Cairns Operations",
+        "lga": "Cairns Regional",
+        "created_date": 1776125694000,
+        "last_edited_date": 1776127000000,
         "closeddate": null
       }
     }
