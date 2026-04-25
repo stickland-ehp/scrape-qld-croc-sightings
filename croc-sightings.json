@@ -1,4 +1,86 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1363545,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.16324855116821,
+          -19.453127624473957
+        ]
+      },
+      "properties": {
+        "objectid": 1363545,
+        "globalid": "{AC892E12-CE1B-481E-900F-8CC3C94D0B60}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1777089120000,
+        "species": "Estuarine",
+        "sightingid": "250426BKN1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Townsville Operations",
+        "lga": "Burdekin Shire",
+        "created_date": 1777089423000,
+        "last_edited_date": 1777095563000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1363145,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.73332587941545,
+          -19.3216506202487
+        ]
+      },
+      "properties": {
+        "objectid": 1363145,
+        "globalid": "{BC03C34C-303C-4B40-BC61-9A99015E9567}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1777069500000,
+        "species": "Freshwater",
+        "sightingid": "250426TSV1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Townsville Operations",
+        "lga": "Townsville City",
+        "created_date": 1777069764000,
+        "last_edited_date": 1777082700000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1362745,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.04354979570525,
+          -17.50508494587282
+        ]
+      },
+      "properties": {
+        "objectid": 1362745,
+        "globalid": "{847CD220-239F-4234-87AD-E09304345A76}",
+        "what_was_observed": "Crocodile",
+        "sighting": "Somebody else",
+        "sighttime": 1777062120000,
+        "species": "Unsure",
+        "sightingid": "250426CWC1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Innisfail Operations",
+        "lga": "Cassowary Coast Regional",
+        "created_date": 1777062473000,
+        "last_edited_date": 1777067732000,
+        "closeddate": null
+      }
+    }
+  ]
 }
