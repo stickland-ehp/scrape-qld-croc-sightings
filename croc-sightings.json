@@ -1,4 +1,59 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1369945,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.71442999977202,
+          -19.306679999652122
+        ]
+      },
+      "properties": {
+        "objectid": 1369945,
+        "globalid": "{807B3C82-28A2-483D-96D4-C86D090C96EE}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1777448700000,
+        "species": "Unsure",
+        "sightingid": "290426TSV1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Townsville Operations",
+        "lga": "Townsville City",
+        "created_date": 1777449169000,
+        "last_edited_date": 1777449527000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1369145,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.80213960004758,
+          -27.613482399908559
+        ]
+      },
+      "properties": {
+        "objectid": 1369145,
+        "globalid": "{84939B84-1A2A-489D-813D-ABCC37C7ED93}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1777426740000,
+        "species": "Estuarine",
+        "sightingid": "290426IPS1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "SEQ Operations",
+        "lga": "Ipswich City",
+        "created_date": 1777427053000,
+        "last_edited_date": 1777438486000,
+        "closeddate": null
+      }
+    }
+  ]
 }
