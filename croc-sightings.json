@@ -3,55 +3,28 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1369945,
+      "id": 1370745,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.71442999977202,
-          -19.306679999652122
+          146.08302399980633,
+          -17.949347000229679
         ]
       },
       "properties": {
-        "objectid": 1369945,
-        "globalid": "{807B3C82-28A2-483D-96D4-C86D090C96EE}",
+        "objectid": 1370745,
+        "globalid": "{C4D6427A-23DB-40E0-93B9-2AEDBC60B1A3}",
         "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1777448700000,
-        "species": "Unsure",
-        "sightingid": "290426TSV1",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Townsville Operations",
-        "lga": "Townsville City",
-        "created_date": 1777449169000,
-        "last_edited_date": 1777449527000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1369145,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.80213960004758,
-          -27.613482399908559
-        ]
-      },
-      "properties": {
-        "objectid": 1369145,
-        "globalid": "{84939B84-1A2A-489D-813D-ABCC37C7ED93}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1777426740000,
+        "sighting": "Somebody else",
+        "sighttime": 1777527180000,
         "species": "Estuarine",
-        "sightingid": "290426IPS1",
+        "sightingid": "300426CWC1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "SEQ Operations",
-        "lga": "Ipswich City",
-        "created_date": 1777427053000,
-        "last_edited_date": 1777438486000,
+        "managementunit": "Innisfail Operations",
+        "lga": "Cassowary Coast Regional",
+        "created_date": 1777527487000,
+        "last_edited_date": 1777527857000,
         "closeddate": null
       }
     }
