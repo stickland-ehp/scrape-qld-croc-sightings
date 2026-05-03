@@ -1,32 +1,4 @@
 {
   "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 1371545,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          141.8939999998135,
-          -12.602060000312846
-        ]
-      },
-      "properties": {
-        "objectid": 1371545,
-        "globalid": "{693B85B6-7C0A-42C9-8D67-E8609EFB7B95}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1777669560000,
-        "species": "Estuarine",
-        "sightingid": "020526WPA1",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Remote Operations",
-        "lga": "Weipa Town",
-        "created_date": 1777670102000,
-        "last_edited_date": 1777673619000,
-        "closeddate": null
-      }
-    }
-  ]
+  "features": []
 }
