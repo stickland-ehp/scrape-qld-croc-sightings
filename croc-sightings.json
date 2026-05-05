@@ -3,28 +3,28 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1372745,
+      "id": 1374745,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.10641412835832,
-          -17.725615564888347
+          145.95437241958487,
+          -17.394966320858227
         ]
       },
       "properties": {
-        "objectid": 1372745,
-        "globalid": "{F19FC3C8-2AB6-41D0-8B33-9DE3AD0E77E4}",
+        "objectid": 1374745,
+        "globalid": "{8D207082-4836-4A82-AA3D-5970B382337D}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1777848300000,
-        "species": "Estuarine",
-        "sightingid": "040526CWC1",
+        "sighttime": 1777952400000,
+        "species": "Unsure",
+        "sightingid": "050526CNS2",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Innisfail Operations",
-        "lga": "Cassowary Coast Regional",
-        "created_date": 1777891950000,
-        "last_edited_date": 1777892170000,
+        "managementunit": "Cairns Operations",
+        "lga": "Cairns Regional",
+        "created_date": 1777975912000,
+        "last_edited_date": 1777976223000,
         "closeddate": null
       }
     }
