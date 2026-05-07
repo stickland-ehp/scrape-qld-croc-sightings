@@ -3,28 +3,55 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1375545,
+      "id": 1377545,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.70427969995768,
-          -16.832488999875935
+          146.82742493094142,
+          -19.287107072174578
         ]
       },
       "properties": {
-        "objectid": 1375545,
-        "globalid": "{9388CA71-68ED-40CA-911A-6635A55364DF}",
+        "objectid": 1377545,
+        "globalid": "{1412458A-69BA-408D-90A4-3E6B90C7DE3C}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1778036880000,
-        "species": "Unsure",
-        "sightingid": "060526CNS1",
+        "sighttime": 1778131800000,
+        "species": "Estuarine",
+        "sightingid": "070526TSV2",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Cairns Operations",
-        "lga": "Cairns Regional",
-        "created_date": 1778038553000,
-        "last_edited_date": 1778039032000,
+        "managementunit": "Townsville Operations",
+        "lga": "Townsville City",
+        "created_date": 1778140172000,
+        "last_edited_date": 1778141162000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1377145,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.71893999955947,
+          -13.654040000153262
+        ]
+      },
+      "properties": {
+        "objectid": 1377145,
+        "globalid": "{86FBBF86-9D10-4B71-919E-565CE91B4DF0}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1778103540000,
+        "species": "Estuarine",
+        "sightingid": "070526COO1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Remote Operations",
+        "lga": "Cook Shire",
+        "created_date": 1778139253000,
+        "last_edited_date": 1778141004000,
         "closeddate": null
       }
     }
