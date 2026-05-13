@@ -3,82 +3,55 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1382345,
+      "id": 1384345,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.5216704340049,
-          -16.597525897452542
+          145.52204643015526,
+          -16.597479444850855
         ]
       },
       "properties": {
-        "objectid": 1382345,
-        "globalid": "{084A836B-4BD8-4022-A6DD-58D1C83B6C2C}",
+        "objectid": 1384345,
+        "globalid": "{9413F7D6-2B5E-48E6-B7E2-AAFF2E52608B}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1778575500000,
+        "sighttime": 1778662800000,
         "species": "Estuarine",
-        "sightingid": "120526DUG1",
+        "sightingid": "130526DUG1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
         "managementunit": "Cairns Operations",
         "lga": "Douglas Shire",
-        "created_date": 1778579873000,
-        "last_edited_date": 1778584023000,
+        "created_date": 1778663383000,
+        "last_edited_date": 1778665036000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 1381546,
+      "id": 1383945,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.22361536688629,
-          -15.522606966148395
+          148.64947935963681,
+          -20.421236834137058
         ]
       },
       "properties": {
-        "objectid": 1381546,
-        "globalid": "{20FEC60E-FBD3-45B7-BFA4-7B48F47D64C5}",
+        "objectid": 1383945,
+        "globalid": "{08C5A2D2-2B24-4399-8AF2-99048E70B63A}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1778546700000,
+        "sighttime": 1778653860000,
         "species": "Estuarine",
-        "sightingid": "120526COO2",
+        "sightingid": "130526WTS1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Remote Operations",
-        "lga": "Cook Shire",
-        "created_date": 1778548590000,
-        "last_edited_date": 1778549469000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1381545,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          145.24913918108768,
-          -15.464143814212253
-        ]
-      },
-      "properties": {
-        "objectid": 1381545,
-        "globalid": "{E0BE350E-14A6-42B1-A7FE-544AA607C862}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1778545800000,
-        "species": "Estuarine",
-        "sightingid": "120526COO1",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Remote Operations",
-        "lga": "Cook Shire",
-        "created_date": 1778547864000,
-        "last_edited_date": 1778549023000,
+        "managementunit": "Mackay Operations",
+        "lga": "Whitsunday Regional",
+        "created_date": 1778654083000,
+        "last_edited_date": 1778654611000,
         "closeddate": null
       }
     }
