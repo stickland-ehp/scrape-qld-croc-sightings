@@ -3,28 +3,28 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1392745,
+      "id": 1393545,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.70286884106721,
-          -19.318558575674576
+          146.04109061539418,
+          -17.616971068818966
         ]
       },
       "properties": {
-        "objectid": 1392745,
-        "globalid": "{8DAE8C17-2F14-4126-B605-4A7B331CDD98}",
+        "objectid": 1393545,
+        "globalid": "{AFBACEE6-78E8-4176-89C0-DDEAE3E2614C}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1779499800000,
+        "sighttime": 1779594960000,
         "species": "Estuarine",
-        "sightingid": "230526TSV1",
+        "sightingid": "240526CWC1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Townsville Operations",
-        "lga": "Townsville City",
-        "created_date": 1779504413000,
-        "last_edited_date": 1779505588000,
+        "managementunit": "Innisfail Operations",
+        "lga": "Cassowary Coast Regional",
+        "created_date": 1779595582000,
+        "last_edited_date": 1779608312000,
         "closeddate": null
       }
     }
