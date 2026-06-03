@@ -3,109 +3,28 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1402345,
+      "id": 1403945,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.46636104787561,
-          -16.091105455917102
+          144.31457130030927,
+          -15.106802600225707
         ]
       },
       "properties": {
-        "objectid": 1402345,
-        "globalid": "{6E6AC372-1121-4E08-94B9-A8FFE52541AC}",
+        "objectid": 1403945,
+        "globalid": "{046E1681-7169-404E-8449-DF87E9895C3E}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1780398360000,
-        "species": "Unsure",
-        "sightingid": "020626DUG2",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Cairns Operations",
-        "lga": "Douglas Shire",
-        "created_date": 1780402279000,
-        "last_edited_date": 1780402502000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1401945,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          145.67823000031089,
-          -16.874729999631533
-        ]
-      },
-      "properties": {
-        "objectid": 1401945,
-        "globalid": "{5F7AD7AE-14C5-4648-92C0-35A58127DF53}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1780387800000,
-        "species": "Unsure",
-        "sightingid": "020626CNS1",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Cairns Operations",
-        "lga": "Cairns Regional",
-        "created_date": 1780388449000,
-        "last_edited_date": 1780388683000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1401545,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          142.46272033215465,
-          -10.721072247526156
-        ]
-      },
-      "properties": {
-        "objectid": 1401545,
-        "globalid": "{087F6DCF-97E5-4778-8A71-EC83E1927CD5}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1780383660000,
-        "species": "",
-        "sightingid": "020626TRS1",
+        "sighttime": 1780440600000,
+        "species": "Estuarine",
+        "sightingid": "030626COO2",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
         "managementunit": "Remote Operations",
-        "lga": "Torres Shire",
-        "created_date": 1780383814000,
-        "last_edited_date": 1780384121000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1401145,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          146.38332999978687,
-          -19.049999999844076
-        ]
-      },
-      "properties": {
-        "objectid": 1401145,
-        "globalid": "{CF04681F-DDFF-4916-9560-FF533A5FA028}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1780370700000,
-        "species": "Estuarine",
-        "sightingid": "020626TSV1",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Townsville Operations",
-        "lga": "Townsville City",
-        "created_date": 1780371090000,
-        "last_edited_date": 1780377606000,
+        "lga": "Cook Shire",
+        "created_date": 1780480776000,
+        "last_edited_date": 1780480956000,
         "closeddate": null
       }
     }
