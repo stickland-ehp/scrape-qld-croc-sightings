@@ -3,28 +3,136 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1405945,
+      "id": 1407145,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.74200000012084,
-          -19.315500000289543
+          141.89442075003134,
+          -12.601570284545975
         ]
       },
       "properties": {
-        "objectid": 1405945,
-        "globalid": "{5D88F875-4E14-4D46-B573-9AFDEC547CFB}",
+        "objectid": 1407145,
+        "globalid": "{7E512716-FC7F-4BCC-B4EE-8E722AF91F2A}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1780735020000,
+        "sighttime": 1780834920000,
         "species": "Estuarine",
-        "sightingid": "060626TSV1",
+        "sightingid": "070626WPA2",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Townsville Operations",
-        "lga": "Townsville City",
-        "created_date": 1780735946000,
-        "last_edited_date": 1780744686000,
+        "managementunit": "Remote Operations",
+        "lga": "Weipa Town",
+        "created_date": 1780835148000,
+        "last_edited_date": 1780835458000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1406746,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.89497999980472,
+          -12.602220000262539
+        ]
+      },
+      "properties": {
+        "objectid": 1406746,
+        "globalid": "{89B9C016-56CB-4674-A4CA-F136FFB6AC52}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1780832160000,
+        "species": "Freshwater",
+        "sightingid": "070626WPA1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Remote Operations",
+        "lga": "Weipa Town",
+        "created_date": 1780832396000,
+        "last_edited_date": 1780833004000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1406346,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.46749000021904,
+          -16.511639999728178
+        ]
+      },
+      "properties": {
+        "objectid": 1406346,
+        "globalid": "{D5955C9E-3210-4896-A0AC-ED84F4E806BB}",
+        "what_was_observed": "Crocodile",
+        "sighting": "Somebody else",
+        "sighttime": 1780803360000,
+        "species": "Estuarine",
+        "sightingid": "070626DUG2",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Cairns Operations",
+        "lga": "Douglas Shire",
+        "created_date": 1780804252000,
+        "last_edited_date": 1780815346000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1406745,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.47192534210288,
+          -16.530433571885535
+        ]
+      },
+      "properties": {
+        "objectid": 1406745,
+        "globalid": "{45BEEE8C-FB9B-482C-84D8-3E04AE1D170D}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1780802340000,
+        "species": "Unsure",
+        "sightingid": "070626DUG3",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Cairns Operations",
+        "lga": "Douglas Shire",
+        "created_date": 1780815971000,
+        "last_edited_date": 1780817632000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1406345,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.4664065493414,
+          -16.50073569326624
+        ]
+      },
+      "properties": {
+        "objectid": 1406345,
+        "globalid": "{5A5FCE7D-FCBE-4181-A9A6-32B77440627F}",
+        "what_was_observed": "Crocodile",
+        "sighting": "Somebody else",
+        "sighttime": 1780800000000,
+        "species": "",
+        "sightingid": "070626DUG1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Cairns Operations",
+        "lga": "Douglas Shire",
+        "created_date": 1780800285000,
+        "last_edited_date": 1780801136000,
         "closeddate": null
       }
     }
