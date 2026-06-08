@@ -3,136 +3,82 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1407145,
+      "id": 1407546,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          141.89442075003134,
-          -12.601570284545975
+          146.08467466402232,
+          -17.800559717335492
         ]
       },
       "properties": {
-        "objectid": 1407145,
-        "globalid": "{7E512716-FC7F-4BCC-B4EE-8E722AF91F2A}",
+        "objectid": 1407546,
+        "globalid": "{11C381E4-6682-4D46-9A01-AEFFF06038DB}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1780834920000,
+        "sighttime": 1780886640000,
         "species": "Estuarine",
-        "sightingid": "070626WPA2",
+        "sightingid": "080626CWC1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Remote Operations",
-        "lga": "Weipa Town",
-        "created_date": 1780835148000,
-        "last_edited_date": 1780835458000,
+        "managementunit": "Innisfail Operations",
+        "lga": "Cassowary Coast Regional",
+        "created_date": 1780886785000,
+        "last_edited_date": 1780889271000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 1406746,
+      "id": 1408345,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          141.89497999980472,
-          -12.602220000262539
+          148.52406305472456,
+          -20.405406268020577
         ]
       },
       "properties": {
-        "objectid": 1406746,
-        "globalid": "{89B9C016-56CB-4674-A4CA-F136FFB6AC52}",
+        "objectid": 1408345,
+        "globalid": "{4CD799E2-D957-409E-BCFE-EADF9771EF35}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1780832160000,
-        "species": "Freshwater",
-        "sightingid": "070626WPA1",
+        "sighttime": 1780885200000,
+        "species": "Estuarine",
+        "sightingid": "080626WTS1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Remote Operations",
-        "lga": "Weipa Town",
-        "created_date": 1780832396000,
-        "last_edited_date": 1780833004000,
+        "managementunit": "Mackay Operations",
+        "lga": "Whitsunday Regional",
+        "created_date": 1780890295000,
+        "last_edited_date": 1780899520000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 1406346,
+      "id": 1407945,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.46749000021904,
-          -16.511639999728178
+          150.48633999960975,
+          -23.327459999947298
         ]
       },
       "properties": {
-        "objectid": 1406346,
-        "globalid": "{D5955C9E-3210-4896-A0AC-ED84F4E806BB}",
+        "objectid": 1407945,
+        "globalid": "{AEB6C833-A2C3-4F44-AD1D-8CC160E58A88}",
         "what_was_observed": "Crocodile",
         "sighting": "Somebody else",
-        "sighttime": 1780803360000,
+        "sighttime": 1780882200000,
         "species": "Estuarine",
-        "sightingid": "070626DUG2",
+        "sightingid": "080626ROC1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Cairns Operations",
-        "lga": "Douglas Shire",
-        "created_date": 1780804252000,
-        "last_edited_date": 1780815346000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1406745,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          145.47192534210288,
-          -16.530433571885535
-        ]
-      },
-      "properties": {
-        "objectid": 1406745,
-        "globalid": "{45BEEE8C-FB9B-482C-84D8-3E04AE1D170D}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1780802340000,
-        "species": "Unsure",
-        "sightingid": "070626DUG3",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Cairns Operations",
-        "lga": "Douglas Shire",
-        "created_date": 1780815971000,
-        "last_edited_date": 1780817632000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1406345,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          145.4664065493414,
-          -16.50073569326624
-        ]
-      },
-      "properties": {
-        "objectid": 1406345,
-        "globalid": "{5A5FCE7D-FCBE-4181-A9A6-32B77440627F}",
-        "what_was_observed": "Crocodile",
-        "sighting": "Somebody else",
-        "sighttime": 1780800000000,
-        "species": "",
-        "sightingid": "070626DUG1",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Cairns Operations",
-        "lga": "Douglas Shire",
-        "created_date": 1780800285000,
-        "last_edited_date": 1780801136000,
+        "managementunit": "Capricornia Operations",
+        "lga": "Rockhampton Regional",
+        "created_date": 1780883567000,
+        "last_edited_date": 1780894886000,
         "closeddate": null
       }
     }
