@@ -1,4 +1,32 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1414345,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.50481372927894,
+          -19.612279525043796
+        ]
+      },
+      "properties": {
+        "objectid": 1414345,
+        "globalid": "{7E0337F1-0D3E-4CDC-A2B3-23455459233B}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1781487840000,
+        "species": "Estuarine",
+        "sightingid": "150626BKN1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Townsville Operations",
+        "lga": "Burdekin Shire",
+        "created_date": 1781488892000,
+        "last_edited_date": 1781490903000,
+        "closeddate": null
+      }
+    }
+  ]
 }
