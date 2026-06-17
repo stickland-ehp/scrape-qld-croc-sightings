@@ -1,32 +1,4 @@
 {
   "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 1414745,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          145.47035538702352,
-          -16.530979276758693
-        ]
-      },
-      "properties": {
-        "objectid": 1414745,
-        "globalid": "{A1E3C43C-024F-4BFD-9017-E212DADB8B06}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1781573580000,
-        "species": "Estuarine",
-        "sightingid": "160626DUG1",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Cairns Operations",
-        "lga": "Douglas Shire",
-        "created_date": 1781584972000,
-        "last_edited_date": 1781586108000,
-        "closeddate": null
-      }
-    }
-  ]
+  "features": []
 }
