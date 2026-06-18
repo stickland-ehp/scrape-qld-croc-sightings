@@ -1,4 +1,59 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1415945,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.33545999988405,
+          -15.064649999850165
+        ]
+      },
+      "properties": {
+        "objectid": 1415945,
+        "globalid": "{14B85329-79EC-4622-B713-D78090CA3732}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1781745780000,
+        "species": "Estuarine",
+        "sightingid": "180626COO2",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Remote Operations",
+        "lga": "Cook Shire",
+        "created_date": 1781746080000,
+        "last_edited_date": 1781762490000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1415545,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2216000001396,
+          -15.507959999702887
+        ]
+      },
+      "properties": {
+        "objectid": 1415545,
+        "globalid": "{3F3B7A0F-012F-457C-88E6-7E8C37D06C92}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1781738160000,
+        "species": "Estuarine",
+        "sightingid": "180626COO1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Remote Operations",
+        "lga": "Cook Shire",
+        "created_date": 1781738491000,
+        "last_edited_date": 1781742681000,
+        "closeddate": null
+      }
+    }
+  ]
 }
