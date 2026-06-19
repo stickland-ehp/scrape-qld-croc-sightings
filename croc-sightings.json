@@ -3,55 +3,28 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1415945,
+      "id": 1416746,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          144.33545999988405,
-          -15.064649999850165
+          141.13618999997567,
+          -17.849590000004163
         ]
       },
       "properties": {
-        "objectid": 1415945,
-        "globalid": "{14B85329-79EC-4622-B713-D78090CA3732}",
+        "objectid": 1416746,
+        "globalid": "{3781E875-C98E-4E2F-823B-CEF55EAD890E}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1781745780000,
+        "sighttime": 1781837580000,
         "species": "Estuarine",
-        "sightingid": "180626COO2",
+        "sightingid": "190626CPT1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
         "managementunit": "Remote Operations",
-        "lga": "Cook Shire",
-        "created_date": 1781746080000,
-        "last_edited_date": 1781762490000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1415545,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          145.2216000001396,
-          -15.507959999702887
-        ]
-      },
-      "properties": {
-        "objectid": 1415545,
-        "globalid": "{3F3B7A0F-012F-457C-88E6-7E8C37D06C92}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1781738160000,
-        "species": "Estuarine",
-        "sightingid": "180626COO1",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Remote Operations",
-        "lga": "Cook Shire",
-        "created_date": 1781738491000,
-        "last_edited_date": 1781742681000,
+        "lga": "Carpentaria Shire",
+        "created_date": 1781837934000,
+        "last_edited_date": 1781847154000,
         "closeddate": null
       }
     }
