@@ -1,32 +1,4 @@
 {
   "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 1416746,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          141.13618999997567,
-          -17.849590000004163
-        ]
-      },
-      "properties": {
-        "objectid": 1416746,
-        "globalid": "{3781E875-C98E-4E2F-823B-CEF55EAD890E}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1781837580000,
-        "species": "Estuarine",
-        "sightingid": "190626CPT1",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Remote Operations",
-        "lga": "Carpentaria Shire",
-        "created_date": 1781837934000,
-        "last_edited_date": 1781847154000,
-        "closeddate": null
-      }
-    }
-  ]
+  "features": []
 }
