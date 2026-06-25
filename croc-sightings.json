@@ -3,55 +3,82 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1422345,
+      "id": 1423545,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.92607221467421,
-          -17.349111006958847
+          146.20634208006499,
+          -18.652841605663088
         ]
       },
       "properties": {
-        "objectid": 1422345,
-        "globalid": "{A13E9D48-D303-42D6-8B4A-367F24EFB726}",
+        "objectid": 1423545,
+        "globalid": "{FC29325F-B640-4A4D-BAFA-954F4FC91245}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1782271800000,
+        "sighttime": 1782345600000,
         "species": "Estuarine",
-        "sightingid": "240626CNS2",
+        "sightingid": "250626HCN2",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Cairns Operations",
-        "lga": "Cairns Regional",
-        "created_date": 1782274247000,
-        "last_edited_date": 1782281381000,
+        "managementunit": "Townsville Operations",
+        "lga": "Hinchinbrook Shire",
+        "created_date": 1782346809000,
+        "last_edited_date": 1782368186000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 1421546,
+      "id": 1423145,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          150.46228049771204,
-          -23.33052664416833
+          146.20636530331169,
+          -18.65289507110263
         ]
       },
       "properties": {
-        "objectid": 1421546,
-        "globalid": "{A078535C-3720-4404-BEAF-BBC82B3C6E06}",
+        "objectid": 1423145,
+        "globalid": "{3617E0B5-E919-4CD2-9686-7575585CC9B6}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1782243000000,
+        "sighttime": 1782345600000,
         "species": "Estuarine",
-        "sightingid": "240626LVG1",
+        "sightingid": "250626HCN1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Capricornia Operations",
-        "lga": "Livingstone Shire",
-        "created_date": 1782256969000,
-        "last_edited_date": 1782282971000,
+        "managementunit": "Townsville Operations",
+        "lga": "Hinchinbrook Shire",
+        "created_date": 1782346515000,
+        "last_edited_date": 1782347072000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1423945,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.62777999956751,
+          -19.169619999821062
+        ]
+      },
+      "properties": {
+        "objectid": 1423945,
+        "globalid": "{D22D4341-6C65-4497-BF8E-FDE48CFF270B}",
+        "what_was_observed": "Slide,Tracks",
+        "sighting": "I did",
+        "sighttime": 1782337500000,
+        "species": "Estuarine",
+        "sightingid": "250626TSV1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Townsville Operations",
+        "lga": "Townsville City",
+        "created_date": 1782348576000,
+        "last_edited_date": 1782349110000,
         "closeddate": null
       }
     }
