@@ -1,4 +1,32 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1424745,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.79024839635156,
+          -19.281017024223292
+        ]
+      },
+      "properties": {
+        "objectid": 1424745,
+        "globalid": "{CB5462FD-A2A4-4E02-A230-3B2FEB11F206}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1782617400000,
+        "species": "Freshwater",
+        "sightingid": "280626TSV1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Townsville Operations",
+        "lga": "Townsville City",
+        "created_date": 1782626548000,
+        "last_edited_date": 1782630743000,
+        "closeddate": null
+      }
+    }
+  ]
 }
