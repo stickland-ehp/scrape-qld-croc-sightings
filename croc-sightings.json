@@ -3,109 +3,28 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1433946,
+      "id": 1434745,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.82709000037593,
-          -19.286570000229403
+          145.43185999983245,
+          -17.00302999976995
         ]
       },
       "properties": {
-        "objectid": 1433946,
-        "globalid": "{31547314-722C-4FF5-9540-C71E3BD16E9E}",
+        "objectid": 1434745,
+        "globalid": "{F100E1E2-5C03-46F1-836C-04B79A46E0D4}",
         "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1783317720000,
-        "species": "Estuarine",
-        "sightingid": "060726TSV2",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Townsville Operations",
-        "lga": "Townsville City",
-        "created_date": 1783318206000,
-        "last_edited_date": 1783319375000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1433945,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          146.2018872645024,
-          -18.667262077178485
-        ]
-      },
-      "properties": {
-        "objectid": 1433945,
-        "globalid": "{1C2DD1C6-5B09-4993-809C-5C00BEE92092}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1783310760000,
-        "species": "Freshwater",
-        "sightingid": "060726HCN1",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Townsville Operations",
-        "lga": "Hinchinbrook Shire",
-        "created_date": 1783311348000,
-        "last_edited_date": 1783311730000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1433146,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          146.73297000013756,
-          -19.285809999908331
-        ]
-      },
-      "properties": {
-        "objectid": 1433146,
-        "globalid": "{384A1590-7CA1-44E7-80B9-6FB706BE95D4}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1783305420000,
-        "species": "Estuarine",
-        "sightingid": "060726TSV1",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Townsville Operations",
-        "lga": "Townsville City",
-        "created_date": 1783306669000,
-        "last_edited_date": 1783319096000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1433545,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          145.46693217517372,
-          -16.526035818965731
-        ]
-      },
-      "properties": {
-        "objectid": 1433545,
-        "globalid": "{89713DD9-D6F0-4879-9675-B0F7E9F22E11}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1783293240000,
-        "species": "Estuarine",
-        "sightingid": "060726DUG1",
+        "sighting": "Somebody else",
+        "sighttime": 1783385880000,
+        "species": "Unsure",
+        "sightingid": "070726MAB1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
         "managementunit": "Cairns Operations",
-        "lga": "Douglas Shire",
-        "created_date": 1783297106000,
-        "last_edited_date": 1783301524000,
+        "lga": "Mareeba Shire",
+        "created_date": 1783386193000,
+        "last_edited_date": 1783401600000,
         "closeddate": null
       }
     }
