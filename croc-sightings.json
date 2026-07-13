@@ -3,109 +3,28 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1439545,
+      "id": 1440745,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.73591515644091,
-          -19.317019439281037
+          148.72389233925944,
+          -20.472801233986416
         ]
       },
       "properties": {
-        "objectid": 1439545,
-        "globalid": "{C28625A9-317F-44D1-BE3B-BD3555C3C1C2}",
+        "objectid": 1440745,
+        "globalid": "{1AB44048-F083-4CC4-A2EF-A765B022A85C}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1783819800000,
-        "species": "Freshwater",
-        "sightingid": "120726TSV3",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Townsville Operations",
-        "lga": "Townsville City",
-        "created_date": 1783821695000,
-        "last_edited_date": 1783829374000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1439145,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          146.73577577563807,
-          -19.316951629185112
-        ]
-      },
-      "properties": {
-        "objectid": 1439145,
-        "globalid": "{741B165B-12C9-4EED-B7EF-15B1D3664DE8}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1783819800000,
-        "species": "Freshwater",
-        "sightingid": "120726TSV2",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Townsville Operations",
-        "lga": "Townsville City",
-        "created_date": 1783821529000,
-        "last_edited_date": 1783829303000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1438345,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          149.30199700036962,
-          -21.251301400006028
-        ]
-      },
-      "properties": {
-        "objectid": 1438345,
-        "globalid": "{CAD2673B-79E5-4FED-B931-4C6F724C2044}",
-        "what_was_observed": "Crocodile",
-        "sighting": "Somebody else",
-        "sighttime": 1783813320000,
-        "species": "Unsure",
-        "sightingid": "120726MKY1",
+        "sighttime": 1783872000000,
+        "species": "Estuarine",
+        "sightingid": "130726WTS1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
         "managementunit": "Mackay Operations",
-        "lga": "Mackay Regional",
-        "created_date": 1783813615000,
-        "last_edited_date": 1783814247000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1438745,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          145.46700845471773,
-          -16.526441825682912
-        ]
-      },
-      "properties": {
-        "objectid": 1438745,
-        "globalid": "{3389075A-C392-4E2A-B239-C0C1E639F17D}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1783809840000,
-        "species": "Estuarine",
-        "sightingid": "120726DUG1",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Cairns Operations",
-        "lga": "Douglas Shire",
-        "created_date": 1783819930000,
-        "last_edited_date": 1783829464000,
+        "lga": "Whitsunday Regional",
+        "created_date": 1783895221000,
+        "last_edited_date": 1783897995000,
         "closeddate": null
       }
     }
