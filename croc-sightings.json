@@ -1,32 +1,4 @@
 {
   "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 1440745,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          148.72389233925944,
-          -20.472801233986416
-        ]
-      },
-      "properties": {
-        "objectid": 1440745,
-        "globalid": "{1AB44048-F083-4CC4-A2EF-A765B022A85C}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1783872000000,
-        "species": "Estuarine",
-        "sightingid": "130726WTS1",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Mackay Operations",
-        "lga": "Whitsunday Regional",
-        "created_date": 1783895221000,
-        "last_edited_date": 1783897995000,
-        "closeddate": null
-      }
-    }
-  ]
+  "features": []
 }
