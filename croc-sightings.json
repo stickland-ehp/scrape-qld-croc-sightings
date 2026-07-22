@@ -3,82 +3,55 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1449145,
+      "id": 1450345,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.73643194913902,
-          -19.317497039802511
+          146.70556647737382,
+          -19.262016502271319
         ]
       },
       "properties": {
-        "objectid": 1449145,
-        "globalid": "{AB43337E-3FAB-4209-B137-66AD8F7EBE5E}",
+        "objectid": 1450345,
+        "globalid": "{7B9C17A1-E917-4E54-B763-6C7938790B02}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1784617140000,
-        "species": "Freshwater",
-        "sightingid": "210726TSV1",
+        "sighttime": 1784698560000,
+        "species": "Estuarine",
+        "sightingid": "220726TSV1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
         "managementunit": "Townsville Operations",
         "lga": "Townsville City",
-        "created_date": 1784617544000,
-        "last_edited_date": 1784618252000,
+        "created_date": 1784699663000,
+        "last_edited_date": 1784705481000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 1448345,
+      "id": 1449945,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.47106000037957,
-          -16.529989999900206
+          145.3999400002468,
+          -16.439940000198085
         ]
       },
       "properties": {
-        "objectid": 1448345,
-        "globalid": "{BE4BD510-3DDB-4DBA-BAB6-81DBCBD6968C}",
+        "objectid": 1449945,
+        "globalid": "{D3BE9A8F-42B9-4781-9194-0D56652A157E}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1784598480000,
-        "species": "Freshwater",
-        "sightingid": "210726DUG1",
+        "sighttime": 1784683320000,
+        "species": "Unsure",
+        "sightingid": "220726DUG1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
         "managementunit": "Cairns Operations",
         "lga": "Douglas Shire",
-        "created_date": 1784602992000,
-        "last_edited_date": 1784604087000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1448745,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          146.16967048220815,
-          -18.651674579536248
-        ]
-      },
-      "properties": {
-        "objectid": 1448745,
-        "globalid": "{7F1A5A4A-A801-421B-95F1-416365F9F03F}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1784589360000,
-        "species": "Unsure",
-        "sightingid": "210726HCN1",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Townsville Operations",
-        "lga": "Hinchinbrook Shire",
-        "created_date": 1784604997000,
-        "last_edited_date": 1784605637000,
+        "created_date": 1784683717000,
+        "last_edited_date": 1784684060000,
         "closeddate": null
       }
     }
