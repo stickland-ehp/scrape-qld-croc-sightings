@@ -1,4 +1,59 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1456747,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.66667000037239,
+          -17.517209999768777
+        ]
+      },
+      "properties": {
+        "objectid": 1456747,
+        "globalid": "{FE49E7AE-24A6-4312-BDA1-D628508614F6}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1785209160000,
+        "species": "Freshwater",
+        "sightingid": "280726MAB1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Cairns Operations",
+        "lga": "Mareeba Shire",
+        "created_date": 1785210155000,
+        "last_edited_date": 1785210848000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1456746,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.07643957053676,
+          -14.758980581495949
+        ]
+      },
+      "properties": {
+        "objectid": 1456746,
+        "globalid": "{8C00BE71-DDB4-4A6E-B1B0-2211B354BFCE}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1785184260000,
+        "species": "",
+        "sightingid": "280726COO1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Remote Operations",
+        "lga": "Cook Shire",
+        "created_date": 1785184503000,
+        "last_edited_date": 1785189917000,
+        "closeddate": null
+      }
+    }
+  ]
 }
