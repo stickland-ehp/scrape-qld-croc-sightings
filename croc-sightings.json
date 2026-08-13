@@ -1,32 +1,4 @@
 {
   "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 1467948,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          145.67312910022636,
-          -16.760566500074603
-        ]
-      },
-      "properties": {
-        "objectid": 1467948,
-        "globalid": "{1C03B1CD-931B-4EF0-A8DC-57D6698D5784}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1786513200000,
-        "species": "",
-        "sightingid": "120826CNS1",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Cairns Operations",
-        "lga": "Cairns Regional",
-        "created_date": 1786513700000,
-        "last_edited_date": 1786527793000,
-        "closeddate": null
-      }
-    }
-  ]
+  "features": []
 }
