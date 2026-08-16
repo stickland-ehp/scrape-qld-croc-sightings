@@ -1,4 +1,32 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1469147,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.69726673866711,
+          -20.452231515966748
+        ]
+      },
+      "properties": {
+        "objectid": 1469147,
+        "globalid": "{6E3D2A8A-1A61-47F0-A38C-86489C1D9699}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1786840380000,
+        "species": "",
+        "sightingid": "160826WTS1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Mackay Operations",
+        "lga": "Whitsunday Regional",
+        "created_date": 1786840565000,
+        "last_edited_date": 1786854649000,
+        "closeddate": null
+      }
+    }
+  ]
 }
