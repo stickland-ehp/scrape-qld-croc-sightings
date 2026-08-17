@@ -3,28 +3,55 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1469147,
+      "id": 1469947,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          148.69726673866711,
-          -20.452231515966748
+          145.47138714524647,
+          -16.076836568604133
         ]
       },
       "properties": {
-        "objectid": 1469147,
-        "globalid": "{6E3D2A8A-1A61-47F0-A38C-86489C1D9699}",
+        "objectid": 1469947,
+        "globalid": "{E7AA65E4-B5B2-44FF-94C9-30A9AD3C67BE}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1786840380000,
-        "species": "",
-        "sightingid": "160826WTS1",
+        "sighttime": 1786937100000,
+        "species": "Estuarine",
+        "sightingid": "170826DUG1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Mackay Operations",
-        "lga": "Whitsunday Regional",
-        "created_date": 1786840565000,
-        "last_edited_date": 1786854649000,
+        "managementunit": "Cairns Operations",
+        "lga": "Douglas Shire",
+        "created_date": 1786937624000,
+        "last_edited_date": 1786938030000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1469547,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.23900821583408,
+          -18.409911360463131
+        ]
+      },
+      "properties": {
+        "objectid": 1469547,
+        "globalid": "{56BCA902-7C05-47FE-8A7D-9ECB957E9CE5}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1786933080000,
+        "species": "Estuarine",
+        "sightingid": "170826CWC1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Innisfail Operations",
+        "lga": "Cassowary Coast Regional",
+        "created_date": 1786933323000,
+        "last_edited_date": 1786934426000,
         "closeddate": null
       }
     }
