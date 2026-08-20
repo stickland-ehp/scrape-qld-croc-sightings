@@ -3,28 +3,55 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1471547,
+      "id": 1471947,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          149.1523196223896,
-          -21.029910346211498
+          145.85363928812609,
+          -17.449493584082941
         ]
       },
       "properties": {
-        "objectid": 1471547,
-        "globalid": "{9E9FC308-306B-4843-BD91-DDB66A61F75D}",
+        "objectid": 1471947,
+        "globalid": "{02B3872F-8335-4535-9DC1-F819D4EE3B04}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1787115060000,
+        "sighttime": 1787185800000,
         "species": "Estuarine",
-        "sightingid": "190826MKY1",
+        "sightingid": "200826CNS1",
+        "publicstatus": "No Further Action",
+        "publicinfo": "",
+        "managementunit": "Cairns Operations",
+        "lga": "Cairns Regional",
+        "created_date": 1787197514000,
+        "last_edited_date": 1787198100000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1472347,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.0484899997619,
+          -17.527510000243865
+        ]
+      },
+      "properties": {
+        "objectid": 1472347,
+        "globalid": "{00B71159-2A6E-4820-82C1-26DE532B50E0}",
+        "what_was_observed": "Crocodile",
+        "sighting": "Somebody else",
+        "sighttime": 1787173860000,
+        "species": "Estuarine",
+        "sightingid": "200826CWC1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Mackay Operations",
-        "lga": "Mackay Regional",
-        "created_date": 1787122672000,
-        "last_edited_date": 1787122893000,
+        "managementunit": "Innisfail Operations",
+        "lga": "Cassowary Coast Regional",
+        "created_date": 1787210479000,
+        "last_edited_date": 1787216375000,
         "closeddate": null
       }
     }
