@@ -1,4 +1,32 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1481147,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.58903000018051,
+          -18.710990000249243
+        ]
+      },
+      "properties": {
+        "objectid": 1481147,
+        "globalid": "{C6AE230A-6867-46D6-A846-1FDDA1AA30C0}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1788399780000,
+        "species": "Estuarine",
+        "sightingid": "030926PIA1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Townsville Operations",
+        "lga": "Palm Island Aboriginal Shire",
+        "created_date": 1788400673000,
+        "last_edited_date": 1788405866000,
+        "closeddate": null
+      }
+    }
+  ]
 }
