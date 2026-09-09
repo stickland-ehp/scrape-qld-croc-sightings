@@ -3,55 +3,28 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1485548,
+      "id": 1485948,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          148.61467999995239,
-          -20.563320000299143
+          146.71518232534771,
+          -19.306613031368894
         ]
       },
       "properties": {
-        "objectid": 1485548,
-        "globalid": "{14D54179-A1FE-41D8-9B73-511F25FF60F7}",
+        "objectid": 1485948,
+        "globalid": "{E4279894-3BA1-46D0-A5D0-A18D3D78D869}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1788841800000,
-        "species": "Unsure",
-        "sightingid": "080926WTS1",
+        "sighttime": 1788907800000,
+        "species": "Freshwater",
+        "sightingid": "090926TSV1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Mackay Operations",
-        "lga": "Whitsunday Regional",
-        "created_date": 1788842134000,
-        "last_edited_date": 1788844740000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1485547,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          146.09697721041596,
-          -17.908704624286113
-        ]
-      },
-      "properties": {
-        "objectid": 1485547,
-        "globalid": "{21240B22-D250-44DB-A333-05DB046AC600}",
-        "what_was_observed": "Crocodile",
-        "sighting": "Somebody else",
-        "sighttime": 1788824940000,
-        "species": "Estuarine",
-        "sightingid": "080926CWC1",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Innisfail Operations",
-        "lga": "Cassowary Coast Regional",
-        "created_date": 1788825781000,
-        "last_edited_date": 1788829135000,
+        "managementunit": "Townsville Operations",
+        "lga": "Townsville City",
+        "created_date": 1788909666000,
+        "last_edited_date": 1788917530000,
         "closeddate": null
       }
     }
