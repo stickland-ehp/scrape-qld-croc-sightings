@@ -1,4 +1,59 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1487947,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.4806445043366,
+          -16.553829601894389
+        ]
+      },
+      "properties": {
+        "objectid": 1487947,
+        "globalid": "{54FA2DDD-80B2-4A2E-81C2-0318DD2C10AE}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1789111620000,
+        "species": "Estuarine",
+        "sightingid": "110926DUG1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Cairns Operations",
+        "lga": "Douglas Shire",
+        "created_date": 1789112270000,
+        "last_edited_date": 1789114279000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1487147,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.59216000012495,
+          -18.697620000258336
+        ]
+      },
+      "properties": {
+        "objectid": 1487147,
+        "globalid": "{12FC89E4-C3DE-41A6-AE6B-070D081D5884}",
+        "what_was_observed": "Crocodile",
+        "sighting": "Somebody else",
+        "sighttime": 1789102080000,
+        "species": "Estuarine",
+        "sightingid": "110926PIA1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Townsville Operations",
+        "lga": "Palm Island Aboriginal Shire",
+        "created_date": 1789102325000,
+        "last_edited_date": 1789103803000,
+        "closeddate": null
+      }
+    }
+  ]
 }
