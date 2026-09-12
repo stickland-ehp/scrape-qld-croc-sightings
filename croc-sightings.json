@@ -3,55 +3,82 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1487947,
+      "id": 1488747,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.4806445043366,
-          -16.553829601894389
+          146.81862141780087,
+          -19.284852059387489
         ]
       },
       "properties": {
-        "objectid": 1487947,
-        "globalid": "{54FA2DDD-80B2-4A2E-81C2-0318DD2C10AE}",
+        "objectid": 1488747,
+        "globalid": "{16438FF9-F989-4E90-8B06-E95D8574992B}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1789111620000,
+        "sighttime": 1789198020000,
         "species": "Estuarine",
-        "sightingid": "110926DUG1",
+        "sightingid": "120926TSV1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Cairns Operations",
-        "lga": "Douglas Shire",
-        "created_date": 1789112270000,
-        "last_edited_date": 1789114279000,
+        "managementunit": "Townsville Operations",
+        "lga": "Townsville City",
+        "created_date": 1789209247000,
+        "last_edited_date": 1789209620000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 1487147,
+      "id": 1488748,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.59216000012495,
-          -18.697620000258336
+          145.79265254131636,
+          -16.922285374426899
         ]
       },
       "properties": {
-        "objectid": 1487147,
-        "globalid": "{12FC89E4-C3DE-41A6-AE6B-070D081D5884}",
+        "objectid": 1488748,
+        "globalid": "{E609D64E-9F00-4F01-BE4B-A5AC4B17BD5D}",
         "what_was_observed": "Crocodile",
-        "sighting": "Somebody else",
-        "sighttime": 1789102080000,
+        "sighting": "I did",
+        "sighttime": 1789188300000,
         "species": "Estuarine",
-        "sightingid": "110926PIA1",
+        "sightingid": "120926CNS1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Townsville Operations",
-        "lga": "Palm Island Aboriginal Shire",
-        "created_date": 1789102325000,
-        "last_edited_date": 1789103803000,
+        "managementunit": "Cairns Operations",
+        "lga": "Cairns Regional",
+        "created_date": 1789210160000,
+        "last_edited_date": 1789210399000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1488347,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.29048100009496,
+          -23.936044000231536
+        ]
+      },
+      "properties": {
+        "objectid": 1488347,
+        "globalid": "{5ACA54C7-449D-42CC-B40C-40D2D9A46B9B}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1789185300000,
+        "species": "Estuarine",
+        "sightingid": "120926GLT1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Capricornia Operations",
+        "lga": "Gladstone Regional",
+        "created_date": 1789185867000,
+        "last_edited_date": 1789186591000,
         "closeddate": null
       }
     }
