@@ -1,4 +1,32 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1489947,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.33851999993129,
+          -24.00791999964158
+        ]
+      },
+      "properties": {
+        "objectid": 1489947,
+        "globalid": "{29121948-0541-4FD3-94EB-D0E373E4B144}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1789355400000,
+        "species": "Unsure",
+        "sightingid": "140926GLT1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Capricornia Operations",
+        "lga": "Gladstone Regional",
+        "created_date": 1789373862000,
+        "last_edited_date": 1789374661000,
+        "closeddate": null
+      }
+    }
+  ]
 }
