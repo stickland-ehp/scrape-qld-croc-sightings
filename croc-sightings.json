@@ -3,28 +3,55 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1489947,
+      "id": 1490747,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.33851999993129,
-          -24.00791999964158
+          146.72942432186341,
+          -19.325604536951104
         ]
       },
       "properties": {
-        "objectid": 1489947,
-        "globalid": "{29121948-0541-4FD3-94EB-D0E373E4B144}",
+        "objectid": 1490747,
+        "globalid": "{E99E4A85-2713-41B1-A490-3B63554A42B0}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1789355400000,
+        "sighttime": 1789440000000,
         "species": "Unsure",
-        "sightingid": "140926GLT1",
+        "sightingid": "150926TSV1",
+        "publicstatus": "No Further Action",
+        "publicinfo": "",
+        "managementunit": "Townsville Operations",
+        "lga": "Townsville City",
+        "created_date": 1789440190000,
+        "last_edited_date": 1789452434000,
+        "closeddate": 1789452433000
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1490347,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.46362069332562,
+          -21.9083248818261
+        ]
+      },
+      "properties": {
+        "objectid": 1490347,
+        "globalid": "{83F1B179-65D7-4BCF-9ADD-73F10ED34A6C}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1789432740000,
+        "species": "Estuarine",
+        "sightingid": "150926ISC1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Capricornia Operations",
-        "lga": "Gladstone Regional",
-        "created_date": 1789373862000,
-        "last_edited_date": 1789374661000,
+        "managementunit": "Mackay Operations",
+        "lga": "Isaac Regional",
+        "created_date": 1789437020000,
+        "last_edited_date": 1789437479000,
         "closeddate": null
       }
     }
