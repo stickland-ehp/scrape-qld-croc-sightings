@@ -3,28 +3,55 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1491547,
+      "id": 1492747,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.78350000040896,
-          -19.268650000144387
+          146.74223797731432,
+          -19.31487499167114
         ]
       },
       "properties": {
-        "objectid": 1491547,
-        "globalid": "{A0A88B92-F8BA-499E-BD18-579C34085988}",
+        "objectid": 1492747,
+        "globalid": "{4BD314F2-74CA-48C9-8FA4-4972B02F7C8C}",
         "what_was_observed": "Crocodile",
-        "sighting": "Somebody else",
-        "sighttime": 1789535880000,
+        "sighting": "I did",
+        "sighttime": 1789629480000,
         "species": "Unsure",
-        "sightingid": "160926TSV1",
+        "sightingid": "170926TSV2",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
         "managementunit": "Townsville Operations",
         "lga": "Townsville City",
-        "created_date": 1789536357000,
-        "last_edited_date": 1789537052000,
+        "created_date": 1789629838000,
+        "last_edited_date": 1789630356000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1492348,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.44849000044431,
+          -14.696080000348077
+        ]
+      },
+      "properties": {
+        "objectid": 1492348,
+        "globalid": "{89016BEB-41F7-433D-97F4-64592DD741F6}",
+        "what_was_observed": "Crocodile",
+        "sighting": "Somebody else",
+        "sighttime": 1789617600000,
+        "species": "Estuarine",
+        "sightingid": "170926COO1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Remote Operations",
+        "lga": "Cook Shire",
+        "created_date": 1789621424000,
+        "last_edited_date": 1789625847000,
         "closeddate": null
       }
     }
