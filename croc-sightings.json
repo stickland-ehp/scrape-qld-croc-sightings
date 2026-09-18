@@ -3,55 +3,55 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1492747,
+      "id": 1493947,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.74223797731432,
-          -19.31487499167114
+          147.42650277817884,
+          -19.584561111034866
         ]
       },
       "properties": {
-        "objectid": 1492747,
-        "globalid": "{4BD314F2-74CA-48C9-8FA4-4972B02F7C8C}",
+        "objectid": 1493947,
+        "globalid": "{4234C5E8-782C-4008-B800-24B0515DC3E4}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1789629480000,
-        "species": "Unsure",
-        "sightingid": "170926TSV2",
+        "sighttime": 1789705260000,
+        "species": "Estuarine",
+        "sightingid": "180926BKN1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
         "managementunit": "Townsville Operations",
-        "lga": "Townsville City",
-        "created_date": 1789629838000,
-        "last_edited_date": 1789630356000,
+        "lga": "Burdekin Shire",
+        "created_date": 1789705620000,
+        "last_edited_date": 1789706623000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 1492348,
+      "id": 1494347,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.44849000044431,
-          -14.696080000348077
+          146.1418493748896,
+          -17.934423400420815
         ]
       },
       "properties": {
-        "objectid": 1492348,
-        "globalid": "{89016BEB-41F7-433D-97F4-64592DD741F6}",
+        "objectid": 1494347,
+        "globalid": "{3E63ADDA-FCD0-47EF-9935-FFC78B975BBE}",
         "what_was_observed": "Crocodile",
         "sighting": "Somebody else",
-        "sighttime": 1789617600000,
+        "sighttime": 1789702860000,
         "species": "Estuarine",
-        "sightingid": "170926COO1",
+        "sightingid": "180926CWC1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Remote Operations",
-        "lga": "Cook Shire",
-        "created_date": 1789621424000,
-        "last_edited_date": 1789625847000,
+        "managementunit": "Innisfail Operations",
+        "lga": "Cassowary Coast Regional",
+        "created_date": 1789710230000,
+        "last_edited_date": 1789710796000,
         "closeddate": null
       }
     }
