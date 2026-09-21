@@ -1,4 +1,59 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1496347,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.70577999973037,
+          -19.246249999732953
+        ]
+      },
+      "properties": {
+        "objectid": 1496347,
+        "globalid": "{EEA08B50-3206-49E4-8E2B-74F947E41D33}",
+        "what_was_observed": "Crocodile",
+        "sighting": "Somebody else",
+        "sighttime": 1789967100000,
+        "species": "Unsure",
+        "sightingid": "210926TSV1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Townsville Operations",
+        "lga": "Townsville City",
+        "created_date": 1789967458000,
+        "last_edited_date": 1789967839000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1495947,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.46955006982915,
+          -16.53913218824659
+        ]
+      },
+      "properties": {
+        "objectid": 1495947,
+        "globalid": "{CE589282-0A9F-4F26-9D23-5F53CFD64024}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1789947000000,
+        "species": "Unsure",
+        "sightingid": "210926DUG1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Cairns Operations",
+        "lga": "Douglas Shire",
+        "created_date": 1789953615000,
+        "last_edited_date": 1789959120000,
+        "closeddate": null
+      }
+    }
+  ]
 }
