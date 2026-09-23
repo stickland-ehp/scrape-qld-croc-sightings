@@ -1,32 +1,4 @@
 {
   "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 1497547,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.49513000029185,
-          -23.407879999729214
-        ]
-      },
-      "properties": {
-        "objectid": 1497547,
-        "globalid": "{891ECFA5-9E4E-4B13-B1AD-D95D92CC5D75}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1790067000000,
-        "species": "Unsure",
-        "sightingid": "220926ROC1",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Capricornia Operations",
-        "lga": "Rockhampton Regional",
-        "created_date": 1790068896000,
-        "last_edited_date": 1790069202000,
-        "closeddate": null
-      }
-    }
-  ]
+  "features": []
 }
