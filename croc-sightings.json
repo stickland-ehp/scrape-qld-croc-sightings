@@ -3,82 +3,28 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1503148,
+      "id": 1504347,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          142.15679562070193,
-          -10.16867057689538
+          145.74937916694438,
+          -16.90175167874726
         ]
       },
       "properties": {
-        "objectid": 1503148,
-        "globalid": "{0F56CC47-2879-4F32-8653-51CFE795D3BB}",
+        "objectid": 1504347,
+        "globalid": "{E6FF1AC0-D70D-4241-A871-F0201CF3C681}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1790739000000,
-        "species": "Estuarine",
-        "sightingid": "300926TSI1",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Remote Operations",
-        "lga": "Torres Strait Island Regional",
-        "created_date": 1790742269000,
-        "last_edited_date": 1790747615000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1502748,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          145.46708199979003,
-          -16.525673000120534
-        ]
-      },
-      "properties": {
-        "objectid": 1502748,
-        "globalid": "{835169EE-0CB7-4047-83B9-AC7933C76E31}",
-        "what_was_observed": "Crocodile",
-        "sighting": "Somebody else",
-        "sighttime": 1790737080000,
-        "species": "Estuarine",
-        "sightingid": "300926DUG1",
+        "sighttime": 1790828940000,
+        "species": "Unsure",
+        "sightingid": "011026CNS1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
         "managementunit": "Cairns Operations",
-        "lga": "Douglas Shire",
-        "created_date": 1790737355000,
-        "last_edited_date": 1790746734000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1503947,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          149.14412999994792,
-          -21.000369999617231
-        ]
-      },
-      "properties": {
-        "objectid": 1503947,
-        "globalid": "{BE9B32F7-EC2D-4B6F-A3B1-E1B872A568A1}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1790730000000,
-        "species": "Estuarine",
-        "sightingid": "300926MKY1",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Mackay Operations",
-        "lga": "Mackay Regional",
-        "created_date": 1790730616000,
-        "last_edited_date": 1790737584000,
+        "lga": "Cairns Regional",
+        "created_date": 1790831094000,
+        "last_edited_date": 1790833033000,
         "closeddate": null
       }
     }
