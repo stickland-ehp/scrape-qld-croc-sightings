@@ -3,28 +3,28 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1504347,
+      "id": 1505547,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.74937916694438,
-          -16.90175167874726
+          150.44620009806911,
+          -23.327462533991024
         ]
       },
       "properties": {
-        "objectid": 1504347,
-        "globalid": "{E6FF1AC0-D70D-4241-A871-F0201CF3C681}",
+        "objectid": 1505547,
+        "globalid": "{B4921CF2-A002-49E0-BDF9-05D829F93C6A}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1790828940000,
-        "species": "Unsure",
-        "sightingid": "011026CNS1",
+        "sighttime": 1790925900000,
+        "species": "Estuarine",
+        "sightingid": "021026ROC1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Cairns Operations",
-        "lga": "Cairns Regional",
-        "created_date": 1790831094000,
-        "last_edited_date": 1790833033000,
+        "managementunit": "Capricornia Operations",
+        "lga": "Rockhampton Regional",
+        "created_date": 1790929898000,
+        "last_edited_date": 1790930165000,
         "closeddate": null
       }
     }
