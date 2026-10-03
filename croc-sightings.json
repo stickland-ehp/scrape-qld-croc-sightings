@@ -3,28 +3,136 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1505547,
+      "id": 1506747,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          150.44620009806911,
-          -23.327462533991024
+          150.74286999985057,
+          -23.291190000401475
         ]
       },
       "properties": {
-        "objectid": 1505547,
-        "globalid": "{B4921CF2-A002-49E0-BDF9-05D829F93C6A}",
+        "objectid": 1506747,
+        "globalid": "{5D73E298-B15C-476C-A7D3-7F350529032B}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1790925900000,
+        "sighttime": 1791011460000,
         "species": "Estuarine",
-        "sightingid": "021026ROC1",
+        "sightingid": "031026LVG1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
         "managementunit": "Capricornia Operations",
-        "lga": "Rockhampton Regional",
-        "created_date": 1790929898000,
-        "last_edited_date": 1790930165000,
+        "lga": "Livingstone Shire",
+        "created_date": 1791012055000,
+        "last_edited_date": 1791023038000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1507547,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.83716899994741,
+          -19.318520999833872
+        ]
+      },
+      "properties": {
+        "objectid": 1507547,
+        "globalid": "{C83C55BD-AE93-4939-B45E-E29ABBD91ECF}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1791004500000,
+        "species": "Estuarine",
+        "sightingid": "031026TSV3",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Townsville Operations",
+        "lga": "Townsville City",
+        "created_date": 1791023683000,
+        "last_edited_date": 1791024178000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1506347,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.68621000004313,
+          -19.346720000012606
+        ]
+      },
+      "properties": {
+        "objectid": 1506347,
+        "globalid": "{E2AB5957-C452-4AFC-8C44-87BEE551E73F}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1790999640000,
+        "species": "Estuarine",
+        "sightingid": "031026TSV2",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Townsville Operations",
+        "lga": "Townsville City",
+        "created_date": 1790999833000,
+        "last_edited_date": 1791022455000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1505947,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.82989999975496,
+          -19.3129999998011
+        ]
+      },
+      "properties": {
+        "objectid": 1505947,
+        "globalid": "{393FA55A-7A84-42D9-88D4-54D4AD56662A}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1790998020000,
+        "species": "Estuarine",
+        "sightingid": "031026TSV1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Townsville Operations",
+        "lga": "Townsville City",
+        "created_date": 1790998374000,
+        "last_edited_date": 1790999789000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1507147,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.67395536343815,
+          -16.760717375192019
+        ]
+      },
+      "properties": {
+        "objectid": 1507147,
+        "globalid": "{0002CFED-65DC-4B5F-9E27-8D2A2B5CF1EA}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1790994600000,
+        "species": "Estuarine",
+        "sightingid": "031026CNS1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Cairns Operations",
+        "lga": "Cairns Regional",
+        "created_date": 1791016215000,
+        "last_edited_date": 1791022128000,
         "closeddate": null
       }
     }
