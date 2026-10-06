@@ -3,136 +3,28 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1510747,
+      "id": 1512347,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.45450317114089,
-          -16.134013425900893
+          150.46251385037846,
+          -23.332149680678366
         ]
       },
       "properties": {
-        "objectid": 1510747,
-        "globalid": "{A0CC31C7-732E-48FD-8F03-01A27D1D56A0}",
+        "objectid": 1512347,
+        "globalid": "{BB5E600B-5FB6-4890-8A95-09192AC74599}",
         "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1791172500000,
+        "sighting": "Somebody else",
+        "sighttime": 1791234000000,
         "species": "Estuarine",
-        "sightingid": "051026MKY1",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Mackay Operations",
-        "lga": "Mackay Regional",
-        "created_date": 1791172948000,
-        "last_edited_date": 1791174809000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1509549,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.74269999997128,
-          -23.291190000401475
-        ]
-      },
-      "properties": {
-        "objectid": 1509549,
-        "globalid": "{E156A0E8-3976-4309-9669-63DEDA40CEBE}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1791166620000,
-        "species": "Estuarine",
-        "sightingid": "051026LVG1",
+        "sightingid": "061026ROC1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
         "managementunit": "Capricornia Operations",
-        "lga": "Livingstone Shire",
-        "created_date": 1791167138000,
-        "last_edited_date": 1791174386000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1510347,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          145.48184000028297,
-          -16.55330000022229
-        ]
-      },
-      "properties": {
-        "objectid": 1510347,
-        "globalid": "{0AB551F3-3FFE-4EA3-876E-2A321AA200FA}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1791165120000,
-        "species": "Estuarine",
-        "sightingid": "051026DUG2",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Cairns Operations",
-        "lga": "Douglas Shire",
-        "created_date": 1791165459000,
-        "last_edited_date": 1791167145000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1509947,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          146.73185064359797,
-          -19.397601062149267
-        ]
-      },
-      "properties": {
-        "objectid": 1509947,
-        "globalid": "{5FA9CE66-2421-44B3-85DC-F8DDE4EA7574}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1791156600000,
-        "species": "Unsure",
-        "sightingid": "051026TSV1",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Townsville Operations",
-        "lga": "Townsville City",
-        "created_date": 1791164155000,
-        "last_edited_date": 1791165180000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1509548,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          145.46537669105533,
-          -16.099827442197995
-        ]
-      },
-      "properties": {
-        "objectid": 1509548,
-        "globalid": "{0C8171FF-2698-40AD-A9A1-443AD9226163}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1791149400000,
-        "species": "Estuarine",
-        "sightingid": "051026DUG1",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Cairns Operations",
-        "lga": "Douglas Shire",
-        "created_date": 1791157727000,
-        "last_edited_date": 1791160238000,
+        "lga": "Rockhampton Regional",
+        "created_date": 1791263856000,
+        "last_edited_date": 1791265045000,
         "closeddate": null
       }
     }
