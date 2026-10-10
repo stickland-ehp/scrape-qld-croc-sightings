@@ -3,28 +3,136 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1515947,
+      "id": 1517549,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.82808000041291,
-          -19.274279999610599
+          148.84799939995071,
+          -20.331444300359948
         ]
       },
       "properties": {
-        "objectid": 1515947,
-        "globalid": "{F025A64C-2BF6-4FFB-983E-83CA6740FE7F}",
+        "objectid": 1517549,
+        "globalid": "{3E55F8F4-10AF-4B44-8B4B-CC942A04716C}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1791507600000,
+        "sighttime": 1791635400000,
         "species": "Estuarine",
-        "sightingid": "091026TSV1",
+        "sightingid": "101026MKY1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Townsville Operations",
-        "lga": "Townsville City",
-        "created_date": 1791507968000,
-        "last_edited_date": 1791508547000,
+        "managementunit": "Mackay Operations",
+        "lga": "Mackay Regional",
+        "created_date": 1791636746000,
+        "last_edited_date": 1791637650000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1517548,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.84618625026269,
+          -20.328886877936654
+        ]
+      },
+      "properties": {
+        "objectid": 1517548,
+        "globalid": "{F29C8888-F17A-4ACF-9A29-71FBE776E940}",
+        "what_was_observed": "Crocodile",
+        "sighting": "Somebody else",
+        "sighttime": 1791631800000,
+        "species": "Estuarine",
+        "sightingid": "101026WTS1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Mackay Operations",
+        "lga": "Whitsunday Regional",
+        "created_date": 1791633131000,
+        "last_edited_date": 1791633971000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1517547,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.46828000023947,
+          -16.490010000157493
+        ]
+      },
+      "properties": {
+        "objectid": 1517547,
+        "globalid": "{2B4794DC-FB29-4293-8809-76121DBE533F}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1791623400000,
+        "species": "Unsure",
+        "sightingid": "101026DUG1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Cairns Operations",
+        "lga": "Douglas Shire",
+        "created_date": 1791623947000,
+        "last_edited_date": 1791624544000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1516747,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.55124939341741,
+          -17.15300711846637
+        ]
+      },
+      "properties": {
+        "objectid": 1516747,
+        "globalid": "{C3C4D842-002C-4CF5-95CD-7AA2AE701E1F}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1791613200000,
+        "species": "Freshwater",
+        "sightingid": "101026TBL1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Innisfail Operations",
+        "lga": "Tablelands Regional",
+        "created_date": 1791613598000,
+        "last_edited_date": 1791614660000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1517147,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.44397000042974,
+          -14.690020000294741
+        ]
+      },
+      "properties": {
+        "objectid": 1517147,
+        "globalid": "{EF6F522A-11CA-420C-B653-3555A15A5DA0}",
+        "what_was_observed": "Slide,Tracks",
+        "sighting": "I did",
+        "sighttime": 1791612300000,
+        "species": "Unsure",
+        "sightingid": "101026COO1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Remote Operations",
+        "lga": "Cook Shire",
+        "created_date": 1791616153000,
+        "last_edited_date": 1791617256000,
         "closeddate": null
       }
     }
