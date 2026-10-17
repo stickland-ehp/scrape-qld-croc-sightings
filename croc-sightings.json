@@ -3,83 +3,29 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1524347,
+      "id": 1525547,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.48104311826916,
-          -16.554066694743835
+          145.75295999988887,
+          -16.895230000209608
         ]
       },
       "properties": {
-        "objectid": 1524347,
-        "globalid": "{7DC687BF-00B7-4197-BF6C-EF380944BB4A}",
+        "objectid": 1525547,
+        "globalid": "{3C9BD1B8-7A94-46F6-A5A3-BCB9011CC5C1}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1792133940000,
+        "sighttime": 1792212300000,
         "species": "Estuarine",
-        "sightingid": "161026DUG2",
+        "sightingid": "171026CNS1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
         "managementunit": "Cairns Operations",
-        "lga": "Douglas Shire",
-        "created_date": 1792144920000,
-        "last_edited_date": 1792145713000,
+        "lga": "Cairns Regional",
+        "created_date": 1792213550000,
+        "last_edited_date": 1792217182000,
         "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1523548,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          145.4622216865049,
-          -14.679417669969162
-        ]
-      },
-      "properties": {
-        "objectid": 1523548,
-        "globalid": "{7C7B79A9-9DA6-4C85-A492-8817446C7E18}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1792112400000,
-        "species": "Unsure",
-        "sightingid": "161026COO1",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Remote Operations",
-        "lga": "Cook Shire",
-        "created_date": 1792122475000,
-        "last_edited_date": 1792128695000,
-        "closeddate": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1523147,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          145.41402529733915,
-          -16.354245984260743
-        ]
-      },
-      "properties": {
-        "objectid": 1523147,
-        "globalid": "{3A21BE71-ADF3-4152-9D2D-74781B372344}",
-        "what_was_observed": "Crocodile",
-        "sighting": "Somebody else",
-        "sighttime": 1792111380000,
-        "species": "Unsure",
-        "sightingid": "161026DUG1",
-        "publicstatus": "No Further Action",
-        "publicinfo": "",
-        "managementunit": "Cairns Operations",
-        "lga": "Douglas Shire",
-        "created_date": 1792111718000,
-        "last_edited_date": 1792125674000,
-        "closeddate": 1792125670000
       }
     }
   ]
