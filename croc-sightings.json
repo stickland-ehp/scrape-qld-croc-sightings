@@ -3,28 +3,55 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1525547,
+      "id": 1526347,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.75295999988887,
-          -16.895230000209608
+          148.98516999955714,
+          -21.008180000214249
         ]
       },
       "properties": {
-        "objectid": 1525547,
-        "globalid": "{3C9BD1B8-7A94-46F6-A5A3-BCB9011CC5C1}",
+        "objectid": 1526347,
+        "globalid": "{70D72637-F542-4E9A-9A1E-4BA9F5A9033C}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1792212300000,
+        "sighttime": 1792292760000,
         "species": "Estuarine",
-        "sightingid": "171026CNS1",
+        "sightingid": "181026MKY1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Cairns Operations",
-        "lga": "Cairns Regional",
-        "created_date": 1792213550000,
-        "last_edited_date": 1792217182000,
+        "managementunit": "Mackay Operations",
+        "lga": "Mackay Regional",
+        "created_date": 1792293156000,
+        "last_edited_date": 1792297202000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1525947,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.83474000033488,
+          -19.319169999723947
+        ]
+      },
+      "properties": {
+        "objectid": 1525947,
+        "globalid": "{BFEE1F4D-A41B-4BBD-8FB4-DF5D5530BE9A}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1792291140000,
+        "species": "Estuarine",
+        "sightingid": "181026TSV1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Townsville Operations",
+        "lga": "Townsville City",
+        "created_date": 1792291678000,
+        "last_edited_date": 1792296802000,
         "closeddate": null
       }
     }
