@@ -1,32 +1,4 @@
 {
   "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 1526747,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          146.83727120666717,
-          -19.319318707856649
-        ]
-      },
-      "properties": {
-        "objectid": 1526747,
-        "globalid": "{626630CF-E05E-4F10-96E1-3F4A6B27701C}",
-        "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1792367580000,
-        "species": "Estuarine",
-        "sightingid": "191026TSV1",
-        "publicstatus": "Under Investigation",
-        "publicinfo": "",
-        "managementunit": "Townsville Operations",
-        "lga": "Townsville City",
-        "created_date": 1792367730000,
-        "last_edited_date": 1792385267000,
-        "closeddate": null
-      }
-    }
-  ]
+  "features": []
 }
