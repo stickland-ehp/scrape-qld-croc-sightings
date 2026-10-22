@@ -1,4 +1,32 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1530747,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.7518000002747,
+          -23.13885000035717
+        ]
+      },
+      "properties": {
+        "objectid": 1530747,
+        "globalid": "{B0B1F431-B3B8-453E-8E68-7689C4F8AFEE}",
+        "what_was_observed": "Crocodile",
+        "sighting": "Somebody else",
+        "sighttime": 1792645980000,
+        "species": "Unsure",
+        "sightingid": "221026LVG1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Capricornia Operations",
+        "lga": "Livingstone Shire",
+        "created_date": 1792648423000,
+        "last_edited_date": 1792649046000,
+        "closeddate": null
+      }
+    }
+  ]
 }
