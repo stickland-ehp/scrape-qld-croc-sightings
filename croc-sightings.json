@@ -1,4 +1,32 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1535547,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.45374809402549,
+          -14.663447777453802
+        ]
+      },
+      "properties": {
+        "objectid": 1535547,
+        "globalid": "{F782A5CB-3970-4B1E-86B0-AEBA324C9D7F}",
+        "what_was_observed": "Crocodile",
+        "sighting": "Somebody else",
+        "sighttime": 1793055420000,
+        "species": "",
+        "sightingid": "271026COO1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Remote Operations",
+        "lga": "Cook Shire",
+        "created_date": 1793055789000,
+        "last_edited_date": 1793062934000,
+        "closeddate": null
+      }
+    }
+  ]
 }
