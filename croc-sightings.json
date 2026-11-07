@@ -3,55 +3,55 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1546347,
+      "id": 1547147,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.07027999972246,
-          -17.993799999809077
+          150.40399000021011,
+          -23.190770000036068
         ]
       },
       "properties": {
-        "objectid": 1546347,
-        "globalid": "{03B50FA0-9C11-48A5-BD66-1AB8E4551BC7}",
+        "objectid": 1547147,
+        "globalid": "{10416105-53F3-4E8A-AED6-43477DEB0ABB}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1793970480000,
+        "sighttime": 1794051840000,
         "species": "Estuarine",
-        "sightingid": "061126CWC1",
+        "sightingid": "071126LVG1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Innisfail Operations",
-        "lga": "Cassowary Coast Regional",
-        "created_date": 1793970878000,
-        "last_edited_date": 1793971217000,
+        "managementunit": "Capricornia Operations",
+        "lga": "Livingstone Shire",
+        "created_date": 1794052174000,
+        "last_edited_date": 1794057443000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 1545947,
+      "id": 1546747,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.56536999969046,
-          -16.646339999591031
+          141.87713130335598,
+          -12.621828380251054
         ]
       },
       "properties": {
-        "objectid": 1545947,
-        "globalid": "{3AC7AC23-5C72-4582-848C-69A159D624EC}",
-        "what_was_observed": "Crocodile,Slide",
+        "objectid": 1546747,
+        "globalid": "{A5FA08FE-EE18-4FDF-B39E-29CE681AA2A9}",
+        "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1793941980000,
-        "species": "",
-        "sightingid": "061126DUG2",
+        "sighttime": 1794003600000,
+        "species": "Estuarine",
+        "sightingid": "071126WPA1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Cairns Operations",
-        "lga": "Douglas Shire",
-        "created_date": 1793945083000,
-        "last_edited_date": 1793945477000,
+        "managementunit": "Remote Operations",
+        "lga": "Weipa Town",
+        "created_date": 1794004127000,
+        "last_edited_date": 1794006127000,
         "closeddate": null
       }
     }
