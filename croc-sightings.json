@@ -3,55 +3,55 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1549547,
+      "id": 1550747,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          150.50033999986937,
-          -23.354700000227417
+          146.85806365894581,
+          -19.162226229284521
         ]
       },
       "properties": {
-        "objectid": 1549547,
-        "globalid": "{C6D4A75F-A12C-44C7-86F9-2634A836C167}",
+        "objectid": 1550747,
+        "globalid": "{8EFC7C09-A492-4798-9BEE-460E906EF0AC}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1794213540000,
+        "sighttime": 1794295080000,
         "species": "Estuarine",
-        "sightingid": "091126ROC1",
+        "sightingid": "101126TSV2",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Capricornia Operations",
-        "lga": "Rockhampton Regional",
-        "created_date": 1794213767000,
-        "last_edited_date": 1794215541000,
+        "managementunit": "Townsville Operations",
+        "lga": "Townsville City",
+        "created_date": 1794295794000,
+        "last_edited_date": 1794296323000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 1549147,
+      "id": 1550347,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          142.29577999971542,
-          -10.602059999928569
+          146.9286799997499,
+          -19.111529999977087
         ]
       },
       "properties": {
-        "objectid": 1549147,
-        "globalid": "{5B291CC0-AEA2-4C9F-9451-15BA3245FD3F}",
+        "objectid": 1550347,
+        "globalid": "{8D1E666D-29C7-409A-B2A4-CAC6DC0C35FC}",
         "what_was_observed": "Crocodile",
-        "sighting": "Somebody else",
-        "sighttime": 1794192960000,
-        "species": "Estuarine",
-        "sightingid": "091126TRS1",
+        "sighting": "I did",
+        "sighttime": 1794294540000,
+        "species": "Unsure",
+        "sightingid": "101126TSV1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Remote Operations",
-        "lga": "Torres Shire",
-        "created_date": 1794197499000,
-        "last_edited_date": 1794201423000,
+        "managementunit": "Townsville Operations",
+        "lga": "Townsville City",
+        "created_date": 1794295256000,
+        "last_edited_date": 1794296514000,
         "closeddate": null
       }
     }
