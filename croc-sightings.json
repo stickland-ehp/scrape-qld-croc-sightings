@@ -1,4 +1,86 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1552747,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.32991055127567,
+          -16.469846505644934
+        ]
+      },
+      "properties": {
+        "objectid": 1552747,
+        "globalid": "{AD5BFE4C-FDCA-4A7D-A9D5-20B68870AE19}",
+        "what_was_observed": "Crocodile",
+        "sighting": "Somebody else",
+        "sighttime": 1794448020000,
+        "species": "Unsure",
+        "sightingid": "121126DUG1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Cairns Operations",
+        "lga": "Douglas Shire",
+        "created_date": 1794448605000,
+        "last_edited_date": 1794462925000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1553147,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.72319835973676,
+          -13.366195456158398
+        ]
+      },
+      "properties": {
+        "objectid": 1553147,
+        "globalid": "{AF3764B2-3FFE-4885-BEB5-7C739BA07974}",
+        "what_was_observed": "Crocodile",
+        "sighting": "I did",
+        "sighttime": 1794445200000,
+        "species": "Estuarine",
+        "sightingid": "121126ARK2",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Remote Operations",
+        "lga": "Aurukun Shire",
+        "created_date": 1794455231000,
+        "last_edited_date": 1794455696000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1552348,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.22520000025608,
+          -10.230589999660575
+        ]
+      },
+      "properties": {
+        "objectid": 1552348,
+        "globalid": "{22037128-AACB-463C-91DE-54565BA86158}",
+        "what_was_observed": "Tracks",
+        "sighting": "I did",
+        "sighttime": 1794443400000,
+        "species": "Estuarine",
+        "sightingid": "121126TSI2",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Remote Operations",
+        "lga": "Torres Strait Island Regional",
+        "created_date": 1794443568000,
+        "last_edited_date": 1794444610000,
+        "closeddate": null
+      }
+    }
+  ]
 }
