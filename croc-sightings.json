@@ -1,4 +1,59 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1555148,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.92745000035131,
+          -17.940779999615366
+        ]
+      },
+      "properties": {
+        "objectid": 1555148,
+        "globalid": "{61D0045E-4EB6-4769-8C52-D9CA0D25CAE7}",
+        "what_was_observed": "Crocodile,Slide",
+        "sighting": "I did",
+        "sighttime": 1794870000000,
+        "species": "Estuarine",
+        "sightingid": "171126CWC3",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Innisfail Operations",
+        "lga": "Cassowary Coast Regional",
+        "created_date": 1794870503000,
+        "last_edited_date": 1794893482000,
+        "closeddate": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1555947,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.21762999976471,
+          -10.227430000377471
+        ]
+      },
+      "properties": {
+        "objectid": 1555947,
+        "globalid": "{796B144E-5219-4E5B-9B0F-36732608436A}",
+        "what_was_observed": "Tracks",
+        "sighting": "I did",
+        "sighttime": 1794868020000,
+        "species": "Estuarine",
+        "sightingid": "171126TSI1",
+        "publicstatus": "Under Investigation",
+        "publicinfo": "",
+        "managementunit": "Remote Operations",
+        "lga": "Torres Strait Island Regional",
+        "created_date": 1794871817000,
+        "last_edited_date": 1794884156000,
+        "closeddate": null
+      }
+    }
+  ]
 }
