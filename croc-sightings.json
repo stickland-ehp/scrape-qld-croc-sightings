@@ -3,28 +3,28 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1557547,
+      "id": 1557947,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.45109999980673,
-          -14.666799999656394
+          146.71255541250508,
+          -19.248956437344098
         ]
       },
       "properties": {
-        "objectid": 1557547,
-        "globalid": "{179717F8-858A-4615-81F4-D50E80ED8C43}",
+        "objectid": 1557947,
+        "globalid": "{4756D22A-9DB5-4142-B6C9-80B609FD652D}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1795041900000,
+        "sighttime": 1795167960000,
         "species": "Estuarine",
-        "sightingid": "191126COO1",
+        "sightingid": "201126TSV1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Remote Operations",
-        "lga": "Cook Shire",
-        "created_date": 1795044112000,
-        "last_edited_date": 1795049537000,
+        "managementunit": "Townsville Operations",
+        "lga": "Townsville City",
+        "created_date": 1795168969000,
+        "last_edited_date": 1795174395000,
         "closeddate": null
       }
     }
