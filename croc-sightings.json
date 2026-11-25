@@ -3,55 +3,55 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1561948,
+      "id": 1563547,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.10899788164309,
-          -17.867935358907847
+          141.86125000002446,
+          -12.636269999564822
         ]
       },
       "properties": {
-        "objectid": 1561948,
-        "globalid": "{2DF85B66-303F-4B36-B8C1-4C4BA87F6FE9}",
+        "objectid": 1563547,
+        "globalid": "{1121AB87-F0B6-40FD-8276-57E4212DF3D7}",
         "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1795473780000,
-        "species": "Unsure",
-        "sightingid": "241126CWC2",
+        "sighting": "Somebody else",
+        "sighttime": 1795588200000,
+        "species": "Estuarine",
+        "sightingid": "251126WPA1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Innisfail Operations",
-        "lga": "Cassowary Coast Regional",
-        "created_date": 1795474035000,
-        "last_edited_date": 1795474365000,
+        "managementunit": "Remote Operations",
+        "lga": "Weipa Town",
+        "created_date": 1795591547000,
+        "last_edited_date": 1795592843000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 1562347,
+      "id": 1563147,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.10925335712002,
-          -17.867662404360278
+          145.58777999979216,
+          -17.148509999831788
         ]
       },
       "properties": {
-        "objectid": 1562347,
-        "globalid": "{2AA36932-8150-480F-9C7D-C84416A094EB}",
+        "objectid": 1563147,
+        "globalid": "{86BF030E-08D8-4CD1-9D6F-33429396F669}",
         "what_was_observed": "Crocodile",
         "sighting": "I did",
-        "sighttime": 1795472820000,
-        "species": "Estuarine",
-        "sightingid": "241126CWC3",
+        "sighttime": 1795555200000,
+        "species": "Unsure",
+        "sightingid": "251126TBL1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
         "managementunit": "Innisfail Operations",
-        "lga": "Cassowary Coast Regional",
-        "created_date": 1795476171000,
-        "last_edited_date": 1795476599000,
+        "lga": "Tablelands Regional",
+        "created_date": 1795556047000,
+        "last_edited_date": 1795559254000,
         "closeddate": null
       }
     }
