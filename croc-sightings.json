@@ -3,55 +3,55 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1563547,
+      "id": 1565147,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          141.86125000002446,
-          -12.636269999564822
+          145.40558739672261,
+          -16.434116672284198
         ]
       },
       "properties": {
-        "objectid": 1563547,
-        "globalid": "{1121AB87-F0B6-40FD-8276-57E4212DF3D7}",
+        "objectid": 1565147,
+        "globalid": "{ACBD8DED-61B0-47F3-8F09-69BB6A9E8CB8}",
         "what_was_observed": "Crocodile",
-        "sighting": "Somebody else",
-        "sighttime": 1795588200000,
+        "sighting": "I did",
+        "sighttime": 1795669200000,
         "species": "Estuarine",
-        "sightingid": "251126WPA1",
+        "sightingid": "261126DUG1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Remote Operations",
-        "lga": "Weipa Town",
-        "created_date": 1795591547000,
-        "last_edited_date": 1795592843000,
+        "managementunit": "Cairns Operations",
+        "lga": "Douglas Shire",
+        "created_date": 1795671990000,
+        "last_edited_date": 1795672190000,
         "closeddate": null
       }
     },
     {
       "type": "Feature",
-      "id": 1563147,
+      "id": 1564348,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.58777999979216,
-          -17.148509999831788
+          145.4599008188998,
+          -14.682689565799571
         ]
       },
       "properties": {
-        "objectid": 1563147,
-        "globalid": "{86BF030E-08D8-4CD1-9D6F-33429396F669}",
+        "objectid": 1564348,
+        "globalid": "{6C93FD1C-322A-41F0-9F29-DC5B03A05291}",
         "what_was_observed": "Crocodile",
-        "sighting": "I did",
-        "sighttime": 1795555200000,
-        "species": "Unsure",
-        "sightingid": "251126TBL1",
+        "sighting": "Somebody else",
+        "sighttime": 1795664700000,
+        "species": "Estuarine",
+        "sightingid": "261126COO1",
         "publicstatus": "Under Investigation",
         "publicinfo": "",
-        "managementunit": "Innisfail Operations",
-        "lga": "Tablelands Regional",
-        "created_date": 1795556047000,
-        "last_edited_date": 1795559254000,
+        "managementunit": "Remote Operations",
+        "lga": "Cook Shire",
+        "created_date": 1795664926000,
+        "last_edited_date": 1795667176000,
         "closeddate": null
       }
     }
